@@ -6,6 +6,9 @@
 Welcome to mcsi-blog's documentation!
 =====================================
 
+
+this is a test
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
