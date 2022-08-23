@@ -30,6 +30,8 @@ Documentation.addTranslations({
         "Next topic": "Argomento successivo",
         "Other changes": "Altre modifiche",
         "Overview": "Sintesi",
+        "Permalink to this definition": "Link a questa definizione",
+        "Permalink to this headline": "Link a questa intestazione",
         "Please activate JavaScript to enable the search\n    functionality.": "Attiva JavaScript per abilitare la funzione\u23ce\ndi ricerca.",
         "Preparing search...": "Preparo la ricerca...",
         "Previous topic": "Argomento precedente",
@@ -37,7 +39,7 @@ Documentation.addTranslations({
         "Search": "Cerca",
         "Search Page": "Cerca",
         "Search Results": "Risultati della ricerca",
-        "Search finished, found ${resultCount} page(s) matching the search query.": "",
+        "Search finished, found %s page(s) matching the search query.": "Ricerca completata, trovata/e %s pagina/e corrispondenti.",
         "Search within %(docstitle)s": "Cerca in %(docstitle)s",
         "Searching": "Cerca",
         "Searching for multiple words only shows matches that contain\n    all words.": "",
@@ -57,5 +59,5 @@ Documentation.addTranslations({
         "search this documentation": "cerca in questa documentazione",
         "the documentation for": "la documentazione per"
     },
-    "plural_expr": "n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2"
+    "plural_expr": "(n != 1)"
 });
