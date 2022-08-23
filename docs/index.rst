@@ -6,6 +6,8 @@
 Welcome to mcsi-blog's documentation!
 =====================================
 
+This is a test
+
 
 this is a test
 
