@@ -1,0 +1,24 @@
+version: 2
+
+build:
+  os: "ubuntu-20.04"
+  tools:
+    # sphinx-js isn't compatible with python 3.10.
+    # https://github.com/mozilla/sphinx-js/issues/186
+    python: "3.9"
+    nodejs: "16"
+
+python:
+  install:
+    - method: pip
+      path: .
+    - requirements: docs/requirements.txt
+
+sphinx:
+  configuration: docs/conf.py
+  config:
+    html_baseurl: "https://mcsi-library.readthedocs.io/"
+  extra_extensions:
+    - sphinx_sitemap
+
+formats: []

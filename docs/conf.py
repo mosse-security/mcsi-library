@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'mcsi-blog'
-copyright = '2022, mcsi-blog'
-author = 'mcsi-blog'
+project = 'MCSI-LIBRARY'
+copyright = '2022, MCSI-LIBRARY'
+author = 'MCSI-LIBRARY'
 
 
 # -- General configuration ---------------------------------------------------
@@ -29,10 +29,33 @@ author = 'mcsi-blog'
 # ones.
 extensions = [
     "myst_parser",
+    'sphinx_sitemap'
     
 ]
+html_baseurl = "https://mcsi-library.readthedocs.io/"
 
-html_title = "MCSI BLOG"
+html_title = "MCSI LIBRARY"
+
+sitemap_filename = "sitemap-index.xml"
+
+sitemap_locales = [None]
+
+html_extra_path = ["_html"]
+
+myst_enable_extensions = [
+    "amsmath",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

@@ -57,6 +57,8 @@ pyyaml==6.0
     #   sphinx-book-theme
 requests==2.28.1
     # via sphinx
+six==1.16.0
+    # via sphinx-sitemap
 snowballstemmer==2.2.0
     # via sphinx
 soupsieve==2.3.2.post1
@@ -67,7 +69,10 @@ sphinx==4.5.0
     #   myst-parser
     #   pydata-sphinx-theme
     #   sphinx-book-theme
+    #   sphinx-sitemap
 sphinx-book-theme==0.3.3
+    # via -r ./requirements.in
+sphinx-sitemap==2.2.0
     # via -r ./requirements.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx

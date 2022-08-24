@@ -1,10 +1,10 @@
-# MCSI BLOG 
+# MCSI LIBRARY
 
 
 
 ## What the project does
 
-This project creates the MCSI blog page using Sphinx and Read The Docs
+This project creates the MCSI LIBRARY using Sphinx and Read The Docs
 
 ## How to set up the local development environment
 
@@ -70,6 +70,32 @@ The HTML pages are in _build/html.
 **Step-8** Copy and paste the address on your browser.
 
 Now you have run this repository on your localhost.
+
+## How to deploy your project to Read the Docs
+
+
+* Sign up to read the docs: https://readthedocs.org/.
+
+* Click on your username on the upper right hand of the menu.
+
+* Click on import a project.
+
+* Click on the project you want to deploy from the list.
+
+* Leave the settings at default and click on next.
+
+* You can track the build on Builds section on the *Admin* page.
+
+* Once the build is complete, you can view by clicking on the *View Docs* section.
+
+## Enabling single version
+
+* Go to the advanced settings on the admin page.
+
+* Click on single version and save. 
+
+You will see that the `/version/en/` removed from the url by enabling single version.
+
 
 
 
