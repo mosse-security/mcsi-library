@@ -3,7 +3,7 @@ _build
 Thumbs.db
 docs/_build
 .env
-venv
+env
 env8
 
 .vscode

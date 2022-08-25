@@ -16,6 +16,7 @@ charset-normalizer==2.1.1
     # via requests
 docutils==0.17.1
     # via
+    #   -r ./requirements.in
     #   myst-parser
     #   pydata-sphinx-theme
     #   sphinx
