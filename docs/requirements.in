@@ -2,3 +2,5 @@ sphinx
 myst-parser
 sphinx-book-theme
 sphinx-sitemap
+sphinxext-opengraph
+docutils

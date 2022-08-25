@@ -104,7 +104,7 @@ sphinx-autobuild . _build/html
 
 * Click on single version and save. 
 
-You will see that the `/version/en/` removed from the url by enabling single version.
+You will see that the `/version/en/` is removed from the url by enabling single version.
 
 
 

@@ -70,6 +70,7 @@ sphinx==4.5.0
     #   pydata-sphinx-theme
     #   sphinx-book-theme
     #   sphinx-sitemap
+    #   sphinxext-opengraph
 sphinx-book-theme==0.3.3
     # via -r ./requirements.in
 sphinx-sitemap==2.2.0
@@ -86,6 +87,8 @@ sphinxcontrib-qthelp==1.0.3
     # via sphinx
 sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
+sphinxext-opengraph==0.6.3
+    # via -r ./requirements.in
 typing-extensions==4.3.0
     # via myst-parser
 urllib3==1.26.12
