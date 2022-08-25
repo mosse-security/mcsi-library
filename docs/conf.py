@@ -32,7 +32,8 @@ extensions = [
     'myst_parser',
     'sphinx.ext.autodoc',
     'sphinxext.opengraph',
-    'sphinx_sitemap'
+    'sphinx_sitemap',
+    
     
 ]
 html_baseurl = "https://mcsi-library.readthedocs.io/"
@@ -81,6 +82,8 @@ html_theme_options = {
     "use_download_button": False,
     
 }
+
+html_favicon = 'assets/favicon.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

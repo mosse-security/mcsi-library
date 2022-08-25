@@ -7,7 +7,7 @@ env
 env8
 
 .vscode
-
+assets
 
 # ignore all logs
 *.log
