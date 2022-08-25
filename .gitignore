@@ -4,6 +4,10 @@ Thumbs.db
 docs/_build
 .env
 venv
+env8
+
+.vscode
+
 
 # ignore all logs
 *.log
