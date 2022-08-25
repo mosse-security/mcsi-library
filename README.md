@@ -71,6 +71,16 @@ The HTML pages are in _build/html.
 
 Now you have run this repository on your localhost.
 
+## Running the site on Windows
+
+```
+pip install sphinx
+pip install sphinx-autobuild
+cd docs/
+pip install -r requirements.txt
+sphinx-autobuild . _build/html
+```
+
 ## How to deploy your project to Read the Docs
 
 
