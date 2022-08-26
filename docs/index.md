@@ -12,6 +12,9 @@ platform/career-pathways
 platform/cognitive-science
 ```
 
+
+
+
 ```{toctree}
 :maxdepth: 1
 :caption: "Cyber Domains:"
@@ -52,3 +55,5 @@ it-domains/windows-internals
 ways-of-working/charts-and-graphics
 ways-of-working/operational-planning
 ```
+
+

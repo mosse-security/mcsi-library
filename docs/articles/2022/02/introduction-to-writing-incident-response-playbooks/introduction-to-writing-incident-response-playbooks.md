@@ -1,5 +1,4 @@
 :orphan:
-
 (introduction-to-writing-incident-response-playbooks)=
 
 # A short introduction to writing incident response playbooks
@@ -19,11 +18,11 @@ A playbook should be tailored to a specific organization and its systems. At a h
 
 The playbook should be reviewed regularly and updated as needed. It can be used as a training tool to help responders learn how to respond to incidents.
 
-## Why do we need Playbooks?
+### Why do we need Playbooks?
 
 Playbooks are important because they help to standardize the response process. This makes it easier for responders to know what to do and helps to ensure that everyone is following the same process.
 
-## What should be included in a Playbook?
+### What should be included in a Playbook?
 
 *For small organizations, it is possible to have a single playbook. However, for larger organizations, it is more common to have one playbook per incident type. This allows for a more customized response to specific types of incidents.*
 
@@ -53,13 +52,13 @@ There are many different types of incident response playbooks, but most follow a
 
 Let's dive into tips for writing really professional incident response playbooks.
 
-## The pre-incident phase
+### The pre-incident phase
 
 The pre-incident phase is the most important part of writing an incident response playbook. This is where you will lay the groundwork for how you will respond to an incident.
 
 In this phase, you will establish your incident response plan and protocols. You will also create your incident response team, and identify and document your resources.
 
-## The incident response phase
+### The incident response phase
 
 The incident response phase is when you actually respond to an incident. This is where your playbook comes into play.
 
@@ -79,7 +78,7 @@ Many of these sections can be presented in checklist that follows this format:
 4. **Column D:** Date when the action was completed
 5. **Column E**: A comment section for the owner to write any information they thought was important to share with the rest of the team
 
-## The post-incident phase
+### The post-incident phase
 
 The post-incident phase is the final stage of an incident.
 
