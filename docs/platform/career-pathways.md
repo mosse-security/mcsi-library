@@ -1,4 +1,4 @@
-# Career Pathways Main Page
+# Career Pathways
 
 [](becoming_digital_forensics_investigator)
 

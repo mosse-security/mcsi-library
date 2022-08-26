@@ -1,4 +1,7 @@
+:orphan:
+
 (Mosse_part_I)=
+
 # Mossé Cyber Security Institute: Part I
 
 This is the first article in a three-part series where I will discuss how some aspects of the training provided by the Mossé Cyber Security Institute's training are supported by cognitive science and how people learn. I will also provide some tips on obtaining the most from their training and some suggestions which could further support their students.

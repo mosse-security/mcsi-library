@@ -4,36 +4,51 @@ In this blog, you are going to find most up-to-date articles on cyber security i
 
 ```{toctree}
 :maxdepth: 8
-:caption: "Domains:"
+:caption: "MCSI Platform:"
+:hidden:
 
-
-domains/testimonial
-domains/career-pathways
-domains/cognitive-science
-domains/incident-response
-domains/red-teaming
-
+platform/testimonials
+platform/career-pathways
+platform/cognitive-science
 ```
 
 ```{toctree}
-:maxdepth: 8
-:caption: "Articles:"
+:maxdepth: 1
+:caption: "Cyber Domains:"
 :hidden:
 
-articles/2021/11/divya-testimonial/divya-testimonial
-articles/2021/11/nathan-chan-testimonial/nathan-chan-testimonial
-articles/2021/11/bushra-safdar-testimonial/bushra-safdar-testimonial
-articles/2021/11/becoming-a-digital-forensics-investigator/becoming-a-digital-forensics-investigator
-articles/2021/11/duane-testimonial/duane-testimonial
-articles/2021/11/becoming-a-malware-analyst/becoming-a-malware-analyst
-articles/2021/12/becoming-an-incident-responder/becoming-an-incident-responder
-articles/2021/12/becoming-a-threat-hunter/becoming-a-threat-hunter
-articles/2022/01/mosse-cyber-security-institute-part-1/mosse-cyber-security-institute-part-1
-articles/2022/01/mosse-cyber-security-institute-part-2/mosse-cyber-security-institute-part-2
-articles/2022/01/anushka-lal-testimonial/anushka-lal-testimonial
-articles/2022/02/why-do-we-do-incident-response/why-do-we-do-incident-response
-articles/2022/02/introduction-to-writing-incident-response-playbooks/introduction-to-writing-incident-response-playbooks
-articles/2022/02/red-teaming/why-do-we-red-team.md
+cyber-domains/cloud-security
+cyber-domains/cyber-defense
+cyber-domains/devsecops
+cyber-domains/digital-forensics
+cyber-domains/grc
+cyber-domains/incident-response
+cyber-domains/osint
+cyber-domains/penetration-testing
+cyber-domains/red-teaming
+cyber-domains/reverse-engineering
+cyber-domains/secure-coding
+cyber-domains/threat-hunting
+cyber-domains/threat-intelligence
+cyber-domains/vulnerability-research
+```
 
+```{toctree}
+:maxdepth: 1
+:caption: "IT Domains:"
+:hidden:
 
+it-domains/cryptography
+it-domains/linux-internals
+it-domains/programming-and-scripting
+it-domains/windows-internals
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: "Ways of Working:"
+:hidden:
+
+ways-of-working/charts-and-graphics
+ways-of-working/operational-planning
 ```

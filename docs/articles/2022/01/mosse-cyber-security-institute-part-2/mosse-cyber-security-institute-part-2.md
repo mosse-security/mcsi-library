@@ -1,3 +1,5 @@
+:orphan:
+
 (Mosse_part_II)=
 
 # Mossé Cyber Security Institute: Part II

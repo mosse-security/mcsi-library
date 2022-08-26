@@ -1,3 +1,5 @@
+:orphan:
+
 (why-do-we-do-incident-response)=
 
 # Why do we do incident response?

@@ -1,4 +1,4 @@
-# Incident Response Main Page
+# Incident Response
 
 [](why-do-we-do-incident-response)
 

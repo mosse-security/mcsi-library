@@ -1,4 +1,7 @@
+:orphan:
+
 (bushra)=
+
 # Review and Testimonial: Bushra Safdar
 This post is an interview of one of our top students: Bushra Safdar. She began her journey in IT by completing a course in web development. This was the moment that she developed an interest in cyber security too. Bushra wanted to gain practical skills, and that's why she enrolled in MCSI's Remote Internship Programme. She completed the course in November of 2021 and received both a Certificate of Completion and a Letter of Recommendation from Benjamin Mossé. This interview details her entire experience learning with MCSI.
 

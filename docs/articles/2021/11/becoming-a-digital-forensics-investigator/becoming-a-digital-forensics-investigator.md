@@ -1,4 +1,7 @@
+:orphan:
+
 (becoming_digital_forensics_investigator)=
+
 # Becoming a Digital Forensics Investigator
 Let’s consider a scenario. The new *Batman* movie has just come out. You are unable to watch it in the theatres, so you head over to a website that says, “Download this software, you can watch the new *Batman* movie immediately!”. You download the software, only to find out it is fake. Disappointed, you carry on with your work. Soon after, you begin to notice that the mouse cursor moves across the screen, on its own, without you actually using the mouse. This is not expected behavior.
 

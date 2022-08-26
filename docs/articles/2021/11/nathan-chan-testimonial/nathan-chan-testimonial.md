@@ -1,4 +1,7 @@
+:orphan:
+
 (nathan)=
+
 # Review and Testimonial: Nathan Chan
 
 This post is an interview with one of MCSI's top students, Nathan Chan.  Nathan Chan has a knack for digital forensics, incident response, reverse engineering, penetration testing, red teaming, blue teaming, and exploit development. He is well-rounded in cyber security, taking on many hats. On a day-to-day basis, Nathan Chan is a seasoned incident responder. He believes that with the power of Google and reading and understanding books, nothing is impossible in IT.  He is proficient in Windows, Mac, and Linux forensics.

@@ -1,3 +1,5 @@
+:orphan:
+
 (becoming_incident_responder)=
 
 # Becoming an Incident Responder

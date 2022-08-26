@@ -1,4 +1,7 @@
+:orphan:
+
 (duane)=
+
 # Review and Testimonial: Duane Dunston
 Duane Dunston is an Associate Professor at Champlain College in Burlington, Vermont.  He teaches cybersecurity courses and mentors people transitioning into the cybersecurity field or those new to the cybersecurity industry.  He is currently enrolled in the Threat Intelligence Analyst and Threat Hunter certification programs.
 

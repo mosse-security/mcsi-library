@@ -1,4 +1,7 @@
+:orphan:
+
 (why-do-we-red-team)=
+
 # Why do we Red Team?
 
 Red teaming is a process where an organization uses security professionals to attack their systems in order to test their security defenses. It is commonly used in the military and government, as well as in the private sector.

@@ -33,9 +33,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinxext.opengraph',
     'sphinx_sitemap',
-    
-    
 ]
+
 html_baseurl = "https://mcsi-library.readthedocs.io/"
 
 html_title = "MCSI LIBRARY"

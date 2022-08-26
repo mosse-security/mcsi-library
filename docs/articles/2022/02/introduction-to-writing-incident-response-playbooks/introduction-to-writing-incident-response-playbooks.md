@@ -1,4 +1,7 @@
+:orphan:
+
 (introduction-to-writing-incident-response-playbooks)=
+
 # A short introduction to writing incident response playbooks
 
 Incident response playbooks provide a repeatable process for investigating and responding to security incidents. They can help organizations improve their incident response capabilities by providing a framework for managing incidents, documenting best practices, and sharing information with other responders.

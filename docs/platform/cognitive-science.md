@@ -1,4 +1,4 @@
-# Cognitive Science Main Page
+# Cognitive Science
 
 [](Mosse_part_I)
 
