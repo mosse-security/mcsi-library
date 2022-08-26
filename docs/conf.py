@@ -17,10 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'MCSI-LIBRARY'
-copyright = '2022, MCSI-LIBRARY'
-author = 'MCSI-LIBRARY'
-
+project = 'MCSI Library'
+copyright = '2022, Mossé Cyber Security Institute'
 
 # -- General configuration ---------------------------------------------------
 
@@ -28,16 +26,16 @@ author = 'MCSI-LIBRARY'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.duration',
-    'myst_parser',
-    'sphinx.ext.autodoc',
-    'sphinxext.opengraph',
-    'sphinx_sitemap',
+  'sphinx.ext.duration',
+  'myst_parser',
+  'sphinx.ext.autodoc',
+  'sphinxext.opengraph',
+  'sphinx_sitemap',
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
 
-html_title = "MCSI LIBRARY"
+html_title = "MCSI Library"
 
 sitemap_filename = "sitemap-index.xml"
 
@@ -46,18 +44,18 @@ sitemap_locales = [None]
 html_extra_path = ["_html"]
 
 myst_enable_extensions = [
-    "amsmath",
-    "colon_fence",
-    "deflist",
-    "dollarmath",
-    "fieldlist",
-    "html_admonition",
-    "html_image",
-    "replacements",
-    "smartquotes",
-    "strikethrough",
-    "substitution",
-    "tasklist",
+  "amsmath",
+  "colon_fence",
+  "deflist",
+  "dollarmath",
+  "fieldlist",
+  "html_admonition",
+  "html_image",
+  "replacements",
+  "smartquotes",
+  "strikethrough",
+  "substitution",
+  "tasklist",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -68,7 +66,6 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -77,9 +74,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = "sphinx_book_theme"
 
 html_theme_options = {
-   
-    "use_download_button": False,
-    
+  "use_download_button": False,
 }
 
 html_favicon = 'assets/favicon.png'
@@ -87,6 +82,4 @@ html_favicon = 'assets/favicon.png'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-
-
 html_show_sourcelink = False
