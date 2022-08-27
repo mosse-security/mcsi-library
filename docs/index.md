@@ -21,6 +21,7 @@ platform/cognitive-science
 :hidden:
 
 cyber-domains/cloud-security
+cyber-domains/concepts
 cyber-domains/cyber-defense
 cyber-domains/devsecops
 cyber-domains/digital-forensics
