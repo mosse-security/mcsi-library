@@ -1,5 +1,5 @@
 :orphan:
-(introduction-to-the-major-cyber-disciplines)=
+(a-short-introduction-to-the-major-cyber-disciplines)=
 # A Short Introduction to the Major Cyber Disciplines
 
 In today's interconnected world, a strong understanding of cyber security is essential for individuals and businesses alike. There are many cyber disciplines, but some of the most important include vulnerability management, incident response, forensics, security architecture, security engineering, and governance, risk and compliance (GRC). By understanding these key concepts, you can better protect yourself and your organization from online threats.
