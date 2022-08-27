@@ -8,4 +8,3 @@
 
 [](what-is-an-incident-response-toolkit)
 
-[](the-three-a-s-of-security-authentication-authorization-and-accounting)

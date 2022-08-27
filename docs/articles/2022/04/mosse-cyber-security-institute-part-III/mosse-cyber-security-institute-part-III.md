@@ -3,7 +3,7 @@
 
 # Mossé Cyber Security Institute: Part III
 
-In previous articles ([I](https://blog.mosse-institute.com/cognitive-science/2022/01/12/mosse-cyber-security-institute-part-1.html) & [II](https://blog.mosse-institute.com/cognitive-science/2022/01/16/mosse-cyber-security-institute-part-2.html)) I discussed methods of training provided by the Mossé Institute that support learning based on some principles of cognitive science. In this last article in the series, I discuss how experts can benefit from Mossé training and some suggestions to further support their learning.
+In previous articles ([Mossé Cyber Security Institute: Part I](https://blog.mosse-institute.com/cognitive-science/2022/01/12/mosse-cyber-security-institute-part-1.html) & [Mossé Cyber Security Institute: Part II](https://blog.mosse-institute.com/cognitive-science/2022/01/16/mosse-cyber-security-institute-part-2.html)) I discussed methods of training provided by the Mossé Institute that support learning based on some principles of cognitive science. In this last article in the series, I discuss how experts can benefit from Mossé training and some suggestions to further support their learning.
 
 ## Highlights
 

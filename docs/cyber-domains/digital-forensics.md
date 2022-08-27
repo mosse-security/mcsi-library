@@ -9,3 +9,9 @@
 [](timestamp-format-in-windows-linux-mac-os)
 
 [](windows-prefetch-files-may-be-the-answer-to-your-investigation)
+
+[](file-magic-numbers-the-easy-way-to-identify-file-extensions)
+
+[](providing-clarity-in-the-face-of-adversity-digital-forensics-reports)
+
+[](discover-the-truth-with-memory-forensics)
