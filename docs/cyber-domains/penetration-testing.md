@@ -7,3 +7,5 @@
 [](mastering-the-preparation-phase-in-penetration-testing-engagements)
 
 [](reconnaissance-phase-in-penetration-testing-engagements)
+
+[](using-netcat-as-a-reverse-shell)

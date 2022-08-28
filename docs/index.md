@@ -12,14 +12,12 @@ platform/career-pathways
 platform/cognitive-science
 ```
 
-
-
-
 ```{toctree}
 :maxdepth: 1
 :caption: "Cyber Domains:"
 :hidden:
 
+cyber-domains/application-security
 cyber-domains/cloud-security
 cyber-domains/concepts
 cyber-domains/cyber-defense
@@ -27,14 +25,17 @@ cyber-domains/devsecops
 cyber-domains/digital-forensics
 cyber-domains/grc
 cyber-domains/incident-response
+cyber-domains/malware-analysis
 cyber-domains/osint
 cyber-domains/penetration-testing
 cyber-domains/red-teaming
 cyber-domains/reverse-engineering
+cyber-domains/risk-management
 cyber-domains/secure-coding
 cyber-domains/threat-hunting
 cyber-domains/threat-intelligence
 cyber-domains/vulnerability-research
+
 ```
 
 ```{toctree}
@@ -56,5 +57,3 @@ it-domains/windows-internals
 ways-of-working/charts-and-graphics
 ways-of-working/operational-planning
 ```
-
-
