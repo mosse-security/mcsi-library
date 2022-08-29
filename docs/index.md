@@ -17,7 +17,6 @@ platform/cognitive-science
 :caption: "Cyber Domains:"
 :hidden:
 
-cyber-domains/application-security
 cyber-domains/cloud-security
 cyber-domains/concepts
 cyber-domains/cyber-defense
@@ -25,12 +24,10 @@ cyber-domains/devsecops
 cyber-domains/digital-forensics
 cyber-domains/grc
 cyber-domains/incident-response
-cyber-domains/malware-analysis
 cyber-domains/osint
 cyber-domains/penetration-testing
 cyber-domains/red-teaming
 cyber-domains/reverse-engineering
-cyber-domains/risk-management
 cyber-domains/secure-coding
 cyber-domains/threat-hunting
 cyber-domains/threat-intelligence
