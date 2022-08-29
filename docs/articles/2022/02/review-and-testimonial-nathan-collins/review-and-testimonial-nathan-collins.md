@@ -1,5 +1,5 @@
 :orphan:
-(nathan-collins-testimonial)=
+(review-and-testimonial-nathan-collins)=
 # Review and Testimonial: Nathan Collins
 
 Nathan Collins, one of our best students, was interviewed for this piece. Nathan started his profession by obtaining theoretical certificates before moving on to practical training. He joined in MCSI's Remote Internship Program, which assisted him in gaining the skills and competences he needed to secure a career in the field.

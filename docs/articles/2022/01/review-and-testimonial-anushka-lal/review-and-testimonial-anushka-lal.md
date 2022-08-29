@@ -1,6 +1,6 @@
 :orphan:
 
-(anushka)=
+(review-and-testimonial-anushka-lal)=
 
 # Review and Testimonial: Anushka Lal
 This post is an interview of one of our top students: Anushka Lal. Within a year, Anushka completed MCSI's Remote Internship Programm while studying for her Bachelor's Degree in Computer Engineering. 

@@ -2,16 +2,16 @@
 
 Hear what students have to say about our Cybersecurity training and certification programs in these Mosse Cyber Security Institute reviews and testimonials.
 
-[](divya)
+[](review-and-testimonial-divya-lakshmanan)
 
-[](nathan)
+[](review-and-testimonial-nathan-chan)
 
-[](bushra)
+[](review-and-testimonial-bushra-safdar)
 
-[](duane)
+[](review-and-testimonial-duane-dunston)
 
-[](anushka)
+[](review-and-testimonial-anushka-lal)
 
-[](nathan-collins-testimonial)
+[](review-and-testimonial-nathan-collins)
 
 [](review-and-testimonial-samuel-romanov)
