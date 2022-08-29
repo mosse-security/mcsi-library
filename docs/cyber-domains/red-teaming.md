@@ -22,7 +22,6 @@
 
 [](top-reasons-why-red-teamers-should-know-how-to-write-their-own-custom-tools)
 
-
 [](can-red-teaming-exercises-be-automated)
 
 [](how-can-cisos-make-sense-of-cyber-red-team-results)
@@ -30,3 +29,5 @@
 [](designing-threat-emulation-scenarios)
 
 [](introduction-to-red-team-tools-and-techniques)
+
+[](a-simple-introduction-to-red-blue-and-purple-teaming)
