@@ -9,3 +9,7 @@
 [](reconnaissance-phase-in-penetration-testing-engagements)
 
 [](using-netcat-as-a-reverse-shell)
+
+[](a-general-overview-of-penetration-testing-methodologies)
+
+[](keep-your-systems-safe-with-regular-vulnerability-scanning)

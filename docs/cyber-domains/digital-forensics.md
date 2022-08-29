@@ -23,3 +23,11 @@
 [](windows-hibernation-files-in-digital-forensics)
 
 [](importance-of-timelines-in-a-forensic-investigation)
+
+[](get-the-most-out-of-the-windows-registry-in-your-digital-forensic-investigations)
+
+[](windows-volume-shadow-copies-in-digital-forensics)
+
+[](forensic-importance-of-windows-file-management)
+
+[](windows-file-system-journal-in-digital-forensics)

@@ -39,8 +39,10 @@ cyber-domains/vulnerability-research
 :caption: "IT Domains:"
 :hidden:
 
+it-domains/cloud-services
 it-domains/cryptography
 it-domains/linux-internals
+it-domains/networking
 it-domains/programming-and-scripting
 it-domains/windows-internals
 ```
