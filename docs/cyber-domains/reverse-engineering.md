@@ -13,3 +13,5 @@
 [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
 
 [](ransomware-security-against-extortion)
+
+[](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
