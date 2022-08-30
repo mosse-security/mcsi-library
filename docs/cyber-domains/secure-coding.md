@@ -5,3 +5,5 @@
 [](what-are-zero-day-vulnerabilities-and-who-uses-them)
 
 [](ensure-your-software-s-safety-with-security-testing)
+
+[](introduction-to-stride-as-a-threat-modelling-framework)

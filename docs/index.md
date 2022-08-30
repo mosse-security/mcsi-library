@@ -41,6 +41,7 @@ cyber-domains/vulnerability-research
 
 it-domains/cloud-services
 it-domains/cryptography
+it-domains/information-security
 it-domains/linux-internals
 it-domains/networking
 it-domains/programming-and-scripting
