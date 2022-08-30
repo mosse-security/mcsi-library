@@ -17,3 +17,7 @@
 [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
 
 [](fuzzy-hashing-import-hashing-and-section-hashing)
+
+[](introduction-to-behavior-analysis-techniques)
+
+[](windows-internals-processes)

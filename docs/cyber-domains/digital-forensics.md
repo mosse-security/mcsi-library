@@ -1,3 +1,4 @@
+(digital-forensics-main-page)=
 # Digital Forensics
 
 [](performing-digital-forensics-on-a-windows-machine)
@@ -32,4 +33,4 @@
 
 [](windows-file-system-journal-in-digital-forensics)
 
-[](windows-master-file-table-mft-in-digital-forensics)
+[](a-day-in-the-life-of-a-digital-forensic-investigator)
