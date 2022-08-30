@@ -1,6 +1,8 @@
 :orphan:
 (dont-let-a-dos-attack-take-you-down)=
+
 # Don't let a DoS Attack take you Down
+
 A denial of service attack is an attempt to prevent intended users from accessing a system or network resource. Denial of service attacks are frequently used to target a specific person or group, but they can be used against anybody who uses the Internet. A denial of service attack can be carried out in a number of methods, but the most frequent is to flood a targeted system with requests.
 
 ## How does a Denial-of-service attack work?
@@ -12,6 +14,7 @@ By temporarily or indefinitely disrupting the services of a host connected to th
 Denial of service attacks shows themselves in a variety of ways. The most common is when a website or server receives so many requests that it can no longer manage them, causing the site to become unusable or crash completely. Slow performance, weird error messages, an inflow of traffic from a single IP address or source, Unusual volumes of traffic, sudden spikes in traffic, and slow response times are other indicators. The best course of action if you feel you're being attacked is to alert your hosting provider or website administrator right away.
 
 ## How to prevent DoS Attacks:
+
 There is no silver bullet when it comes to preventing DDoS attacks, but there are some steps you can take to lessen the chances of your site being targeted. By taking a proactive stance and following these best practices, you can help protect your site from being taken down by a DDoS attack. Some of the ways to protect yourself are as follows:
 
 **1. Keep Your Software Up-To-Date**
@@ -32,7 +35,7 @@ Ask your security team to create an incident response plan that includes the fol
 
 Better network security is one of the most important elements in preventing denial of service attacks.
 
-*Types of best network security practises are:*
+_Types of best network security practises are:_
 
 - Honeypots, Firewalls, and antivirus screening at the network level.
 - Endpoint security measures.
@@ -63,7 +66,7 @@ Because of this diversity, businesses find it difficult to protect themselves fr
 
 Although you should be watchful against all forms of attacks, knowing which ones are most likely to target your company will help you plan ahead of time.
 
-*The following are the most typical types of DDoS attacks:*
+_The following are the most typical types of DDoS attacks:_
 
 **1. Application-level macro attacks (Misuse of API attacks)**
 
@@ -71,16 +74,13 @@ When repeated over a long period of time, simple requests become complex.
 It's simple for a hacker to develop a bot to attack a website that provides an API (application program interface) for other applications to use.
 API functions are frequently run at maximum speed because they are built into the website's code. These "macro" applications are capable of launching major DDoS attacks, rendering content-generating online services inoperable for their customers.
 
-
 **2. User Datagram Protocol(UDP) flooding**
 
 The purpose of a UDP flooding attack is for the attacker to flood a random UDP port on the victim's computer, causing the host to check the port numerous times and respond with Destination unreachable if no application is detected listening on that port. When the volume of requests exceeds the host's capacity, it is more likely to crash or behave in an unplanned manner, among other frequent DoS indications.
 
-
 **3. Ping of Death**
 
 This is an attack in which a malicious actor pings the host with malicious packets of maximum packet size, the packets are fragmented on their way to the host, and the packet size when reassembled at the host surpasses the maximum packet size accepted by any computer. As the Buffer fills up, enormous packet loss occurs, resulting in a Denial of Service assault.
-
 
 **4. HTTP Flooding**
 
@@ -102,6 +102,6 @@ DoS attacks can be used as a cover for other crimes such as data theft or espion
 
 ## Conclusion
 
-A Denial of Service attack is a sort of cyber attack in which the attacker tries to prevent users from accessing a computer or network resource. This can be accomplished by delivering the victim a storm of requests or malicious data that causes it to crash. Botnets, which are networks of compromised computers that can be controlled by the attacker, are commonly used in DoS assaults. DoS assaults may be very costly to enterprises, costing them a lot of money in lost productivity and reputational harm.
+A Denial of Service attack is a sort of cyber attack in which the attacker tries to prevent users from accessing a computer or network resource. This can be accomplished by delivering the victim a storm of requests or malicious data that causes it to crash. Botnets, which are networks of compromised computers that can be controlled by the attacker, are commonly used in DoS assaults. DoS attacks may be very costly to enterprises, costing them a lot of money in lost productivity and reputational harm.
 
 > **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**

@@ -34,3 +34,7 @@
 [](windows-file-system-journal-in-digital-forensics)
 
 [](a-day-in-the-life-of-a-digital-forensic-investigator)
+
+[](windows-event-logs-in-digital-forensics)
+
+[](windows-scheduled-tasks-in-digital-forensics)

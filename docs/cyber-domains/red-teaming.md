@@ -31,3 +31,5 @@
 [](introduction-to-red-team-tools-and-techniques)
 
 [](a-simple-introduction-to-red-blue-and-purple-teaming)
+
+[](perform-remote-code-execution-with-the-use-of-reverse-shells)
