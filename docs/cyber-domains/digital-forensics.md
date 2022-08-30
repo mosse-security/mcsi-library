@@ -31,3 +31,5 @@
 [](forensic-importance-of-windows-file-management)
 
 [](windows-file-system-journal-in-digital-forensics)
+
+[](windows-master-file-table-mft-in-digital-forensics)

@@ -15,3 +15,7 @@
 [](train-threat-hunters-and-develop-your-threat-hunting-program-with-threat-emulation)
 
 [](threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable)
+
+[](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
+
+[](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
