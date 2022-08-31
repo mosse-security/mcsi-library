@@ -9,7 +9,7 @@ WOW64 is the x86 emulator that allows 32-bit Windows-based applications to run s
 
 In the picture above we covers only main processes.
 
-### What about WoW64?
+## What about WoW64?
 
 Windows `32-bit` on Windows `64-bit`, sometimes known as _WoW64_, is a component of the Windows operating system that allows `32-bit` applications to operate on Windows `64-bit`.
 
@@ -128,7 +128,7 @@ You would be surprised if we say, _"It’s just a process"_!
 
 A service is identical to a process, with the exception that it often runs in the background and the user may not interact with it directly! That is, this is a background process.
 
-### Conclusion
+## Conclusion
 
 Malware authors could make their malware run as a service, so it is also essential to comprehend how it operates and how it is often configured. This topic will be discussed in greater depth in a subsequent post about _"persistence mechanisms."_
 
@@ -136,7 +136,7 @@ Malware authors could make their malware run as a service, so it is also essenti
 
 Yes, all of them are Windows services operating in the background. There is no specific count for them, but they are numerous!
 
-### References
+## References
 
 [WoW64 Implementation Details](https://docs.microsoft.com/en-us/windows/win32/winprog64/wow64-implementation-details?redirectedfrom=MSDN)  
 [Filesystem Redirector](https://docs.microsoft.com/en-us/windows/win32/winprog64/file-system-redirector)
