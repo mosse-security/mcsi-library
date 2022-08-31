@@ -10,6 +10,7 @@ In this blog, you are going to find most up-to-date articles on cyber security i
 platform/testimonials
 platform/career-pathways
 platform/cognitive-science
+platform/fundamental-cybersecurity-concepts
 ```
 
 ```{toctree}

@@ -20,6 +20,7 @@ Red Teaming is a security testing method that simulates a real-world attack on a
 
 * [](introduction-to-red-team-tools-and-techniques)
 * [](perform-remote-code-execution-with-the-use-of-reverse-shells)
+* [](using-netcat-as-a-reverse-shell)
 * [](top-reasons-why-red-teamers-should-know-how-to-write-their-own-custom-tools)
 * [](choosing-a-command-and-control-infrastructure)
 

@@ -1,23 +1,21 @@
 # Reverse Engineering
 
-[](using-netcat-as-a-reverse-shell)
+Reverse engineering is the process of taking something apart and figuring out how it works. In the context of cyber security, reverse engineering can be used to figure out how a piece of malware works, or to find vulnerabilities in a piece of software. Reverse engineering is an important tool for security researchers, as it allows them to better understand how systems work and identify potential weaknesses.
 
-[](reverse-engineer-malware-without-the-risk-of-infection)
+## Concepts
 
-[](reverse-engineering-portable-executables-pe-part-1)
+* [](reverse-engineer-malware-without-the-risk-of-infection)
+* [](don-t-be-fooled-by-malware-in-disguise-identifying-obfuscated-malware)
+* [](windows-internals-processes)
 
-[](reverse-engineering-portable-executables-pe-part-2)
+## Techniques
 
-[](don-t-be-fooled-by-malware-in-disguise-identifying-obfuscated-malware)
+* [](reverse-engineering-portable-executables-pe-part-1)
+* [](reverse-engineering-portable-executables-pe-part-2)
+* [](fuzzy-hashing-import-hashing-and-section-hashing)
+* [](introduction-to-behavior-analysis-techniques)
 
-[](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
+## Tools
 
-[](ransomware-security-against-extortion)
-
-[](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
-
-[](fuzzy-hashing-import-hashing-and-section-hashing)
-
-[](introduction-to-behavior-analysis-techniques)
-
-[](windows-internals-processes)
+* [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
+* [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
