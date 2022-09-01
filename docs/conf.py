@@ -15,6 +15,7 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 
+
 # -- Project information -----------------------------------------------------
 
 project = 'MCSI Library'
@@ -31,6 +32,7 @@ extensions = [
   'sphinx.ext.autodoc',
   'sphinxext.opengraph',
   'sphinx_sitemap',
+  
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
@@ -73,9 +75,14 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 html_theme = "sphinx_book_theme"
 
+html_logo= "assets/logo.svg"
+
 html_theme_options = {
+  "logo_only": True,
+  "home_page_in_toc": True, 
   "use_download_button": False,
-}
+
+  }
 
 html_favicon = 'assets/favicon.png'
 

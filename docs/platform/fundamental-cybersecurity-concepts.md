@@ -1,3 +1,4 @@
+(fundamental-cybersecurity-concepts)=
 # Fundamental Concepts
 
 Cybersecurity is a rapidly evolving field, and students should begin by familiarizing themselves with basic concepts. These include understanding how computer systems work, how they are vulnerable to attack, and what measures can be taken to protect them. With this foundation in place, students can then move on to more specialized areas of study, such as network security or penetration testing. By starting with the basics, students will be better prepared to tackle the more complex topics that they will encounter later on.
