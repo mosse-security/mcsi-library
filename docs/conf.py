@@ -33,6 +33,7 @@ extensions = [
   'sphinxext.opengraph',
   'sphinx_sitemap',
   
+  
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
@@ -58,6 +59,7 @@ myst_enable_extensions = [
   "strikethrough",
   "substitution",
   "tasklist",
+
 ]
 
 # Add any paths that contain templates here, relative to this directory.

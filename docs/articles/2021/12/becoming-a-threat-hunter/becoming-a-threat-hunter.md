@@ -3,10 +3,13 @@
 (becoming_threat_hunter)=
 
 # Becoming a Threat Hunter
+% start-after
 
 A rare diamond is on display at a local museum for few weeks. An efficient security system is in place to ensure the diamond does not get stolen. The system comprises alarms, cameras, and trained staff. In spite of the security system, the staff would always be vigilant for theft attempts on the diamond. This includes studying the behaviour of visitors coming in to see the diamond.
-
+% end-before
 <img src="images/becoming-a-threat-hunter.png" alt="Becoming a Threat Hunter"/>
+
+
 
 ## What is Cyber Threat Hunting?
 

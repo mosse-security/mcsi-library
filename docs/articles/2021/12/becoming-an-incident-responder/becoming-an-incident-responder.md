@@ -3,6 +3,7 @@
 (becoming_incident_responder)=
 
 # Becoming an Incident Responder
+% start-after
 
 Let us assume that a building has caught fire. Firefighters must act at a moment’s notice to extinguish the flames. A building catching fire is an unexpected event. Similar unexpected events occur in the cyber world that affects regular business operations. Any event out of the ordinary qualifies as an incident. 
 
@@ -15,6 +16,7 @@ Some examples of cyber incident scenarios are:
 
 Such incidents must be handled in an organised manner.
 
+% end-before
 <img src="images/becoming-an-incident-responder.png" alt="Becoming a Incident Responder"/>
 
 ## What is Incident Response?

@@ -1,8 +1,10 @@
 :orphan:
 (a-career-in-demand-cybersecurity-business-analyst)=
 # A Career in Demand: Cybersecurity Business Analyst
-A cybersecurity business analyst is a professional who analyzes cybersecurity technology and provides cybersecurity training and other related services. The cybersecurity business analyst will identify business requirements and implement systems and security technologies. They work with senior executives to understand various aspects of cybersecurity needed to provide security solutions for their organizations and clients. The cybersecurity business analyst will also oversee the research, development, and testing of the software solutions. They have a fair understanding of security risks and threats. They need to understand cybersecurity concepts and cybersecurity industry trends. They analyze security-related policies and procedures in collaboration with other cyber analysts.
 
+% start-after
+A cybersecurity business analyst is a professional who analyzes cybersecurity technology and provides cybersecurity training and other related services. The cybersecurity business analyst will identify business requirements and implement systems and security technologies. They work with senior executives to understand various aspects of cybersecurity needed to provide security solutions for their organizations and clients. The cybersecurity business analyst will also oversee the research, development, and testing of the software solutions. They have a fair understanding of security risks and threats. They need to understand cybersecurity concepts and cybersecurity industry trends. They analyze security-related policies and procedures in collaboration with other cyber analysts.
+% end-before
 ##  Roles of a Cybersecurity Business Analyst (CBA)
   
 A CBA's responsibilities include defining and scoping the organization's business areas, eliciting requirements, analyzing and documenting those requirements, and communicating documented requirements to the appropriate stakeholders. They identify the best security solutions and validate those solutions against set requirements.
