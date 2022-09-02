@@ -24,9 +24,9 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 * [](windows-volume-shadow-copies-in-digital-forensics)
 * [](forensic-importance-of-windows-file-management)
 * [](windows-file-system-journal-in-digital-forensics)
-
 * [](windows-event-logs-in-digital-forensics)
 * [](windows-scheduled-tasks-in-digital-forensics)
+* [](windows-shellbags-in-digital-forensics)
 
 ## Techniques
 
@@ -39,5 +39,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 * [](build-your-own-digital-forensics-lab-at-home)
 ## Branches
 
+* [](web-browser-forensics-uncovering-the-hidden-evidence-in-your-browser)
 
+## Career
 * [](a-day-in-the-life-of-a-digital-forensic-investigator)
