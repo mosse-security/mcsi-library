@@ -1,5 +1,6 @@
 :orphan:
 (windows-prefetch-files-may-be-the-answer-to-your-investigation)=
+
 # Windows Prefetch Files May be the Answer to your Investigation
 
 Alice and Bob are going on a hike. As they walk through the woods, they notice that they are leaving behind footprints of their trail. They hope that these footprints will help track their way back when they return from the hike. Did you know that every application executed on a Windows machine leaves behind footprints of its activity? This blog post introduces the concept of Windows Prefetch files, which acts as one of the critical footprints about recent activity on a system.
@@ -12,7 +13,7 @@ If the binary is executed again, the operating system checks if a prefetch file 
 
 ## Where are Prefetch files found?
 
-Prefetch files can be found with the *.pf* extension at *%SYSTEMROOT%\Windows\Prefetch* also referred to as *Prefetch Directory*. In recent versions of Windows, at any moment about 128 prefetch files can exist in this location. These are temporary files and older entries are deleted to make way for new ones.
+Prefetch files can be found with the _.pf_ extension at _%SYSTEMROOT%\Windows\Prefetch_ also referred to as _Prefetch Directory_. In recent versions of Windows, at any moment about 128 prefetch files can exist in this location. These are temporary files and older entries are deleted to make way for new ones.
 
 ## How is a Prefetch file useful for Digital Forensics?
 
@@ -20,7 +21,7 @@ The goal of Digital Forensics is to uncover recent activities on a system. Ident
 
 If there is an entry for a binary in the Prefetch directory, it is an indicator that the binary had been executed on the system. As the binary is under execution, the prefetch file gets updated. The modification file associated with a binary’s prefetch file is indicative of a binary's activity on the system.
 
-Head over to the *Prefetch Directory* on your system! You can find prefetch files of recently executed applications.
+Head over to the _Prefetch Directory_ on your system! You can find prefetch files of recently executed applications.
 
 ## What information can be found in a Prefetch file?
 
@@ -43,20 +44,20 @@ There are many free tools available to extract the information from a prefetch f
 
 ## A final word about Windows Prefetch files
 
-A prefetch file would exist for an executed binary, only if prefetching is enabled on a system. This is controlled by a registry value at *HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters*
+A prefetch file would exist for an executed binary, only if prefetching is enabled on a system. This is controlled by a registry value at _HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters_
 
-If the value of *EnablePrefetcher* key in this location is 1 or 2 or 3, it means prefetching is enabled on a system. Each of the non-zero values is indicative of a specific prefetching configuration. If the value of *EnablePrefetcher* is 0, it means prefetching is disabled on the system. By default, prefetching is enabled on a system.
+If the value of _EnablePrefetcher_ key in this location is 1 or 2 or 3, it means prefetching is enabled on a system. Each of the non-zero values is indicative of a specific prefetching configuration. If the value of _EnablePrefetcher_ is 0, it means prefetching is disabled on the system. By default, prefetching is enabled on a system.
 
-The system from which the following screenshot was taken has prefetching enabled. 
+The system from which the following screenshot was taken has prefetching enabled.
 
 ![image of prefeching enabled on a windows system](images/prefetch-1.png)
 
-In some cases, adversaries may disable prefetching on a system to remove any footprints of their activity. When investigating a Windows machine for artifacts, check if prefetching is enabled and identify recently executed binaries through the existing *.pf* files.
+In some cases, adversaries may disable prefetching on a system to remove any footprints of their activity. When investigating a Windows machine for artifacts, check if prefetching is enabled and identify recently executed binaries through the existing _.pf_ files.
 
-Head over to the *Prefetch Directory* on your system! You can find prefetch files of recently executed applications, if prefetching has been enabled.
+Head over to the _Prefetch Directory_ on your system! You can find prefetch files of recently executed applications, if prefetching has been enabled.
 
 On the system from which this screenshot was taken, Firefox application was recently executed.
 
-![screenshot of recently executed firefox application on a prefetch directory ](images/prefetch-2.png)
+![  recently executed firefox application on a prefetch directory ](images/prefetch-2.png)
 
 > **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**

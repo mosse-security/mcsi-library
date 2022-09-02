@@ -31,19 +31,19 @@ First, we will understand what file system tunneling is.
 
 A text file _emp-names-2022.txt_ was created on 13th May 2022 at 11:22 hours.
 
-![alt text](images/tunnel-1.png)
+![windows file system](images/tunnel-1.png)
 
 The text file had the names of four people.
 
-![alt text](images/tunnel-2.png)
+![windows file system](images/tunnel-2.png)
 
 On the same day, at 11:25 hours the file _emp-names-2022.txt_ was created. A new text document was created and named as _emp-names-2022.txt_. The latest document created must have the creation time as 11:25 hours. But take a look at the following screenshot: the creation time is still 11:22 hours.
 
-![alt text](images/tunnel-3.png)
+![windows file system](images/tunnel-3.png)
 
 The new file is using the creation time of the deleted old file. The only common factor between the old file and the new file is the file name. However, the contents of the new _emp-names-2022.txt_ file does not appear to have the names of employees, it appears to have the names of illegal drugs.
 
-![alt text](images/tunnel-4.png)
+![windows file system](images/tunnel-4.png)
 
 Here is what has happened: there is a feature called _File System Tunneling_ on file systems like NTFS and FAT, where, if a file is deleted and another one is created in its place with the same name in the same path, the new file gets the creation time of the old file. This is the behaviour observed with the _emp-names-2022.txt_ file.
 
@@ -67,21 +67,21 @@ Within the file system journal, entries were found indicating the creation and d
 
 The following screenshot indicates the creation of _emp-names-2022.txt_ for the first time at 11:22 hours.
 
-![alt text](images/tunnel-5.png)
+![windows file system](images/tunnel-5.png)
 
 The following screenshot indicates the deletion of _emp-names-2022.txt_ that had taken place at 11:25 hours, right before the new creation. On Windows computers, whenever a file is deleted, it is stored in the Recycle Bin.
 
 The Recycle Bin stores a deleted file as `$I` file and `$R` file. From the screenshot shown below, you can see that a file called `$I<characters>.txt` has been created and the actual _emp-names-2022.txt_ has been renamed to `$R<characters>.txt`. The same sequence of characters appears in the names of the `$I` file and `$R` file. We are not diving into Recycle bin forensics in this blog post. But looking at the timestamps and the file operations, it is safe to infer that _emp-names-2022.txt_ has been deleted at 11:25:36 hours.
 
-![alt text](images/tunnel-6.png)
+![windows file system](images/tunnel-6.png)
 
 The following screenshot indicates the creation of a new text document at 11:25:39 hours.
 
-![alt text](images/tunnel-7.png)
+![windows file system](images/tunnel-7.png)
 
 That new text document has been renamed to _emp-names-2022.txt_ at 11:25:43 hours.
 
-![alt text](images/tunnel-8.png)
+![windows file system](images/tunnel-8.png)
 
 This whole deletion, creation and renaming process has occurred within 15 seconds. Although file system tunneling has had its effect, it is still possible to get intricate details about file system operations from the file system change journal.
 

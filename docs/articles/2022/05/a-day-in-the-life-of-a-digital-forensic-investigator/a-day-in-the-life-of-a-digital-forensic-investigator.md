@@ -23,7 +23,7 @@ When dealing with suspicious files, the investigator may have to view its hexade
 
 The following screenshot represents a section of the hexadecimal representation of a file that was found without an extension. However, in the ascii representation on the right, the phrase _word/document.xml_ can be found. This could mean that we are dealing with a Microsoft Word document. Further investigation into the file’s magic number may provide more clarity.
 
-![alt text](images/day-1.png)
+![identify file extensions](images/day-1.png)
 
 ## Understanding the outcomes of an investigation
 
@@ -35,11 +35,11 @@ Before a DFIR professional begins their assignment, the best thing to do is to a
 
 ## Writing Reports
 
-Regardless of what the outcome of an investigation may be, it must be concluded by drafting a professional report. A report must contain information about relevant findings if any, along with screenshots. Every DFIR professional must have the ability to draft professional *[reports](providing-clarity-in-the-face-of-adversity-digital-forensics-reports)*.
+Regardless of what the outcome of an investigation may be, it must be concluded by drafting a professional report. A report must contain information about relevant findings if any, along with screenshots. Every DFIR professional must have the ability to draft professional _[reports](providing-clarity-in-the-face-of-adversity-digital-forensics-reports)_.
 
 ## A word about Incident Response and Digital Forensics
 
-In most cases, the terms _Incident Response_ (IR) and _Digital Forensics_ (DF) are used interchangeably although there are differences between the two. IR is the process of identifying and confirming that an incident has occurred. *[IR professionals](what-will-i-do-as-an-incident-responder)* typically collect evidence for a DF professional to process. DF is the process of uncovering intricate details of all the events that led to the incident. Most specialists are trained perform both incident response and digital forensics activities.
+In most cases, the terms _Incident Response_ (IR) and _Digital Forensics_ (DF) are used interchangeably although there are differences between the two. IR is the process of identifying and confirming that an incident has occurred. _[IR professionals](what-will-i-do-as-an-incident-responder)_ typically collect evidence for a DF professional to process. DF is the process of uncovering intricate details of all the events that led to the incident. Most specialists are trained perform both incident response and digital forensics activities.
 
 ## How to become a skilled DFIR professional?
 
