@@ -17,6 +17,7 @@ Reverse engineering is the process of taking something apart and figuring out ho
 * [](reverse-engineering-portable-executables-pe-part-2)
 * [](fuzzy-hashing-import-hashing-and-section-hashing)
 * [](introduction-to-behavior-analysis-techniques)
+* [](malware-injection-techniques-introduction)
 
 ## Tools
 
