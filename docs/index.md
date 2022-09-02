@@ -1,6 +1,31 @@
 # Welcome to MSCI Blog
 
-In this blog, you are going to find most up-to-date articles on cyber security industry domains including the following domains:
+Welcome to MSCI cyber security blog page. Here you will find information and resources on the latest cyber security threats and how to protect yourself from them. Stay up to date on the latest news and cyber domains by following MSCI blog. 
+
+In this blog, you are going to find most up-to-date articles on cyber security industry domains such as the following:
+
+
+
+:::{figure-md} rev-img
+<img src="open-graps/reverse-engineering.png" alt="reverse engineering" width="300px">
+
+[](reverse-engineering-landing-page)
+:::
+
+
+
+
+
+
+
+:::{figure-md} (digimg)=
+<img src="open-graps/digital-forensics.png" alt="digital forensics" width="300px">
+
+[](digital-forensics-main-page)
+:::
+
+
+
 
 ```{toctree}
 :maxdepth: 8
@@ -11,8 +36,6 @@ platform/testimonials
 platform/career-pathways
 platform/cognitive-science
 platform/fundamental-cybersecurity-concepts
-
-
 
 
 ```
@@ -61,3 +84,5 @@ it-domains/windows-internals
 ways-of-working/charts-and-graphics
 ways-of-working/operational-planning
 ```
+
+

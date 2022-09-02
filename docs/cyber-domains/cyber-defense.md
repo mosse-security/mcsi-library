@@ -4,4 +4,6 @@ In the age of the internet, cyber defense is more important than ever. There are
 
 ## Concepts
 
-[](securing-windows-an-introduction-to-windows-group-policy)
+* [](securing-windows-an-introduction-to-windows-group-policy)
+
+* [](firewalls-creating-trust-barriers-to-stop-external-threats)

@@ -84,6 +84,7 @@ html_theme_options = {
   "home_page_in_toc": True, 
   "use_download_button": False,
   "use_fullscreen_button": False,
+  
  
 
   }
