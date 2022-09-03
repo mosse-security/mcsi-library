@@ -12,6 +12,7 @@ There is no question that security is important in the software development proc
 * [](owasp-top-10-the-most-common-security-flaws-in-web-applications)
 * [](what-are-zero-day-vulnerabilities-and-who-uses-them)
 * [](input-validation-for-greater-security)
+* [](generate-a-scalable-view-of-your-software-development-process)
 
 
 ## Tools
@@ -27,4 +28,5 @@ There is no question that security is important in the software development proc
 
 * [](introduction-to-linux-binary-exploitation-part-1)
 * [](linux-exploitation-stack-smashing)
+* [](linux-exploitation-abusing-eip)
 

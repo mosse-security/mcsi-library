@@ -12,6 +12,8 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](data-security-management-keep-your-data-safe-and-sound)
 * [](the-attacker-mindset-the-dad-triad)
 * [](dont-let-rootkits-take-control)
+* [](follow-the-separation-of-duties-principle-for-a-safer-organization)
+* [](content-filtering-monitor-user-activity-to-identify-potential-risks)
 
 ## Tools
 

@@ -64,7 +64,7 @@ it-domains/cloud-services
 it-domains/cryptography
 it-domains/information-security
 it-domains/linux-internals
-it-domains/networking
+it-domains/network-security
 it-domains/programming-and-scripting
 it-domains/windows-internals
 ```

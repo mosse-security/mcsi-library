@@ -10,14 +10,16 @@ Information security is the practice of protecting electronic information by mit
 * [](you-re-never-too-far-from-the-office-with-a-vpn)
 * [](low-security-vpn-solution-point-to-point-tunneling-protocol)
 * [](choose-the-right-switch-for-a-secure-network)
+* [](the-best-way-to-decide-if-bring-your-own-device-byod-is-right-for-your-workplace)
 
 
 ## Security Controls
 * [](securing-confidentiality-of-data-using-the-bell-lapadula-model)
 * [](access-controls-for-a-secure-organization)
 * [](the-biba-model-a-comparison-between-bell-lapadula)
+* [](choose-the-right-application-control-for-your-organization-with-whitelisting-and-blacklisting)
 
 
 ## Techniques
-
+* [](the-right-type-of-alert-for-the-right-result)
 

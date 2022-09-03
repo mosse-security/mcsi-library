@@ -36,6 +36,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 * [](windows-file-system-tunneling-in-digital-forensics)
 * [](windows-prefetch-files-may-be-the-answer-to-your-investigation)
 * [](performing-digital-forensics-on-a-windows-machine)
+* [](windows-recycle-bin-forensics-dumpster-diving-for-evidence)
 
 
 ## Tools
