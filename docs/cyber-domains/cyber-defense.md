@@ -6,7 +6,20 @@ In the age of the internet, cyber defense is more important than ever. There are
 
 * [](securing-windows-an-introduction-to-windows-group-policy)
 * [](firewalls-creating-trust-barriers-to-stop-external-threats)
+* [](what-are-software-backdoors)
+* [](find-the-right-vulnerability-scanner-for-your-organization-s-needs)
+
 
 ## Tools
 
 * [](block-malicious-packets-with-packet-filtering-firewalls)
+
+
+## Techniques
+
+* [](keep-your-operating-system-secure-by-protecting-your-file-system)
+* [](securing-application-cookies)
+* [](prevent-buffer-overflows-before-they-happen)
+* [](secure-your-web-application-against-cross-site-scripting-xss)
+* [](practical-windows-hardening-security-templates)
+  

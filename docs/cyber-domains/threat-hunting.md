@@ -1,22 +1,28 @@
 (threat-hunting-main-page)=
 # Threat Hunting
 
-[](understanding-the-threat-hunting-process-step-by-step)
+Threat hunting is a security practice that involves proactively searching for signs of malware or malicious activity on a company’s network. The goal of threat hunting is to find and stop attacks before they cause damage. Threat hunting is a relatively new security practice, but it is gaining popularity as more companies become aware of the benefits it can offer. By proactively searching for signs of malware or malicious activity, threat hunters can help find and stop attacks before they cause damage. Threat hunting can be a valuable addition to any security program, and companies that are serious about protecting their data should consider adding it to their security arsenal.
 
-[](the-right-team-can-keep-small-businesses-safe-from-disaster)
 
-[](dont-overlook-dns-in-your-threat-hunting-arsenal)
+## Concepts
 
-[](improve-efficiency-by-generating-a-hypothesis-before-beginning-a-threat-hunt)
+* [](understanding-the-threat-hunting-process-step-by-step)
+* [](the-right-team-can-keep-small-businesses-safe-from-disaster)
+* [](dont-overlook-dns-in-your-threat-hunting-arsenal)
+* [](improve-efficiency-by-generating-a-hypothesis-before-beginning-a-threat-hunt)
+* [](email-another-source-for-data-exfiltration)
+* [](proactive-cyber-security-with-approaches-to-threat-hunting)
+* [](threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable)
 
-[](email-another-source-for-data-exfiltration)
 
-[](proactive-cyber-security-with-approaches-to-threat-hunting)
 
-[](train-threat-hunters-and-develop-your-threat-hunting-program-with-threat-emulation)
 
-[](threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable)
+## Techniques
 
-[](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
+* [](detecting-exfiltration-over-network-protocols)
+* [](train-threat-hunters-and-develop-your-threat-hunting-program-with-threat-emulation)
 
-[](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
+## Tools
+
+* [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
+* [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)

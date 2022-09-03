@@ -27,6 +27,8 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 * [](windows-event-logs-in-digital-forensics)
 * [](windows-scheduled-tasks-in-digital-forensics)
 * [](windows-shellbags-in-digital-forensics)
+* [](windows-ntfs-file-attributes-for-digital-forensics)
+* [](significance-of-windows-alternate-data-streams-in-dfir)
 
 ## Techniques
 
