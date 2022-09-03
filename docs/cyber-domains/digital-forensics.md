@@ -40,6 +40,8 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 
 ## Tools
 * [](build-your-own-digital-forensics-lab-at-home)
+* [](make-memory-forensics-easier-with-volatility-profiles)
+  
 ## Branches
 
 * [](web-browser-forensics-uncovering-the-hidden-evidence-in-your-browser)

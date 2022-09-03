@@ -11,11 +11,11 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](protect-your-web-applications-against-csrf-attacks)
 * [](data-security-management-keep-your-data-safe-and-sound)
 * [](the-attacker-mindset-the-dad-triad)
+* [](dont-let-rootkits-take-control)
 
 ## Tools
 
 * [](block-malicious-packets-with-packet-filtering-firewalls)
-* [](you-re-never-too-far-from-the-office-with-a-vpn)
 
 
 ## Techniques
