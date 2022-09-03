@@ -8,11 +8,14 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](firewalls-creating-trust-barriers-to-stop-external-threats)
 * [](what-are-software-backdoors)
 * [](find-the-right-vulnerability-scanner-for-your-organization-s-needs)
-
+* [](protect-your-web-applications-against-csrf-attacks)
+* [](data-security-management-keep-your-data-safe-and-sound)
+* [](the-attacker-mindset-the-dad-triad)
 
 ## Tools
 
 * [](block-malicious-packets-with-packet-filtering-firewalls)
+* [](you-re-never-too-far-from-the-office-with-a-vpn)
 
 
 ## Techniques
@@ -22,4 +25,5 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](prevent-buffer-overflows-before-they-happen)
 * [](secure-your-web-application-against-cross-site-scripting-xss)
 * [](practical-windows-hardening-security-templates)
+* [](how-do-you-prevent-brute-force-attacks)
   

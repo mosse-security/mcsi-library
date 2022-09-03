@@ -26,4 +26,5 @@ There is no question that security is important in the software development proc
 ## Software Exploitation
 
 * [](introduction-to-linux-binary-exploitation-part-1)
+* [](linux-exploitation-stack-smashing)
 

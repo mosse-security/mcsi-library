@@ -7,6 +7,7 @@ Penetration testing, also known as pen testing or ethical hacking, is the proces
 * [](introduction-to-the-penetration-testing-workflow)
 * [](mastering-the-preparation-phase-in-penetration-testing-engagements)
 * [](reconnaissance-phase-in-penetration-testing-engagements)
+* [](be-informed-be-safe-design-vulnerabilities)
 
 ## Tools
 

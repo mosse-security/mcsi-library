@@ -8,6 +8,7 @@ Information security is the practice of protecting electronic information by mit
 ## Security Controls
 * [](securing-confidentiality-of-data-using-the-bell-lapadula-model)
 * [](access-controls-for-a-secure-organization)
+* [](the-biba-model-a-comparison-between-bell-lapadula)
 
 
 ## Techniques
