@@ -1,9 +1,16 @@
 :orphan:
 (network-protocols-the-foundation-of-digital-communication-tcp-udp)=
 # Network protocols: The Foundation of Digital Communication - TCP & UDP
-Network protocols determine how data is transmitted between devices in a network. These protocols allow devices to communicate with each other without any regard for the device's design or internal workings. Networking protocols play a critical role in today's digital communications. 
 
-Why is knowledge of network protocols also important for cyber security specialists and not just system administrators and network engineers? Because cyber security specialists help businesses guard against security breaches based on exploiting vulnerabilities in network protocols. The Simple Mail Transfer Protocol (SMTP), for example, is used by e-mail clients for outgoing e-mail messages. The protocol itself does not provide security, making it vulnerable to data leakage, spam, phishing, malware, DDoS attacks, and other attacks. When organisations use SMTP, they need to implement other measures to ensure SMTP works securely. Cyber security specialists assist businesses in adopting the best security strategies and measures for their specific situation. By doing so, they have to understand the protocols used that affect the organisation. 
+Network protocols are the foundation of digital communication. Without them, we would not be able to communicate with each other or with computers. In the world of digital communication, two main protocols manage nearly all traffic: TCP and UDP. At a high level, these protocols are responsible for ensuring that packets are delivered reliably and in order between devices. TCP is responsible for ensuring that data is transferred correctly and in the correct order. UDP is responsible for ensuring that data is transferred quickly.  Both have their own advantages and disadvantages, so it's important to understand the difference between the two. 
+
+Let's take a closer look at them!
+
+## Introduction
+
+Why is knowledge of network protocols also important for cyber security specialists and not just system administrators and network engineers? 
+
+Because cyber security specialists help businesses guard against security breaches based on exploiting vulnerabilities in network protocols. The Simple Mail Transfer Protocol (SMTP), for example, is used by e-mail clients for outgoing e-mail messages. The protocol itself does not provide security, making it vulnerable to data leakage, spam, phishing, malware, DDoS attacks, and other attacks. When organisations use SMTP, they need to implement other measures to ensure SMTP works securely. Cyber security specialists assist businesses in adopting the best security strategies and measures for their specific situation. By doing so, they have to understand the protocols used that affect the organisation. 
 
 This blog series provides an overview of the most important network protocols. It starts with explaining TCP, IP, and UDP. These protocols, also known as the TCP/IP suite, are considered the foundational network protocols that other protocols rely on for their functioning. Other network protocols will be discussed in subsequent blog posts, what they do and whether they rely on TCP/IP or UDP or both.
 

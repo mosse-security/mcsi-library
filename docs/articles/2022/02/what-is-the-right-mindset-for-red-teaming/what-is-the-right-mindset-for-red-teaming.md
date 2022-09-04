@@ -2,7 +2,7 @@
 (what-is-the-right-mindset-for-red-teaming)=
 # What is the right mindset for Red Teaming?
 
-In order to be successful at red teaming, it is important to have the right mindset. This means being able to think like your adversary, being creative and flexible, and always being critical. It is also important to have a strong understanding of the tools and techniques used by attackers. With this knowledge, you will be better equipped to find and exploit weaknesses in your organization's defenses.
+In recent years, "red teaming" has become a popular approach for organizations to test their security. A red team is a group of security experts who simulate an attack on an organization's systems in order to find weaknesses and vulnerabilities. While there is no one-size-fits-all approach to red teaming, there are certain best practices that can help your organization be successful at employing the right mindset.
 
 ## General Advice
 

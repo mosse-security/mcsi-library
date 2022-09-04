@@ -2,7 +2,7 @@
 (threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable)=
 # Threat Hunting in Distributed Organizations: The Challenges are not Insurmountable
 
-Threat hunting in a distributed organization can present some unique challenges. Those include gathering data from all applicable devices, having access to all devices relevant to the hunt being performed, and performing hunts relevant to the remote site - when applicable.
+Organizations are under constant threat from cyber attacks, and the traditional security perimeter is no longer adequate to protect them. To combat these threats, organizations are turning to threat hunting, which is the proactive search for indicators of compromise. However, threat hunting in a distributed organization can be challenging, due to the large number of devices and the vast amount of data that must be processed. However, these challenges are not insurmountable, and there are a number of steps that organizations can take to ensure effective threat hunting.
 
 ## Distributed Logging
 

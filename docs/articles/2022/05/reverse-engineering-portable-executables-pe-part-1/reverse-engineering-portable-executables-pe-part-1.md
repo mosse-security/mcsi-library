@@ -1,9 +1,9 @@
 :orphan:
 (reverse-engineering-portable-executables-pe-part-1)=
 # Reverse Engineering Portable Executables (PE) - Part 1
-While contemplating malware investigation, one of the most significant subjects to find out more about is understanding the *Portable Executable* (`PE`) file design.
+While contemplating malware investigation, one of the most significant subjects to find out more about is understanding the *Portable Executable* (`PE`) file design. Portable Executables (PEs) are executable files that are used in Windows systems. They are typically created by compilers from source code, and then linked together with other library files to form a complete executable. However, it is also possible to reverse engineer a PE, which can be useful for analyzing malware or understanding how a program works. 
 
-## PE-format
+## PE-format    
 
 The diagram at the top is a wellknown outline of the PE file. We will get into the info of each one of the structure’s areas, but what I want you to think of for now, is that the PE format is a manner the program informs the OS of its execution requirements. Let’s give an explanation for the concept in extra info. I know you might be pronouncing all we do is double click on an icon or call an EXE through a few shell software like, for example, `cmd.exe`, but yet behind the scenes, there are many activities being initiated.    
 
