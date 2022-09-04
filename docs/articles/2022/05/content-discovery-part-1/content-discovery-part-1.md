@@ -43,9 +43,9 @@ You can simply type the IP address or the name of the website you want to discov
 
 ![](images/manual-content-discovery-3.png)
 
-![](images/manual-content-discovery-4.png)
+![manual content discovery](images/manual-content-discovery-4.png)
 
-![](images/manual-content-discovery-5.png)
+![manual content discovery](images/manual-content-discovery-5.png)
 
 ## Conclusion
 

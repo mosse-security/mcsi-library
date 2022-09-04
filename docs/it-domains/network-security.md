@@ -28,4 +28,5 @@
 
 ## Techniques
 
-*[](keep-your-computer-updated-for-improved-performance-and-security)
+* [](keep-your-computer-updated-for-improved-performance-and-security)
+* [](securing-wireless-network-based-idps-nidps)

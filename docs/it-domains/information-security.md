@@ -14,6 +14,9 @@ Information security is the practice of protecting electronic information by mit
 * [](defining-security-roles-and-responsibilities)
 * [](efficiency-meets-flexibility-with-cloud-computing)
 * [](hybrid-cloud)
+* [](what-is-a-private-cloud)
+* [](what-is-a-public-cloud)
+* [](the-importance-of-security-training-and-awareness)
 
 
 
@@ -22,6 +25,7 @@ Information security is the practice of protecting electronic information by mit
 * [](access-controls-for-a-secure-organization)
 * [](the-biba-model-a-comparison-between-bell-lapadula)
 * [](choose-the-right-application-control-for-your-organization-with-whitelisting-and-blacklisting)
+* [](choose-the-right-security-control-type-for-the-job)
 
 
 ## Techniques

@@ -7,3 +7,6 @@
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
 * [](efficiency-meets-flexibility-with-cloud-computing)
 * [](hybrid-cloud)
+* [](what-is-a-private-cloud)
+* [](what-is-a-public-cloud)
+* [](securing-computing-resources)

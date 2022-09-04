@@ -6,3 +6,7 @@
 * [](improve-security-and-trust-with-cloud-based-key-control)
 
 ## Tools
+
+## Techniques
+
+*[](securing-computing-resources)

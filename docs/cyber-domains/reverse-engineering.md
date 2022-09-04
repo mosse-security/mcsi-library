@@ -22,7 +22,8 @@ Reverse engineering is the process of taking something apart and figuring out ho
 * [](malware-injection-techniques-thread-execution-hijacking-and-setwindowshookex)
 * [](malware-injection-techniques-apc-injection)
 * [](malware-injection-techniques-atombombing-ewmi-nttestalert)
-
+* [](malware-injection-techniques-api-hooking-techniques)
+* 
 ## Tools
 
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)

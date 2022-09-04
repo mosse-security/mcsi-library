@@ -15,6 +15,7 @@ Red Teaming is a security testing method that simulates a real-world attack on a
 * [](can-red-teaming-exercises-be-automated)
 * [](how-can-cisos-make-sense-of-cyber-red-team-results)
 * [](a-simple-introduction-to-red-blue-and-purple-teaming)
+* [](ntfs-data-stream-manipulation)
 
 ## Tools
 
