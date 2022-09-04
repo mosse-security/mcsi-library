@@ -11,6 +11,7 @@ Penetration testing, also known as pen testing or ethical hacking, is the proces
 * [](network-footprinting-the-building-blocks-of-any-successful-attack)
 * [](dont-let-race-conditions-bug-you)
 * [](weaknesses-in-default-configuration-settings)
+* [](common-code-injection-vulnerabilities)
 
 ## Tools
 
@@ -18,7 +19,9 @@ Penetration testing, also known as pen testing or ethical hacking, is the proces
 * [](keep-your-systems-safe-with-regular-vulnerability-scanning)
 * [](mimikatz-the-post-exploitation-tool-for-offensive-security-testing)
 * [](xml-external-entity-injection)
-
+* [](dns-enumeration-using-zone-transfer)
+* [](understanding-the-different-types-of-scan-you-can-perform-with-nmap)
+*[](stop-idor-attacks-before-they-happen)
 
 ## Procedures
 
@@ -29,7 +32,9 @@ Penetration testing, also known as pen testing or ethical hacking, is the proces
 
 * [](keep-your-web-application-safe-by-preventing-sql-injections)
 * [](enumerating-aws-s3-buckets)
-
+* [](get-the-inside-scoop-on-a-machines-operating-system)
+* [](bypass-ids-and-firewall-restrictions-while-network-scanning)
+* [](content-discovery-part-1)
 
 
 

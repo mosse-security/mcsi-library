@@ -9,6 +9,8 @@ Governance, risk and compliance (GRC) is a term that refers to the integrated ap
 ## Risk
 * [](make-security-decisions-with-confidence-using-risk-assessments)
 * [](risk-management-avoid-accept-mitigate-transference)
+* [](disaster-recovery-get-back-on-your-feet-after-a-disaster)
+* [](a-well-developed-business-continuity-plan-is-crucial-for-maintaining-continuous-operations)
 
 ## Compliance
 * [](keep-your-data-processing-compliant-with-data-audits)

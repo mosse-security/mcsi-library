@@ -13,16 +13,19 @@ There is no question that security is important in the software development proc
 * [](what-are-zero-day-vulnerabilities-and-who-uses-them)
 * [](input-validation-for-greater-security)
 * [](generate-a-scalable-view-of-your-software-development-process)
-
+* [](develop-secure-java-applets-a-step-by-step-guide)
 
 ## Tools
 
 * [](ensure-your-software-s-safety-with-security-testing)
 
+
 ## Techniques
 
 * [](securing-application-cookies)
 * [](introduction-to-stride-as-a-threat-modelling-framework)
+* [](model-your-threats-to-protect-your-assets)
+* [](keep-your-online-applications-safe-with-a-web-application-firewall-waf)
 
 ## Software Exploitation
 

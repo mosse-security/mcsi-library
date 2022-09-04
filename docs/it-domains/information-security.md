@@ -11,6 +11,10 @@ Information security is the practice of protecting electronic information by mit
 * [](low-security-vpn-solution-point-to-point-tunneling-protocol)
 * [](choose-the-right-switch-for-a-secure-network)
 * [](the-best-way-to-decide-if-bring-your-own-device-byod-is-right-for-your-workplace)
+* [](defining-security-roles-and-responsibilities)
+* [](efficiency-meets-flexibility-with-cloud-computing)
+* [](hybrid-cloud)
+
 
 
 ## Security Controls

@@ -30,6 +30,8 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 * [](windows-ntfs-file-attributes-for-digital-forensics)
 * [](significance-of-windows-alternate-data-streams-in-dfir)
 * [](digital-forensics-hashing-for-data-integrity)
+* [](a-gentle-introduction-to-digital-forensics-on-linux)
+* [](a-note-on-linux-directory-structure-for-dfir)
 
 ## Techniques
 
@@ -42,6 +44,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 ## Tools
 * [](build-your-own-digital-forensics-lab-at-home)
 * [](make-memory-forensics-easier-with-volatility-profiles)
+* [](the-strings-tool-extracting-text-for-digital-forensics)
   
 ## Branches
 

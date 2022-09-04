@@ -14,10 +14,19 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](dont-let-rootkits-take-control)
 * [](follow-the-separation-of-duties-principle-for-a-safer-organization)
 * [](content-filtering-monitor-user-activity-to-identify-potential-risks)
+* [](weighing-the-risks-and-benefits-of-virtual-machines)
+* [](keep-an-eye-out-for-keyloggers-they-may-be-hiding-on-your-device)
+* [](what-is-adware)
+* [](spyware-collecting-data-from-your-system-without-your-knowledge-or-consent)
+* [](advanced-persistent-threat-lifecycle)
+* [](model-your-threats-to-protect-your-assets)
+* [](think-your-passwords-are-safe-think-again)
 
 ## Tools
 
 * [](block-malicious-packets-with-packet-filtering-firewalls)
+* [](introduction-to-honeypots-honeynets-and-padded-cells)
+
 
 
 ## Techniques
