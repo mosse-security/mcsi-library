@@ -39,6 +39,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 * [](windows-prefetch-files-may-be-the-answer-to-your-investigation)
 * [](performing-digital-forensics-on-a-windows-machine)
 * [](windows-recycle-bin-forensics-dumpster-diving-for-evidence)
+* [](collecting-linux-system-information-for-dfir)
 
 
 ## Tools

@@ -10,3 +10,8 @@
 * [](what-is-a-private-cloud)
 * [](what-is-a-public-cloud)
 * [](securing-computing-resources)
+* [](basic-components-of-a-secure-network-architecture-in-the-cloud)
+
+## Techniques
+
+* [](securing-data-in-the-cloud-with-cryptographic-appliances)
