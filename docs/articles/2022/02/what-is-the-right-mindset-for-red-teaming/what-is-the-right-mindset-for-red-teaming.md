@@ -2,7 +2,7 @@
 (what-is-the-right-mindset-for-red-teaming)=
 # What is the right mindset for Red Teaming?
 
-Cyber Red Teaming is an important process that helps organizations identify and mitigate cyber vulnerabilities. In order to be successful, teams must have the right mindset and think outside the box.
+In order to be successful at red teaming, it is important to have the right mindset. This means being able to think like your adversary, being creative and flexible, and always being critical. It is also important to have a strong understanding of the tools and techniques used by attackers. With this knowledge, you will be better equipped to find and exploit weaknesses in your organization's defenses.
 
 ## General Advice
 

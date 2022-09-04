@@ -1,10 +1,9 @@
 :orphan:
-
 (why-do-we-red-team)=
 
 # Why do we Red Team?
 
-Red teaming is a process where an organization uses security professionals to attack their systems in order to test their security defenses. It is commonly used in the military and government, as well as in the private sector.
+Red teaming is a process used to identify potential vulnerabilities in systems, organizations, and individuals. It is an important tool for organizations to use to ensure that their systems are secure and their employees are prepared to respond to potential threats. Red teaming can help organizations identify and mitigate potential risks before they become actual threats.
 
 ## The Defenders Perspective
 

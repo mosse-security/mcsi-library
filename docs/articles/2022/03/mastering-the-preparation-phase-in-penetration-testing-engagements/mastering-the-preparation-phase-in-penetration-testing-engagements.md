@@ -2,7 +2,9 @@
 (mastering-the-preparation-phase-in-penetration-testing-engagements)=
 # Mastering the Preparation Phase in penetration testing engagements
 
-In our previous posts we discussed the overall penetration testing workflow that we follow here at Mossé Security. In this article we will look at the 'Preparation' phase in detail.
+In every penetration testing engagement, the first and most important phase is the preparation phase. This is the phase where the pentester understands the client's environment and starts to plan the attack. In order to master the preparation phase, the pentester must first understand the client's business and objectives. Only then can the pentester start to understand the client's IT infrastructure and how it relates to the business. With this knowledge, the pentester can start to plan the attack and find the best ways to test the client's systems. 
+
+In our previous [Penetration Testing Workflow](introduction-to-the-penetration-testing-workflow) post, we discussed the overall penetration testing workflow that we follow here at Mossé Security. In this article we will look at the 'Preparation' phase in detail.
 
 
   <img src="images/pentest-prep_phase.png" style="border: 1px solid grey;" width="75%" />
