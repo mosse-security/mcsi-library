@@ -7,14 +7,14 @@ In this blog, you are going to find most up-to-date articles on cyber security i
 
 
 :::{figure-md} rev-img
-<img src="open-graps/reverse-engineering.png" alt="reverse engineering" width="300px">
+<img src="/images/open-graphs/reverse-engineering.png" alt="reverse engineering" width="300px">
 
 [](reverse-engineering-landing-page)
 :::
 
 
 :::{figure-md} dig-img
-<img src="open-graps/digital-forensics.png" alt="digital forensics" width="300px">
+<img src="/images/open-graphs/digital-forensics.png" alt="digital forensics" width="300px">
 
 [](digital-forensics-main-page)
 :::
