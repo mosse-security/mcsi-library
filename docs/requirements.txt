@@ -16,10 +16,10 @@ charset-normalizer==2.1.1
     # via requests
 docutils==0.17.1
     # via
-    #   -r ./requirements.in
     #   myst-parser
     #   pydata-sphinx-theme
     #   sphinx
+    #   sphinx-togglebutton
 idna==3.3
     # via requests
 imagesize==1.4.1
@@ -71,10 +71,13 @@ sphinx==4.5.0
     #   pydata-sphinx-theme
     #   sphinx-book-theme
     #   sphinx-sitemap
+    #   sphinx-togglebutton
     #   sphinxext-opengraph
 sphinx-book-theme==0.3.3
     # via -r ./requirements.in
 sphinx-sitemap==2.2.0
+    # via -r ./requirements.in
+sphinx-togglebutton==0.3.2
     # via -r ./requirements.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
@@ -94,3 +97,8 @@ typing-extensions==4.3.0
     # via myst-parser
 urllib3==1.26.12
     # via requests
+wheel==0.37.1
+    # via sphinx-togglebutton
+
+# The following packages are considered to be unsafe in a requirements file:
+# setuptools

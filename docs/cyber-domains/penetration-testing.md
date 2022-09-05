@@ -2,6 +2,25 @@
 
 Penetration testing, also known as pen testing or ethical hacking, is the process of testing a computer system, network or web application to find security vulnerabilities that an attacker could exploit. Penetration tests can be used to test both internal and external systems and can be conducted using a variety of methods, including manual testing, automated tools, or a combination of both. Penetration testing is an important part of any security program as it can help identify weaknesses in systems before attackers do. By conducting regular penetration tests, organizations can keep their systems secure and reduce the risk of being breached.
 
+```{admonition} Procedures
+:class: dropdown
+A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
+```
+```{admonition} Techniques
+:class: dropdown
+Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
+```
+
+
+```{toggle} "Click here"
+
+This is a toggled content block!
+```
+<details>
+  <summary>Penetration Testing</summary>
+  Test
+</details>
+
 ## Procedures
 
 A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.

@@ -5,9 +5,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
-from pygments.lexer import RegexLexer
-from pygments import token
-from sphinx.highlighting import lexers
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -15,8 +13,6 @@ from sphinx.highlighting import lexers
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
-
 
 # -- Project information -----------------------------------------------------
 
@@ -35,7 +31,7 @@ extensions = [
   'sphinxext.opengraph',
   'sphinx_sitemap',
   'sphinx.ext.viewcode',
-  
+  'sphinx_togglebutton',
   
 ]
 
