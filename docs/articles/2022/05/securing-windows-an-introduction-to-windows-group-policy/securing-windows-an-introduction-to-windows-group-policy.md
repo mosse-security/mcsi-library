@@ -1,6 +1,5 @@
 :orphan:
 (securing-windows-an-introduction-to-windows-group-policy)=
-
 # Securing Windows: An Introduction to Windows Group Policy
 
 Many operating system default designs do not supply an optimal degree of security since precedence is given to those who want information access. As a result, it is critical to adjust OS environments to solidify the system for access management. Microsoft supplies a simple way to design and implement Group Policy to groups of computers. With this method, you can strengthen the operating systems and make them less vulnerable to assault.

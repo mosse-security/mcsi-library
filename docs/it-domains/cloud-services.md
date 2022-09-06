@@ -2,6 +2,7 @@
 
 ## Concepts
 
+* [](what-is-infrastructure-as-code-iac-and-its-benefits)
 * [](cloudformation-is-the-key-to-quick-aws-development-environments)
 * [](find-out-which-cloud-model-fits-for-your-security-concerns)
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
@@ -9,9 +10,8 @@
 * [](hybrid-cloud)
 * [](what-is-a-private-cloud)
 * [](what-is-a-public-cloud)
-* [](securing-computing-resources)
 * [](basic-components-of-a-secure-network-architecture-in-the-cloud)
 
 ## Techniques
 
-* [](securing-data-in-the-cloud-with-cryptographic-appliances)
+* [](deploy-your-first-project-on-terraform-with-basic-hcl)

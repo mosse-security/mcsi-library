@@ -1,3 +1,4 @@
+(secure-coding)=
 # Secure Software Development
 
 There is no question that security is important in the software development process. Unfortunately, it is often an afterthought, which can lead to big problems down the road. By taking a few simple steps to secure your code and development process, you can avoid many of the most common security issues.
@@ -22,10 +23,9 @@ There is no question that security is important in the software development proc
 
 ## Techniques
 
-* [](securing-application-cookies)
 * [](introduction-to-stride-as-a-threat-modelling-framework)
 * [](model-your-threats-to-protect-your-assets)
-* [](keep-your-online-applications-safe-with-a-web-application-firewall-waf)
+
 
 ## Software Exploitation
 

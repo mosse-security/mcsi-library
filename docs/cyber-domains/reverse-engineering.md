@@ -18,7 +18,6 @@ Reverse engineering is the process of taking something apart and figuring out ho
 
 * [](reverse-engineer-malware-without-the-risk-of-infection)
 * [](don-t-be-fooled-by-malware-in-disguise-identifying-obfuscated-malware)
-* [](windows-internals-processes)
 * [](fileless-malware-a-new-type-of-malware-that-doesnt-rely-on-executable-files)
 ## Techniques
 

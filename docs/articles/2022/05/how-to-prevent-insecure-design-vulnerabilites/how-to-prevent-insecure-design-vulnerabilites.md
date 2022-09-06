@@ -1,9 +1,11 @@
 :orphan:
-(be-informed-be-safe-design-vulnerabilities)=
+(how-to-prevent-insecure-design-vulnerabilities)=
 
-# Be Informed. Be Safe. Design Vulnerabilities
+# How to Prevent Insecure Design Vulnerabilities
 
 As technology advances, so do the ways in which criminals can exploit design vulnerabilities. Design vulnerabilities can be found in both hardware and software, and can be used to gain access to systems, data, and devices. While there are many ways to mitigate the risks posed by design vulnerabilities, it is important for organizations to be aware of these risks and take steps to protect their systems and data.
+
+## What is a design vulnerability?
 
 A design vulnerability is a flaw in the design of a product or system. Attackers can exploit these flaws to gain unauthorized access, circumvent security controls, or engage in other malicious behavior. Poor security controls, such as a lack of input validation or authentication, are frequently the source of design vulnerabilities. Other times, they are the result of poor design decisions, such as using insecure cryptography or storing sensitive data in an insecure location. Design flaws, whatever the cause, can have serious consequences. Attackers may gain access to sensitive data, disrupt service, or even cause physical harm. Designers must be aware of the risks posed by design flaws and take measures to mitigate them. Products should be designed with security in mind.
 

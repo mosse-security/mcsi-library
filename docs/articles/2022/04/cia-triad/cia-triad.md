@@ -1,6 +1,5 @@
 :orphan:
 (cia-triad)=
-
 # The CIA Triad: Keep Your Data Safe
 
 The CIA Triad plays an essential role in cyber security. The Triad is an acronym that stands for confidentiality, integrity, and availability. All three principles are essential to the security of information and systems. Confidentiality ensures that information is not disclosed to unauthorized individuals or entities. Integrity ensures that information is not altered or destroyed in an unauthorized manner. Availability ensures that authorized users have access to information and systems when they need them. The Triad is significant because it helps organizations secure their data from unauthorized access and modification.

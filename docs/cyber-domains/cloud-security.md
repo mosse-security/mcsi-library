@@ -5,14 +5,9 @@ Compliance with data security and privacy regulations is essential, and encrypti
 
 
 ## Concepts
-* [](what-is-infrastructure-as-code-iac-and-its-benefits)
 
 ## Controls
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
-
-## Considerations
-
-
 
 
 ## Tools
@@ -21,4 +16,5 @@ Compliance with data security and privacy regulations is essential, and encrypti
 ## Techniques
 
 * [](secure-your-aws-root-account-with-5-best-practices)
-* [](enumerating-aws-s3-buckets)
+* [](securing-computing-resources)
+* [](securing-data-in-the-cloud-with-cryptographic-appliances)

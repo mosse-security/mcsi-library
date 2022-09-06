@@ -1,7 +1,7 @@
 :orphan:
-(stop-attackers-from-moving-around-your-server)=
+(directory-traversal-what-is-it-and-how-to-prevent-it)=
 
-# Stop Attackers From Moving Around Your Server
+# Directory Traversal: What is it and How to Prevent it
 
 When an attacker gains access to a web server, they often attempt to move around the server to find sensitive information. One way they can do this is by using a technique called directory traversal. Directory traversal is when an attacker uses the directory structure of a website to their advantage.
 

@@ -1,3 +1,4 @@
+(cyber-defense)=
 # Cyber Defense
 
 In the age of the internet, cyber defense is more important than ever. There are a variety of ways to protect your computer and your data, and it is important to be aware of all of them. Firewalls, antivirus software, and strong passwords are all important tools in the fight against cybercrime. In addition to these technical measures, it is also important to be aware of the risks of clicking on links or opening attachments from unknown sources. These can be the gateway for malware and viruses to enter your system. Be cautious and stay safe online!
@@ -19,14 +20,15 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](what-is-adware)
 * [](spyware-collecting-data-from-your-system-without-your-knowledge-or-consent)
 * [](advanced-persistent-threat-lifecycle)
-* [](model-your-threats-to-protect-your-assets)
 * [](think-your-passwords-are-safe-think-again)
 * [](the-importance-of-security-training-and-awareness)
+
 
 ## Tools
 
 * [](block-malicious-packets-with-packet-filtering-firewalls)
 * [](introduction-to-honeypots-honeynets-and-padded-cells)
+* [](choose-the-right-switch-for-a-secure-network)
 
 
 
@@ -38,4 +40,6 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](secure-your-web-application-against-cross-site-scripting-xss)
 * [](practical-windows-hardening-security-templates)
 * [](how-do-you-prevent-brute-force-attacks)
+* [](how-to-prevent-insecure-design-vulnerabilities)
+* [](keep-your-computer-updated-for-improved-performance-and-security)
   

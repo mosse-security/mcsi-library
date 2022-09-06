@@ -1,7 +1,6 @@
 :orphan:
-(get-the-inside-scoop-on-a-machines-operating-system)=
-
-# Get the Inside Scoop on a Machine's Operating System
+(find-out-what-is-banner-grabbing-and-how-to-prevent-it)=
+# Find out What is Banner Grabbing and How to Prevent it
 
 OS fingerprinting, also known as banner grabbing, is a technique for determining the operating system that is installed on the targeted machine. Once the operating system and its version are determined, the attacker then finds the system vulnerabilities and exploits that may work on that machine to carry out further attacks. Active and passive banner grabbing are the two types of banner grabbing.
 

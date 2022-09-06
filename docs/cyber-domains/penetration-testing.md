@@ -1,3 +1,4 @@
+(penetration-testing)=
 # Penetration Testing
 
 Penetration testing, also known as pen testing or ethical hacking, is the process of testing a computer system, network or web application to find security vulnerabilities that an attacker could exploit. Penetration tests can be used to test both internal and external systems and can be conducted using a variety of methods, including manual testing, automated tools, or a combination of both. Penetration testing is an important part of any security program as it can help identify weaknesses in systems before attackers do. By conducting regular penetration tests, organizations can keep their systems secure and reduce the risk of being breached.
@@ -49,9 +50,9 @@ Application vulnerabilities are weaknesses in software that can be exploited by 
 * [](an-introduction-to-web-shells)
 * [](keep-your-web-application-safe-by-preventing-sql-injections)
 * [](weaknesses-in-default-configuration-settings)
-* [](stop-idor-attacks-before-they-happen)
+* [](idor-vulnerability-prevention-best-practices)
 * [](avoid-race-conditions-with-our-easy-to-follow-strategies)
-* [](be-informed-be-safe-design-vulnerabilities)
+* [](how-to-prevent-insecure-design-vulnerabilities)
 
 ### Cloud Services Penetration Testing
 
@@ -63,9 +64,9 @@ Cloud penetration testing is a type of security testing that is used to assess t
 
 A network vulnerability is a security flaw that can be exploited to gain unauthorized access to a computer network. Common network vulnerabilities include unpatched software, weak passwords, and open ports. Exploiting a network vulnerability can allow an attacker to gain access to sensitive data, install malware, or launch denial-of-service attacks.
 
-* [](get-the-inside-scoop-on-a-machines-operating-system)
+* [](find-out-what-is-banner-grabbing-and-how-to-prevent-it)
 * [](bypass-ids-and-firewall-restrictions-while-network-scanning)
-* [](stop-attackers-from-moving-around-your-server)
+* [](directory-traversal-what-is-it-and-how-to-prevent-it)
 * [](host-discovery-get-the-information-you-need-about-a-network)
 * [](manual-and-automated-password-acquisition)
 * [](scanning-smb-telnet-and-ftp-default-ports)
