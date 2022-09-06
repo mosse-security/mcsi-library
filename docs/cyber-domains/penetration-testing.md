@@ -5,16 +5,16 @@ Penetration testing, also known as pen testing or ethical hacking, is the proces
 
 ## Procedures
 
-```{admonition} Definition
+```{admonition} What is a procedure and a workflow and why are they important?
 :class: dropdown
 A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
 
-A workflow is a series of steps that are followed in order to complete a task. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
+A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
 ```
 
 The image below proposes a workflow you can use to learn penetration testing:
 
-<img alt="penetration testing procedure and workflow" class="mb-5" src="/images/procedures/penetration-testing.svg">
+<img alt="Penetration testing procedure and workflow" class="mb-5" src="/images/procedures/penetration-testing.svg">
 
 **Articles:**
 
@@ -26,7 +26,7 @@ The image below proposes a workflow you can use to learn penetration testing:
 
 ## Techniques
 
-```{admonition} Techniques
+```{admonition} Why is learning penetration testing techniques important?
 :class: dropdown
 Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
 ```
@@ -73,7 +73,11 @@ A network vulnerability is a security flaw that can be exploited to gain unautho
 
 ## Tools
 
+
+```{admonition} Why do I need to master penetration testing tools?
+:class: dropdown
 Penetration testing tools are used to test the security of systems and networks. They are used to find vulnerabilities and weaknesses in systems and networks, and to exploit them to gain access to sensitive data or to take control of the system. Penetration testing tools are essential for ensuring the security of systems and networks, and for protecting against the ever-increasing threats posed by hackers and cyber criminals.
+```
 
 * [](using-netcat-as-a-reverse-shell)
 * [](keep-your-systems-safe-with-regular-vulnerability-scanning)

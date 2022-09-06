@@ -1,11 +1,12 @@
-# Welcome to MSCI Blog
+# Welcome to MSCI's Library
 
-Welcome to MSCI cyber security blog page. Here you will find information and resources on the latest cyber security threats and how to protect yourself from them. Stay up to date on the latest news and cyber domains by following MSCI blog. 
+Mossé Cyber Security Institute (MCSI) offers an in-demand education for cyber security professionals. With a focus on hands-on experience, MCSI provides students with the skills they need to protect their organizations from cyber threats.
 
-In this blog, you are going to find most up-to-date articles on cyber security industry domains such as the following:
+MCSI's library is a great resource for aspiring cyber professionals. It contains a wealth of information on various cybersecurity topics, including penetration testing, incident response, reverse engineering, and more. The library is constantly updated with new resources, so it's a great place to stay up-to-date on the latest cybersecurity trends. 
 
+## Cyber domains
 
-
+The library is organized by cyber domains in order to more easily facilitate research and information retrieval for readers. This organizational system enables you more readily find the resources you need on the topics you are interested in. 
 
 :::{figure-md} rev-img
 <img src="/images/open-graphs/reverse-engineering.png" alt="reverse engineering" width="300px">
@@ -20,6 +21,9 @@ In this blog, you are going to find most up-to-date articles on cyber security i
 [](digital-forensics-main-page)
 :::
 
+## IT Domains
+
+## Ways of Working
 
 ```{toctree}
 :maxdepth: 8
