@@ -1,10 +1,9 @@
 :orphan:
 (stop-attackers-from-moving-around-your-server)=
+
 # Stop Attackers From Moving Around Your Server
- 
 
-
-When an attacker gains access to a web server, they often attempt to move around the server to find sensitive information. One way they can do this is by using a technique called directory traversal. Directory traversal is when an attacker uses the directory structure of a website to their advantage. 
+When an attacker gains access to a web server, they often attempt to move around the server to find sensitive information. One way they can do this is by using a technique called directory traversal. Directory traversal is when an attacker uses the directory structure of a website to their advantage.
 
 By exploiting how web servers handle requests, an attacker can access files and directories that they should not have access to. To access a file, the file's path must be known. The path can be absolute, which specifies the full path from the root directory, or relative, which specifies the path from the current directory. This can lead to the disclosure of sensitive information, such as passwords, financial information, and more.
 
@@ -26,7 +25,7 @@ For instance, if the attacker wants to check the contents of the `/etc/passwd` p
 
 In the above URL, the `../` command is used to go back to the previous directory, so in our case, the file system goes back through multiple directories, to the root directory, and retrieves the `/etc/passwd` file.
 
-*You might find some security mechanisms during the exploitation, which can be bypassed using any one of the following ways.*
+_You might find some security mechanisms during the exploitation, which can be bypassed using any one of the following ways._
 
 If the server is expecting a .png file extension and any file except png is rejected, a workaround could be to use a **null byte** to bypass the filter and extract the file, as seen in the below URL:
 

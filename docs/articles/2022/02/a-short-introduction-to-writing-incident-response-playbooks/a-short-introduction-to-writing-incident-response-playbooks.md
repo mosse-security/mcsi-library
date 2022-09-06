@@ -1,5 +1,6 @@
 :orphan:
 (a-short-introduction-to-writing-incident-response-playbooks)=
+
 # A short introduction to writing incident response playbooks
 
 Incident response playbooks provide a repeatable process for investigating and responding to security incidents. They can help organizations improve their incident response capabilities by providing a framework for managing incidents, documenting best practices, and sharing information with other responders.
@@ -23,7 +24,7 @@ Playbooks are important because they help to standardize the response process. T
 
 ### What should be included in a Playbook?
 
-*For small organizations, it is possible to have a single playbook. However, for larger organizations, it is more common to have one playbook per incident type. This allows for a more customized response to specific types of incidents.*
+_For small organizations, it is possible to have a single playbook. However, for larger organizations, it is more common to have one playbook per incident type. This allows for a more customized response to specific types of incidents._
 
 At minimum, playbook should include information about the types of incidents that may occur, the steps that should be taken during an incident, and the contact information for the team responsible for responding to incidents.
 
@@ -43,7 +44,7 @@ Your playbook should include contact information for the team responsible for re
 
 **4. Update the playbook regularly.**
 
-Your playbook should be updated regularly to reflect any changes in the organization's security policies or the types of incidents that may occur. This will help ensure that the playbook is as up-to-date as possible and can be used as a reference during an incident. 
+Your playbook should be updated regularly to reflect any changes in the organization's security policies or the types of incidents that may occur. This will help ensure that the playbook is as up-to-date as possible and can be used as a reference during an incident.
 
 ## Anatomy of an Incident Response Playbook
 
@@ -67,7 +68,7 @@ Your playbook should guide your team through the steps they need to take to miti
 
 **Response and containment:** This section should include steps to take to mitigate the effects of the incident and prevent it from spreading.
 
-**Recovery and forensics:** This section should include steps to take to recover from the incident and investigate its cause. 
+**Recovery and forensics:** This section should include steps to take to recover from the incident and investigate its cause.
 
 Many of these sections can be presented in checklist that follows this format:
 
@@ -81,7 +82,7 @@ Many of these sections can be presented in checklist that follows this format:
 
 The post-incident phase is the final stage of an incident.
 
-In this stage, you will evaluate the incident and determine what lessons can be learned from it. You will also document any changes that need to be made to your playbook based on what happened during the incident. 
+In this stage, you will evaluate the incident and determine what lessons can be learned from it. You will also document any changes that need to be made to your playbook based on what happened during the incident.
 
 ## Important Caveats
 

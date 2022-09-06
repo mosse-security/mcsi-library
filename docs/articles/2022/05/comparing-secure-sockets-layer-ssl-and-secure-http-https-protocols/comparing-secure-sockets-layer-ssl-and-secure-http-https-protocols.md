@@ -1,7 +1,7 @@
 :orphan:
 (comparing-secure-sockets-layer-ssl-and-secure-http-https-protocols)=
+
 # Comparing Secure Sockets Layer (SSL) and Secure-HTTP (HTTP-S) Protocols
- 
 
 In this blog post, we are going to explain what Secure Sockets Layer (SSL), and Secure-HTTP (HTTP-S) protocols are and how they differ from each other.
 

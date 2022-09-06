@@ -1,7 +1,7 @@
 :orphan:
 (keep-your-online-applications-safe-with-a-web-application-firewall-waf)=
+
 # Keep Your Online Applications Safe With a Web Application Firewall (WAF)
- 
 
 Web application firewalls are some of the most recent developments in the field of firewall technology (WAFs). In this blog post, we will define what a web application firewall is, how it functions. We will also cover some of the benefits of using a web application firewall.
 

@@ -1,7 +1,7 @@
 :orphan:
 (weaknesses-in-default-configuration-settings)=
+
 # Weaknesses in default configuration settings
- 
 
 Hardening your configurations is one of the most important aspects of keeping your systems secure. A configuration is a collection of files and options that govern how a system operates. When you harden a configuration, you are making changes to improve the system's security. When hardening a configuration, there are numerous factors to consider. The principle of least privilege is one of the most important. This principle states that users should only have the permissions they require to do their jobs. By limiting permissions, you can limit the damage that an attacker can do if they gain access to a user account. Another critical factor to consider is the principle of defense in depth.
 
@@ -13,22 +13,22 @@ Weak default configurations are one of the most common IT security issues. Organ
 
 ## Insufficient Logging
 
-One of the most common weak default configurations is insufficient logging. This is due to the fact that many organizations fail to configure their logging infrastructure properly, resulting in insufficient logging data. Inadequate logging can result in a variety of serious security issues, including: 
+One of the most common weak default configurations is insufficient logging. This is due to the fact that many organizations fail to configure their logging infrastructure properly, resulting in insufficient logging data. Inadequate logging can result in a variety of serious security issues, including:
 
-- undetected attacks 
-- difficulty investigating and troubleshooting incidents 
+- undetected attacks
+- difficulty investigating and troubleshooting incidents
 - compliance violations.
 
 To avoid these issues, organizations must ensure that their logging infrastructure is properly configured. Proper logging configuration entails specifying which events should be logged, where the logs should be stored, and how long the logs should be kept. In addition, organizations should have a process in place for monitoring logs for security events.
 
 ## Insufficient Monitoring
 
-If you don't already have a monitoring solution for your systems, now is the time to put one in place. Without monitoring, you will be unable to detect system issues in a timely manner. This may result in outages and other issues that could have been avoided. You should keep an eye on a variety of things, including: 
+If you don't already have a monitoring solution for your systems, now is the time to put one in place. Without monitoring, you will be unable to detect system issues in a timely manner. This may result in outages and other issues that could have been avoided. You should keep an eye on a variety of things, including:
 
-- CPU usage 
+- CPU usage
 - Memory consumption
-- Hard drive space 
-- Network traffic 
+- Hard drive space
+- Network traffic
 
 These are just a few of the most critical things to keep an eye on. Monitoring things like application logs can also help you troubleshoot problems. There are various monitoring tools available, both open source and commercial. Choose the one that meet your needs.
 

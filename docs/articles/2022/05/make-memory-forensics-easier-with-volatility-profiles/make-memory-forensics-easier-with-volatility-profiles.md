@@ -1,15 +1,15 @@
 :orphan:
 (make-memory-forensics-easier-with-volatility-profiles)=
-# Make Memory Forensics Easier With Volatility Profiles
- 
 
-Every DFIR professional must have the ability to perform memory forensics. This includes acquiring *[memory dumps](uncover-crucial-information-within-memory-dumps)*, processing a memory dump for evidence and drawing conclusions for an investigation. Sometimes processing a memory dump is not a straightforward process. The investigator may have to perform some preliminary steps. This blog post discusses one of the preliminary steps which is sometimes performed before processing a memory dump for evidence.
+# Make Memory Forensics Easier With Volatility Profiles
+
+Every DFIR professional must have the ability to perform memory forensics. This includes acquiring _[memory dumps](uncover-crucial-information-within-memory-dumps)_, processing a memory dump for evidence and drawing conclusions for an investigation. Sometimes processing a memory dump is not a straightforward process. The investigator may have to perform some preliminary steps. This blog post discusses one of the preliminary steps which is sometimes performed before processing a memory dump for evidence.
 
 ## What is Volatility?
 
 Volatility is an open-source tool that is used to process evidence from a memory dump. In fact, it is a framework that can process memory dumps acquired from Windows, Linux, Mac and Android systems. It cannot acquire memory, it can just process them. What do we mean by ‘processing’?
 
-Volatility can extract information like list of active processes, list of network connections, information about loaded kernel drivers, etc. from the memory dump. Volatility uses *profiles* for this.
+Volatility can extract information like list of active processes, list of network connections, information about loaded kernel drivers, etc. from the memory dump. Volatility uses _profiles_ for this.
 
 ## What are Volatility profiles?
 
@@ -35,7 +35,7 @@ When a memory dump is presented to Volatility for analysis, Volatility says two 
 1. I can find out what operating system type and version this memory dump has been taken from
 2. I can interpret the information in the various C-style structures and present them to you in human readable form.
 
-Volatility does this using *profiles*.
+Volatility does this using _profiles_.
 
 Now the entire volatility framework is written in Python. This means whatever information (C-type data structure) is acquired from memory, is processed using Python. Volatility uses profiles to interpret this information in Python. Profiles are simply mapping between the C-style structures to a V-type structure (specific to volatility).
 
@@ -52,7 +52,7 @@ The V-type structure for the C-style process structure introduced in the previou
 
 Try to understand how the C-style structure is presented as a V-type structure that volatility can interpret. A V-type structure is simply made up of dictionaries and lists in python.
 
-Do you want to look at a real V-type structure? Within the source code of volatility, navigate to the *volatility/plugins/overlays/<os>* folder. You will find a number of python files. Look within one of those files – you will find large V-type structures specific to each operating system.
+Do you want to look at a real V-type structure? Within the source code of volatility, navigate to the _volatility/plugins/overlays/<os>_ folder. You will find a number of python files. Look within one of those files – you will find large V-type structures specific to each operating system.
 
 ## Why should every DFIR professional know how Volatility profiles can be created?
 

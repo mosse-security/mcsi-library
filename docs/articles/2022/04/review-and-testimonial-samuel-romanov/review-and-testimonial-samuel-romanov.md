@@ -1,6 +1,8 @@
 :orphan:
 (review-and-testimonial-samuel-romanov)=
+
 # Review and Testimonial: Samuel Romanov
+
 Samuel is the General Manager of DigitalShield, a cybersecurity firm selling and delivering practical and proportionate cybersecurity solutions for SMEs, startups, scaleups, and growth companies on time with the utmost quality. He is on a mission to help businesses avoid losses and ensure their employees are protected. As a student of MCSI, he has completed our Remote Internship Programme and is now completing MGRC.
 
 ## Hello Samuel! You have been a student on the MCSI Online Learning Platform for a while now. Can you please tell us about how you embarked on your learning journey?
@@ -11,15 +13,15 @@ I’ve been in the IT industry for almost 9 years now. I started my IT journey a
 
 ## Did you enrol in any of the MCSI Certifications?
 
-I enrolled into the Remote Internship Program. I really liked this program as it forces you to research the problem statement you are trying to solve. Having the ability to research and solve problems without much information is a fundamental skill that is rarely taught in other certifications yet is one of the strongest skills required in the professional arena. Furthermore, learning Linux commands, scripting, programming are all things I wanted to learn but found hard to gain the motivation for. The MCSI training method not only enables you to solve a problem statement in the real world but you learn so many technical skills on your own to achieve it, that’s what is truly rewarding, having the ability to see a problem statement and complete it on your own. 
+I enrolled into the Remote Internship Program. I really liked this program as it forces you to research the problem statement you are trying to solve. Having the ability to research and solve problems without much information is a fundamental skill that is rarely taught in other certifications yet is one of the strongest skills required in the professional arena. Furthermore, learning Linux commands, scripting, programming are all things I wanted to learn but found hard to gain the motivation for. The MCSI training method not only enables you to solve a problem statement in the real world but you learn so many technical skills on your own to achieve it, that’s what is truly rewarding, having the ability to see a problem statement and complete it on your own.
 
 ## That’s great to know! Did another MCSI Certification interest you?
 
-Yes, I enrolled into the MGRC – Certified GRC Expert course. I signed up to this course because I want to achieve some goals in the GRC arena. I already have certifications from other certification bodies, but gaining the credentials only gives you the theoretical knowledge not the practical ability of GRC. I am loving the course, whilst I’m only 8 exercises in I have created documents that I can use in real world engagements, slowly my repository is growing and if I’m presented with a challenge I will something I can benchmark or use a template for a live engagement. 
+Yes, I enrolled into the MGRC – Certified GRC Expert course. I signed up to this course because I want to achieve some goals in the GRC arena. I already have certifications from other certification bodies, but gaining the credentials only gives you the theoretical knowledge not the practical ability of GRC. I am loving the course, whilst I’m only 8 exercises in I have created documents that I can use in real world engagements, slowly my repository is growing and if I’m presented with a challenge I will something I can benchmark or use a template for a live engagement.
 
 ## What was your first impression about the platform?
 
-How clean it looks. It’s very straightforward and intuitive, literally just click on your curriculum, click on the exercise, read the requirements, complete the work, and submit. Easy! 
+How clean it looks. It’s very straightforward and intuitive, literally just click on your curriculum, click on the exercise, read the requirements, complete the work, and submit. Easy!
 
 I also love the fact that if you don’t have a win on your submission the instructors give you feedback until you nail it!
 
@@ -29,15 +31,15 @@ Yes, it’s one of the easiest platforms I’ve ever used.
 
 ## How would you describe your learning experience so far?
 
-The learning experience has been unique in the sense that it requires a lot of my own research to complete the exercises, there are no review manuals and there is no instructor. It’s completely on me to succeed, and the satisfaction of completing an exercise is like no other. Furthermore, the feedback I get from the instructors is great in the sense that they give just enough information to help steer me in the right direction. 
+The learning experience has been unique in the sense that it requires a lot of my own research to complete the exercises, there are no review manuals and there is no instructor. It’s completely on me to succeed, and the satisfaction of completing an exercise is like no other. Furthermore, the feedback I get from the instructors is great in the sense that they give just enough information to help steer me in the right direction.
 
 ## Did you require any special equipment to work on the exercises?
 
-The only equipment you need is a high-performance laptop that can support virtualisation, and an internet connection. 
+The only equipment you need is a high-performance laptop that can support virtualisation, and an internet connection.
 
 ## Did you encounter any challenges while working on the exercises? If yes, how did you navigate through them?
 
-Nearly all the exercises I encounter I have challenges, as it’s a problem statement I haven’t encountered before. This forces me to use the internet to solve problems, therefore increasing my researching skills. For example, I had never used GitHub before starting my training program, now I’m very familiar with GitHub, Stack Overflow and Microsoft Technet forum and others. 
+Nearly all the exercises I encounter I have challenges, as it’s a problem statement I haven’t encountered before. This forces me to use the internet to solve problems, therefore increasing my researching skills. For example, I had never used GitHub before starting my training program, now I’m very familiar with GitHub, Stack Overflow and Microsoft Technet forum and others.
 
 ## How was your experience submitting the solutions for every exercise?
 
@@ -45,7 +47,7 @@ The platform is designed to make the experience simple, for document type submis
 
 For video submissions simply just completing your work whilst using a screen capture tool, uploading to YouTube (unlisted) and providing a link to the video in the platform does the trick!
 
-All of your work has to be presented in a professional format, whether it’s the documentation, code, or video. This is a great habit that spills over to your professional style. 
+All of your work has to be presented in a professional format, whether it’s the documentation, code, or video. This is a great habit that spills over to your professional style.
 
 ## For exercises that involved a video submission, did you have to learn video editing skills?
 
@@ -53,7 +55,7 @@ No, you just simply record the work you’re completing. I use TinyTake.
 
 ## Were you comfortable with how the exercises were graded upon submission?
 
-Yes. Not all my work has passed on first go. There were a few submissions where I failed repeatedly, but as I previously stated the instructors gave me just enough information to push me in the right direction. There are some skills, that I never possessed before starting the training, and I was expecting to fail, however with the guidance of the instructors I was able to achieve the success of completing an exercise on my own merit. 
+Yes. Not all my work has passed on first go. There were a few submissions where I failed repeatedly, but as I previously stated the instructors gave me just enough information to push me in the right direction. There are some skills, that I never possessed before starting the training, and I was expecting to fail, however with the guidance of the instructors I was able to achieve the success of completing an exercise on my own merit.
 
 ## How do you expect your career to advance with the skills you have gained from the Online Learning Platform?
 

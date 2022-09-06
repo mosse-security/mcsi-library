@@ -1,7 +1,7 @@
 :orphan:
 (generate-a-scalable-view-of-your-software-development-process)=
+
 # Generate a Scalable View of Your Software Development Process
- 
 
 SDLC, or Software Development Life Cycle, is a set of procedures for developing software applications. These steps break the development process down into tasks that can be assigned, completed, and measured.
 
@@ -47,7 +47,7 @@ This is the actual program writing. A small project may be written by a single d
 
 **5. Testing**
 
-It is critical to test an application before releasing it to users. Much of the testing, such as security testing, can be automated. Other testing can only be done in a specific environment; for complex deployments, consider creating a simulated production environment. Each function should be tested to ensure that it works properly. 
+It is critical to test an application before releasing it to users. Much of the testing, such as security testing, can be automated. Other testing can only be done in a specific environment; for complex deployments, consider creating a simulated production environment. Each function should be tested to ensure that it works properly.
 
 Different parts of the application should also be tested to ensure that they work together seamlessly—performance testing, to eliminate any hangs or lags in processing. The testing phase aids in reducing the number of bugs and glitches encountered by users. This results in increased user satisfaction and increased usage.
 

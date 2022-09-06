@@ -1,7 +1,7 @@
 :orphan:
 (basic-components-of-a-secure-network-architecture-in-the-cloud)=
+
 # Basic Components of a Secure Network Architecture in the Cloud
- 
 
 Cloud apps will need to operate in a secure network architecture. Before we can protect our applications, we must first grasp the primary networking techniques we employ in the cloud. In this blog, we are going to discuss primary networking concepts in a secure cloud data center.
 

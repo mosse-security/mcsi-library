@@ -1,5 +1,6 @@
 :orphan:
 (get-a-grip-on-your-data-with-data-governance)=
+
 # Get a Grip on your Data with Data Governance!
 
 Data Governance involves defining policies that govern how data generated within organizations is managed, accessed, shared, and owned. Governance refers to rules, regulations, and procedures developed to achieve organizational objectives. This type of policy sets out conditions under which organizational processes, functions, and services operate.
@@ -13,12 +14,12 @@ Data Governance involves defining policies that govern how data generated within
 ## The Pillars of Data Governance
 
 **1. People:** they ensure roles and responsibilities are properly defined for formalizing accountability on how people define, produce, and use data in their work. It is broadly divided into three organizational levels.
- 
-- *Data owners:* the Data Owner oversees the data in a particular Data Domain. They are in charge of ensuring that information within their Domain is managed across platforms and business lines.
- 
-- *Data Stewards:* are Subject Matter Experts who comprehend and articulate the significance and use of data. They are the governing body that creates policies for most data choices and issues resolutions. They work with the other Stewards around the company as data governance superintendents. In most situations, they represent the Data Owner.
- 
-- *Steering Committee:* the executive leaders of an organization make up the Steering Committee which includes members of the C-Suite. They are frequently in charge of the specific lines of business that make up a Data Domain.
+
+- _Data owners:_ the Data Owner oversees the data in a particular Data Domain. They are in charge of ensuring that information within their Domain is managed across platforms and business lines.
+
+- _Data Stewards:_ are Subject Matter Experts who comprehend and articulate the significance and use of data. They are the governing body that creates policies for most data choices and issues resolutions. They work with the other Stewards around the company as data governance superintendents. In most situations, they represent the Data Owner.
+
+- _Steering Committee:_ the executive leaders of an organization make up the Steering Committee which includes members of the C-Suite. They are frequently in charge of the specific lines of business that make up a Data Domain.
 
 **2. Processes:** this involves the methods for carrying out the key data governance tasks daily. It also covers the processes that need improvement.
 
@@ -33,7 +34,7 @@ A data governance strategy establishes a framework for connecting data governanc
 - Creating data naming and storage processes
 - Creating measurements to keep data clean and useable.
 
-## What makes up an Effective Data Governance Strategy 
+## What makes up an Effective Data Governance Strategy
 
 **1. Data Availability:** one of the core frameworks of data security is that data should be available when needed.
 

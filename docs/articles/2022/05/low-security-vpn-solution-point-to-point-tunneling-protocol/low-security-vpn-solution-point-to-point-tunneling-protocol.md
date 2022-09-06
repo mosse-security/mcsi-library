@@ -1,7 +1,7 @@
 :orphan:
 (low-security-vpn-solution-point-to-point-tunneling-protocol)=
+
 # Low-security VPN solution: Point-to-Point Tunneling Protocol
- 
 
 If you want to set up a site-to-site VPN, you need to choose the protocol to employ based on functionality and security. In this blog post, we will look at what a point-to-point tunneling protocol (PPTP) is, how it works, and special security considerations.
 

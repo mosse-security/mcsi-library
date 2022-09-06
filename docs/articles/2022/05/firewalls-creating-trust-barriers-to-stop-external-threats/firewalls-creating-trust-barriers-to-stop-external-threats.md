@@ -1,12 +1,13 @@
 :orphan:
 (firewalls-creating-trust-barriers-to-stop-external-threats)=
+
 # Firewalls: Creating Trust Barriers to Stop External Threats
 
 A firewall is an essential component of any organization's security infrastructure. It can be implemented as hardware, software, or a hybrid of the two. A firewall can help to protect a network from attack by restricting unauthorized incoming traffic. A firewall is often used to create a barrier between a trusted internal network and an untrustworthy external network, such as the Internet.
 
 ![trust barriers](images/firewall.png)
 
-## Different types of firewall 
+## Different types of firewall
 
 Firewalls are classified into two types: hardware and software. In this section, we will look at the various types of firewalls and their advantages and disadvantages.
 
@@ -21,7 +22,6 @@ A hardware-based firewall is typically installed at the network's edge as an int
 - **Speed:** Hardware-based firewalls are designed to provide a faster reaction time and handle heavy traffic volumes.
 
 - **Security:** A firewall with its own hardware and operating system adds another layer of security and makes it less vulnerable to attacks.
-
 
 **Disadvantages:**
 
@@ -60,6 +60,5 @@ Firewalls are an important security tool to protect any system but they come wit
 ## Final Words
 
 A firewall is a software or hardware-based device that prevents unwanted access to your computer. It accomplishes this by screening traffic and banning certain types of traffic deemed harmful. Firewalls can be quite effective in preventing malicious attacks, but they are not without limitations. It's crucial to remember that a firewall is only as good as its configuration, so make sure your firewall is set up correctly to safeguard your system.
-
 
 > **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**

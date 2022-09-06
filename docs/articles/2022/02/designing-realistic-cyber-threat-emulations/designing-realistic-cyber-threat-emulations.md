@@ -1,5 +1,6 @@
 :orphan:
 (designing-realistic-cyber-threat-emulations)=
+
 # Designing realistic cyber threat emulations
 
 Threat emulation is a process of imitating the tactics, techniques, and procedures of real-world threats in order to test the effectiveness of security controls. It is important to design realistic threat emulations because they can help organizations identify and mitigate risks that are likely to be used in an attack.
@@ -14,11 +15,11 @@ When designing a threat emulation, it is important to first understand the diffe
 
 3. **Denial of Service (DoS):** A denial of service attack is a type of attack that aims to flood a target system with traffic or requests, causing the system to become overloaded and unavailable to legitimate users.
 
-4. **Person-in-the-Middle (PitM):** A person-in-the-middle attack is a type of attack that allows an attacker to intercept and potentially modify data as it is being transmitted between two parties. MitM attacks can be conducted on a  local network or over the internet.
+4. **Person-in-the-Middle (PitM):** A person-in-the-middle attack is a type of attack that allows an attacker to intercept and potentially modify data as it is being transmitted between two parties. MitM attacks can be conducted on a local network or over the internet.
 
 5. **Ransomware Attack:** A ransomware attack is a type of malware that encrypts the files on a victim's computer or network, then demands a ransom payment in order to decrypt the files.
 
-6. **Espionage Campaign:**  An espionage campaign is a type of attack that is conducted in order to steal sensitive information from a target organization. Espionage campaigns often involve the use of malware, social engineering, and phishing attacks. 
+6. **Espionage Campaign:** An espionage campaign is a type of attack that is conducted in order to steal sensitive information from a target organization. Espionage campaigns often involve the use of malware, social engineering, and phishing attacks.
 
 7. **Destruction Attack:** A destruction attack is a type of attack that is designed to destroy or damage the target system.
 
@@ -54,7 +55,7 @@ When modelling an adversary's capabilities, it is important to consider their po
 
 We can also learn a lot about an adversary's capabilities by studying their past operations. This can help us to identify any areas that they may have had success in, as well as any areas that they may be weak in. By understanding an adversary's strengths and weaknesses, we can better defend against them.
 
-Finally, it is important to keep in mind that an adversary's capabilities can change over time. So it  is important to constantly update our models as new information becomes available.
+Finally, it is important to keep in mind that an adversary's capabilities can change over time. So it is important to constantly update our models as new information becomes available.
 
 ## Maturity model for Threat Emulations
 

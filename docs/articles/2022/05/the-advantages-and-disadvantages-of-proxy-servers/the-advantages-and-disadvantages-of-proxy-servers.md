@@ -1,14 +1,14 @@
 :orphan:
 (the-advantages-and-disadvantages-of-proxy-servers)=
+
 # The Advantages and Disadvantages of Proxy Servers
- 
 
 People frequently pause to consider how the internet works. Along with the benefits of using the internet, there are drawbacks and risks. But what happens when you browse the internet? You could be using a proxy server at work, on a Virtual Private Network (VPN), or you could be one of the more tech-savvy people who always uses some kind of proxy server.
 
 ## What's a Proxy Server?
 
 A proxy server serves as a link between your computer and the internet. It's an intermediary server that sits between end users and the websites they visit. Depending on your use case, needs, or company policy, proxy servers provide varying levels of functionality, security, and privacy.
-When you use a proxy server, internet traffic passes through it on its way to the address you requested. The request is then routed through the same proxy server (with some exceptions), and the proxy server forwards the data received from the website to you. Why bother with a proxy server if that's all it does? Why not just go from the website to the website and back? 
+When you use a proxy server, internet traffic passes through it on its way to the address you requested. The request is then routed through the same proxy server (with some exceptions), and the proxy server forwards the data received from the website to you. Why bother with a proxy server if that's all it does? Why not just go from the website to the website and back?
 
 Modern proxy servers do far more than simply forward web requests in the name of data security and network performance. Proxy servers serve as a firewall and web filter, as well as providing shared network connections and caching data to speed up common requests. A good proxy server protects users and the internal network from malicious content on the internet. Finally, proxy servers can provide an extremely high level of privacy.
 
@@ -42,15 +42,15 @@ High Anonymity proxy servers change the IP address they present to the web serve
 
 ## 5 reasons why Should You Use a Proxy Server
 
--	To control internet usage of employees and children: Organizations and parents set up proxy servers to control and monitor their employees' or children's internet usage. Most organizations don't want you looking at specific websites on company time, and they can configure the proxy server to deny access to specific sites rather than redirecting you with a nice note asking you not to look at said sites on the company network. They can also monitor and log all web requests, so even if they don't block the site, they know how much time you spend surfing the internet.
+- To control internet usage of employees and children: Organizations and parents set up proxy servers to control and monitor their employees' or children's internet usage. Most organizations don't want you looking at specific websites on company time, and they can configure the proxy server to deny access to specific sites rather than redirecting you with a nice note asking you not to look at said sites on the company network. They can also monitor and log all web requests, so even if they don't block the site, they know how much time you spend surfing the internet.
 
--	**Bandwidth savings and improved speeds:** A good proxy server can also help organizations improve overall network performance. Proxy servers can cache (save a copy of a popular website locally) – so if you request `https://blog.mosse-institute.com/`, the proxy server will check to see if it has the most recent copy of the site, and then send you the saved copy. This means that when hundreds of people use the same proxy server to access `https://blog.mosse-institute.com/` at the same time, the proxy server only sends one request to `https://blog.mosse-institute.com/`. This saves the company bandwidth and improves network performance.
+- **Bandwidth savings and improved speeds:** A good proxy server can also help organizations improve overall network performance. Proxy servers can cache (save a copy of a popular website locally) – so if you request `https://blog.mosse-institute.com/`, the proxy server will check to see if it has the most recent copy of the site, and then send you the saved copy. This means that when hundreds of people use the same proxy server to access `https://blog.mosse-institute.com/` at the same time, the proxy server only sends one request to `https://blog.mosse-institute.com/`. This saves the company bandwidth and improves network performance.
 
--	**Privacy benefits:** Proxy servers are used by both individuals and organizations to browse the internet more privately. Some proxy servers will alter the IP address and other identifying information contained in the web request. This means that the destination server has no idea who made the original request, which helps to keep your personal information and browsing habits private.
+- **Privacy benefits:** Proxy servers are used by both individuals and organizations to browse the internet more privately. Some proxy servers will alter the IP address and other identifying information contained in the web request. This means that the destination server has no idea who made the original request, which helps to keep your personal information and browsing habits private.
 
--	**Improved security:** Proxy servers offer security benefits in addition to privacy benefits. To prevent prying eyes from reading your transactions, configure your proxy server to encrypt web requests. You can also block known malware sites from being accessed via the proxy server. Organizations can also combine their proxy server with a Virtual Private Network (VPN) so that remote users always access the internet through the company proxy. A VPN is a secure connection to a company's network that is made available to external or remote users. The company can control and verify that their users have access to the resources (email, internal data) they require by using a VPN, while also providing a secure connection for the user to protect the company data.
+- **Improved security:** Proxy servers offer security benefits in addition to privacy benefits. To prevent prying eyes from reading your transactions, configure your proxy server to encrypt web requests. You can also block known malware sites from being accessed via the proxy server. Organizations can also combine their proxy server with a Virtual Private Network (VPN) so that remote users always access the internet through the company proxy. A VPN is a secure connection to a company's network that is made available to external or remote users. The company can control and verify that their users have access to the resources (email, internal data) they require by using a VPN, while also providing a secure connection for the user to protect the company data.
 
--	**Get access to blocked resources:** Proxy servers enable users to bypass content restrictions imposed by businesses or governments. Is the online game of the local sportsball team blacked out? Watch from a proxy server on the other side of the country. The proxy server makes you appear to be in Australia, but you are actually in Albania. Several governments around the world closely monitor and restrict internet access, and proxy servers provide their citizens with uncensored internet access.
+- **Get access to blocked resources:** Proxy servers enable users to bypass content restrictions imposed by businesses or governments. Is the online game of the local sportsball team blacked out? Watch from a proxy server on the other side of the country. The proxy server makes you appear to be in Australia, but you are actually in Albania. Several governments around the world closely monitor and restrict internet access, and proxy servers provide their citizens with uncensored internet access.
 
 Now that you understand why organizations and individuals use proxy servers, consider the risks listed below.
 
@@ -58,7 +58,7 @@ Now that you understand why organizations and individuals use proxy servers, con
 
 When selecting a proxy server, you must exercise caution because a few common risks can negate any potential benefits:
 
-### Free proxy server risks 
+### Free proxy server risks
 
 Have you ever heard the expression "you get what you pay for?" Using one of the many free proxy server services, even those with ad-based revenue models, can be quite risky.
 

@@ -1,7 +1,7 @@
 :orphan:
 (securing-wireless-network-based-idps-nidps)=
+
 # Securing Wireless Network-based IDPS (NIDPS)
- 
 
 In this blog post we are going to make an introduction to how to secure wireless intrusion detection and prevention systems. Let's start with a quick definition of IDPS as a refresher.
 

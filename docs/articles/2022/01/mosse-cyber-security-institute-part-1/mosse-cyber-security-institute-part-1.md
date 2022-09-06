@@ -1,5 +1,4 @@
 :orphan:
-
 (Mosse_part_I)=
 
 # Mossé Cyber Security Institute: Part I
@@ -29,7 +28,7 @@ When the Mossé Cyber Security Institute was founded, Benjamin wanted to create 
 
 ## My Experience
 
-I have been enrolled in the Mossé training courses since August 2021 and started with their [Certified Threat Intelligence Analyst (CTIA) course](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html). I’m now in the [Blue Team](https://www.mosse-institute.com/certifications/mbt-certified-blue-teamer.html) and [Threat Hunter](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html) certification courses. Some of the labs overlap across certifications, and those completed labs are credited towards other certifications when applicable.  The reason I’m enrolled in multiple courses at the Mossé Institute is that their training provides structure and organization to the unstructured and unorganized information that exists on the internet.
+I have been enrolled in the Mossé training courses since August 2021 and started with their [Certified Threat Intelligence Analyst (CTIA) course](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html). I’m now in the [Blue Team](https://www.mosse-institute.com/certifications/mbt-certified-blue-teamer.html) and [Threat Hunter](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html) certification courses. Some of the labs overlap across certifications, and those completed labs are credited towards other certifications when applicable. The reason I’m enrolled in multiple courses at the Mossé Institute is that their training provides structure and organization to the unstructured and unorganized information that exists on the internet.
 
 Before enrolling in the CTIA course, I enrolled in their free tier to better understand their training. I do admit, when I saw the price tag of `$450`, it piqued my interest. I do not challenge an organization or individual person's course quality based on price. I have enrolled in many good quality Udemy courses for `$9.99` or free or enrolled in Humble Bundle course offerings for `$29.99`. I also have unlimited access to the Ethical Hacking Academy and EC-Council’s CodeRed platform. All were purchased at discounted prices, and with our limited professional development budget, `$450` was within my price range. The non-Mossé courses have played a role in helping with my skill development to pass a few of the Mossé labs.
 
@@ -52,17 +51,17 @@ And there was a rubric attached to each exercise explaining the expectations of 
 
 Though, that is not what surprised me. I had to submit the assignment, and then I received feedback on it:
 
-*Excellent work!*
+_Excellent work!_
 
-*You have correctly implemented all the specifications to create a professional document template. Well done!*
+_You have correctly implemented all the specifications to create a professional document template. Well done!_
 
-*I really like your mock company name, logo and tagline. Very creative.*
+_I really like your mock company name, logo and tagline. Very creative._
 
-*Congratulations on completing this exercise.*
+_Congratulations on completing this exercise._
 
-*Keep up the great effort.*
+_Keep up the great effort._
 
-Why is that a surprise? The MICS course is free, and I submitted my assignment and received feedback on it. I have been involved in one program that reviewed my cybersecurity project. It was the [final paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.9091&rep=rep1&type=pdf) for my [SANS certification](https://www.giac.org/certified-professional/Duane-Dunston/101331) from years ago. With the Mossé training, every assignment is reviewed by an industry expert even though I didn’t pay anything for the course. It got me interested in their other courses, and the experience is the same. I complete the lab, submit it with a video recording and sometimes code, and it is reviewed with feedback. Many times the feedback is “Great work!” but, when needed, it is a bit more extensive. "Great work!" is not bad feedback. I'll discuss that in a future article.  The use of video recordings not only allow the Mossé instructors to ensure they complete the assignments but allows students to create a [portfolio to show to potential employers](https://www.youtube.com/watch?v=36hbC-4Aoss). 
+Why is that a surprise? The MICS course is free, and I submitted my assignment and received feedback on it. I have been involved in one program that reviewed my cybersecurity project. It was the [final paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.9091&rep=rep1&type=pdf) for my [SANS certification](https://www.giac.org/certified-professional/Duane-Dunston/101331) from years ago. With the Mossé training, every assignment is reviewed by an industry expert even though I didn’t pay anything for the course. It got me interested in their other courses, and the experience is the same. I complete the lab, submit it with a video recording and sometimes code, and it is reviewed with feedback. Many times the feedback is “Great work!” but, when needed, it is a bit more extensive. "Great work!" is not bad feedback. I'll discuss that in a future article. The use of video recordings not only allow the Mossé instructors to ensure they complete the assignments but allows students to create a [portfolio to show to potential employers](https://www.youtube.com/watch?v=36hbC-4Aoss).
 
 ## Application of Skill
 
@@ -74,8 +73,8 @@ When I started the Mossé training, I was just beginning my dissertation and res
 
 The following articles, in this series, will explain the benefits of rubrics, feedback and how it should be delivered, metacognition, and expert skill development.
 
-*NOTE: I am not employed with the Mossé Cyber Security Institute, I am not paid, and do not receive any benefits from their institute for these articles. I am one of their students and, incidentally, found overlap with my research studies and career as a college professor.*
+_NOTE: I am not employed with the Mossé Cyber Security Institute, I am not paid, and do not receive any benefits from their institute for these articles. I am one of their students and, incidentally, found overlap with my research studies and career as a college professor._
 
-**Author: Duane Dunston** *College Cybersecurity Professor*
+**Author: Duane Dunston** _College Cybersecurity Professor_
 
 [Link to original article](https://www.linkedin.com/pulse/moss%C3%A9-cyber-security-institute-part-i-duane-dunston/)

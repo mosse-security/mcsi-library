@@ -1,7 +1,7 @@
 :orphan:
 (the-biba-model-a-comparison-between-bell-lapadula)=
+
 # The Biba Model: A comparison between Bell-laPadula
- 
 
 For many civilian companies, integrity must be favored over confidentiality. As a result of this necessity, numerous integrity-focused security approaches were created, such as Biba and Clark-Wilson. In the following blog post, we are going to look at the Biba Model and discuss its unique characteristics for securing the integrity of data and make a comparison with the Bel-LaPadula (BLP) model.
 

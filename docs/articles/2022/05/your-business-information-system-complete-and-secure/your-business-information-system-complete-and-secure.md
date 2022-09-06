@@ -1,7 +1,7 @@
 :orphan:
 (your-business-information-system-complete-and-secure)=
+
 # Your Business Information System - Complete and Secure
- 
 
 An information system (IS) is the full combination of software, hardware, data, people, procedures, and networks that enables the company to utilize information resources. Information can be input, processed, output, and stored using these six important components. Each of these IS components has its strengths and weaknesses, security needs, as well as unique features and applications.
 

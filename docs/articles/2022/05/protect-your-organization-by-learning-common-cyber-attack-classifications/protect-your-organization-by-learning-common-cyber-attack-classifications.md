@@ -1,12 +1,12 @@
 :orphan:
 (protect-your-organization-by-learning-common-cyber-attack-classifications)=
+
 # Protect your Organization by Learning Common Cyber Attack Classifications
- 
 
 The goal of cyber-attacks is to disable computers, disrupt computer systems, steal data, obtain illegal access to computer systems, or delete data. It steals data by exploiting flaws or misconfigurations in computer code, which leads to cybercrime. Attacks can be launched remotely from anywhere in the world. A cyber attack is designed in such way that it causes significant damage to an organization.
 
 ## Five types of attack classifications
-    
+
 ## Passive attack
 
 Passive attacks compromise the confidentiality of messages. In this attack, the malicious actor monitors and scans systems in order to obtain knowledge about the target by passively looking at it; because the attacker is not actively involved, no data or information is affected. These kind of attacks are incredibly difficult to detect. Passive attacks can be prevented by encrypting data during transmission with secure encryption algorithms, rendering data unreadable to the attacker.
@@ -15,13 +15,13 @@ Passive attacks compromise the confidentiality of messages. In this attack, the 
 
 The hacker analyses the network traffic as it moves from the target machine, then observes patterns of information exchanged over a network.
 
-*Checkout this blog on [PITM](https://blog.mosse-institute.com/concepts/2022/04/27/person-in-the-middle-attack.html) to learn more about it.*
+_Checkout this blog on [PITM](https://blog.mosse-institute.com/concepts/2022/04/27/person-in-the-middle-attack.html) to learn more about it._
 
 ## Active Attacks
 
 This is a technique in which data is modified and interrupted in order to compromise the targets network. The goal is to benefit from information gathered through passive attacks. To exploit the target system, the attacker makes unauthenticated changes to the data stream or creates fake data streams. Active attacks continue to pose a risk to data integrity and availability because, unlike passive attacks, they are easily detectable.
 
-*Following are the types of active attacks.*
+_Following are the types of active attacks._
 
 **Masquerade attack:**
 

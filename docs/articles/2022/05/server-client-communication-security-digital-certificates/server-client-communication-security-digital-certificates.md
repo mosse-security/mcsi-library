@@ -1,7 +1,7 @@
 :orphan:
 (server-client-communication-security-digital-certificates)=
+
 # Server-Client Communication Security: Digital Certificates
- 
 
 In this blog, we will take a quick look at PKI, and examine how digital certificates assist in the security of interactions between a server and an end-user, the components of a digital certificate, and the function of certificate authorities.
 

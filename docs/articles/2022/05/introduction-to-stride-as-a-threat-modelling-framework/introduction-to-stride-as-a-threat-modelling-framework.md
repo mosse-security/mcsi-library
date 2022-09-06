@@ -1,7 +1,7 @@
 :orphan:
 (introduction-to-stride-as-a-threat-modelling-framework)=
+
 # Introduction to STRIDE as a Threat Modelling Framework
- 
 
 Threat modelling is the process of identifying potential threats to a system and figuring out how to mitigate or eliminate those threats. The goal is to make the system more secure and resilient against attacks. Threat modelling can be done at different levels, from high-level overviews down to very detailed analysis. A vital phase of the threat modeling strategy is specifying the potential dangers that an application or system may encounter and its weaknesses.
 

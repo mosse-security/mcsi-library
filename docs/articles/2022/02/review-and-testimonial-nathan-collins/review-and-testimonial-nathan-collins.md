@@ -1,5 +1,6 @@
 :orphan:
 (review-and-testimonial-nathan-collins)=
+
 # Review and Testimonial: Nathan Collins
 
 Nathan Collins, one of our best students, was interviewed for this piece. Nathan started his profession by obtaining theoretical certificates before moving on to practical training. He joined in MCSI's Remote Internship Program, which assisted him in gaining the skills and competences he needed to secure a career in the field.
@@ -36,7 +37,7 @@ Yes, in all of the exercises you will need to do your own research. I had to do 
 
 ## How was your experience submitting the solutions for every exercise?
 
-It was a reasonably smooth experience. You have to record a video showcasing your solution and depending on the exercise you would also need to submit your solution files as well. 
+It was a reasonably smooth experience. You have to record a video showcasing your solution and depending on the exercise you would also need to submit your solution files as well.
 
 ## For exercises that involved a video submission, did you have to learn video editing skills?
 

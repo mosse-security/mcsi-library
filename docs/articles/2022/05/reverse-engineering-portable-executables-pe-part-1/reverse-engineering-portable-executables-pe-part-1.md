@@ -1,15 +1,17 @@
 :orphan:
 (reverse-engineering-portable-executables-pe-part-1)=
+
 # Reverse Engineering Portable Executables (PE) - Part 1
-While contemplating malware investigation, one of the most significant subjects to find out more about is understanding the *Portable Executable* (`PE`) file design. Portable Executables (PEs) are executable files that are used in Windows systems. They are typically created by compilers from source code, and then linked together with other library files to form a complete executable. However, it is also possible to reverse engineer a PE, which can be useful for analyzing malware or understanding how a program works. 
 
-## PE-format    
+While contemplating malware investigation, one of the most significant subjects to find out more about is understanding the _Portable Executable_ (`PE`) file design. Portable Executables (PEs) are executable files that are used in Windows systems. They are typically created by compilers from source code, and then linked together with other library files to form a complete executable. However, it is also possible to reverse engineer a PE, which can be useful for analyzing malware or understanding how a program works.
 
-The diagram at the top is a wellknown outline of the PE file. We will get into the info of each one of the structure’s areas, but what I want you to think of for now, is that the PE format is a manner the program informs the OS of its execution requirements. Let’s give an explanation for the concept in extra info. I know you might be pronouncing all we do is double click on an icon or call an EXE through a few shell software like, for example, `cmd.exe`, but yet behind the scenes, there are many activities being initiated.    
+## PE-format
+
+The diagram at the top is a wellknown outline of the PE file. We will get into the info of each one of the structure’s areas, but what I want you to think of for now, is that the PE format is a manner the program informs the OS of its execution requirements. Let’s give an explanation for the concept in extra info. I know you might be pronouncing all we do is double click on an icon or call an EXE through a few shell software like, for example, `cmd.exe`, but yet behind the scenes, there are many activities being initiated.
 
 ![PE-file basic structure](images/pefile.png)
 
-In this article we will recognition at the static side of the format, but we can cover the dynamic execution in later blog posts.    
+In this article we will recognition at the static side of the format, but we can cover the dynamic execution in later blog posts.
 
 Before being carried out, every software informs the OS of the special requirements that it wishes, on the way to run properly. These requirements can be, however aren't restricted to:
 
@@ -25,9 +27,9 @@ One of the significant ideas, which we just found out about is the way that an e
 
 ## But why is that concept also important to keep in mind?
 
-The answer is simple: When doing malware analysis, the samples you will be working with are 99% going to be dependent on some other libraries. Understanding how these libraries incorporate into the program is a vital for your investigation.   
+The answer is simple: When doing malware analysis, the samples you will be working with are 99% going to be dependent on some other libraries. Understanding how these libraries incorporate into the program is a vital for your investigation.
 
-Let's take an example. Imagine a program needs to encryption messages and send between computers via Internet. Simple, right? 
+Let's take an example. Imagine a program needs to encryption messages and send between computers via Internet. Simple, right?
 
 If this program does not depend on any libraries, it should have, within it, code to (Alice send message to Bob):
 
@@ -51,13 +53,13 @@ This is what we meant when saying that the program will have everything inside i
 
 There are such countless various definitions, however what you want to know is that it's a collection of code and information, which can be utilized by different projects simultaneously.
 
-Windows implementation of a shared library is called *Dynamic-link Library* (`DLL`).
+Windows implementation of a shared library is called _Dynamic-link Library_ (`DLL`).
 
-These libraries have the .dll file extension and furthermore utilize the `PE`-file design, as .exe records, as we will see later.   
+These libraries have the .dll file extension and furthermore utilize the `PE`-file design, as .exe records, as we will see later.
 
-The concept of libraries is very helpful for software developers. Imagine they need to develop different tools that all speak with the Internet. What they can do is create a library that is responsible of connecting to the Internet and doing different functionality such as downloading, uploading, checking connections, etc. 
+The concept of libraries is very helpful for software developers. Imagine they need to develop different tools that all speak with the Internet. What they can do is create a library that is responsible of connecting to the Internet and doing different functionality such as downloading, uploading, checking connections, etc.
 
-Another example, is tools for working with encryption algorithms. Malware developer can create a library with many functions: encrypt implementation, decrypt implementation, key generation. 
+Another example, is tools for working with encryption algorithms. Malware developer can create a library with many functions: encrypt implementation, decrypt implementation, key generation.
 
 If this something like ransomware, also is needed functions which worked with filesystem: enumerate disks, enumerate files and folders.
 
@@ -65,32 +67,32 @@ Then they can reuse that library with all the tools they develop.
 
 ## How the code and a library are put together to generate exe?
 
-In generally, stages of compiling are:   
+In generally, stages of compiling are:
 
 ![compilation phases of executable files](images/compiling-stages-programs.png)
 
 These are only illustrations to explain the idea.
 
-So as we saw, the *linker* assumes a significant part in adding those libraries to the last executable. In any case, there are various approaches to connecting which you should be aware:
+So as we saw, the _linker_ assumes a significant part in adding those libraries to the last executable. In any case, there are various approaches to connecting which you should be aware:
 
 - static linking
 - dynamic linking
 
 With static linking, at gather time, the linker will determine all the library necessities and copy the library into the last executable.
 
-Dynamic linking is actually divided into two types: implicit linking and explicit linking.    
+Dynamic linking is actually divided into two types: implicit linking and explicit linking.
 
-With *implicit linking*, the linker will interface the library referred to into the program, yet this library and the capacities referred to don't get added to the executable and are just stacked at execution time.
+With _implicit linking_, the linker will interface the library referred to into the program, yet this library and the capacities referred to don't get added to the executable and are just stacked at execution time.
 
 At execution time, the OS stacks this library for the
 executable and deals with all the memory addresses for the
 program.
 
-Whenever a program is utilizing *implicit linking*, then you will observe a part in the PE structure, which holds every one of the libraries being imported and the functions referred to.
+Whenever a program is utilizing _implicit linking_, then you will observe a part in the PE structure, which holds every one of the libraries being imported and the functions referred to.
 
-*Explicit linking* doesn't need an import segment nor does the linker interface the library to the program. This kind of connecting is done inside the actual code by the developer.
+_Explicit linking_ doesn't need an import segment nor does the linker interface the library to the program. This kind of connecting is done inside the actual code by the developer.
 
-You can think of explicit linking as a program with an add-on plugin engine system. The program can extend its capabilities with plugins that could be added and removed while the program is running. There is no need to recompile the program to extend the program, all you need is load the new plugin and you get the new features.    
+You can think of explicit linking as a program with an add-on plugin engine system. The program can extend its capabilities with plugins that could be added and removed while the program is running. There is no need to recompile the program to extend the program, all you need is load the new plugin and you get the new features.
 
 ## Which type of linking is better?
 

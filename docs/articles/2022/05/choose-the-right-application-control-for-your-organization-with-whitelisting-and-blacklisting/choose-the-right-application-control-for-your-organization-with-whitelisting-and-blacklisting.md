@@ -1,7 +1,7 @@
 :orphan:
 (choose-the-right-application-control-for-your-organization-with-whitelisting-and-blacklisting)=
+
 # Choose the Right Application Control for your Organization with Whitelisting and Blacklisting
- 
 
 Application whitelisting and application blacklisting are the two main approaches to application control. With no clear guidelines on which is superior, IT administrators are frequently torn when forced to choose between the two. We'll go over the advantages and disadvantages of both so you can decide which is best for your organization. Some businesses may station a security guard at their entrance to ensure that only employees with a valid ID are allowed in. This is the fundamental idea behind whitelisting; all entities requesting access will be validated against an already approved list and will be permitted only if they appear on that list. Employees fired for misconduct, on the other hand, are frequently placed on a banned list and denied entry. Blacklisting works in the same way: all entities that may be dangerous are typically placed on a collective list and blocked. Non-employees who attempt to gain entry, such as interview candidates, will be placed on the greylist because they are not on the whitelist or the blacklist. Based on the authenticity of their entry request, the security guard either grants or denies it. In a network, the administrator usually acts as a security guard and has complete control over everything that enters it.
 

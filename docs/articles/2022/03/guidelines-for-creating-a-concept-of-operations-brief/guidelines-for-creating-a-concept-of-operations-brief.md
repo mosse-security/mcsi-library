@@ -1,5 +1,6 @@
 :orphan:
 (guidelines-for-creating-a-concept-of-operations-brief)=
+
 # Guidelines for creating a CONOP Brief
 
 A Concept of Operations (CONOP) is a critical document that outlines a commander's intent and plan for a cyber operation. This document helps to ensure that all associated parties are on the same page, and also serves as a point of reference for future operations. By creating a CONOP, a commander or team leader can better assess and mitigate risk, while also clarifying the desired outcome of the operation.

@@ -50,7 +50,7 @@ Application vulnerabilities are weaknesses in software that can be exploited by 
 * [](keep-your-web-application-safe-by-preventing-sql-injections)
 * [](weaknesses-in-default-configuration-settings)
 * [](stop-idor-attacks-before-they-happen)
-* [](dont-let-race-conditions-bug-you)
+* [](avoid-race-conditions-with-our-easy-to-follow-strategies)
 * [](be-informed-be-safe-design-vulnerabilities)
 
 ### Cloud Services Penetration Testing

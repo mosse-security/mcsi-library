@@ -1,5 +1,6 @@
 :orphan:
 (the-importance-of-freedom-of-movement-when-running-red-team-exercises)=
+
 # The importance of Freedom of Movement when running Red Team exercises
 
 Freedom of Movement is an important principle when running Red Team exercises. This allows Red Team members to move throughout the organization’s network and systems to carry out their mission. By having this freedom, Red Team members can better emulate an actual attacker and identify potential security vulnerabilities.
@@ -32,6 +33,6 @@ This line of thinking will surely cause a great deal of discontent within the co
 
 Without freedom of movement, the Red Team won't be able to effectively test the organization's defenses. Restricting the Red Team's movements will only make it easier for the defenders to detect and stop them. In order to truly test the organization's defenses, the Red Team needs to be able to move around freely.
 
-Of course, there are some limits to what the Red Team can do. There are certain areas of the network that are off-limits, and the Red Team is not allowed to damage or  abuse  the systems they are attacking. But within these limits, the Red Team should be able to move around freely.
+Of course, there are some limits to what the Red Team can do. There are certain areas of the network that are off-limits, and the Red Team is not allowed to damage or abuse the systems they are attacking. But within these limits, the Red Team should be able to move around freely.
 
 > **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

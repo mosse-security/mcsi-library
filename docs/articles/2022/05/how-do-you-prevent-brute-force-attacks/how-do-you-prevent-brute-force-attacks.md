@@ -1,7 +1,7 @@
 :orphan:
 (how-do-you-prevent-brute-force-attacks)=
+
 # How Do You Prevent Brute Force Attacks?
- 
 
 If you want to recover a password, the simplest method is to use a brute force attack. Is brute force really effective? Well, many users appear to utilize birthdates or other historical dates as passwords, or other readily guessed numbers or phrases. Today we are going to examine what a brute force attack is and how we can protect our systems against it.
 

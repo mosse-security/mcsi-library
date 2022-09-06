@@ -41,6 +41,7 @@ Windows-based and Unix-based systems.
 Although OS X has a unique file system, it has the characteristics of Unix.
 
 Files on our hard drive have their distinctive markup. They contain:
+
 - name
 - list of related directories that link to it.
 

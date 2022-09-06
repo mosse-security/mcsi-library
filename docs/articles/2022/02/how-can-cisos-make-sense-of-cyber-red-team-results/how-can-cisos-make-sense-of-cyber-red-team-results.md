@@ -41,12 +41,12 @@ This is generally the most sensitive metric: how quickly did the defenders ident
 As a CISO, you're likely to witness your employees react defensively when their performance is evaluated, and you may feel upset if the Red Team uncovers significant gaps in skills and procedures. This is where things start to get real: have you improved defences to the point where the organization you guard could withstand a major cyber event?
 
 - How long did the Red Team go undetected?
-- *Could the Red Team still achieve its goals despite being detected?*
+- _Could the Red Team still achieve its goals despite being detected?_
 - How far must a real threat actor go to get detected by the Blue Team?
 - Could the Blue Team remove the Red Team from the network?
 - Could the Blue Team prevent or deter the Red Team from attacking again?
 - How well did the Blue Team follow their incident response procedures?
-- *If the Red Team launched a second attack campaign with the knowledge their obtained from the first one, how prepared is now the Blue Team?*
+- _If the Red Team launched a second attack campaign with the knowledge their obtained from the first one, how prepared is now the Blue Team?_
 
 ## Metric 5: Goals Achieved
 

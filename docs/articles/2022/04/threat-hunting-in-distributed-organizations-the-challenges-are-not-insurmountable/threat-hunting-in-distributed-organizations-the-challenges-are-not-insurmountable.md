@@ -1,5 +1,6 @@
 :orphan:
 (threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable)=
+
 # Threat Hunting in Distributed Organizations: The Challenges are not Insurmountable
 
 Organizations are under constant threat from cyber attacks, and the traditional security perimeter is no longer adequate to protect them. To combat these threats, organizations are turning to threat hunting, which is the proactive search for indicators of compromise. However, threat hunting in a distributed organization can be challenging, due to the large number of devices and the vast amount of data that must be processed. However, these challenges are not insurmountable, and there are a number of steps that organizations can take to ensure effective threat hunting.
@@ -29,7 +30,7 @@ To get started with threat hunting in a distributed enterprise, each security te
 3. Train their team on threat hunting procedures and make sure they are familiar with the tools they will be using. Each team must be aware of how to use the tools and can supplement the tool's limitations. They also need to know if the tool is producing the relevant data to decide whether threats exist.
 
 4. Conduct regular threat hunts and share information about any threats found with the other security teams in the enterprise. Threat hunts should be performed periodically, but the threat hunters must also read threat intelligence reports and stay up-to-date on the changing TTPs of threat actors. Information learned from the reports can help generate hypotheses to perform proactive hunts and determine if vulnerabilities currently exist in the organization that threat actors could exploit or may have already exploited.
-   
+
 Each security team in a distributed enterprise can effectively hunt and provide a more comprehensive analysis of potential threats by following these steps. However, in the absence of a threat hunting team at each site, the same steps above are necessary for organizations with only one threat hunter.
 
 ## Summary

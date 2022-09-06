@@ -1,7 +1,7 @@
 :orphan:
 (what-is-adware)=
+
 # What is Adware?
- 
 
 Spyware and adware have different motivations than viruses, worms, and backdoors. Although viruses, worms, and backdoors are often harmful and attack the local host, spyware and adware are frequently motivated by financial gain. As we have covered in the previous blog, spyware is known for tracking your surfing patterns and routing your Internet browser to sites that benefit their producers.
 

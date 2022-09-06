@@ -1,7 +1,7 @@
 :orphan:
 (follow-the-separation-of-duties-principle-for-a-safer-organization)=
+
 # Follow the Separation of Duties Principle for a Safer Organization
- 
 
 One of the oldest security principles still in use today is privilege separation. Simply put, it argues that no single person should have sufficient authority to cause a catastrophic event to occur. Separation of responsibilities guarantees that tasks are distributed to workers in such a way that no single employee has complete control of a process from start to finish. Separation of tasks entails each individual having a separate job, allowing everyone to specialize in a certain area.
 

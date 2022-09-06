@@ -1,7 +1,7 @@
 :orphan:
 (perimeter-security-defend-your-network-against-malicious-attacks)=
+
 # Perimeter Security: Defend Your Network Against Malicious Attacks
- 
 
 Perimeter Security technologies offer a wide range of security services, from basic firewall protection to end-to-end network and business security. In essence, perimeter security is a defense system built around your network to prevent malicious attacks from entering.
 
@@ -9,11 +9,11 @@ Perimeter Security technologies offer a wide range of security services, from ba
 
 Hackers launch attacks every 39 seconds, or 2,244 times per day. Small businesses are the target of 43 percent of cyber-attacks, and 64 percent of businesses have experienced web-based attacks. Phishing and social engineering attacks were experienced by 62% of respondents. Malicious code and botnets were experienced by 59% of businesses, and denial of service attacks were experienced by 51%.
 
-The statistics are concerning, but this is largely due to the fact that many businesses do not adequately defend their networks. When deciding what type of security to implement, cost can be a factor. The average cost of a ransomware attack on a business is $133,000, so cybersecurity should be viewed as an investment rather than an expense. 
+The statistics are concerning, but this is largely due to the fact that many businesses do not adequately defend their networks. When deciding what type of security to implement, cost can be a factor. The average cost of a ransomware attack on a business is $133,000, so cybersecurity should be viewed as an investment rather than an expense.
 
 ## What Is Perimeter Security?
 
-In the IT world, perimeter security entails protecting a company's network boundaries from hackers, intruders, and other undesirable individuals. It entails detecting surveillance, analyzing patterns, recognizing threats, and dealing with them effectively. Every private network is surrounded by a perimeter. It acts as a secure barrier between networks, such as your company's private intranet and the 'public' internet. 
+In the IT world, perimeter security entails protecting a company's network boundaries from hackers, intruders, and other undesirable individuals. It entails detecting surveillance, analyzing patterns, recognizing threats, and dealing with them effectively. Every private network is surrounded by a perimeter. It acts as a secure barrier between networks, such as your company's private intranet and the 'public' internet.
 
 In the cases of big organizations, the security perimeter is secured by the network support company, or, in some cases, the internal IT department, deploys systems that keep your network secure from public web threats. Hacking attempts, malware, ransomware, and other infiltration attempts are among the threats.
 
@@ -99,7 +99,7 @@ Enforcing BYOD (bring your own device) and MDM (mobile device management) polici
 
 **5. Use password managers**
 
-To ensure password security, require employees to use encrypted password software. Password managers that are popular include: 1Password, LastPass etc. 
+To ensure password security, require employees to use encrypted password software. Password managers that are popular include: 1Password, LastPass etc.
 
 **6. Training on best security practices**
 

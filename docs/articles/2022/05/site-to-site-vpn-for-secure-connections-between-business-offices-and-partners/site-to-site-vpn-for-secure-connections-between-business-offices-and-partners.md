@@ -1,7 +1,7 @@
 :orphan:
 (site-to-site-vpn-for-secure-connections-between-business-offices-and-partners)=
+
 # Site-to-Site VPN for Secure Connections Between Business Offices and Partners
- 
 
 As we have learned, a Virtual Private Network allows two networks to communicate securely across a public network. A VPN also enables a server-to-server connection, as opposed to a client-to-server connection, allowing two networks to establish an extended intranet or extranet. In this blog post, we will cover how we can connect distant branches of our company or partners securely with a site-to-site VPN.
 

@@ -1,5 +1,4 @@
 :orphan:
-
 (review-and-testimonial-divya-lakshmanan)=
 
 # Review and Testimonial: Divya Lakshmanan
@@ -65,11 +64,9 @@ For video submissions, a screencast of that exercise’s outcome was required, w
 
 I did not have to learn video editing skills to make the video submissions. Making a good professional video was easy. All I had to do was record a screencast of an exercise in action and include the required details. Tools like Tiny Take and Open Broadcaster Software (OBS) proved handy here. An exercise in the MCSI Remote Cybersecurity Internship (MRCI) curriculum, walked me through this process.
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pg4xTg0_UV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Exercise Solution Video: Analyse Malware From A Memory Dump Using The Volatility Framework*
+_Exercise Solution Video: Analyse Malware From A Memory Dump Using The Volatility Framework_
 
 ## Were you comfortable with how the exercises were graded upon submission?
 
@@ -77,12 +74,9 @@ Yes! After an Instructor reviews the solution for an exercise, it is marked as e
 
 One thing that impressed me was, how the MCSI platform redefined the word ‘failure’. In traditional academia, a failure is seen as a termination point. The human mind gets wired to avoid failure at any cost! Refreshingly, on the MCSI platform, when an exercise has been marked as ‘fail’ and you wish to attempt it again, you are presented with this message: ‘Failing a submission is an opportunity to try harder and learn some more’. This message was a reminder that we can always keep improving.
 
-
-
 <img src="images/divya-certificate.png" alt="Divya Certificate of Exercise Completion"/>
 
 <i>Certificate of Exercise Completion: Unpack UPX Protected Files</i>
-
 
 ## How do you expect your career to advance with the skills you have gained from the Online Learning Platform?
 

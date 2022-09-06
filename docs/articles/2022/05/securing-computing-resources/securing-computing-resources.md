@@ -1,9 +1,9 @@
 :orphan:
 (securing-computing-resources)=
-# Securing Computing Resources
- 
 
-In this blog post, we will deep dive into components of computing resources and their security implications. Before learning how to secure a computer architecture, we need to learn its building blocks. Let's start by understanding the importance and components of compute resources. Cloud computing provides handy, on-request online access to collective customizable and flexible resources. 
+# Securing Computing Resources
+
+In this blog post, we will deep dive into components of computing resources and their security implications. Before learning how to secure a computer architecture, we need to learn its building blocks. Let's start by understanding the importance and components of compute resources. Cloud computing provides handy, on-request online access to collective customizable and flexible resources.
 
 These are resources such as:
 

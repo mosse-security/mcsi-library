@@ -1,7 +1,7 @@
 :orphan:
 (how-to-stop-smtp-open-relays)=
+
 # How to Stop SMTP Open Relays
- 
 
 SMTP stands for Simple Mail Transfer Protocol. This protocol allows email messages to be sent from one computer to another. The Internet was originally designed to allow computers to communicate directly with each other, without human intervention. In order to send emails, you need to know the address of the recipient (the person or company who receives the message).
 

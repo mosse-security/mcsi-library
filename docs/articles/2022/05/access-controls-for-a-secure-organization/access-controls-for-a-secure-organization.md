@@ -1,7 +1,7 @@
 :orphan:
 (access-controls-for-a-secure-organization)=
+
 # Access Controls: For a Secure Organization
- 
 
 Every organization has resources that are used by various entities on a daily basis. The retrieval of information from these resources is referred to as access. These resources, however, should be accessed in a way that does not jeopardize their security. Access controls enable organizations to ensure secure access to resources.
 
@@ -10,19 +10,21 @@ Every organization has resources that are used by various entities on a daily ba
 Access controls are security countermeasures that govern how individuals can access resources in accordance with security policies. Access controls can be administrative, physical, or technical in nature. These controls enforce how individuals are identified, authenticated, and authorized in order to gain controlled access to resources.
 
 ## Importance of Access Controls to an Organization:
+
 It is crucial for an organization to protect its assets, especially those that are critical. Access controls serve as the first line of defense against unauthorized access to the system and network resources. These controls give an organization the ability to protect the confidentiality, integrity, and availability of its resources.
 
 The absence of such measures, or improper configuration of these controls, can result in unfavorable outcomes such as data breaches, theft of sensitive/critical company information, malware injection, and other issues.
 
 ## The Three A's of Access Control:
+
 When a user seeks access to a resource, three critical processes should take place. These three steps are authentication, authorization, and accountability.
 
 <u>Authentication:</u>
 A user must submit a proof of his identification before gaining access to a resource. The user's identity can take many forms, including username, user ID, account number, and so on. Authentication is the process of verifying a user's identity. There are three general forms of Authentication:
 
-* Something you know e.g. a password, PIN, or a lock combination
-* Something you have e.g. a badge, a swipe card, or a smart card
-* Something you are e.g. a fingerprint, a retina scan, or facial recognition
+- Something you know e.g. a password, PIN, or a lock combination
+- Something you have e.g. a badge, a swipe card, or a smart card
+- Something you are e.g. a fingerprint, a retina scan, or facial recognition
 
 <u>Authorization:</u>
 The system authorizes the user to access the resource after successful authentication. The process of granting or revoking access to a resource, or the permission to perform some action on it, is known as authorization.
@@ -31,6 +33,7 @@ The system authorizes the user to access the resource after successful authentic
 Accountability refers to tracking an authenticated user's activity in a system so that he or she can be held responsible for their actions. The only way to guarantee accountability is for the user to be properly authenticated and his activities to be recorded using various security controls.
 
 ### Important Principles regarding user access:
+
 There are three key principles to consider when defining user access permissions on a system or resource. These principles are as follows:
 
 <u>Least Privilege Principle:</u> According to the principle of least privilege, users should have no more access than is strictly required to accomplish their job responsibilities.
@@ -40,17 +43,21 @@ There are three key principles to consider when defining user access permissions
 <u>Separation of Duties:</u> The separation of duties principle refers to the requirement of multiple people to execute a critical task. The goal of the separation of duties is to ensure that no single user has sufficient access or power to jeopardize a resource's security. As a result, two or more parties must operate in concert to act against the security policy.
 
 ## Access Control Administration Approaches:
+
 There are two main administration approaches utilized in the development of access control systems:
 
 ### Centralized Access Control:
+
 Only one entity is responsible for enforcing access control mechanisms in Centralized Access Control. This type of access control approach allows for consistent, reliable, and strict access. Because only one entity is in charge of access provision, all user permissions are reviewed and processed by that entity before being granted to the user.
 
 ### Decentralized Access Control:
+
 Decentralized access control is also known as distributed access control. It enables those closest to the resources to make access decisions. This method of access control is better suited to organizations with multiple business units and no strict requirements for centralized access control.
 
 Decentralized access control gives each business unit more power, and user access provisioning happens faster than with centralized access control. However, there are security risks involved in this approach. It is because different departments have different levels of access control and security policies.
 
 ## Access Control Models:
+
 It is up to an organization to implement different kinds of access controls that meet both its business and security needs. There are various access control models that can help businesses of all sizes implement these controls. Access Control models are frameworks that govern how subjects can access objects.
 
 The subject is the entity such as an individual or a program that requests access to an object.
@@ -69,7 +76,7 @@ DAC models are extremely flexible because they allow users to control who has ac
 
 ### MAC (Mandatory Access Control):
 
-The Mandatory Access Control Model is much stricter and more organized than the Discretionary Access Control Model. It does not allow users to grant access to other users. Instead, it makes access control decisions based on security labels and security clearance. The security clearance of the subjects and data classification labels have different levels such as Top Secret, Secret, Confidential, and so on. 
+The Mandatory Access Control Model is much stricter and more organized than the Discretionary Access Control Model. It does not allow users to grant access to other users. Instead, it makes access control decisions based on security labels and security clearance. The security clearance of the subjects and data classification labels have different levels such as Top Secret, Secret, Confidential, and so on.
 
 A user or subject may have access to an object only if his security clearance is equal to or higher than the corresponding data security label. For example, if a user with secret security clearance requests access to an object with a Top secret security label, the request will be denied because the clearance is less than the security label. A MAC model enhances security by emphasizing data confidentiality. Subjects in the MAC model cannot share resources with other subjects who have a lower security clearance.
 
@@ -106,6 +113,7 @@ The Risk Adaptive Access Control model is a dynamic access control model based o
 The subject's identity and security clearance, the subject's need to know, the authentication technique employed, the strength of the communication session, and the subject's physical location are all utilized to assess risk. For example, if a user attempts to access his email account from an unfamiliar device, additional controls will be required to validate the user's identity before access is granted.
 
 ## Logical Access Controls:
+
 Logical access controls are software/technical controls that verify a user's identity, assign access privileges, and audit user activity. These safeguards ensure that unauthorized parties do not gain access to resources and that their confidentiality, integrity, and availability are not jeopardized. Some examples of logical access controls are as follows:
 
 ### Access Control Matrix:

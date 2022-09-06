@@ -1,16 +1,18 @@
 :orphan:
 (the-role-of-security-policies-in-an-organization)=
+
 # The Role of Security Policies in an Organization
- 
 
 Organizations nowadays store and process vast amounts of data that must be safeguarded against threats. As a result, protection measures must be devised in accordance with the company's business and security requirements. The company's top management bears the ultimate responsibility for information asset protection. They must be knowledgeable of all security laws and regulations that the company is required to follow, and they must ensure that every employee understands the importance of security. As a result, it is critical that the company's executive management enforce a strong security program that not only protects its assets but also generates a favorable return on investment.
 
 A company's security program establishes its long-term security strategy, which is documented using security policies, procedures, standards, guidelines, and baselines. This article discusses security policies, their importance to organizations, and the different forms of security policies.
 
 ## What are Security Policies:
+
 Security Policies are top-level management directives that define the role that the security plays in the organization. Security policies are written documents that outline an organization's security goals and missions, as well as how it shall safeguard its information assets. These policies also establish the consequences for individuals who are found to be acting against them.
 
 ## The importance of Security Policies in an Organization:
+
 Security policies play a great role in developing the foundation of the security program in an organization. They lay the groundwork on which the rest of the program will be developed. The security standards, procedures, guidelines, and baselines will be developed by security professionals based on the rules defined in the security policy.
 
 The success of the security program in dealing with threats and risks is determined by how well the organization complies with the security policies established by management. Thus, security policies play a significant role in defining an organization's critical assets and emphasizing the importance of their securing them. These policies govern the acts, behavior, and accountability of its employees in terms of security. These policies also highlight the support for the security program from top management, as well as the repercussions of non-compliance.
@@ -18,6 +20,7 @@ The success of the security program in dealing with threats and risks is determi
 The security policy documents must be reviewed and updated on a regular basis, as well as when the organization experiences major changes such as the acquisition of another business unit or a merger with another company. These documents should be dated and version-controlled at all times. These policies should be written in plain language that all employees can comprehend and follow. The organization should also make sure that the policies are made readily available to the concerned individuals and that they understand their responsibilities.
 
 ## Three main Categories of Security Policies:
+
 There are three main categories of security policies in an organization. Let us review them one by one:
 
 <u>1. Organizational Security Policy:</u>
@@ -28,7 +31,7 @@ The organizational security policy must support the company's business objective
 <u>2. Issue-Specific Policy:</u>
 An issue policy is also referred to as the functional policy. This policy is mostly related to the technology used in the organization to perform certain business functions and the security issues that arise due to the use of this technology. These policies are developed to address the security issues related to the organization that cannot be discussed in detail in the main organizational policy. The purpose of the issue-specific policy is to describe how the organization shall handle the security issue and give directions to its employees about their actions surrounding it.
 
-Issue-Specific policies are developed whenever an organization adopts new technologies or whenever it is faced with a new threat to any of its business functions.  Because technologies evolve more rapidly, issue-specific policies must be updated and revised more frequently than organizational security policies.
+Issue-Specific policies are developed whenever an organization adopts new technologies or whenever it is faced with a new threat to any of its business functions. Because technologies evolve more rapidly, issue-specific policies must be updated and revised more frequently than organizational security policies.
 
 Some examples of issue-specific policies include email usage policy, data encryption policy, media disposal policy, and so on.
 
@@ -36,6 +39,7 @@ Some examples of issue-specific policies include email usage policy, data encryp
 A System-Specific Policy is concerned with management's decisions concerning actual systems that host or process information, such as computers, networks, or applications. A system-specific policy explains how these systems, as well as the sensitive information held or processed by these systems, are safeguarded, who has access to these systems/information, what activities are permitted, and how the user auditing should be carried out. A system-specific policy is created for a single system or a collection of systems that are similar in some way.
 
 ## Essential Security Policies in an organization:
+
 The following are some of the most essential security policies utilized in an organization:
 
 <u>Acceptable Use Policy:</u>
@@ -84,7 +88,7 @@ The Physical Security Policy establishes the rules for granting, restricting, an
 The policy also specifies how access to office space and equipment will be restricted, as well as the safeguards that will be taken to protect them from natural and man-made threats. This policy also specifies who is responsible for its implementation and maintenance. The Physical Security Policy lays down the consequences of violation of this policy.
 
 <u>Disaster Recovery Policy:</u>
-The purpose of the Disaster Recovery Policy is to specify how the organization will recover its critical IT infrastructure and services within a set deadline in the event of a disaster. The policy outlines all the steps and the tools to be used to recover its critical assets. This policy specifies the recovery point objective(The minimum point in time to which the critical data must be backed up) as well as the recovery time objective(The amount of time before which critical business functions or equipment must be recovered/restored) for the disaster recovery. 
+The purpose of the Disaster Recovery Policy is to specify how the organization will recover its critical IT infrastructure and services within a set deadline in the event of a disaster. The policy outlines all the steps and the tools to be used to recover its critical assets. This policy specifies the recovery point objective(The minimum point in time to which the critical data must be backed up) as well as the recovery time objective(The amount of time before which critical business functions or equipment must be recovered/restored) for the disaster recovery.
 
 The policy assigns duties and responsibilities for dealing with the disaster and recovering from it, as well as employees who will interact with media officials. The policy also allocates the resources essential for disaster response and recovery. This policy comprises a list of people who must be notified about the disaster as well as the communication channel that is used during the disaster recovery time period.
 
@@ -92,26 +96,26 @@ The policy assigns duties and responsibilities for dealing with the disaster and
 
 This section offers suggestions for writing concise and efficient security policies. Some of these suggestions include the following:
 
-* Start by identifying your company's important assets and conducting a risk assessment. This stage will make it easier for you to come up with a strategy for dealing with the security risks around those assets and safeguarding them.
+- Start by identifying your company's important assets and conducting a risk assessment. This stage will make it easier for you to come up with a strategy for dealing with the security risks around those assets and safeguarding them.
 
-* Clearly define the purpose of the policy. The purpose of the policy will help the readers understand the need for security policy and what it aims to accomplish by its enforcement.
+- Clearly define the purpose of the policy. The purpose of the policy will help the readers understand the need for security policy and what it aims to accomplish by its enforcement.
 
-* Define the security objectives of the policy. The typical security objectives are confidentiality, integrity, and availability of information systems and information assets. Your policy should clearly state the objective it wishes to achieve through this policy.
+- Define the security objectives of the policy. The typical security objectives are confidentiality, integrity, and availability of information systems and information assets. Your policy should clearly state the objective it wishes to achieve through this policy.
 
-* Clearly describe all of the laws and regulations that apply to your organization. Developing your policy in accordance with security laws and regulations can not only help you pass a security audit but will also save your company money in fines due to non-compliance.
+- Clearly describe all of the laws and regulations that apply to your organization. Developing your policy in accordance with security laws and regulations can not only help you pass a security audit but will also save your company money in fines due to non-compliance.
 
-* Specify all the roles and responsibilities for policy implementation. This will aid the target audience in recognizing their roles in accomplishing the policy's goals.
+- Specify all the roles and responsibilities for policy implementation. This will aid the target audience in recognizing their roles in accomplishing the policy's goals.
 
-* Use plain and formal language throughout the policy documents. Make sure you convey your message in a way that is clearly understood by employees at every level of the organization. This will ensure that the readers follow the rules and are aware of their responsibilities.
+- Use plain and formal language throughout the policy documents. Make sure you convey your message in a way that is clearly understood by employees at every level of the organization. This will ensure that the readers follow the rules and are aware of their responsibilities.
 
-* Clearly explain the policy's scope and intended audience. This will aid in the development of policy in accordance with relevant assets and policy readers.
+- Clearly explain the policy's scope and intended audience. This will aid in the development of policy in accordance with relevant assets and policy readers.
 
-* Take into account the input of the various departments while formulating security policies that affect them. This will aid in the development of an effective security policy that enhances the functions of a business unit.
+- Take into account the input of the various departments while formulating security policies that affect them. This will aid in the development of an effective security policy that enhances the functions of a business unit.
 
-* Define explicit consequences for failing to follow the security policies. This will guarantee that employees are aware of the penalties and are following security policies.
+- Define explicit consequences for failing to follow the security policies. This will guarantee that employees are aware of the penalties and are following security policies.
 
-* Include any extra references to other policies, regulatory laws/regulations manuals, or other supporting documents if necessary.
+- Include any extra references to other policies, regulatory laws/regulations manuals, or other supporting documents if necessary.
 
-* Make use of the policy templates from credible sources that are available on the internet. The SANS Institute features a variety of policy templates that can be found on its [website](https://www.sans.org/information-security-policy/). These templates were created in collaboration with security specialists in the industry. They can serve as a good starting point for policy formulation and can be customized to fit your company's needs.  
+- Make use of the policy templates from credible sources that are available on the internet. The SANS Institute features a variety of policy templates that can be found on its [website](https://www.sans.org/information-security-policy/). These templates were created in collaboration with security specialists in the industry. They can serve as a good starting point for policy formulation and can be customized to fit your company's needs.
 
 > **Interested in information security governance, risk and compliance? Enrol in [MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**

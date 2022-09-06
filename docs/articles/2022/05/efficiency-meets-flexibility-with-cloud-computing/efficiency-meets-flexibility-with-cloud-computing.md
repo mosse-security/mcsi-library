@@ -1,7 +1,7 @@
 :orphan:
 (efficiency-meets-flexibility-with-cloud-computing)=
+
 # Efficiency Meets Flexibility With Cloud Computing
- 
 
 Cloud computing has come to be a big topic in the business and tech world in the past few years. Cloud computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence via the Internet ("the cloud") in order to provide faster innovation, more flexible resources, and economies of scale.
 

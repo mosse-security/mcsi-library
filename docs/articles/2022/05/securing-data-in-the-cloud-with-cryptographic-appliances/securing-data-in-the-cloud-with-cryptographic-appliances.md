@@ -1,7 +1,7 @@
 :orphan:
 (securing-data-in-the-cloud-with-cryptographic-appliances)=
-# Securing Data in the Cloud with Cryptographic Appliances
 
+# Securing Data in the Cloud with Cryptographic Appliances
 
 In this blog, we will go through the various forms of encryption, where they are utilized, and how they are employed in the cloud.
 

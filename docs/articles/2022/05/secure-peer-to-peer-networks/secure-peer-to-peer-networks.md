@@ -1,7 +1,7 @@
 :orphan:
 (secure-peer-to-peer-networks)=
+
 # Secure Peer-to-Peer Networks
- 
 
 Peer-to-peer networks are vulnerable. There are several ways that malicious code can spread from user to user. For example, some P2P networks rely on file-sharing programs called BitTorrent. These programs automatically download new files from other users. If a virus infects the program, it can spread rapidly. How can you defend against malicious content as a P2P user?
 

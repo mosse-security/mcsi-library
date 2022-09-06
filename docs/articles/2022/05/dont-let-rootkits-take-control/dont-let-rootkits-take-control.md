@@ -1,7 +1,7 @@
 :orphan:
 (dont-let-rootkits-take-control)=
+
 # Don't Let Rootkits Take Control
- 
 
 A rootkit is a malicious software program that is designed to gain access to a computer system without being detected. Once a rootkit is installed on a system, it can be used to remotely control the system, steal sensitive data, or perform other malicious activities. Rootkits are difficult to detect and remove and can be used to establish a persistent presence on a system.
 
@@ -31,7 +31,7 @@ An application rootkit is a type of rootkit that is intended to hide the existen
 
 ## Stuxnet
 
-*Let us now look at one example of Rootkit.*
+_Let us now look at one example of Rootkit._
 
 Stuxnet is a rootkit meant to attack Iran's nuclear infrastructure, namely the Natanz uranium enrichment facility. The malware was originally designed to target the programable logic controllers and was carried through windows computers in search of Siemens Step 7 software, which is software used for automating and monitoring industrial equipment. When the rootkit discovers a computer running the aforementioned software, it begins sending malicious instructions to the equipment and a disguised message to the main controller indicating that everything is normal. The rootkit was eventually adapted to target more vital energy facilities.
 

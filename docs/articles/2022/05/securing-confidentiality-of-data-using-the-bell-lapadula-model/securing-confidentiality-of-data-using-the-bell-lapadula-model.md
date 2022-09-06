@@ -1,7 +1,7 @@
 :orphan:
 (securing-confidentiality-of-data-using-the-bell-lapadula-model)=
+
 # Securing Confidentiality of Data using the Bell-LaPadula Model
- 
 
 In an organization, you can secure information in many ways. In this article, we are going to give a general overview of the importance of security models and discuss the rules for securing data using the Bell La Padula Model and its benefits and disadvantages.
 

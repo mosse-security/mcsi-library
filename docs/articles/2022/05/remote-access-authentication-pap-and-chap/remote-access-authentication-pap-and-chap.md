@@ -1,7 +1,7 @@
 :orphan:
 (remote-access-authentication-pap-and-chap)=
+
 # Remote Access Authentication: PAP and CHAP
- 
 
 This blog article will discuss two username/password authentication protocols: Password Authentication Protocol and The Challenge Handshake Authentication Protocol. By the completion of this page, you'll know if you should use one of two methods for authentication of point-to-point packets.
 

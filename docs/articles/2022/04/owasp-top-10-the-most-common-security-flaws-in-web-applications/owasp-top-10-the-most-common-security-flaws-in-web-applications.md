@@ -1,6 +1,8 @@
 :orphan:
 (owasp-top-10-the-most-common-security-flaws-in-web-applications)=
+
 # OWASP Top 10: The Most Common Security Flaws in Web Applications
+
 Web applications are created with a major emphasis on functionality, not security. As a result of this focus, malicious actors exploit vulnerabilities to steal/modify sensitive information or carry out unauthorized activities. Security always comes as an afterthought in the form of patches to deal with security flaws in web applications.
 
 A web application vulnerability is a flaw or weakness in the design of the application that can be exploited by malicious entities. The result of the vulnerability being exploited can be one of the following:
@@ -12,25 +14,27 @@ A web application vulnerability is a flaw or weakness in the design of the appli
 - Deletion of the Data
 - Failure of the application
 
-With the rise of cyber-attacks, businesses all over the world have begun to transition from a reactive to a proactive strategy to web application security. It is important to integrate secure coding practices at each stage of the development of these applications. 
+With the rise of cyber-attacks, businesses all over the world have begun to transition from a reactive to a proactive strategy to web application security. It is important to integrate secure coding practices at each stage of the development of these applications.
 
-The advantage of building secure code from the beginning is that it helps protect web applications against different risks and vulnerabilities. This saves the companies from the reputational and monetary losses incurred due to the commonly occurring security weaknesses. 
+The advantage of building secure code from the beginning is that it helps protect web applications against different risks and vulnerabilities. This saves the companies from the reputational and monetary losses incurred due to the commonly occurring security weaknesses.
 
 ## OWASP Foundation
 
 OWASP (Open Web Application Security Project) is a non-profit organization dedicated to strengthening the security of web applications. OWASP is a worldwide community of security specialists who collaborate to create publicly available educational tools and training material. This foundation's main goal is to assist developers in developing secure web applications.
 
 ## What is OWASP Top 10
+
 Every two to three years, the OWASP top 10 paper is published, which highlights the top ten vulnerabilities in web applications. It also includes prevention techniques for protecting your apps against these flaws. This list is the set of most common vulnerabilities that have been exploited most often and is developed by experts and mentors from the OWASP community. The main purpose of this report is to educate the developers about the most common security weaknesses in web apps and how they can incorporate the guidelines given in this document to produce web applications that are optimized and secure.
 
 The advantage of using this document to produce web apps is that it ensures compliance with security regulations and maintains a high standard of secure code development.
 
 ## OWASP Top 10 2021
+
 Three new categories have been added to the OWASP report for the year 2021. It also changed the title and scope of four earlier categories, as well as consolidated them. This is the list of 2021's most commonly occurring security flaws in web apps:
 
 1. Broken Access Control
 2. Cryptographic Failures
-3. Injection 
+3. Injection
 4. Insecure Design
 5. Security Misconfiguration
 6. Vulnerable and Outdated components
@@ -40,6 +44,7 @@ Three new categories have been added to the OWASP report for the year 2021. It a
 10. Server Side Request Forgery
 
 ### What Each Vulnerability means and how can you prevent it?
+
 This section will give you a description of each vulnerability, its causes, and techniques to prevent it.
 
 #### Broken Access Control:
@@ -66,11 +71,10 @@ Broken access control can be prevented by:
 - Access to the resources except for the public ones should be denied by default
 - Instead of allowing the users to create, read, edit, or delete any record, use access control lists and role-based authentication mechanisms
 - Apply rate-limiting techniques (restrict an individual from performing a repeated action in a certain time interval) to discourage automated attacks
-- Disable webserver directory listing 
+- Disable webserver directory listing
 - Log access control failures and alert the administrator in case of some unusual activity
 - Session tokens or cookies should be expired after a certain time interval to prevent replay attacks
 - Only allow trusted sites to access the website resources and implement proper server-side security policies
-
 
 #### Cryptographic Failures:
 
@@ -82,17 +86,17 @@ Companies these days store and use a plethora of sensitive information such as p
 
 Data at rest means information that is stored in external or auxiliary storage devices such as hard disks, solid-state devices, optical disks, etc., Whereas data in motion means data that is moving between computing nodes over a data network such as the internet.
 
-If a web application doesn't use strong encryption algorithms to protect the sensitive data, then the attackers can easily gain access to this data and commit crimes such as credit card fraud, identity theft or cause other damage. 
+If a web application doesn't use strong encryption algorithms to protect the sensitive data, then the attackers can easily gain access to this data and commit crimes such as credit card fraud, identity theft or cause other damage.
 
 If certain data falls under privacy laws such as GDPR (General Data Protection Regulation) or regulations for financial institutions such as PCI DSS (Payment Card Industry Data Security Standard) then it requires specific security safeguards. Compliance failures with the privacy laws or regulations can result in huge penalties or financial/reputational damage for the organization.
- 
+
 _Causes:_
 
 Cryptographic failures vulnerability can arise in the following situations:
 
 - Sensitive data being transported over unprotected channels (HTTP, SMTP, FTP, etc.)
 
-- Use of old/weak encryption algorithms or deprecated Hash functions (MD5 or SHA-1) 
+- Use of old/weak encryption algorithms or deprecated Hash functions (MD5 or SHA-1)
 
 - Use of default/weak cryptographic keys or reuse of previously generated weak keys. Lack of key rotation and management
 
@@ -100,7 +104,7 @@ Cryptographic failures vulnerability can arise in the following situations:
 - Initialization vectors being ignored, reused, or lack cryptographic strength
 - Insufficient randomness used in cryptographic function making the ciphertext predictable
 - Passwords are being used as cryptographic keys in absence of password derivation functions.
-- Use of deprecated padding methods such as PKCS number 1 v1.5 
+- Use of deprecated padding methods such as PKCS number 1 v1.5
 
 _Prevention techniques:_
 
@@ -112,7 +116,7 @@ Cryptographic failures can be prevented by:
 - Use of strong encryption algorithms, hash functions, padding functions, and keys. Ensure proper key rotation/management
 - Use secure transmission protocols to transmit sensitive information and enforce encryption using HSTS (HTTP Strict Transport Security)
 - Use strong salted hashing functions to store passwords
--  Never cache sensitive information  
+- Never cache sensitive information
 - Ensure cryptographic randomness in the initialization vector
 - Ensure cryptographic random generation of keys and store them as byte arrays. Use appropriate password derivation function if passwords are being used as keys
 - Verify the security mechanisms are functioning as required
@@ -127,7 +131,7 @@ _Causes:_
 
 Injection vulnerability can exist in one of the following situations:
 
-- Improper validation, filtering, and sanitization of data being input by the user 
+- Improper validation, filtering, and sanitization of data being input by the user
 - No or improper escaping of dynamic content
 - Sensitive records can be stolen by using hostile data in ORM (Object Relational Mapping) search parameters
 - Hostile data directly used or concatenated
@@ -171,7 +175,7 @@ _Prevention techniques:_
 
 This vulnerability has moved up from number 6 to number 5 in the OWASP top ten list and now includes former category XXE (External XML Entities) as well.
 
-Security misconfiguration can be defined as using default or lax security settings in our systems/software that can be exploited by the attackers to break through them. 
+Security misconfiguration can be defined as using default or lax security settings in our systems/software that can be exploited by the attackers to break through them.
 
 _Causes:_
 
@@ -192,7 +196,7 @@ Avoid security misconfiguration by using the techniques given below:
 - Automate the process of hardening your systems or software with correct security settings
 - Disable all necessary features or components or services
 - Regularly review and update the security settings of your web server and web app through patch management
--  Review cloud storage permissions
+- Review cloud storage permissions
 - Use HSTS to send security directives to browsers
 - Do not use default accounts and passwords
 
@@ -207,7 +211,7 @@ _Causes:_
 Some of the situations that can make you vulnerable are:
 
 - Being unaware of the version of the client and server-side components
-- Using out-of-date or vulnerable software. This can include the webserver OS software, Database software, APIs, libraries, etc.  
+- Using out-of-date or vulnerable software. This can include the webserver OS software, Database software, APIs, libraries, etc.
 - Not performing vulnerability scanning regularly
 - Not upgrading the underlying platforms, frameworks, or components in a timely fashion
 - Patches released and used without proper testing
@@ -217,7 +221,7 @@ _Prevention techniques:_
 
 Vulnerabilities due to using Vulnerable or Outdated components can be prevented by :
 
-- Automating and regularly repeating the process of inventory of all the components on the client and server-side. 
+- Automating and regularly repeating the process of inventory of all the components on the client and server-side.
 - Removing all unused dependencies, features, or components
 - Acquiring signed components from known and trusted vendors
 - If you are using unsupported libraries or components then use a virtual patch to monitor, detect and protect against security weaknesses discovered.
@@ -235,7 +239,7 @@ Your application has Identification and Authentication vulnerabilities when:
 
 - There's no or little protection against automated attacks such as credential stuffing, brute force attacks, etc.
 - Users can set default, weak, or well-known passwords
-- Weak mechanisms for forgotten passwords or credential recovery 
+- Weak mechanisms for forgotten passwords or credential recovery
 - Passwords are stored in the database using plaintext or using weak encryption methods
 - Absence of multi-factor authentication
 - Session identifier can be reused after login or it is exposed in the URL
@@ -253,7 +257,7 @@ _Prevention techniques:_
 
 This is a new vulnerability and makes it to the eighth spot on OWASP's top ten list.
 
-Software and Data integrity failures occur due to the lack of integrity verification in software updates, critical data, and CI/CD (continuous integration/continuous delivery) pipelines. This vulnerability can be exploited by the hackers to access sensitive data, insert malicious code into the web app or compromise the webserver. 
+Software and Data integrity failures occur due to the lack of integrity verification in software updates, critical data, and CI/CD (continuous integration/continuous delivery) pipelines. This vulnerability can be exploited by the hackers to access sensitive data, insert malicious code into the web app or compromise the webserver.
 
 _Causes:_
 
@@ -303,7 +307,7 @@ Some of the techniques that can help prevent insufficient logging and monitoring
 
 #### Server-Side Request Forgery:
 
-This vulnerability has been a new entry in the OWASP Top 10 list. 
+This vulnerability has been a new entry in the OWASP Top 10 list.
 
 Server-side Request Forgery occurs when an attacker sends malicious requests to the web server to read or update a remote resource on the server or direct requests to unintended locations. SSRF attacks can target the internal server even behind firewalls or VPNs. SSRF vulnerability can result in Internal Reconnaissance, DDOS (Distributed Denial of Service Attacks), RCE (Remote Code Execution), or sensitive information exposure.
 

@@ -1,5 +1,6 @@
 :orphan:
 (secure-your-web-application-against-cross-site-scripting-xss)=
+
 # Secure your Web Application Against Cross-Site Scripting (XSS)
 
 XSS attacks are a type of injection in which malicious scripts are injected into trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code to a different end user, typically in the form of a browser side script. The flaws that allow these attacks to succeed are quite common, and they occur whenever a web application uses user input within the output it generates without validating or encoding it.
@@ -8,14 +9,14 @@ An attacker can use XSS to deliver a malicious script to an unknowing user. The 
 
 Cross-Site Scripting (XSS) attacks occur when the following conditions are met:
 
-1.	Data enters a Web application from an untrustworthy source, most commonly a web request.
-2.	The data is embedded in dynamic content that is delivered to a web user without being checked for malicious content.
+1. Data enters a Web application from an untrustworthy source, most commonly a web request.
+2. The data is embedded in dynamic content that is delivered to a web user without being checked for malicious content.
 
 XSS attacks can generally be categorized into three categories: stored, reflected and DOM Based XSS.
 
 ## Stored XSS Attacks
 
-Stored attacks occur when the injected script is permanently stored on the target servers, such as in a database, a message board, a visitor log, a comment field, and so on. When the victim requests the stored information, the malicious script is retrieved from the server. Persistent or Type-I XSS is another name for stored XSS. 
+Stored attacks occur when the injected script is permanently stored on the target servers, such as in a database, a message board, a visitor log, a comment field, and so on. When the victim requests the stored information, the malicious script is retrieved from the server. Persistent or Type-I XSS is another name for stored XSS.
 
 ## Reflected XSS Attacks
 
@@ -27,7 +28,7 @@ DOM Based XSS (or "type-0 XSS" in some texts) is an XSS attack in which the atta
 
 ## XSS Attack Consequences
 
-The outcome of an XSS attack is the same whether it is stored or reflected (or DOM Based). The distinction is in how the payload is delivered to the server XSS can cause a wide range of issues for the end user, ranging from annoyance to complete account compromise. 
+The outcome of an XSS attack is the same whether it is stored or reflected (or DOM Based). The distinction is in how the payload is delivered to the server XSS can cause a wide range of issues for the end user, ranging from annoyance to complete account compromise.
 
 The most serious XSS attacks involve the disclosure of a user's session cookie, which allows an attacker to hijack the user's session and take over the account. Other harmful attacks include the disclosure of end-user files, the installation of Trojan horse programs, the redirection of the user to another page or site, and the modification of presentation.
 

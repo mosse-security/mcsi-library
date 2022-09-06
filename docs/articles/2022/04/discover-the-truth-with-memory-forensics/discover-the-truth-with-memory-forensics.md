@@ -1,12 +1,13 @@
 :orphan:
 (discover-the-truth-with-memory-forensics)=
+
 # Discover the Truth with Memory Forensics
 
 Memory forensics is the process of analyzing a computer's memory dump for evidence of a compromise. This process can be used to identify malicious software, track down system intrusions, and recover deleted data. Memory forensics is a critical tool for incident response and digital forensics investigations.
 
 ## What is memory forensics?
 
-Here is a sequence of numbers: 130, 62, 78, 54. If your friend asks you to remember this exact sequence and repeat it after an hour, maybe you would remember it. If your friend asks you to repeat this exact sequence after three days, you may not easily remember it.  The sequence exists in your mind, in memory only for a short period of time.
+Here is a sequence of numbers: 130, 62, 78, 54. If your friend asks you to remember this exact sequence and repeat it after an hour, maybe you would remember it. If your friend asks you to repeat this exact sequence after three days, you may not easily remember it. The sequence exists in your mind, in memory only for a short period of time.
 
 Likewise, every computer has a memory region which holds data about recent activity on the system for a short period of time. Data in the hard disk is brought into memory before being processed by the various applications on the system.
 
@@ -16,7 +17,7 @@ Memory forensics is the technique of acquiring the memory from a target computer
 
 ## When should you perform memory forensics?
 
-Data that is present in computer memory exists only until the system is in powered on state. The data disappears when the system is powered down. This aspect is referred to as ‘volatility’ of data. 
+Data that is present in computer memory exists only until the system is in powered on state. The data disappears when the system is powered down. This aspect is referred to as ‘volatility’ of data.
 
 During an investigation, if the target machine is present in powered on state, then the first recommended task would be to acquire its memory. If the machine is in powered down state, then it is not possible to acquire its memory.
 
@@ -26,7 +27,7 @@ Typically in a forensic investigation, [memory dumps, forensic images and other 
 
 Some volatile data present in memory like encryption keys, passwords, clipboard data, list of active processes, hidden processes, changes to registry data, loaded dynamic link libraries (DLLs), network connection information, etc. may not be present in forensic images or other artifacts. In many situations, the memory dump had critical evidence that helped identify recent activity on a system.
 
-Memory forensics is performed to gain access to significant evidence that may not be accessible otherwise. 
+Memory forensics is performed to gain access to significant evidence that may not be accessible otherwise.
 
 ## How to acquire and analyze a computer’s memory?
 

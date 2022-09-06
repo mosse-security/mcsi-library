@@ -1,5 +1,6 @@
 :orphan:
 (the-business-case-against-red-teaming)=
+
 # The business case against Red Teaming
 
 Let's talk straight: most organizations can't survive a real Red Team exercise! So what's the business value of purchasing one? When we expect the Red Team to break down all the doors and take over the network, how do we evaluate success?

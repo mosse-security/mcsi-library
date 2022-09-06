@@ -1,6 +1,8 @@
 :orphan:
 (understanding-the-threat-hunting-process-step-by-step)=
+
 # Understanding the Threat Hunting Process Step-by-Step
+
 Threat hunting is the process of detecting and responding to cyber intrusions that network and endpoint security controls have missed. It is also a proactive approach to security that can help organizations identify and mitigate risks before it results in an incident. The stages of threat hunting vary based on the sources you read, though there are 5 general stages that can be gleaned from existing literature.
 
 ## Step 1 - Prepare
@@ -19,15 +21,15 @@ The third stage is where analysts will examine data more closely to determine if
 
 ## Step 4 - Respond
 
-If suspicious activity is found, the fourth stage is to investigate and determine the scope of the attack.  If the threat is discovered through routine threat hunts, the attack may be limited to one or a few systems.  However,  if the threat is discovered after having been in the system for a significant amount of time, the scope of the attack may be much larger. 
+If suspicious activity is found, the fourth stage is to investigate and determine the scope of the attack. If the threat is discovered through routine threat hunts, the attack may be limited to one or a few systems. However, if the threat is discovered after having been in the system for a significant amount of time, the scope of the attack may be much larger.
 
 ## Step 5 - Recover
 
-The fifth and final stage is to take action to contain and remediate the threat.  This may involve disconnecting systems from the network, isolating them from other systems, or taking other steps to prevent further damage. Sometimes experts may need to be brought in to help contain and remediate the threat.
+The fifth and final stage is to take action to contain and remediate the threat. This may involve disconnecting systems from the network, isolating them from other systems, or taking other steps to prevent further damage. Sometimes experts may need to be brought in to help contain and remediate the threat.
 
 ## Final Words
 
-Threat hunting is an important part of cybersecurity, but it's not the only activity you need to do to keep your systems safe.  You also need to have a good security posture overall, including implementing strong security controls and having good incident response procedures in place.  Proactive threat hunts can help identify risk by keeping up to date on the latest threats and trends, and determining if the methods used to gain access are mitigated in the organization - or if the vectors have already been exploited.
+Threat hunting is an important part of cybersecurity, but it's not the only activity you need to do to keep your systems safe. You also need to have a good security posture overall, including implementing strong security controls and having good incident response procedures in place. Proactive threat hunts can help identify risk by keeping up to date on the latest threats and trends, and determining if the methods used to gain access are mitigated in the organization - or if the vectors have already been exploited.
 
 By understanding the processes of threat hunting, you can be better prepared to protect your organization from cyber threats.
 

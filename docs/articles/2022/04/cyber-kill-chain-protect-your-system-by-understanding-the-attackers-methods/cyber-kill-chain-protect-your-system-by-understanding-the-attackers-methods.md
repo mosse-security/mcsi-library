@@ -1,5 +1,6 @@
 :orphan:
 (cyber-kill-chain-protect-your-system-by-understanding-the-attackers-methods)=
+
 # Cyber Kill Chain: Protect your System by Understanding the Attackers' Methods
 
 The concept of "kill chain" is used in the cybersecurity industry to describe how attackers get into a system and accomplish their goals. Cyber security professionals can implement countermeasures and defend their systems, by understanding how attackers can hack a system successfully.
@@ -22,7 +23,7 @@ The attacker delivers the malicious payload to the target system at this point. 
 
 ### 4) Exploitation
 
-The exploitation stage of the kill chain is in which the attacker takes advantage of a vulnerability in the machine to gain access. This may be completed in some methods, which include social engineering, brute force attacks, or malicious code execution. Once the attacker has received access, they could then pass on to the following stage of the kill chain. 
+The exploitation stage of the kill chain is in which the attacker takes advantage of a vulnerability in the machine to gain access. This may be completed in some methods, which include social engineering, brute force attacks, or malicious code execution. Once the attacker has received access, they could then pass on to the following stage of the kill chain.
 
 ### 5) Installation
 

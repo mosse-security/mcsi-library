@@ -1,7 +1,7 @@
 :orphan:
 (what-is-infrastructure-as-code-iac-and-its-benefits)=
+
 # What is Infrastructure as Code (IAC) and its Benefits?
- 
 
 Infrastructure as code (IAC) is a management tool and mindset for controlling your framework like it is software. You can build, update, destroy, and control all elements of operations by writing code instead of clicking on a GUI. This article will give an introduction to Infrastructure as Code and its benefits.
 

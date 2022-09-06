@@ -1,7 +1,7 @@
 :orphan:
 (spyware-collecting-data-from-your-system-without-your-knowledge-or-consent)=
+
 # Spyware: Collecting Data From Your System Without Your Knowledge or Consent
- 
 
 How often do you get annoyed by spyware or adware? If you don't want to be tracked or see ads popping up every time you visit a site, then you should definitely check out these ways to remove them. We will deep dive into spyware and adware in three sections. In this first part of the blog, we will focus on what spyware is and what spyware can do.
 

@@ -1,7 +1,7 @@
 :orphan:
 (what-are-software-backdoors)=
+
 # What are software backdoors?
- 
 
 Some of the most dominant risks to systems are in the form of malicious software, which is also known as malware. Attackers meticulously construct, write, and build malware programs to breach security and/or cause damage. These programs are designed to be self-contained and do not necessarily require user involvement or the presence of the attacker to execute their damage. In this blog post, we are going to give an introduction to what is software backdoor, possible ways of getting them into our environment, its nature and scope, and some recommendations on how to prevent from them.
 

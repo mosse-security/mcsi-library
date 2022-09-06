@@ -1,15 +1,18 @@
 :orphan:
 (ensure-your-software-s-safety-with-security-testing)=
+
 # Ensure your Software's Safety with Security Testing
 
 Security testing is the process of assessing and testing software's security by discovering and mitigating various vulnerabilities and security concerns. Security testing's main purpose is to ensure that software or applications are resistant to cyber-attacks and may be used safely.
 
 ## Importance of Security Testing in Web Applications:
+
 Web apps are used by businesses all over the world for several purposes. With a rising number of cyber-attacks targeting these applications and data privacy laws requiring compliance, it is critical for organizations to design secure web apps.
 
 Secure web apps are created by implementing security into every phase of the SDLC (Software Development Life-cycle). The key benefit of this strategy is proactive mitigation of all potential vulnerabilities. Security testing has a lot of advantages for businesses. It increases revenue while lowering operating costs and risks, resulting in a positive return on investment.
 
 ## Aim of Security Testing:
+
 The purpose of application security testing is to verify the application's ability to defend against security threats. To find security flaws in applications, security testing is carried out using various methodologies and tools. Six security principles are addressed by these tools:
 
 <u>1. Confidentiality:</u>
@@ -31,9 +34,11 @@ Security testing is used to detect if any application vulnerability results in u
 Security testing is used to detect if the application doesn't properly track or keep a record of the user's activity.
 
 ## Security Testing Methodologies:
-There are three approaches to application security testing. You can use one or a mix of these approaches to test your application, but employing all of them to test your application can increase its robustness against cyber-attacks. 
+
+There are three approaches to application security testing. You can use one or a mix of these approaches to test your application, but employing all of them to test your application can increase its robustness against cyber-attacks.
 
 ### White-Box Testing:
+
 In white-box testing, the security tester has extensive knowledge of the application's inner workings and has elevated access. The main goal of this testing is to look for vulnerabilities in the application's source code and internal structure.
 
 Hard-coded credentials, backdoor access, logical vulnerabilities, sensitive information exposure, inappropriate security settings, lack of code optimization, and other application weaknesses can all be discovered via white-box security testing. This testing methodology includes detailed source code reviews as well as the formulation and execution of use/misuse tests. The two main types of white box testing are:
@@ -44,8 +49,8 @@ Unit testing is used to test the internal structure and logic of a specific modu
 <u>2. Integration Testing:</u>
 Integration testing is used to test how different modules work together to provide a specific function.
 
-
 ### Black-Box Testing:
+
 In black-box testing, the security tester is completely unaware of the internal working or structure of the application. The tester analyzes the web app from the attacker's point of view. In this type of security testing, the tester employs different techniques and tools to study the application's behavior.
 
 Black-box testing is focused on testing/fuzzing the application's inputs and checking the output. This testing methodology is used for the validation of the security requirements of the web application. The three main types of black-box testing are:
@@ -57,9 +62,10 @@ Black-box functional testing is focused on testing the specific functionality of
 Black-box non-functional testing is used to test the aspects of the application that are not related to its functionality such as performance, reliability, ease of use, etc. This type of testing mainly focuses on the user’s view of the application.
 
 <u>3. Regression Testing:</u>
-Black-box regression testing is used to detect if any change or update to the application causes any changes in the application’s expected functionality or requirements. Regression testing ensures that the application’s performance and capability are unaffected despite the underlying modifications in the application. 
+Black-box regression testing is used to detect if any change or update to the application causes any changes in the application’s expected functionality or requirements. Regression testing ensures that the application’s performance and capability are unaffected despite the underlying modifications in the application.
 
 ### Grey-Box Testing:
+
 Grey-box testing is a combination of white-box and black-box testing. In grey-box testing, the security tester has only a limited understanding of the application's internal structure. The tester has only low-level access to the application. In this testing, the tester attempts to examine all the source code and functional vulnerabilities of the application. Grey-box testing can be utilized to fix issues in the web app by tying the security flaw with the issue in the internal working of the application. The main types of grey-box security testing are:
 
 <u>1. Matrix testing:</u>
@@ -130,7 +136,7 @@ These tools use fuzzing techniques to evaluate the application's settings, input
 
 ### Interactive Application Security Testing (IAST):
 
-Interactive Application Security Testing tools combine the capabilities of static and dynamic analysis tools. These tools are used to dynamically detect and validate the vulnerabilities in applications' code by exploiting them.  These tools can be integrated into your application to analyze the security while it is being developed.
+Interactive Application Security Testing tools combine the capabilities of static and dynamic analysis tools. These tools are used to dynamically detect and validate the vulnerabilities in applications' code by exploiting them. These tools can be integrated into your application to analyze the security while it is being developed.
 
 The major advantage of using IAST tools is the reduction of false positives by detecting security flaws earlier and addressing them quickly as compared to other application security testing tools. Hardcoded credentials in web apps, input validation, and a lack of transport security are some of the flaws that IAST tools can discover.
 
@@ -176,11 +182,11 @@ Some of the best open source tools available for application security testing ar
 
 ### Zed Attack Proxy:
 
-Zed Attack Proxy (ZAP) is an open source web application penetration testing tool that is developed by OWASP (Open Web Application security project). This tool is widely used by security professionals to detect vulnerabilities present in web applications. ZAP versions are available for Windows, Linux, Unix, and MAC OS platforms. 
+Zed Attack Proxy (ZAP) is an open source web application penetration testing tool that is developed by OWASP (Open Web Application security project). This tool is widely used by security professionals to detect vulnerabilities present in web applications. ZAP versions are available for Windows, Linux, Unix, and MAC OS platforms.
 
 ### Burp Suite:
 
-Port Swigger Web Security developed Burp Suite, a popular open source web application security testing tool. From detection to the exploitation of numerous security flaws, this tool supports various phases of penetration testing. This tool is offered in three versions: a free Community edition, a paid Professional edition, and a premium Enterprise edition. 
+Port Swigger Web Security developed Burp Suite, a popular open source web application security testing tool. From detection to the exploitation of numerous security flaws, this tool supports various phases of penetration testing. This tool is offered in three versions: a free Community edition, a paid Professional edition, and a premium Enterprise edition.
 
 Burp suite provides a detailed report of the vulnerabilities discovered, with their severity and level of confidence. These findings can further be presented in penetration testing reports to the clients.
 

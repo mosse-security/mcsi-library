@@ -1,7 +1,7 @@
 :orphan:
 (the-attacker-mindset-the-dad-triad)=
+
 # The Attacker Mindset: The DAD Triad
- 
 
 We typically define security as the total of confidentiality, integrity, and availability. These three components (which are known as the CIA triad) are the foundations of any well-designed information security practice. We adopt security policies in enterprises or individually model the CIA triad from a protection perspective. However, attackers have their own model too. This model consists of three pillars: disclosure, alteration, and denial (which is also abbreviated as the “DAD” triad). In this blog post, we are going to examine each of the DAD triad components and how they connect to their CIA triad equivalents.
 

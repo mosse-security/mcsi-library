@@ -1,7 +1,7 @@
 :orphan:
 (content-filtering-monitor-user-activity-to-identify-potential-risks)=
+
 # Content Filtering: Monitor User Activity to Identify Potential Risks
- 
 
 The process of managing or screening access to specific emails or webpages is known as content filtering. The goal is to prevent access to content that contains potentially harmful information. Organizations commonly use content filtering programs to control content access through their firewalls. Home computer users can also use them. To prevent access to information, content filtering can be implemented as hardware or software and is frequently built into internet firewalls. Content filtering tools are used by businesses to improve security and enforce corporate policies related to information system management, such as when filtering social networking sites. Content filtering prevents internet users from accessing content that may be harmful. It restricts access to content that is considered illegal, inappropriate, or objectionable. Individual internet users, for example, can use it to protect children from graphic or inappropriate content. It also allows an organization to restrict access to pornographic content, which, if ignored, could lead to sexual harassment claims or a demeaning work environment.
 

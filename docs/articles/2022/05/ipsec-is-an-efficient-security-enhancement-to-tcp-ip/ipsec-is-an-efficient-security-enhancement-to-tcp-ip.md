@@ -1,7 +1,7 @@
 :orphan:
 (ipsec-is-an-efficient-security-enhancement-to-tcp-ip)=
+
 # IPSec is an Efficient Security Enhancement to TCP/IP
- 
 
 TCP/IP has innate flaws. It was meant to run on a government network with a small number of hosts that trusted each other. Security was not a priority for the creators. However, now the network has been expanded worldwide, our most critical concern is security. Therefore, some extra measures were required to protect conversations via the Internet. In this blog, we will explain what Internet Protocol Security is and how it can offer protection over networks.
 

@@ -1,7 +1,7 @@
 :orphan:
 (you-re-never-too-far-from-the-office-with-a-vpn)=
+
 # You're Never Too Far From the Office With a VPN
- 
 
 It is usually suggested to have your own private dedicated line between multiple places for safe connections. However, this approach is quite expensive since various sites must be connected by different cables, and building cables across geographies is an expensive operation. Also, maintenance is another problem. To address these issues, a virtual private network (VPN) was created. In this blog, we will define what a virtual private network is and how the tunneling process works.
 

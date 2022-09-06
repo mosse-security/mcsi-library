@@ -1,5 +1,6 @@
 :orphan:
 (choosing-a-command-and-control-infrastructure)=
+
 # Choosing a Command and Control Infrastructure
 
 When it comes to Red Teaming, one of the most crucial components of the operation is the command and control (C2) infrastructure. The C2 infrastructure is what allows Red Teams to orchestrate their attacks, thus it must be dependable and scalable to suit the team's needs. There are several possibilities for C2 infrastructure, each with its own set of benefits and drawbacks. In this blog article, we'll look at some of the most common C2 infrastructure alternatives and highlight the variables to consider while making your decision.

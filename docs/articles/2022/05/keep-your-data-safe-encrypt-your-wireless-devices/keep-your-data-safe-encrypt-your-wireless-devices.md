@@ -1,17 +1,17 @@
 :orphan:
 (keep-your-data-safe-encrypt-your-wireless-devices)=
+
 # Keep your Data Safe. Encrypt your Wireless Devices
- 
 
 The relevance of safeguarding wirelessly connected devices is increasing as the number of devices connecting to the internet grows. Wireless devices are particularly vulnerable to attack because they are frequently left unattended and easily accessible. You can encrypt your wireless devices and keep your data safe by following a few simple steps.
 
 ## 1. Update the firmware
 
-Maintaining the firmware on your wireless devices is one of the most critical things you can do to keep them secure. Firmware is the software that controls the hardware and is frequently updated to address security vulnerabilities. Many manufacturers regularly provide firmware updates for their devices, so it's critical to check for and install them as soon as they become available. You must go to the manufacturer's website and get the latest firmware for your individual model to update the firmware on your wireless devices. After you've downloaded the firmware file, follow the instructions to install it on your device. 
+Maintaining the firmware on your wireless devices is one of the most critical things you can do to keep them secure. Firmware is the software that controls the hardware and is frequently updated to address security vulnerabilities. Many manufacturers regularly provide firmware updates for their devices, so it's critical to check for and install them as soon as they become available. You must go to the manufacturer's website and get the latest firmware for your individual model to update the firmware on your wireless devices. After you've downloaded the firmware file, follow the instructions to install it on your device.
 
 ## 2. Regular check for updates
 
-Regularly checking for updates is one method to help secure your wireless devices. You can help protect your devices from the latest security risks by keeping your software up to date. Open the Start menu and select "Settings" to check for updates on a Windows device. Then select "Update and security." Click "Check for updates" in the "Windows Update" section. Updates will be downloaded and installed automatically if they are available. You may be requested to restart your device after the updates are installed. 
+Regularly checking for updates is one method to help secure your wireless devices. You can help protect your devices from the latest security risks by keeping your software up to date. Open the Start menu and select "Settings" to check for updates on a Windows device. Then select "Update and security." Click "Check for updates" in the "Windows Update" section. Updates will be downloaded and installed automatically if they are available. You may be requested to restart your device after the updates are installed.
 
 ## 3. Use a strong password
 

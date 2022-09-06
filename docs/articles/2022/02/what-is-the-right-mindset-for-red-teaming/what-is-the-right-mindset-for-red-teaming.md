@@ -1,5 +1,6 @@
 :orphan:
 (what-is-the-right-mindset-for-red-teaming)=
+
 # What is the right mindset for Red Teaming?
 
 In recent years, "red teaming" has become a popular approach for organizations to test their security. A red team is a group of security experts who simulate an attack on an organization's systems in order to find weaknesses and vulnerabilities. While there is no one-size-fits-all approach to red teaming, there are certain best practices that can help your organization be successful at employing the right mindset.
@@ -12,7 +13,7 @@ In recent years, "red teaming" has become a popular approach for organizations t
 
 3. **Be creative** – Don't always use the same techniques. Be creative and come up with new ways to penetrate the organization’s defenses.
 
-4. **Be professional** –  Aiming to embarrass people is not productive and will only serve to hinder your ability to help them. Remember that your goal should be to be of service.
+4. **Be professional** – Aiming to embarrass people is not productive and will only serve to hinder your ability to help them. Remember that your goal should be to be of service.
 
 ## Think like the enemy by playing Devil's Advocate
 

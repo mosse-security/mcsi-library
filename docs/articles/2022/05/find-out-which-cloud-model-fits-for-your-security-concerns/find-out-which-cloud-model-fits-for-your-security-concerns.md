@@ -1,7 +1,7 @@
 :orphan:
 (find-out-which-cloud-model-fits-for-your-security-concerns)=
+
 # Find Out Which Cloud model Fits for Your Security Concerns
- 
 
 Our data is stored in the cloud in an environment owned by our cloud provider. We utilize physical resources, data centers, and underlying infrastructure with other clients. However, none of us physically own this equipment or control the infrastructure. So, how can we define security borders in cloud models?
 

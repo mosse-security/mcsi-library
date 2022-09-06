@@ -1,5 +1,6 @@
 :orphan:
 (keep-your-web-application-safe-by-preventing-sql-injections)=
+
 # Keep Your Web Application Safe by Preventing SQL Injections
 
 SQL injection (or SQLi) attacks alter SQL queries by injecting malicious code through application vulnerabilities. SQLi attacks that are successful allow attackers to modify database information, access sensitive data, perform administrative tasks on the database, and recover files from the system. In some cases, attackers have the ability to execute commands on the underlying database operating system.
@@ -42,6 +43,6 @@ Input validation and parametrized queries, including prepared statements, are th
 
 ## Final Words
 
-SQL injections are a serious threat to any website or application that relies on a SQL database. If you're not familiar with SQL injections, they are basically a way for attackers to inject malicious code into your database in order to extract sensitive information or wreak havoc on your data. While there are many different ways to prevent SQL injections, the best way is to use parameterized queries. Parameterized queries basically involve using placeholders for your SQL code, which makes it much harder for attackers to inject malicious code into your database. 	
+SQL injections are a serious threat to any website or application that relies on a SQL database. If you're not familiar with SQL injections, they are basically a way for attackers to inject malicious code into your database in order to extract sensitive information or wreak havoc on your data. While there are many different ways to prevent SQL injections, the best way is to use parameterized queries. Parameterized queries basically involve using placeholders for your SQL code, which makes it much harder for attackers to inject malicious code into your database.
 
 > **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

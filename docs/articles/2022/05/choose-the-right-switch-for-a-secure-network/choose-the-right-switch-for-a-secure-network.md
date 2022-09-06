@@ -1,7 +1,7 @@
 :orphan:
 (choose-the-right-switch-for-a-secure-network)=
+
 # Choose the Right Switch for a Secure Network
- 
 
 Switches are an essential component of network security. Switches can help to prevent denial of service attacks and other malicious activity by controlling the flow of traffic. Switches can also be used to segment networks and isolate problem areas. You can better protect your network by understanding how switches work.
 
@@ -11,11 +11,11 @@ A MAC flooding attack occurs when an attacker sends a large number of spoofed MA
 
 ### How to Protect Against MAC Flooding
 
-MAC flooding is a type of denial of service attack in which the attacker sends a large number of random MAC addresses to a switch in order to overload the address table. This can cause the switch to stop forwarding traffic, effectively shutting down the network. You can protect your network from MAC flooding attacks by doing the following: 
+MAC flooding is a type of denial of service attack in which the attacker sends a large number of random MAC addresses to a switch in order to overload the address table. This can cause the switch to stop forwarding traffic, effectively shutting down the network. You can protect your network from MAC flooding attacks by doing the following:
 
 1. Secure your switches' ports. This reduces the number of MAC addresses that can be learned on a given port, making it more difficult for an attacker to overload the address table.
 
-2. For critical devices, use a static MAC address. 
+2. For critical devices, use a static MAC address.
 
 This ensures that those devices always have the same MAC address, even if an attacker attempts to compromise them.
 

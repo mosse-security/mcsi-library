@@ -1,7 +1,7 @@
 :orphan:
 (identification-and-authentication-methods-kerberos)=
+
 # Identification and Authentication Methods: Kerberos
- 
 
 How do so many people find a way to access resources securely? Well, in this blog post we are going to explore a network authentication protocol that is named _Kerberos_.
 

@@ -1,5 +1,6 @@
 :orphan:
 (be-botnet-and-zombie-aware-for-a-safer-internet)=
+
 # Be Botnet and Zombie Aware for a Safer Internet!
 
 Zombies and botnets are two of the most popular forms of malware used to attack computer systems maliciously. Botnets are virtual networks of zombies created by attackers who use bot programs to remotely control susceptible computers. Botnets can be used to conduct coordinated attacks against other computing resources, such as targeted distributed denial of service (DDoS) attacks. The emergence of bot malware has been distinguished by a shift in motive from curiosity and fame-seeking to illegal financial gain.

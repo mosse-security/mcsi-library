@@ -1,5 +1,6 @@
 :orphan:
 (cloudformation-is-the-key-to-quick-aws-development-environments)=
+
 # CloudFormation is the Key to Quick AWS Development Environments
 
 CloudFormation may seem intimidating to someone who is learning AWS. But gaining this skill is very useful for automating your development environment quickly and efficiently. I’ll give you a simple understanding of why CloudFormation is essential for your infrastructure.

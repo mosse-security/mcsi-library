@@ -1,6 +1,8 @@
 :orphan:
 (the-osi-model-a-framework-for-data-transmission)=
+
 # The OSI Model: A Framework for Data Transmission
+
 The electronic transfer of information (audio, video, or data) over vast distances between electronic equipment is known as telecommunication. Data can be transmitted using either wired (coaxial, ethernet, or fiber optic connections) or wireless techniques. Telecommunication and networking employ a variety of processes, devices, software, and protocols. Over time, different models have evolved to better describe data flow between devices utilizing various protocols. A protocol is a set of instructions or rules that govern data transmission between electronic devices. Most operating systems and protocols adhere to the OSI model as an abstract framework. The purpose of this article is to explore this model and how it may be used to visualize the process of data transmission over a network.
 
 ## What is the OSI Model?
@@ -23,7 +25,7 @@ Let's take a closer look at each of the OSI model's seven layers now that we've 
 
 The application layer is the 7th layer of the OSI model and is closest to the end-user. The application layer is the interface between the application and the network. This layer is used by the end-user application/software for functions including message exchange, file transmission, and much more.
 
-This layer's job is to collect data from the application that needs to be delivered to the destination and send it along to the supporting protocol. An example will help you grasp this concept. 
+This layer's job is to collect data from the application that needs to be delivered to the destination and send it along to the supporting protocol. An example will help you grasp this concept.
 
 Let's suppose you are using your Outlook email account to send an important business email to a client. As a result, Outlook is the program that you use to deliver the data, which is the information contained in the email. The application layer's task now is to take this email and transfer it to a suitable protocol, such as SMTP (Simple Mail Transfer Protocol). Thus SMTP is the supporting protocol that will be used for the transmission of the data.
 
@@ -38,6 +40,7 @@ The application layer takes the data from the corresponding application, adds th
 <u>4. DNS(Domain Name System):</u> DNS protocol is used to resolve the Domain Name of a system to its IP address.
 
 ### Presentation Layer:
+
 This is the 6th layer of the OSI model. This layer receives the data from the application layer. The presentation layer is not concerned with the data itself but with the syntax and format of the data. The purpose of this layer is to attach necessary format information with the data so that it can be easily viewed at the destination computer.
 This can be understood with the example of image files.
 
@@ -68,7 +71,7 @@ The information flow is bidirectional in half duplex mode, but only one entity c
 <u>3. Full Duplex mode:</u>
 The information flow is bidirectional in full duplex mode, with both entities able to send and receive data at the same time.
 
-The information transfer occurring at the session layer takes place through RPC(Remote Procedure Calls). RPC occurs when an application on one computer end calls another application located on another computer without having to know the details of the application on the receiving system. In the entire communication process, the session layer protocols operate as a bridge between two separate applications. 
+The information transfer occurring at the session layer takes place through RPC(Remote Procedure Calls). RPC occurs when an application on one computer end calls another application located on another computer without having to know the details of the application on the receiving system. In the entire communication process, the session layer protocols operate as a bridge between two separate applications.
 
 Session layer protocols must provide authentication capabilities to ensure the security of the communication session. Network security administrators should configure the firewalls to only allow the connections that are from within the network. Some of the protocols that are used at this layer are:
 
@@ -108,7 +111,7 @@ To generate a map of the network, the protocols at the network layer create, use
 
 ### Data Link Layer:
 
-The Data Link Layer is the 2nd layer of the OSI model. This layer receives network datagrams from the network layer above it and converts them into LAN(Local Area Network) or WAN(Wide Area Network) frames. 
+The Data Link Layer is the 2nd layer of the OSI model. This layer receives network datagrams from the network layer above it and converts them into LAN(Local Area Network) or WAN(Wide Area Network) frames.
 
 A local area network (LAN) is a computer network that connects devices in a small area using Ethernet or WiFi.
 

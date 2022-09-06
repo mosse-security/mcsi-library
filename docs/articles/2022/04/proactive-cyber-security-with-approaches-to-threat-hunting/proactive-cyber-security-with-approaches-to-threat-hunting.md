@@ -1,24 +1,25 @@
 :orphan:
 (proactive-cyber-security-with-approaches-to-threat-hunting)=
+
 # Proactive Cyber Security with Approaches to Threat Hunting
 
 Proactive monitoring of harmful activities on a company's networks is known as threat hunting. It's a crucial step in an organization's security, more companies are starting to invest in it. Threat hunting's goal is to find threats before they cause damage, which necessitates the employment of specific methodologies. Threat hunting is a time-consuming procedure, but it's critical for any firm that wants to keep ahead of the cybersecurity curve.
 
 ## Structured threat hunting
 
-*We use cyber threat intelligence relevant to our organization and sector to designed threat hunts.*
+_We use cyber threat intelligence relevant to our organization and sector to designed threat hunts._
 
 A structured hunt revolves around the core of threat intelligence which is the Tactics, Techniques, and Procedures (TTP) used by attackers. As all the possible attacks are based on the TTP of the malicious actor, the hunter can easily identify the threat actor before any harm to the organization is caused. MITRE ATT&CK is one such platform where Adversary TTP can be accessed.
 
 ## Unstructured threat hunting
 
-*We make wild guesses and hope to get lucky.*
+_We make wild guesses and hope to get lucky._
 
 An unstructured hunt is based on the alerts produced by SIEM or threat intelligence tools. This is where the hunter uses the alert type to find before and after attack patterns and prevent an attacker from causing harm.
 
 ## Hypotheses-based hunting
 
-*We make education guesses and are more likely to catch bad guys.*
+_We make education guesses and are more likely to catch bad guys._
 
 A threat intelligence library is used in hypothesis hunting, which is a proactive hunting strategy. It takes input from global monitoring data sources to identify advanced persistent threat groups and malware attacks and uses the MITRE ATT&CK framework.
 
@@ -34,7 +35,7 @@ To begin, a list of all of the institution's digital assets is compiled. Using t
 
 ## Hybrid Hunting
 
-*This is often the best approach!*
+_This is often the best approach!_
 
 It is a technique that threat hunting team use to combine these techniques. For instance, hunting can be customized based on the domain of the organization, and geopolitical issues.
 

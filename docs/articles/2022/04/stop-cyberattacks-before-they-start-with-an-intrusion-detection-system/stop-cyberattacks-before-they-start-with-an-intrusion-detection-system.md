@@ -1,5 +1,6 @@
 :orphan:
 (stop-cyberattacks-before-they-start-with-an-intrusion-detection-system)=
+
 # Stop Cyberattacks Before they Start with an Intrusion Detection System
 
 Malicious or anomalous activities can occur on a system at any time, making the presence of intrusion detection systems critical. The job of an intrusion detection system is to detect suspicious activities, while monitoring a system or network and analyzes data to identify potential incidents. Intrusion detection systems can be host based or network based.

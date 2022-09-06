@@ -7,7 +7,7 @@ An organization must employ the three "A's" of security to keep our computer sys
 
 ## Authentication
 
-*Authentication is the process of identifying whether or not someone or something is who or what they claim to be.*
+_Authentication is the process of identifying whether or not someone or something is who or what they claim to be._
 
 Authentication is used in information security to confirm that data originates from a reliable source and has not been manipulated. Data may be authenticated in a variety of methods, including digital signatures, encryption, and hashing.
 
@@ -17,7 +17,7 @@ Two-factor authentication is a technique of authentication that involves two kin
 
 ## Authorization
 
-*The process of providing a person or program access to a certain resource is known as authorization.*
+_The process of providing a person or program access to a certain resource is known as authorization._
 
 This method typically includes confirming the user's or program's identification and ensuring that they have the required rights to access the resource. Access to files, databases, devices and other resources can be controlled via authorization.
 
@@ -25,7 +25,7 @@ Usually, when a user or program asks to access a system, the authentication proc
 
 ## Accounting
 
-*The practice of keeping track of an organization's information security risks is known as information security accounting.*
+_The practice of keeping track of an organization's information security risks is known as information security accounting._
 
 This procedure may be used to detect unlawful data access or modifications, identify overburdened or underused resources, or discover suspicious activities. Organizations may more effectively safeguard and protect their information systems and data by measuring data, computer usage, and network resources.
 

@@ -1,5 +1,6 @@
 :orphan:
 (introduction-to-devops-culture-and-practices)=
+
 # Introduction to DevOps: Culture and Practices
 
 DevOps is a set of practices that combine software development (Dev) and information technology operations (Ops) to shorten the software delivery life cycle. The main goal of DevOps is to increase efficiency and improve communication between these two silos. DevOps culture is about trust, collaboration, and automation.

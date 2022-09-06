@@ -1,10 +1,11 @@
 :orphan:
 (using-the-cyber-kill-chain-and-the-mitre-matrix-for-red-team-operations)=
+
 # Using the Cyber Kill Chain and the MITRE Matrix for Red Team Operations
 
 When designing and proposing Red Team operations, it is important to present the information in a way that stakeholders can understand and approve. The Cyber Kill Chain (CKC) and MITRE Matrix enable you to explain clearly and concisely the key phases in a Red Team operation.
 
-The CKC lays out the steps in a cyber attack, from reconnaissance to post-attack phase. This can help stakeholders see the big picture and how each step impacts the overall operation. 
+The CKC lays out the steps in a cyber attack, from reconnaissance to post-attack phase. This can help stakeholders see the big picture and how each step impacts the overall operation.
 
 The MITRE Matrix is another great tool for explaining red team operations. It organizes different aspects of an attack, such as tools, tactics, and procedures, into a easy-to-read table. This can help you quickly identify any potential gaps in your plan and make adjustments.
 
@@ -66,7 +67,7 @@ The MITRE Matrix is a versatile tool that can be used in a variety of ways. The 
 
 While the Cyber Kill Chain and MITRE Matrix are valuable tools for understanding how adversaries operate, they are not compliance frameworks. They are not intended for cyber professionals to use them to build a cyber defense strategy.
 
-There is a tendency within large organizations to ask defenders and ethical hackers to "*align themselves to MITRE or CKC*". In practice, this doesn't make any sense!
+There is a tendency within large organizations to ask defenders and ethical hackers to "_align themselves to MITRE or CKC_". In practice, this doesn't make any sense!
 
 ## How to use CKC and the MITRE Matrix for Red Teaming
 

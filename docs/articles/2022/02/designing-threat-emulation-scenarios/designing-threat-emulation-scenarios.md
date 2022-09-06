@@ -1,5 +1,6 @@
 :orphan:
 (designing-threat-emulation-scenarios)=
+
 # Designing Threat Emulation Scenarios
 
 The cyber red team is a key part of defending an organization's networks and systems. Red team members simulate cyber-attacks against an organization to help identify and fix vulnerabilities. But how do you design effective cyber red team scenarios?
@@ -89,6 +90,6 @@ Second, ensure that the scenarios are constantly evolving. The defenders should 
 
 Third, use open source intelligence (OSINT) to gather information about the organization and its networks. This will help to ensure that the scenarios are accurate and realistic.
 
-Finally, involve the defenders in the  creation of the scenarios. This will help to build mutual trust and cooperation, and will also help to identify any potential weaknesses in the organisation's defences. 
+Finally, involve the defenders in the creation of the scenarios. This will help to build mutual trust and cooperation, and will also help to identify any potential weaknesses in the organisation's defences.
 
 > **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

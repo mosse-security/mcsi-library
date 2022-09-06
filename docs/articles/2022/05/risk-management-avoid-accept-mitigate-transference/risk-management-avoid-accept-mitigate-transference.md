@@ -1,7 +1,7 @@
 :orphan:
 (risk-management-avoid-accept-mitigate-transference)=
+
 # Risk Management: Avoid, Accept, Mitigate, Transference
- 
 
 When you make a cup of coffee, you are aware that it has some sort of risks, such as dropping boiling water or being shocked by the kettle’s steel body, burning your tongue. However, you take precautions to reduce those risks, such as controlling the current in the outlets, and not taking a sip before it is warm. You then balance the risks and decide that the benefits exceed the risks. Although they have some similarities, we take a more formal look when identifying, assessing, and managing the risks our business encounters. In this blog post, we will cover how to manage risks.
 

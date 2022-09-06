@@ -1,7 +1,7 @@
 :orphan:
 (an-introduction-to-web-shells)=
+
 # An Introduction to Web Shells
- 
 
 A web shell is a malicious piece of code or script that is put on a target server and written in server-side languages such as PHP, ASP, PERL, RUBY, and Python. It gives an attacker the ability to run commands on the web application's server. The malicious script allows attackers to gain remote access to the target server's file system as well as remote administration capabilities.
 

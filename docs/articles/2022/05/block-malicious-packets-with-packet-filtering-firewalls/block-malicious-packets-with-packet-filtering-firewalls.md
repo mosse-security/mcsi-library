@@ -1,7 +1,7 @@
 :orphan:
 (block-malicious-packets-with-packet-filtering-firewalls)=
+
 # Block Malicious Packets with Packet Filtering Firewalls
- 
 
 Network security tools ensure that you are well equipped to deal with any malicious attempts. In this blog, we are going to explore the network layer firewall mechanism and its pros and cons.
 

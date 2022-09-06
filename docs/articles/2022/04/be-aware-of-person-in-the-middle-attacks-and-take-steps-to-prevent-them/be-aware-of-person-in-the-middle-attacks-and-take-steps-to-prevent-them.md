@@ -1,5 +1,6 @@
 :orphan:
 (be-aware-of-person-in-the-middle-attacks-and-take-steps-to-prevent-them)=
+
 # Be Aware of Person-in-the-Middle Attacks and take Steps to Prevent them
 
 A person-in-the-middle attack is a type of cyber-attack in which the attacker intercepts communication between two parties (the user and the application) in order to obtain information or data. This type of attack can be difficult to detect and the primary objective is to steal sensitive information like login credentials, personal information, and financial details. Let's take a look at what a person-in-the-middle attack is.
@@ -30,9 +31,9 @@ IP spoofing is a technique in which a malicious actor alters the IP address in t
 
 **4. HTTPS Spoofing**
 
-Hypertext transfer protocol is an application layer protocol used to transmit data across the internet. When visiting any website, HTTPS is the left-most part of the URL, where S means Secure. In HTTPS Spoofing, the attacker uses a domain that is almost similar to the target website, tricking the user to think that he is connecting to a legitimate website. 
+Hypertext transfer protocol is an application layer protocol used to transmit data across the internet. When visiting any website, HTTPS is the left-most part of the URL, where S means Secure. In HTTPS Spoofing, the attacker uses a domain that is almost similar to the target website, tricking the user to think that he is connecting to a legitimate website.
 
-For example, https://www.example.com can be replicated by an attacker as https://www.exmaple.com, where both the URL look similar to each other unless the URL is carefully observed. 
+For example, https://www.example.com can be replicated by an attacker as https://www.exmaple.com, where both the URL look similar to each other unless the URL is carefully observed.
 
 **5. Email Interception**
 
@@ -44,13 +45,13 @@ The address resolution protocol, often known as ARP, is used to map an IP addres
 
 **7. Session Hijacking**
 
-Every web application has a login page to authenticate the user, which generates a temporary session cookie that holds the user's login information, which allows the user to browse the website seamlessly without needing to log in on every request. In session hijacking, the attacker gains access to the user's session cookie by which the attacker can spoof the user's account without needing to login. 
+Every web application has a login page to authenticate the user, which generates a temporary session cookie that holds the user's login information, which allows the user to browse the website seamlessly without needing to log in on every request. In session hijacking, the attacker gains access to the user's session cookie by which the attacker can spoof the user's account without needing to login.
 
 ## How to prevent Person-in-the-Middle attack
 
 **1. Encrypt your Wifi**
 
-Wifi with weak encryption is always what an attacker is looking for, due to lack of encryption, wifi is vulnerable to brute-force attacks. Using Security protocols such as WAP or WAP 2 Encryptions helps you defend against PITM. 
+Wifi with weak encryption is always what an attacker is looking for, due to lack of encryption, wifi is vulnerable to brute-force attacks. Using Security protocols such as WAP or WAP 2 Encryptions helps you defend against PITM.
 
 **2. Use VPN**
 

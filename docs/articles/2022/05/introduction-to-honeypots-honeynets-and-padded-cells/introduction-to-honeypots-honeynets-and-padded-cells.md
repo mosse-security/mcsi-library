@@ -1,7 +1,8 @@
 :orphan:
 (introduction-to-honeypots-honeynets-and-padded-cells)=
+
 # Introduction to Honeypots, Honeynets, and Padded Cells
- 
+
 Honeypots, honeynets, and padded cell systems are all terms for a family of sophisticated security solutions that go beyond ordinary intrusion detection. To understand why these technologies aren't more frequently utilized, first understand how they vary from typical IDPs.
 
 ## Honeypots and Honeynets

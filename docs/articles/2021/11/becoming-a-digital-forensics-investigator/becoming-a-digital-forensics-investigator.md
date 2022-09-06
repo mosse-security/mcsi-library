@@ -1,18 +1,15 @@
 :orphan:
-
 (becoming_digital_forensics_investigator)=
 
 # Becoming a Digital Forensics Investigator
 
 % start-after
 
-Let’s consider a scenario. The new *Batman* movie has just come out. You are unable to watch it in the theatres, so you head over to a website that says, “Download this software, you can watch the new *Batman* movie immediately!”. You download the software, only to find out it is fake. Disappointed, you carry on with your work. Soon after, you begin to notice that the mouse cursor moves across the screen, on its own, without you actually using the mouse. This is not expected behavior.
+Let’s consider a scenario. The new _Batman_ movie has just come out. You are unable to watch it in the theatres, so you head over to a website that says, “Download this software, you can watch the new _Batman_ movie immediately!”. You download the software, only to find out it is fake. Disappointed, you carry on with your work. Soon after, you begin to notice that the mouse cursor moves across the screen, on its own, without you actually using the mouse. This is not expected behavior.
 
 % end-before
 
 <img src="images/becoming-a-digital-detective.png" alt="Becoming a Digital Detective"/>
-
-
 
 ## What is an Incident?
 
@@ -74,7 +71,7 @@ Another challenge concerning digital forensics is the volume of storage devices 
 
 Typically, an incident occurs when humans utilise computers with malicious intentions. The forensic process performed will help identify the humans involved with the occurrence of the incident.
 
-Considering the scenario, when digital forensics is performed on your computer, it will help prove that the software download that claimed to provide the new *Batman* movie, was the reason why the mouse cursor is moving around the screen on its own. It could be because someone is controlling your computer remotely. The IP address of the person having remote access to your computer can be identified.
+Considering the scenario, when digital forensics is performed on your computer, it will help prove that the software download that claimed to provide the new _Batman_ movie, was the reason why the mouse cursor is moving around the screen on its own. It could be because someone is controlling your computer remotely. The IP address of the person having remote access to your computer can be identified.
 
 ## Why is Digital Forensics important?
 

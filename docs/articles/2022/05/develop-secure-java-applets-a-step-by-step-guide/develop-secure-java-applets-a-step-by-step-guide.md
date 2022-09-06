@@ -1,7 +1,7 @@
 :orphan:
 (develop-secure-java-applets-a-step-by-step-guide)=
+
 # Develop Secure Java Applets: A Step-by-Step Guide
- 
 
 What if a malicious code takes over all of your local resources while you're working on a Java applet? This is something that should never happen.
 

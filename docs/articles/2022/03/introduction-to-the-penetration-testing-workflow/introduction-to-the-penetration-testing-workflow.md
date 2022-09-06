@@ -9,7 +9,6 @@ The following is an example of a flexible penetration testing workflow that we f
 
 <img src="images/penetration-testing.svg" alt="introduction-to-the-penetration-testing-workflow" width="100%" >
 
-
 Standard workflows can help to streamline the process and ensure that all aspects of the service are taken into consideration. Organizations can reduce variability in their processes by using standard workflows, which can lead to improved quality and lower costs. This aids in error prevention and ensures that the service is of the highest quality. Standard workflows also help to ensure that the process can be repeated, which in turn improves efficiency.
 
 We have developed our own workflow after delving deeper into this domain. When compared to outside industry, you'll notice that we place a greater emphasis on trying to understand the mission, our target and end goals more than anything else.

@@ -1,8 +1,9 @@
 :orphan:
 (can-red-teaming-exercises-be-automated)=
+
 # Can Red Teaming exercises be automated?
 
-Red teaming exercises are a critical part of an organization's security posture, but they can be time consuming and expensive to execute. Can they be automated? The answer is... 
+Red teaming exercises are a critical part of an organization's security posture, but they can be time consuming and expensive to execute. Can they be automated? The answer is...
 
 it depends on where an organization is at.
 

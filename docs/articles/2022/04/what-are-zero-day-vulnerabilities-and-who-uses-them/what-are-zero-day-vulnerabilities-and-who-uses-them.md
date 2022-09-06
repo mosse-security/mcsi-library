@@ -53,7 +53,7 @@ Here's a list of well-known buyers:
 
 In 2009, Google, Adobe, Yahoo, Symantec, Morgan Stanley, Rackspace, and Dow Chemicals were all targets of Operation Aurora, a sophisticated cyberattack campaign.
 
-The spear-phishing technique was used to launch this cyber-espionage operation. Initially, the targeted users were sent a malicious URL via email or instant message, which set off a chain of events. When users clicked the URL, they were taken to a website that executed more malicious JavaScript code. 
+The spear-phishing technique was used to launch this cyber-espionage operation. Initially, the targeted users were sent a malicious URL via email or instant message, which set off a chain of events. When users clicked the URL, they were taken to a website that executed more malicious JavaScript code.
 
 When a user manually loaded/navigated to a malicious web page from a vulnerable Microsoft Windows system, JavaScript code exploited a zero-day vulnerability in Internet Explorer. The exploit was designed to download and run an executable from a now-defunct website once a system had been successfully compromised. This executable configured a remote access tool (RAT) to run at boot time. As a result, remote attackers were able to view, create, and modify data on the compromised system.
 
@@ -67,7 +67,7 @@ Stuxnet employed multiple zero-days:
 
 - <u>CVE-2010-2772</u>
 
-A hard-coded password is used by Siemens Simatic WinCC and PCS 7 SCADA systems to allow local users to access a back-end database and gain privileges. Stuxnet, once fully installed, exploits the Siemens SIMATIC WinCC Default Password Security Bypass Vulnerability to gain access to the WinCC SQL server's back-end SQL database. 
+A hard-coded password is used by Siemens Simatic WinCC and PCS 7 SCADA systems to allow local users to access a back-end database and gain privileges. Stuxnet, once fully installed, exploits the Siemens SIMATIC WinCC Default Password Security Bypass Vulnerability to gain access to the WinCC SQL server's back-end SQL database.
 
 - <u>CVE-2010-2729</u>
 

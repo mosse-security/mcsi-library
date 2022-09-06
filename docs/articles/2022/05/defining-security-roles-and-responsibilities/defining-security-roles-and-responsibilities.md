@@ -1,7 +1,7 @@
 :orphan:
 (defining-security-roles-and-responsibilities)=
+
 # Defining Security Roles and Responsibilities
- 
 
 Why do we need security roles and responsibilities? In this blog post, we will answer what security roles and responsibilities are and how important they are to the organization.
 

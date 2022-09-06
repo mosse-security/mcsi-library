@@ -13,7 +13,7 @@ Here are three key metrics to measure the success of a red team exercise:
 
 2. **Time to detect and respond to the attack** - Another important metric is how quickly the organization detects the attack. This includes things like how long it takes for security teams to notice unusual activity, how long it takes to identify the attack, and how long it takes to contain the attack.
 
-3. **Lessons learned** - Finally, it's important to measure how well the organization learned from the exercise. This includes things like identifying how the attackers were able to penetrate the defenses, what could be done to improve detection and response times, and how to reduce the  impact of future attacks.
+3. **Lessons learned** - Finally, it's important to measure how well the organization learned from the exercise. This includes things like identifying how the attackers were able to penetrate the defenses, what could be done to improve detection and response times, and how to reduce the impact of future attacks.
 
 Here's a non-exhaustive list of items to evaluate when reviewing the results of a Red Team exercise:
 
@@ -37,7 +37,7 @@ Without understanding the business value, it's often difficult to justify the in
 
 Measurement and evaluation of a red team's impact on the organization is critical to ensure that the team is providing value and that their efforts are having the desired impact.
 
-Organizations should take the time to identify which metrics are most important to them and then track these metrics over time to evaluate the effectiveness of their investment. By doing so, organizations can ensure that their red team is having a positive impact on their security posture. 
+Organizations should take the time to identify which metrics are most important to them and then track these metrics over time to evaluate the effectiveness of their investment. By doing so, organizations can ensure that their red team is having a positive impact on their security posture.
 
 ## Conclusion
 

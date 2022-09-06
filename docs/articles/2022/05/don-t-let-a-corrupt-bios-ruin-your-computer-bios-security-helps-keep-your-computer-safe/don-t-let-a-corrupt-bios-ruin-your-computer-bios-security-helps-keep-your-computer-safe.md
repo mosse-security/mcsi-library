@@ -1,8 +1,9 @@
 :orphan:
 (don-t-let-a-corrupt-bios-ruin-your-computer-bios-security-helps-keep-your-computer-safe)=
+
 # Don't Let a Corrupt BIOS Ruin your Computer. BIOS Security Helps Keep your Computer Safe
 
-The BIOS is a piece of software that assists with the loading of the operating system on a computer. The machine would be unable to start if the BIOS became corrupted. As a result, it's critical to maintain the BIOS safety. To help secure the BIOS, there are a few simple steps that may be taken. 
+The BIOS is a piece of software that assists with the loading of the operating system on a computer. The machine would be unable to start if the BIOS became corrupted. As a result, it's critical to maintain the BIOS safety. To help secure the BIOS, there are a few simple steps that may be taken.
 
 To make changes to the BIOS settings, you will need this password. This can assist in preventing illegal alterations. In the BIOS, you can also disable unnecessary ports and devices. This can help prevent tampering and the installation of harmful software on the computer.
 
@@ -18,10 +19,11 @@ There are a few things you can do to make your BIOS more secure. The BIOS passwo
 
 ### 1.2 Create a password for BIOS
 
-Setting a BIOS password is a good place to start if you want to add an extra layer of security to your computer. Here's a basic guide to getting started: 
-1. Go into your computer's BIOS settings. This is commonly accomplished by hitting F1, F2, or DEL during the boot process. 
-2. Once in the BIOS settings, look for a setting that reads "Set Password" or "BIOS Password." 
-3. Choose a password you'll remember. Make it strong by using a combination of letters, numbers, and symbols. 
+Setting a BIOS password is a good place to start if you want to add an extra layer of security to your computer. Here's a basic guide to getting started:
+
+1. Go into your computer's BIOS settings. This is commonly accomplished by hitting F1, F2, or DEL during the boot process.
+2. Once in the BIOS settings, look for a setting that reads "Set Password" or "BIOS Password."
+3. Choose a password you'll remember. Make it strong by using a combination of letters, numbers, and symbols.
 4. Exit and save your BIOS settings.
 
 ## 2. Disable unused ports and devices

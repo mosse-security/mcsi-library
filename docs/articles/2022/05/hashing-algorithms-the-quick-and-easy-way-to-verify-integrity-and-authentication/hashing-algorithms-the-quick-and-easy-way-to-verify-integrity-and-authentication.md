@@ -1,7 +1,7 @@
 :orphan:
 (hashing-algorithms-the-quick-and-easy-way-to-verify-integrity-and-authentication)=
+
 # Hashing Algorithms: The Quick and Easy Way to Verify Integrity and Authentication
- 
 
 We need an algorithm to encrypt and decrypt information. So, what is an algorithm? They are just arithmetic methods of converting data into an unreadable format. In this blog, we are going to provide an introduction to hashes which are also coined as message digests algorithms (MD).
 

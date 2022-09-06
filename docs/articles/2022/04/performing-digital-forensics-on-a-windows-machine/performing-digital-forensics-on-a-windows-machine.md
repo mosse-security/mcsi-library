@@ -1,6 +1,8 @@
 :orphan:
 (performing-digital-forensics-on-a-windows-machine)=
+
 # Performing digital forensics on a windows machine – where do I start?
+
 You have just taken up a role as a Junior Digital Forensic Analyst. You have been informed that your regular duties would involve searching for evidence on windows machines suspected of being compromised. If you knew what evidence to collect, when to collect it and how to collect it; then you will be in a great position to help your team with the investigation. This blog post will provide a high-level overview of the various sources of evidence on a windows machine and how they may prove useful during an investigation.
 
 ## Assess the Situation
@@ -9,7 +11,7 @@ Consider a pre-heated oven. If the oven is connected to the power outlet and set
 
 Likewise on a Windows machine, some data that exists when the device is in a powered-on state, disappears when the device is powered down. That data is referred to as ‘volatile’.
 
-When presented with a Windows machine for investigation, you can begin by checking if the machine is in the powered-on state. If so, you can begin collecting volatile data from it, before proceeding to collect other non-volatile data. In most situations, volatile data contains critical evidence for an investigation. 
+When presented with a Windows machine for investigation, you can begin by checking if the machine is in the powered-on state. If so, you can begin collecting volatile data from it, before proceeding to collect other non-volatile data. In most situations, volatile data contains critical evidence for an investigation.
 
 ## Volatile Data
 

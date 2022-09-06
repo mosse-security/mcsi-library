@@ -21,24 +21,24 @@ During an investigation, after acquiring volatile data from a target machine, th
 
 In some cases, only specific partitions are copied from the hard disk of the target computer, while in others, a copy of the complete hard disk is made. Two of your friends require only specific recipes while the third wishes to have a copy of the whole cookbook.
 
-The data copied from a hard disk is referred to as a forensic image. The copying process is formally called as acquisition. Making a copy of files from a target hard disk during a forensic investigation is referred to as acquisition of a forensic image. 
+The data copied from a hard disk is referred to as a forensic image. The copying process is formally called as acquisition. Making a copy of files from a target hard disk during a forensic investigation is referred to as acquisition of a forensic image.
 
 ## Types of forensic images
 
-Consider a hard disk with three partitions *C:*, *D:* and *E:*. The complete hard disk is referred to as physical volume and the individual partitions are referred to as logical volumes. 
+Consider a hard disk with three partitions _C:_, _D:_ and _E:_. The complete hard disk is referred to as physical volume and the individual partitions are referred to as logical volumes.
 
-When a copy of the complete hard disk inclusive of all partitions is made, it is referred to as a *physical image*. The copy process is called *physical acquisition*. 
+When a copy of the complete hard disk inclusive of all partitions is made, it is referred to as a _physical image_. The copy process is called _physical acquisition_.
 
-When a copy of a specific partition is made, it is referred to as a *logical image*. The copy process is called *logical acquisition*.
+When a copy of a specific partition is made, it is referred to as a _logical image_. The copy process is called _logical acquisition_.
 
 ## How to acquire a forensic image?
 
-In reality, acquisition of a forensic image is more than just a ‘copy’ process. Various standards and procedures need to be followed by a forensic investigator during acquisition. 
+In reality, acquisition of a forensic image is more than just a ‘copy’ process. Various standards and procedures need to be followed by a forensic investigator during acquisition.
 
 When you make a copy of the recipes using a photocopier, you will ensure that the cookbook remains intact without damage. Likewise, when acquiring a forensic image from a hard disk, in order to ensure that data on it remains the same, ‘write blockers’ are used to prevent any writes to it. A write blocker could be a hardware or software tool.
 
 There are various commercial and free tools to assist in the acquisition of a forensic image.
 
-During an investigation in an enterprise environment, given the large capacity of storage devices, only files relevant to the investigation will be acquired in some situations. This activity is referred to as *triage*.
+During an investigation in an enterprise environment, given the large capacity of storage devices, only files relevant to the investigation will be acquired in some situations. This activity is referred to as _triage_.
 
 > **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**

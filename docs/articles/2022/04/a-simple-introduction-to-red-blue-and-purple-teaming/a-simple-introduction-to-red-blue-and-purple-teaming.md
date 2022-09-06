@@ -1,5 +1,6 @@
 :orphan:
 (a-simple-introduction-to-red-blue-and-purple-teaming)=
+
 # A Simple Introduction to Red, Blue and Purple Teaming
 
 There are three types of methods that an organization uses to secure its infrastructure: Red Teaming, Blue Teaming, and Purple teaming. Each concept takes a different strategy for safeguarding the organization. Let's take a look at what red, blue, and purple teaming is all about.

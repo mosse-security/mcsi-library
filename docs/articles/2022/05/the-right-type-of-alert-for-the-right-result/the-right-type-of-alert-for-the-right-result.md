@@ -1,7 +1,7 @@
 :orphan:
 (the-right-type-of-alert-for-the-right-result)=
+
 # The Right Type of Alert for the Right Result
- 
 
 A cybersecurity strategy is intended to safeguard an organization's data and systems. This includes alerts whenever suspicious activity is detected, as well as an automated response to block the attack. Unfortunately, no security system is perfect, and there will be false alarms. Technology has altered the way we live and work, as well as the way criminals operate. Criminals used to have to physically break into a building or bank to commit a crime. Criminals can now commit crimes from anywhere in the world by going online. This has made it difficult for organizations to keep up with the evolving criminal landscape. One way organizations have adapted to this change is by utilizing computer security systems designed to detect and defend against cyberattacks. These systems operate by monitoring network activity for signs of an attack. This includes both alerts and an automated response whenever suspicious activity is detected.
 
@@ -13,11 +13,11 @@ A true positive alert is one that accurately identifies a potential problem. Thi
 
 A false positive alert is one that is generated when there is no actual threat present. This can be aggravating for users because it can lead to them wasting time investigating a false alarm. False positives can occur in a variety of ways, including:
 
-1.	System error: Sometimes false positives are caused by a system glitch. This could be due to a software bug or a sensor issue. 
+1. System error: Sometimes false positives are caused by a system glitch. This could be due to a software bug or a sensor issue.
 
-2.	User error: User error is another common cause of false positives. This can occur if the user does not properly configure the system or if the alarm is accidentally triggered. 
+2. User error: User error is another common cause of false positives. This can occur if the user does not properly configure the system or if the alarm is accidentally triggered.
 
-3.	Environmental influences: Environmental influences can also result in false positives.
+3. Environmental influences: Environmental influences can also result in false positives.
 
 ## What is a true negative alert?
 

@@ -1,5 +1,6 @@
 :orphan:
 (guidelines-for-writing-a-mission-brief)=
+
 # Guidelines for creating a Mission Update Brief
 
 A Mission Update Briefing (MUB) provides updates on the progress of a mission to interested parties. It includes new information on the mission's goals, objectives, and status, as well as any changes to the original plan. The briefing also assesses the current risks and challenges faced by the mission and offers recommendations on how to address them.
@@ -30,12 +31,12 @@ Your MUB can obviously be longer than seven slides, but only include more materi
 
 3. **Don't forget to use charts and graphics.** The audience expects you to convey the information in the most digestible manner possible. Keep in mind that they only have 10-15 minutes to comprehend and make decisions on a large amount of complex information. Make use of graphs and graphics to help you express your message:
 
-    - Network maps
-    - Progress bars
-    - Pie charts
-    - Satellite imagery
-    - Screenshots
-    - Short 30sec video recordings even!
+   - Network maps
+   - Progress bars
+   - Pie charts
+   - Satellite imagery
+   - Screenshots
+   - Short 30sec video recordings even!
 
 4. **Don't have useless slides.** Remove slides that are unnecessary. If some of your slides can be merged then merge them.
 
@@ -43,7 +44,7 @@ Your MUB can obviously be longer than seven slides, but only include more materi
 
 ## Structured Analytic Techniques
 
-*The majority of students have difficulty with critical thinking.*
+_The majority of students have difficulty with critical thinking._
 
 Structured analytic techniques are important when drafting a mission briefing because they help analysts organize their thoughts and identify key issues. These techniques force analysts to think through all aspects of a problem and consider different potential outcomes. This type of analysis can help prevent cognitive biases and ensure that the mission briefing is comprehensive.
 

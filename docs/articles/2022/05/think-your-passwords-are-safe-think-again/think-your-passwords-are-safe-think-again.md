@@ -1,7 +1,7 @@
 :orphan:
 (think-your-passwords-are-safe-think-again)=
+
 # Think Your Passwords Are Safe? Think Again
- 
 
 Passwords are frequently susceptible due to where they are kept. You have many options for storage, ranging from plain text to utilizing a password manager. However, an attacker looks at many other places to find any valuable information related to user credentials. For example, auditing files. Your system logs failed password attempts. This generally includes a considerable number of passwords. If you don’t keep them safe, people who come across a recording of failed login attempts may try it for all valid user identities.
 

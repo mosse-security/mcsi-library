@@ -1,3 +1,12 @@
+---
+myst:
+  html_meta:
+    "description lang=en": "This is a reverse engineering landing page"
+    "type": "article"
+    "category": "penetration-testing"
+    "property=og:image": "https://6a42-78-174-36-228.eu.ngrok.io/_images/reverse-engineering.png"      
+---
+
 (reverse-engineering-landing-page)=
 # Reverse Engineering
 

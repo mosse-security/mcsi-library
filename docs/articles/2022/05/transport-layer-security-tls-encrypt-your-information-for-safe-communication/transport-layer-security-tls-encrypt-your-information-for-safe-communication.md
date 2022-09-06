@@ -1,7 +1,7 @@
 :orphan:
 (transport-layer-security-tls-encrypt-your-information-for-safe-communication)=
+
 # Transport Layer Security (TLS): Encrypt Your Information for Safe Communication
- 
 
 Several approaches for creating a safe and authenticated channel between hosts have been presented. Finally, a better replacement to the SSL protocol was created which is TLS. In this blog we will make an introduction to Transport Layer Protection (TLS) protocol.
 

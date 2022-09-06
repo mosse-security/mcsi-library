@@ -1,7 +1,7 @@
 :orphan:
 (a-gentle-introduction-to-digital-forensics-on-linux)=
+
 # A gentle introduction to digital forensics on Linux
- 
 
 Have you watched movies where skilled cyber operators have black windows open in their computers, with coloured text scrolling through? They type some content in the black screens and magical stuff happens. Have you wondered how they go about doing all that? What applications may they be using? All those tasks can be performed on Windows, Linux-based and Mac operating systems. For now, let us focus on the Linux-based ones. This blog post introduces some basic concepts about Linux-based computers and discusses how Linux proves useful in the DFIR domain.
 
@@ -22,10 +22,10 @@ Using the Linux kernel, many operating systems have been developed. You may have
 
 Here are some examples of Linux-based operating systems:
 
-- *Debian based distros*: Debian, Ubuntu, Lubuntu, Kali
-- *SUSE based distros*: openSUSE, SUSE Enterprise
-- *Red-Hat based distros*: Fedora, Red-Hat, CentOS
-- *Arch-based*: Arch linux, Manjaro
+- _Debian based distros_: Debian, Ubuntu, Lubuntu, Kali
+- _SUSE based distros_: openSUSE, SUSE Enterprise
+- _Red-Hat based distros_: Fedora, Red-Hat, CentOS
+- _Arch-based_: Arch linux, Manjaro
 
 Here is an analogy to break it down for you.
 
@@ -37,7 +37,7 @@ SUSE, Red-Hat and Arch are simply generic names assigned to the distribution typ
 
 Linux distros are used widely today – to host web applications, in the cloud, within IoT devices, etc.
 
-Most of us are used to working on Windows computers - Creating files and folders, creating documents, running applications, etc. Record of every activity performed on a Windows computer can be found in *[prefetch files](windows-prefetch-files-may-be-the-answer-to-your-investigation)*, *[shellbags](windows-shellbags-in-digital-forensics)*, *[event logs](windows-event-logs-in-digital-forensics)*, *[file system journal](windows-file-system-journal-in-digital-forensics)*, etc. These records pose as solid evidence during a forensic investigation. In the same way, whenever any of the Linux distributions are used, records of user activity can be found in various locations. Knowing which those locations are, will help a forensic examiner acquire evidence as soon as possible.
+Most of us are used to working on Windows computers - Creating files and folders, creating documents, running applications, etc. Record of every activity performed on a Windows computer can be found in _[prefetch files](windows-prefetch-files-may-be-the-answer-to-your-investigation)_, _[shellbags](windows-shellbags-in-digital-forensics)_, _[event logs](windows-event-logs-in-digital-forensics)_, _[file system journal](windows-file-system-journal-in-digital-forensics)_, etc. These records pose as solid evidence during a forensic investigation. In the same way, whenever any of the Linux distributions are used, records of user activity can be found in various locations. Knowing which those locations are, will help a forensic examiner acquire evidence as soon as possible.
 
 When an incident occurs involving Linux-based servers or IoT devices or systems in the cloud, a DFIR professional with the skills to operate Linux systems and perform Linux forensics can assist in recovering from the incident quickly.
 
@@ -50,7 +50,7 @@ Now you know what Linux is, what Linux-based distros are and how they are benefi
 - Understand what Linux is
 - Get familiar with the different types of Linux distributions
 - Install a Linux OS in a virtual machine and start using it
-- On Windows, the *C:* drive holds the system files. User data is stored across *Documents*, *Downloads*, *Pictures* and other folders. Likewise, Linux systems too have their own way of organizing system and user data. Research about it
+- On Windows, the _C:_ drive holds the system files. User data is stored across _Documents_, _Downloads_, _Pictures_ and other folders. Likewise, Linux systems too have their own way of organizing system and user data. Research about it
 - Get acquainted with using a Linux OS
 
 Once you are familiar with how a Linux OS works, you can begin acquiring skills to perform Linux Forensics.

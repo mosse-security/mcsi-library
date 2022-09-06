@@ -1,5 +1,6 @@
 :orphan:
 (hybrid-cloud)=
+
 # Hybrid Cloud
 
 Any cloud infrastructure architecture that comprises both public and private cloud solutions is referred to as a hybrid cloud. The resources are usually managed as part of a larger infrastructure environment. Based on corporate business and technical policies, apps and data workloads can share resources between public and private cloud deployments, to ensure security, high performance, scalability, low cost and efficiency. Organizations can employ private cloud environments for their IT workloads and supplement the infrastructure with public cloud resources to manage periodic surges in network traffic, which is a popular example of hybrid cloud. Alternatively, you might save money by using the public cloud for non-critical tasks and data while using the private cloud for sensitive data. As a result, access to additional processing capacity is provided as a short-term IT service via a public cloud solution, rather than requiring the high CapEx of a private cloud system. The ecosystem is connected smoothly to enable optimal performance and scalability in response to changing business needs.
@@ -18,15 +19,16 @@ Here are some people that might benefit from a hybrid cloud:
 
 ## Advantages of hybrid cloud
 
--	Flexible policy-driven deployment of workloads across public and private infrastructure environments based on security, performance, and cost considerations.
+- Flexible policy-driven deployment of workloads across public and private infrastructure environments based on security, performance, and cost considerations.
 
--	Scale with safety in mind. Scalability is achieved in public cloud environments without exposing sensitive IT workloads to security threats.
+- Scale with safety in mind. Scalability is achieved in public cloud environments without exposing sensitive IT workloads to security threats.
 
--	Reliability. Maximum dependability is achieved by distributing services across various data centers, some public and others private.
+- Reliability. Maximum dependability is achieved by distributing services across various data centers, some public and others private.
 
--	Controlling costs. Improved security posture because sensitive IT workloads are executed on dedicated resources in private clouds, whereas normal workloads are scattered across low-cost public cloud infrastructure as a cost-cutting measure.
+- Controlling costs. Improved security posture because sensitive IT workloads are executed on dedicated resources in private clouds, whereas normal workloads are scattered across low-cost public cloud infrastructure as a cost-cutting measure.
 
 ## Drawbacks of hybrid cloud
+
 The hybrid cloud has a number of problems, including:
 
 - Price. It's difficult to keep track of when you're switching between public and private, which might lead to unnecessary spending.

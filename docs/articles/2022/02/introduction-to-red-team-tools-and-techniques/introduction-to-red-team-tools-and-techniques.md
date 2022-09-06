@@ -1,5 +1,6 @@
 :orphan:
 (introduction-to-red-team-tools-and-techniques)=
+
 # Introduction to Red Team Tools and Techniques
 
 The tools and techniques utilized by Cyber Red Teams are discussed in this blog post. Red Teams are individuals who engage in live-fire exercises to test an organization's security posture. Attempting to breach the organization's defences or imitating a real-world attack are examples of this. To achieve their objectives, red teams employ a variety of tools and techniques.
@@ -12,7 +13,7 @@ Even if IR is launched, the Red Team should plan ahead for how the investigation
 
 ### Vulnerability Scanners
 
-*An automated vulnerability scanner is a computer program that automates the process of identifying security vulnerabilities in a computer system. These scanners can be used to scan networks, individual systems, or web applications.*
+_An automated vulnerability scanner is a computer program that automates the process of identifying security vulnerabilities in a computer system. These scanners can be used to scan networks, individual systems, or web applications._
 
 Vulnerability scanners are often avoided by Red Teams since they are noisy and create a lot of traffic. These technologies can help identify susceptible systems rapidly, but they may not be the most effective for a targeted attack.
 
@@ -25,7 +26,7 @@ However, if you work in a Red Team and need to compromise a specific ICT asset, 
 
 ### Exploit Kits
 
-*Software exploitation is the process of gaining unauthorized access to a system or data by exploiting a vulnerability or weakness. The Red Team can use such flaws to accomplish their goals, such as installing malware or stealing sensitive information.*
+_Software exploitation is the process of gaining unauthorized access to a system or data by exploiting a vulnerability or weakness. The Red Team can use such flaws to accomplish their goals, such as installing malware or stealing sensitive information._
 
 So you discovered a flaw with a publicly available exploit? Maybe Metasploit has everything neatly packaged? Now is the moment to determine whether or not to take advantage of it.
 
@@ -40,7 +41,7 @@ Once again, a benefits vs. hazards analysis is recommended, and here are some ad
 
 ### Phishing Emails and Websites
 
-*Phishing emails and websites appear to be from a reputable source, but they are actually from the Red Team. Phishing attacks are designed to obtain personal information such as login credentials, credit card numbers, and social security numbers. Phishing emails and websites can be difficult to recognize since they are often quite convincing.*
+_Phishing emails and websites appear to be from a reputable source, but they are actually from the Red Team. Phishing attacks are designed to obtain personal information such as login credentials, credit card numbers, and social security numbers. Phishing emails and websites can be difficult to recognize since they are often quite convincing._
 
 The majority of Red Team activities entail breaking into the target network via the Internet. Phishing is one of the most simple and prevalent methods. The Red Team can access Internet-facing interfaces that aren't protected by multi-factor authentication by stealing corporate network credentials. VPN, Citrix, and email are examples of this.
 
@@ -50,7 +51,7 @@ With the correct pretext and social engineering tradecraft, we've been able to p
 
 ### Spear-Phishing Framework
 
-*A spear-phishing assault is one that is directed at a specific user. An email will be sent that appears to come from a reliable source, such as a friend or colleague. When the user clicks on a link or attachment in the email, malware is installed on their machine. Spear-phishing attacks are especially harmful since the attacker usually knows a lot about the target and may craft very convincing emails.*
+_A spear-phishing assault is one that is directed at a specific user. An email will be sent that appears to come from a reliable source, such as a friend or colleague. When the user clicks on a link or attachment in the email, malware is installed on their machine. Spear-phishing attacks are especially harmful since the attacker usually knows a lot about the target and may craft very convincing emails._
 
 Advanced Red Teams will create their own spear-phishing platform, complete with their own exploits and capabilities:
 
@@ -62,7 +63,7 @@ Advanced Red Teams will create their own spear-phishing platform, complete with 
 
 ### Password Guessing Tools
 
-*Password guessing tools are computer programmes that use a combination of approaches to try to guess passwords, such as dictionary attacks and brute force attacks. Brute force attacks try every conceivable combination of characters, whereas dictionary attacks employ a list of popular passwords. Password guessing software can be extremely useful, particularly if the password is a simple word or string of characters.*
+_Password guessing tools are computer programmes that use a combination of approaches to try to guess passwords, such as dictionary attacks and brute force attacks. Brute force attacks try every conceivable combination of characters, whereas dictionary attacks employ a list of popular passwords. Password guessing software can be extremely useful, particularly if the password is a simple word or string of characters._
 
 1. **Online & Offline Password Cracking.** Online password cracking seeks to crack passwords in real-time as they are entered, whereas offline password cracking extracts passwords from a data repository, such as a file system or database.
 
@@ -70,7 +71,7 @@ Advanced Red Teams will create their own spear-phishing platform, complete with 
 
 ### Command and Control (C2) Frameworks
 
-*A C2 framework is a system that allows attackers to remotely manipulate compromised computers. This provides pentesters and red teamers with a valuable tool for managing infected systems and expanding their network reach. There are a variety of C2 frameworks to choose from, each with its own set of benefits and drawbacks.*
+_A C2 framework is a system that allows attackers to remotely manipulate compromised computers. This provides pentesters and red teamers with a valuable tool for managing infected systems and expanding their network reach. There are a variety of C2 frameworks to choose from, each with its own set of benefits and drawbacks._
 
 Metasploit's Meterpreter is the most used C2 framework. Meterpreter is a popular choice among pentesters and red teamers since it is simple to use and offers a wide range of functions.
 
@@ -78,7 +79,7 @@ Advanced Red Teams will go so far as to write their own C2 framework in order to
 
 ### Zero-Day Exploits
 
-*A zero-day exploit is an attack that takes advantage of a vulnerability in software that is unknown to the software maker or the security community. These exploits are highly sought after by some advanced Red Teams because they can be used to take control of computers or steal sensitive data without being detected.*
+_A zero-day exploit is an attack that takes advantage of a vulnerability in software that is unknown to the software maker or the security community. These exploits are highly sought after by some advanced Red Teams because they can be used to take control of computers or steal sensitive data without being detected._
 
 The usage of zero-days in Red Team drills is a contentious topic. There are various grounds against doing so, including the fact that it is unreasonable to expect the target organization to defend itself against an attack it has no awareness of. Furthermore, some individuals question whether it is ethical for security professionals to keep vulnerability knowledge rather than reporting it to software vendors.
 
@@ -96,7 +97,7 @@ Although some of the approaches described below require the use of tools, they a
 
 ### Open-Source Intelligence
 
-*For red teaming, open-source intelligence, or OSINT, is a vital resource. All publicly available information, including social media, news channels, and government websites, is included in OSINT. Red teams can obtain a better grasp of their target and uncover potential flaws by gathering and analyzing this data.*
+_For red teaming, open-source intelligence, or OSINT, is a vital resource. All publicly available information, including social media, news channels, and government websites, is included in OSINT. Red teams can obtain a better grasp of their target and uncover potential flaws by gathering and analyzing this data._
 
 A Red Team has access to hundreds of OSINT tools. Here's a list of important categories to consider:
 
@@ -110,7 +111,7 @@ A Red Team has access to hundreds of OSINT tools. Here's a list of important cat
 
 ### Web Application Vulnerabilities
 
-*Web application vulnerabilities are coding flaws in web applications that can be exploited by the Red Team to gain access to sensitive data or take control of the application. Some common web application vulnerabilities include SQL injection, cross-site scripting, and session management flaws.*
+_Web application vulnerabilities are coding flaws in web applications that can be exploited by the Red Team to gain access to sensitive data or take control of the application. Some common web application vulnerabilities include SQL injection, cross-site scripting, and session management flaws._
 
 Vulnerable apps exposed to the Internet or deployed within the corporate network may be identified by the Red Team. In other cases, the purpose may involve gaining access to a specific application in order to steal data. Enterprise apps are frequently littered with vulnerabilities that may be identified quickly and effectively on the go.
 
@@ -121,7 +122,7 @@ Vulnerable apps exposed to the Internet or deployed within the corporate network
 
 ### Operating System Vulnerabilities
 
-*Operating system vulnerabilities are holes in the security of the OS that can be exploited by the Red Team to gain access to the computer's data or to take control of the computer.*
+_Operating system vulnerabilities are holes in the security of the OS that can be exploited by the Red Team to gain access to the computer's data or to take control of the computer._
 
 Advanced Red Teams are capable of detecting OS flaws in real time. They may start with a low-privileged account on a random machine, but they'll quickly find local privilege escalation vulnerabilities, steal credentials, and move on to other systems.
 
@@ -133,7 +134,7 @@ Advanced Red Teams are capable of detecting OS flaws in real time. They may star
 
 ### Open File Shares
 
-*Open file shares are networked directories or files that anyone can access. This means that anyone on the network can view or alter files saved in an open file share, posing a security risk.*
+_Open file shares are networked directories or files that anyone can access. This means that anyone on the network can view or alter files saved in an open file share, posing a security risk._
 
 This is our favorite technique since it is straightforward, and it has proven to be highly vulnerable in every large organization we've tested.
 

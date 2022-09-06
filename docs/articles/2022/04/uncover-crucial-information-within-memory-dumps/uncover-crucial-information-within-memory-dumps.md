@@ -1,11 +1,13 @@
 :orphan:
 (uncover-crucial-information-within-memory-dumps)=
+
 # Uncover Crucial Information within Memory Dumps
+
 You are a Junior Digital Forensics Investigator. Your manager has asked you to get familiar with performing forensics on memory dumps. This blog post will give you a brief overview about the potential information you can find in a memory dump.
 
 ## What is memory forensics?
 
-A memory dump represents data present on a computer's RAM at the time when memory is acquired. Processing a memory dump for evidence of recent activity on a system is formally referred to as memory forensics. You can read more about an introduction to memory forensics *[Discover the Truth with Memory Forensics](discover-the-truth-with-memory-forensics)*
+A memory dump represents data present on a computer's RAM at the time when memory is acquired. Processing a memory dump for evidence of recent activity on a system is formally referred to as memory forensics. You can read more about an introduction to memory forensics _[Discover the Truth with Memory Forensics](discover-the-truth-with-memory-forensics)_
 
 Although most memory dumps contain generic information like active process listing, networking information, etc.; some critical information depends on the operating system used on the computer from which the dump was taken.
 
@@ -13,17 +15,17 @@ Although most memory dumps contain generic information like active process listi
 
 The following section provides a brief overview of information you can find in a memory dump and what it may indicate.
 
-**Process Information**: Let’s assume that you are in a department store. You fill up a shopping cart with the items you need, purchase them and leave the store when you are done. Now let’s map this scenario to processes in memory. 
+**Process Information**: Let’s assume that you are in a department store. You fill up a shopping cart with the items you need, purchase them and leave the store when you are done. Now let’s map this scenario to processes in memory.
 
-Every time you execute an application, say `notepad.exe`, the binary for it is brought into memory and a process is created. This can be likened to you entering a department store. As you enter data into the notepad application, that data can also be found in the memory dump in a region called *process memory*. That data can be likened to the shopping cart that you use in the department store. This means, in memory you can find the binary (executable file) that was used to start the process and also the data used by the process. 
+Every time you execute an application, say `notepad.exe`, the binary for it is brought into memory and a process is created. This can be likened to you entering a department store. As you enter data into the notepad application, that data can also be found in the memory dump in a region called _process memory_. That data can be likened to the shopping cart that you use in the department store. This means, in memory you can find the binary (executable file) that was used to start the process and also the data used by the process.
 
-Consider that you have left the department store. Store employees may be able to identify you as a customer. Similarly, once you close an application on your computer, you may find evidence in a memory dump that it was previously used. 
+Consider that you have left the department store. Store employees may be able to identify you as a customer. Similarly, once you close an application on your computer, you may find evidence in a memory dump that it was previously used.
 
 Within a memory dump, you can find the names of applications that were in use at the time the dump was taken, data used by those applications and even applications that had been used previously on the computer.
 
 **Networking Information**: If web browser applications, video conferencing applications, streaming applications, or any other applications using the internet; were in use at the time the memory dump was taken, you can extract information about the activities performed using those applications. This is quite useful when malware activity is suspected on a computer.
 
-**Kernel Related Information**: A cup of coffee can wake you up in the morning. You may even add supplements like milk and sugar. The kernel is a software program that wakes up the rest of the operating system. The kernel sometimes uses ‘supplements’ like drivers or modules to help bring up the operating system. 
+**Kernel Related Information**: A cup of coffee can wake you up in the morning. You may even add supplements like milk and sugar. The kernel is a software program that wakes up the rest of the operating system. The kernel sometimes uses ‘supplements’ like drivers or modules to help bring up the operating system.
 
 Within a memory dump you can find information about the drivers loaded by the kernel. This is particularly useful when you are investigating a malware attack.
 
@@ -50,9 +52,9 @@ You can practice memory forensics right now! Here is a project idea that you can
 7. Use ‘strings’ tool to identify the human-readable strings from the process memory dump. See if you can spot the names of the fruits you entered in `fruits.txt`
 8. Open the memory dump in a hex viewer and see if you can spot the name of any fruit you entered in `fruits.txt`
 
-If you did, great! 
+If you did, great!
 
-This is just a small example. In the real world, maybe you can find information about contraband drugs or critical passwords or keys or offshore bank account details that proves to be significant in a case. 
+This is just a small example. In the real world, maybe you can find information about contraband drugs or critical passwords or keys or offshore bank account details that proves to be significant in a case.
 
 Memory forensics helps uncover critical evidence, that is otherwise not easily available to a forensic investigator.
 

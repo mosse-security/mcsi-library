@@ -1,6 +1,8 @@
 ﻿:orphan:
 (make-security-decisions-with-confidence-using-risk-assessments)=
+
 # Make Security Decisions with Confidence using Risk Assessments
+
 Information security risk assessment aids an organization's ability to deal with security concerns effectively and efficiently. This helps organizations in examining their security architecture to identify the threats to their most valuable assets. The results of these assessments assist executives in making educated decisions about the organization's security and improving the security posture of the organization.
 
 ## What is a Risk Assessment?
@@ -9,7 +11,7 @@ Risk assessment is an ongoing process of identifying the primary threats and vul
 
 ## When should a risk assessment be performed?
 
-Due to the dynamic nature of security risks, it is critical to conduct risk assessments at frequent periods throughout the year or anytime a substantial business change (e.g., an acquisition, merger, or the implementation of new technology to execute business operations) occurs. 
+Due to the dynamic nature of security risks, it is critical to conduct risk assessments at frequent periods throughout the year or anytime a substantial business change (e.g., an acquisition, merger, or the implementation of new technology to execute business operations) occurs.
 
 ## Who should you perform the risk assessment?
 
@@ -33,7 +35,7 @@ The following are some of the primary benefits that risk assessment provides to 
 
 ## Types of Risk Assessments
 
-There are two main approaches to performing risk assessment i.e. Quantitative and Qualitative risk assessment. 
+There are two main approaches to performing risk assessment i.e. Quantitative and Qualitative risk assessment.
 A quantitative risk assessment assigns monetary and numeric values to all the elements (i.e. asset value, threat frequency, the severity of the impact, cost of security controls, and probability items) of the risk assessment. This type of risk assessment uses equations and calculations to quantify the level of potential losses and the probability of occurrence of each threat.
 
 A qualitative risk assessment doesn’t assign monetary or numeric values but assigns ratings to the risks such as Low medium or high. This risk assessment is a scenario and opinion based approach to assign a risk rating to relay the criticality of each risk.
@@ -44,17 +46,17 @@ It is better to utilize both approaches when carrying out a risk assessment in y
 
 The main steps involved in conducting the risk assessment are as follows:
 
-**1.  Identification of assets and their value to the organization:**
+**1. Identification of assets and their value to the organization:**
 
 Assets are valuable resources of the company that needs protection. Assets can be people, facilities, equipment, reputation, and information/data in any form. The purpose of this step is to identify the assets included in the scope of your assessment and determine their value.
 
 The asset's value is determined by its importance to the organization and includes costs of acquiring/developing, maintaining, and protecting the asset, as well as the cost of replacing it if it is lost or damaged. This step helps security professionals suggest appropriate security controls in line with the asset’s value.
 
-**2.  Identification of threats and vulnerabilities to these assets:**
+**2. Identification of threats and vulnerabilities to these assets:**
 
-A threat is a potential cause of an unwanted incident that can cause harm to your asset. A threat can be natural such as earthquakes, fires, floods, hurricanes, etc., or man-made such as human errors, hackers, malware, etc. 
+A threat is a potential cause of an unwanted incident that can cause harm to your asset. A threat can be natural such as earthquakes, fires, floods, hurricanes, etc., or man-made such as human errors, hackers, malware, etc.
 
-A vulnerability is a security weakness that facilitates a threat agent to cause potential harm to the system.  A vulnerability can be software security patches that haven’t been installed, lack of fire extinguishers in a building, lack of anti-virus software, weak authentication mechanisms, etc.
+A vulnerability is a security weakness that facilitates a threat agent to cause potential harm to the system. A vulnerability can be software security patches that haven’t been installed, lack of fire extinguishers in a building, lack of anti-virus software, weak authentication mechanisms, etc.
 
 The goal of this stage is to identify any potential security threats and weaknesses in your information systems. Threats in your environment can be detected by considering all of the many entities that can affect your systems. Vulnerabilities in your environment can be discovered using a variety of techniques, including audits and monitoring to identify human errors or data misuse, penetration testing and vulnerability scanning to identify software security vulnerabilities, and reviewing your facilities to identify physical flaws, among others.
 
@@ -92,12 +94,12 @@ The values to be used in performing calculations in quantitative risk analysis s
 Qualitative risk analysis doesn’t assign numbers or monetary values to risk. Instead, this approach involves using the expertise of people from different departments and their opinion to assign risk ratings. The methods used to gather data for performing qualitative risk assessment include brainstorming, the Delphi technique, questionnaires, checklists, one-on-one meetings, and interviews.
 
 The risk assessment team gathers personnel from different departments to explore various threat scenarios. Each selected expert who is most familiar with the threat reviews the scenario and ranks the possibility of the threat occurring and its impact.
- 
+
 The relationship that is mostly used to determine the risk is:
 
 `Risk = Likelihood x Impact`
 
-A risk assessment matrix is utilized in this step to map the likelihood of a risk occurring against the impact of the risk. The risk is classified as high medium or low by using an arbitrary rating scale, such as 1-5 or 1-10, with 1 representing the lowest probability/impact and 5 indicating the highest probability/impact. 
+A risk assessment matrix is utilized in this step to map the likelihood of a risk occurring against the impact of the risk. The risk is classified as high medium or low by using an arbitrary rating scale, such as 1-5 or 1-10, with 1 representing the lowest probability/impact and 5 indicating the highest probability/impact.
 
 **4. Rank and Prioritize the risks:**
 
@@ -105,7 +107,7 @@ After assigning a rating to the risks, the risks are ranked depending on their l
 
 **5. Review the security controls:**
 
-The purpose of this step is to review the existing security controls that are in place to deal with the risk and recommend new security controls. When selecting a security control, the analyst must perform its cost-benefit analysis and review its effectiveness and functionality.  
+The purpose of this step is to review the existing security controls that are in place to deal with the risk and recommend new security controls. When selecting a security control, the analyst must perform its cost-benefit analysis and review its effectiveness and functionality.
 
 A cost-benefit analysis determines if the total cost of implementing the countermeasure doesn’t exceed the financial loss incurred due to the risk. The total cost of safeguard implementation mainly includes the production costs, implementation costs, testing costs, operational costs, and maintenance costs.
 
@@ -128,7 +130,6 @@ All the risks discovered, their rating and the proposed recommendation are arran
 ## Common Risk Management Frameworks:
 
 The process of establishing how a company's risk assessment will be carried out is known as risk management. Risk assessment is a difficult undertaking that must be continued in order for an organization to deal with new risks. To assist with the procedures outlined in this article, it's critical to choose a risk management framework that will guide your company's risk assessment. The choice of a risk management framework is influenced by a number of factors. The industry in which your company operates, its culture, and its security/compliance requirements will all play a role in determining which risk management approach is best for you. Your company can select a risk framework and customize it to meet its specific needs. Some of the commonly used Risk Management frameworks are listed below:
-
 
 Some of the commonly used Risk Management frameworks are listed below:
 
@@ -159,7 +160,7 @@ This risk management framework provides guidelines for information security risk
 This risk framework was developed by ISACA and aims to bridge the gap between IT risks and business risks. The main steps of Risk IT implementation are as follows:
 
 - Risk Governance
-- Risk Evaluation 
+- Risk Evaluation
 - Risk Response
 
 **_COSO Enterprise Risk Management – Integrated Framework:_**
@@ -172,7 +173,7 @@ This framework allows the organizations to apply an enterprise-wide approach to 
 - Implementation and performance
 - Enhanced Value
 
-**_OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation):_** 
+**_OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation):_**
 
 This risk assessment methodology was developed by Carnegie Mellon University. It stresses a self-directed team approach to dealing with security risks. People from different departments within the organization manage and direct the evaluation of security risks within the company. There are three main phases of OCTAVE risk framework Implementation:
 
@@ -182,7 +183,7 @@ This risk assessment methodology was developed by Carnegie Mellon University. It
 
 **_FAIR (Factor analysis of Information Risk):_**
 
-This model identifies different factors that comprise the risk and how these factors affect each other. This framework is used to identify, analyze and measure information risk within your organization. This risk assessment methodology is used to assign monetary and numerical values to assets and different forms of risk. 
+This model identifies different factors that comprise the risk and how these factors affect each other. This framework is used to identify, analyze and measure information risk within your organization. This risk assessment methodology is used to assign monetary and numerical values to assets and different forms of risk.
 
 One of the main advantages of using this framework is that it helps organizations make financially sound decisions regarding the implementation of cost-effective security controls. The main steps in performing a FAIR risk assessment are:
 

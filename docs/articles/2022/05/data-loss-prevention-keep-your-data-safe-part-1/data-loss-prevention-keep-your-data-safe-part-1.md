@@ -1,5 +1,6 @@
 :orphan:
 (data-loss-prevention-keep-your-data-safe-part-1)=
+
 # Data Loss Prevention: Keep your Data Safe - Part 1
 
 Data Loss Prevention (DLP) strives to prevent unauthorized disclosure of an organization's data assets. Unsecure access control to sensitive resources, such as files containing confidential data, makes data leakage very easy; hence, DLPs play a key role in protecting an organization's data from unauthorized access. Different DLP solutions may differ in how they identify threats, and what action should be taken if an adversary breaches security controls.
@@ -8,11 +9,11 @@ When considering whether to adopt DLP against losses incurred as a result of pot
 
 ## Use Cases of Data Loss Prevention
 
--	To achieve Enterprise-wide data visibility
--	Secure data stored in the cloud
--	Protect intellectual property
--	Compliance with Applicable Laws and regulations
--	Protect the digital workforce in WFH (Work from home) era
+- To achieve Enterprise-wide data visibility
+- Secure data stored in the cloud
+- Protect intellectual property
+- Compliance with Applicable Laws and regulations
+- Protect the digital workforce in WFH (Work from home) era
 
 ## Causes of Data Loss
 
@@ -24,7 +25,7 @@ When considering whether to adopt DLP against losses incurred as a result of pot
 
 **4. Theft:** is the unauthorized transmission or storage of personal, confidential, or financial data. Passwords, software code or algorithms, and proprietary processes or technologies are all examples.
 
-**5. Hardware malfunction:**  Computer Hardware Malfunction (HWM) has affected thousands if not millions of computers in modern times. HWM occurs whenever there is any kind of failure within the device. In general, HWMs occur due to power supply failures, faulty disk drives/platters, etc. The problems that may arise after causing an HWM vary depending upon the type of error that occurred. They include file corruption, total file loss, logical damage to files, lost files, and bad sectors on hard disks.
+**5. Hardware malfunction:** Computer Hardware Malfunction (HWM) has affected thousands if not millions of computers in modern times. HWM occurs whenever there is any kind of failure within the device. In general, HWMs occur due to power supply failures, faulty disk drives/platters, etc. The problems that may arise after causing an HWM vary depending upon the type of error that occurred. They include file corruption, total file loss, logical damage to files, lost files, and bad sectors on hard disks.
 
 **6. Human errors:** Human errors are frequently caused by careless data handling. Data loss can occur as a result of human error; data loss can take the form of equipment damage, faulty backup practices, or data storage misuse. Data loss can occur in a variety of ways. Accidental data loss (misplaced disks) or purposeful data loss (by using virus or malware).
 
@@ -38,7 +39,7 @@ When considering whether to adopt DLP against losses incurred as a result of pot
 
 ## How does DLP work?
 
-DLP uses a combination of context analysis and content analysis. The first level involves exact file matching, which is based on rule-based expressions recognized by the data loss prevention software. 
+DLP uses a combination of context analysis and content analysis. The first level involves exact file matching, which is based on rule-based expressions recognized by the data loss prevention software.
 
 The next level is fingerprinting otherwise known as file matching this recognizes files that are in use, in motion, or at rest and have the same content as an indexed file. Following that, the DLP solution does content analysis this level of analysis employs a set of dictionaries or other lists and rules to detect undesired conduct, such as word searches or the sharing of proprietary knowledge with people outside the organization.
 
@@ -46,14 +47,14 @@ Finally, advanced statistical analytic approaches can be used in content analysi
 
 ### Data Loss Prevention Best Practices
 
-1.	Having an enterprise data inventory that includes where data resides  and what type of data is will help with the next practice ie. data classification of structured and unstructured data.
+1. Having an enterprise data inventory that includes where data resides and what type of data is will help with the next practice ie. data classification of structured and unstructured data.
 
-2.	Establishing a data classification system is essential to have because it gives an organization a clear image of all data assets under its control, and provides better understanding of where data is housed, how to access it quickly, and how to secure it from potential security threats.
+2. Establishing a data classification system is essential to have because it gives an organization a clear image of all data assets under its control, and provides better understanding of where data is housed, how to access it quickly, and how to secure it from potential security threats.
 
-3.	Having a central DLP system ensures greater visibility into the network and promotes quick identification of data security issues.
+3. Having a central DLP system ensures greater visibility into the network and promotes quick identification of data security issues.
 
-4.	Roles and training of DLP experts for successful execution of DLP plans. It is essential to have experts who can successfully  create and execute  DLP policies across the organization.
+4. Roles and training of DLP experts for successful execution of DLP plans. It is essential to have experts who can successfully create and execute DLP policies across the organization.
 
-5.	Have a data loss prevention policy that outlines how your organization can share and safeguard information.
+5. Have a data loss prevention policy that outlines how your organization can share and safeguard information.
 
 > **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**

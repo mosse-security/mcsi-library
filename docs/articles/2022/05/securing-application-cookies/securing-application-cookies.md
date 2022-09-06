@@ -1,7 +1,7 @@
 :orphan:
 (securing-application-cookies)=
+
 # Securing Application Cookies
- 
 
 Sensitive data storage and safety in online applications is a major vulnerability. Attackers employ a variety of techniques to get illegal access to the data stored in your system (which is also referred to as "client-side") and processed by apps. In this blog post, we are going to explain what a cookie is, design vulnerabilities, and possible methods of preventing cookie attacks.
 

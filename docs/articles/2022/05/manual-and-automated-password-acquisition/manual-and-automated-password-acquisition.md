@@ -1,29 +1,29 @@
 :orphan:
 (manual-and-automated-password-acquisition)=
+
 # Manual and automated password acquisition
- 
 
 Password attack/cracking is one crucial step in the art of system hacking. When performing penetration tests, passwords can be obtained in a variety of ways. These can range from manually obtaining them from the target to using advanced automated attacks such as packet sniffing and brute force.
 
 ## Non-Electronic Attacks:
 
-There are many different types of password attacks, but non-electronic attacks are perhaps the most difficult to defend against. This is because they don't rely on breaking any electronic security, but instead exploit human weaknesses. 
+There are many different types of password attacks, but non-electronic attacks are perhaps the most difficult to defend against. This is because they don't rely on breaking any electronic security, but instead exploit human weaknesses.
 
-*Different types of Non-Electronic Attacks are:*
+_Different types of Non-Electronic Attacks are:_
 
 ### Social engineering
+
 Social engineering is the art of manipulating people so that they give up confidential information. The techniques used are generally psychological, and the goal is to trick the victim into revealing information that they would not normally disclose. Social engineering can take many different forms, but all share the common goal of obtaining sensitive information from the victim.
 
 One common approach is known as phishing, where the attacker sends an email that appears to be from a legitimate source, such as a bank or company. The email will typically contain a link that the victim is encouraged to click on, which will then take them to a fake website that looks almost identical to the real thing. The victim is then asked to enter their login credentials, which the attacker can then use to gain access to the victim's account.
 
 ### Shoulder Surfing
 
-Shoulder surfing is a technique of stealing passwords by peaking through the victim's shoulders and watching them enter the username and password. However, this attacker requires the attacker to be in close proximity to the victim. Some of the common places where Shoulder surfing is carried out are near ATMs. 
-
+Shoulder surfing is a technique of stealing passwords by peaking through the victim's shoulders and watching them enter the username and password. However, this attacker requires the attacker to be in close proximity to the victim. Some of the common places where Shoulder surfing is carried out are near ATMs.
 
 ## Offline Attacks
 
-Offline attacks are the type of password attacks in which the attacker tries to recover passwords in plaintext. Offline attacks are time-consuming but have a high success rate.  Attackers use different types of offline attacks such as rainbow table attacks to crack passwords.
+Offline attacks are the type of password attacks in which the attacker tries to recover passwords in plaintext. Offline attacks are time-consuming but have a high success rate. Attackers use different types of offline attacks such as rainbow table attacks to crack passwords.
 
 ### Rainbow Table attack
 
@@ -31,7 +31,7 @@ A rainbow table attack is a type of cryptanalytic attack that relies on the use 
 
 ## Active password attacks
 
-### Dictionary attacks 
+### Dictionary attacks
 
 A dictionary attack is a type of brute force attack that relies on a list of words, known as a dictionary, in order to guess passwords. Dictionary attacks are one of the most common types of attacks used by hackers, as they can be highly effective in guessing passwords, especially if the passwords are not complex or are based on common words. To carry out a dictionary attack, a hacker will typically use a computer program to try all the words in a dictionary one by one until the correct password is found. This type of attack can be made more effective by using a custom dictionary that includes words related to the target system or organization, such as names of employees, and common misspellings.
 
@@ -43,7 +43,7 @@ A brute-force attack is a type of attack in which an attacker attempts to guess 
 
 ### Packet sniffing
 
-Packet sniffing is a technique used by malicious actors to intercept and collect data passing through a network. By using a specialized device or software, an attacker can eavesdrop on communications and collect sensitive information, such as login credentials, financial data, and more. 
+Packet sniffing is a technique used by malicious actors to intercept and collect data passing through a network. By using a specialized device or software, an attacker can eavesdrop on communications and collect sensitive information, such as login credentials, financial data, and more.
 
 ### Person in the middle attack
 

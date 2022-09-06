@@ -1,7 +1,7 @@
 :orphan:
 (protect-your-web-applications-against-csrf-attacks)=
+
 # Protect your Web Applications Against CSRF Attacks
- 
 
 Cross-site request forgery (CSRF) is a type of attack that allows an attacker to do unauthorized actions on behalf of a user. A CSRF attack happens when a malicious site sends a request to a victim site, causing the victim site to perform an action intended by the attacker. This can be used to steal information, such as login passwords, or to take acts on the user's behalf, such as moving funds from their account.
 
@@ -9,7 +9,7 @@ Cross-site request forgery (CSRF) is a type of attack that allows an attacker to
 
 There are numerous methods for a user to be tricked into disclosing critical information; in this post, we will look at one example to better understand Cross-site request forgery.
 
-*Bob wishes to send $500 USD to Michel. This transaction is carried out on the banking website transferbank.com, which is vulnerable to a CSRF attack. A malicious actor wishes to mislead Bob into transferring money to him rather than Michel.*
+_Bob wishes to send $500 USD to Michel. This transaction is carried out on the banking website transferbank.com, which is vulnerable to a CSRF attack. A malicious actor wishes to mislead Bob into transferring money to him rather than Michel._
 
 To begin, the attacker must generate a malicious URL that appears authentic to Bob and then deceive Bob into clicking the malicious link. Furthermore, if the banking website in question is using a GET request to deliver data to its server, the URL for sending $500 USD to Michel looks like this.
 
@@ -49,11 +49,12 @@ There are several ways to prevent cross-site request forgery (CSRF) attacks.
 
 The most popular and effective technique is to use a session-specific token. This token is usually saved in a cookie or a hidden form field. When a form is submitted, the token is validated to ensure that it is valid.
 
-Another frequent way is to examine the referrer header to ensure that the request is coming from the same website. If the attacker has access to the victim's cookies, CSRF attacks can be extremely difficult to avoid. In this situation, the attacker can simply replicate  the cookie token and include it with the malicious request. Some websites employ a double submit cookie to prevent this.
+Another frequent way is to examine the referrer header to ensure that the request is coming from the same website. If the attacker has access to the victim's cookies, CSRF attacks can be extremely difficult to avoid. In this situation, the attacker can simply replicate the cookie token and include it with the malicious request. Some websites employ a double submit cookie to prevent this.
 
 In addition, Web applications can use a security measures known as the Same Origin Policy (SOP). This policy blocks a web page from accessing resources in another domain. This policy would prevent an attacker from submitting a request to a web application from a different domain.
 
 **Best Practices include:**
+
 - Keep security token in the server-side session
 - Use double submit cookies
 - Use the POST method for all sensitive data handling

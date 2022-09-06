@@ -1,7 +1,7 @@
 :orphan:
 (the-importance-of-security-training-and-awareness)=
-# The Importance of Security Training and Awareness
 
+# The Importance of Security Training and Awareness
 
 Security awareness is a necessity for security training. Improvements in user activity are required for the optimal adoption of a security system. Such adjustments largely consist of modifications to typical job tasks in order to be consistent with the security policy's standards, rules, and procedures. User-behavior improvement needs some kind of user education. To create and manage security education, and consciousness, all important components must be widely understood. Furthermore, plans of presentation, integration, and execution must also be designed.
 

@@ -1,15 +1,15 @@
 :orphan:
 (understanding-the-different-types-of-scan-you-can-perform-with-nmap)=
+
 # Understanding the different types of scan you can perform with Nmap
- 
 
 Port scanning is the method of enumerating open ports and services by delivering a series of messages. Port scanners identify active hosts and scan their ports by manipulating transport layer protocol flags. Administrators and users may accidentally keep unnecessary open ports on their computers. An attacker can take advantage of such open ports for malicious purposes.
 
 A port number provided within the transport layer protocol header (TCP or UDP) indicates which upper-layer protocol should receive the data contained inside the packet. The port numbers range from 0 to 65,535 and these are split into three separate groups, Well-known ports range from `0 - to 1,023`, and Registered ports range from `1,024 - to 49,151`. Dynamic and/or private ports range from `49,152 - 65,535`.
 
-Some of the most common ports are ``Port 21 TCP - FTP`` - file transfer protocol. `Port 22 TCP - SSH` - secure shell for secure logins `Port 23 TCP - telnet` - Unencrypted text communications.` Port 53 UDP - DNS` - Domain name system for resolving the IP address. `Port 80 TCP - HTTP` - world wide web.
+Some of the most common ports are `Port 21 TCP - FTP` - file transfer protocol. `Port 22 TCP - SSH` - secure shell for secure logins `Port 23 TCP - telnet` - Unencrypted text communications.` Port 53 UDP - DNS` - Domain name system for resolving the IP address. `Port 80 TCP - HTTP` - world wide web.
 
-*Different types of port scanning methods:*
+_Different types of port scanning methods:_
 
 ## Full connect Scan
 
@@ -36,7 +36,6 @@ The Xmas scan is an Inverse TCP scan that includes the `FIN`, `PUSH`, and `URG` 
 In this scan, the received `RST` packet headers are analyzed to check whether the port is open by sending TCP probe packets to the remote machine with the `ACK` flag set. If the TTL value of the `RST` packet is less than 64, the port is open. If the window value of an `RST` packet on a given port is greater than zero, the port is open. This type of scan is extremely stealthy and avoids many IDS and logging systems.
 
 `nmap -sA -T4 Your_IP_Address`
-
 
 ## Final words
 

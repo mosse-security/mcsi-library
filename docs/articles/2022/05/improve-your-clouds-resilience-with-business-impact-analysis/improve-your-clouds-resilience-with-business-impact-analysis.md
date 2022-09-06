@@ -1,5 +1,6 @@
 :orphan:
 (improve-your-clouds-resilience-with-business-impact-analysis)=
+
 # Improve Your Cloud's Resilience With Business Impact Analysis
 
 A successful Business Impact Analysis allows us to ensure the resilience and sustainability of cloud operations during and after an interruption, which is also known as Disaster Recovery (DR) and Business Continuity (BC). In this blog, we will discuss major business impact analysis issues in the cloud. Let’s start by defining what a BIA is.

@@ -1,6 +1,8 @@
 :orphan:
 (email-another-source-for-data-exfiltration)=
+
 # Email: Another Source for Data Exfiltration
+
 When a data exfiltration occurs, the cyber threat hunt may begin by examining public web servers, databases, and file servers. Those are obvious first choices due to their accessibility from the internet and within the organization. Knowing the type of data exfiltrated could provide clues on where to begin the hunt. That is, hoping the organization knows where all their data is located within the organization. Insights on the type of data leaked and where the data is stored within the organization could help generate a hypothesis to begin the threat hunt. Though another service to check is email.
 
 ## Email as a vector

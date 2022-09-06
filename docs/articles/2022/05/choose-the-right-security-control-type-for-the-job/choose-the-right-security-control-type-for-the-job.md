@@ -1,11 +1,12 @@
 :orphan:
 (choose-the-right-security-control-type-for-the-job)=
-# Choose the Right Security Control Type for the Job
 
+# Choose the Right Security Control Type for the Job
 
 Every day, an organization's assets are exposed to a variety of security threats. These threats can damage the assets by exploiting vulnerabilities present in them. The probability of these threats exploiting the assets' weaknesses and the resulting impact is referred to as risk. Security controls are employed to mitigate this risk. There are various types of security controls, each of which serves a distinct purpose. The article aims to explain what security controls are, their various types, and what functions they provide. It also discusses how these controls can be combined to provide the organization with defense-in-depth protection for its assets.
 
 ## What are security controls?
+
 Security controls, often known as security countermeasures, are implemented to reduce the risk posed by a threat. These controls are used to lessen the likelihood of a threat agent exploiting a security flaw, minimizing the damage as a result. The purpose of security control is to safeguard the confidentiality, integrity, and availability of an asset.
 
 Security controls might take the shape of hardware, software, rules, or processes, and they are all tailored to achieve a specific objective. An access control list, for example, is used to limit a user's access to certain resources. When a user attempts to access a resource, his access rights are checked in the access control list, and he is only granted access if the permissions indicated in the ACL allow it. A load balancer is another example that can be considered. A load balancer is a device that manages incoming client requests and routes them to various servers. As a result, it ensures availability by allowing timely access to resources and ensuring that none of the servers are overburdened.
@@ -13,66 +14,74 @@ Security controls might take the shape of hardware, software, rules, or processe
 The application of security controls requires a thorough examination of threats, vulnerabilities, the asset's worth to the company, and the level of risk due to a particular threat. Based on all of these considerations, a suitable security countermeasure is then chosen to effectively mitigate the risk.
 
 ## Benefits of security controls:
+
 Following are some of the benefits of employing security controls in an organization:
 
-* They safeguard the organization's most precious assets, including people, processes, and data, as well as the infrastructure that hosts this data.
+- They safeguard the organization's most precious assets, including people, processes, and data, as well as the infrastructure that hosts this data.
 
-* They help ensure the continuity of critical business functions of the organization.
+- They help ensure the continuity of critical business functions of the organization.
 
-* Business processes can function more effectively and efficiently with the help of security controls.
+- Business processes can function more effectively and efficiently with the help of security controls.
 
-* These controls ensure compliance with security and privacy laws/regulations.
+- These controls ensure compliance with security and privacy laws/regulations.
 
-* These safeguards reduce the impact of the most frequent security incidents, including data breaches, social engineering attacks, malware injection, and so on.
+- These safeguards reduce the impact of the most frequent security incidents, including data breaches, social engineering attacks, malware injection, and so on.
 
-* By allowing the company to operate in a secure and efficient manner, these controls deliver a favorable return on investment.
+- By allowing the company to operate in a secure and efficient manner, these controls deliver a favorable return on investment.
 
 ## Types of security controls:
+
 Administrative, technical, and physical security controls are the three most common types of security controls. This section explains each of these types and includes examples to help you understand them.
 
 ### Administrative controls:
+
 Administrative controls are often known as soft security measures since they are more management-focused. When it comes to security, the most important thing to keep in mind is human behavior. Even if you have the strongest technical controls in place to protect your assets, one user error can jeopardize the security of your assets. As a result, it's critical to provide employees with guidance and implement various controls that allow them to carry out their duties responsibly and safely.
 
 Administrative security controls can take the shape of policies, standards, procedures, baselines, or recommendations. It is the responsibility of management to design these controls and delegate their implementation to relevant employees. Administrative controls govern how security will be integrated within the company in accordance with the organization's overall business objectives.
 
 Some examples of administrative security controls are as follows:
 
-* Security Policies
-* Security awareness and training programs
-* Separation of duties
-* Job Rotation
-* Personnel hiring procedures
-* Data Classification
+- Security Policies
+- Security awareness and training programs
+- Separation of duties
+- Job Rotation
+- Personnel hiring procedures
+- Data Classification
 
 ### Technical Controls:
+
 Technical controls are sometimes known as logical controls since they are based on software, hardware, or firmware. These controls can be embedded in operating systems, software packages, or applications to provide various security services. They can also take the shape of standalone electronic devices or software/hardware security configurations. These controls are used to provid protection to the assets in an automated manner.
 
 Some of the examples of technical security controls are as follows:
-* Firewalls
-* Network based or host based Intrusion Detection Systems
-* Intrusion Prevention Systems
-* Encryption
-* Antivirus Solutions
-* Access Control Lists
-* Data Backup
-* Smart Cards
-* SIEM(Security Information and Event Management) software
+
+- Firewalls
+- Network based or host based Intrusion Detection Systems
+- Intrusion Prevention Systems
+- Encryption
+- Antivirus Solutions
+- Access Control Lists
+- Data Backup
+- Smart Cards
+- SIEM(Security Information and Event Management) software
 
 ### Physical Controls:
+
 Physical security controls are those controls that are employed to secure a facility, its occupants, and its assets. These controls are used to prevent unauthorized access to sensitive areas of the facility, detect unusual actions, prevent damage to human life and the facility, and deter unwanted activities, among other things. The majority of these controls are in the form of tangible objects or people.
 
 Some of the examples of physical security controls are as follows:
-* Security Guards
-* Fences
-* Locked Doors
-* Bollards
-* Mantraps
-* Closed-circuit TV
-* Device locks
-* Security Badges and Swipe Card
-* Motion Detectors
+
+- Security Guards
+- Fences
+- Locked Doors
+- Bollards
+- Mantraps
+- Closed-circuit TV
+- Device locks
+- Security Badges and Swipe Card
+- Motion Detectors
 
 ## Functionalities of Security Controls:
+
 Security controls are used to accomplish specific purposes. Different types of security controls have different functions. Knowledge of these functionalities can assist security experts in making a decision about which control will most effectively address the security issue. Security controls can be divided into six categories based on their functionalities:
 
 ### 1. Preventive Controls:
@@ -143,14 +152,15 @@ Compensating controls are employed as alternatives to primary controls. Compensa
 
 <u>Examples of compensating controls:</u>
 
-There are no fixed examples of compensating controls as these controls are applied in the context of primary controls. 
+There are no fixed examples of compensating controls as these controls are applied in the context of primary controls.
 
 Let's look at a scenario to better comprehend this concept. Imagine that a company still uses legacy systems in its environment since they provide critical business functionality and removing them is not possible. The use of these systems can expose your system or network to a variety of threats. In order to detect and prevent these threats, you'll need to use a sophisticated monitoring and logging system. Therefore these controls will act as compensating controls in this situation.
 
 Consider another accounting scenario in which a single individual is in charge of bank reconciliation and vendor payments. Assume that your company has limited resources and the implementaton of separation of duties control isn't feasible. As a result, in order to reduce the risk of fraud, a company decides to adopt rigorous monitoring and logging of employee actions. These monitoring and logging controls, in this case, are compensating controls that are meant to provide the same level of protection as the primary control.
 
 ## Defense-in-Depth Security Strategy:
-Defense-in-Depth refers to a security strategy that uses multiple security controls in a layered approach. The purpose of using this multilayered defense system is to make it very difficult for the attacker to penetrate your environment and reduce the likelihood of a successful attack. An attacker will have to pass through several layers of security countermeasures before he has a chance to access your valuable resources. 
+
+Defense-in-Depth refers to a security strategy that uses multiple security controls in a layered approach. The purpose of using this multilayered defense system is to make it very difficult for the attacker to penetrate your environment and reduce the likelihood of a successful attack. An attacker will have to pass through several layers of security countermeasures before he has a chance to access your valuable resources.
 
 With the number and sophistication of cyber-attacks on the rise around the world, it's more important than ever for businesses to put in place a security program that can withstand such attacks. Various security frameworks, such as the NIST CSF (Cyber Security Frameworks) and ISO 27001, provide organizations with direction on how to build a security management program that can prevent, detect, and respond to a variety of security threats. To provide effective asset protection, administrative, technical, and physical security controls must be employed together to provide preventative, detective, corrective, deterrence, and recovery control functionality. Physical and logical access controls, monitoring and logging, data, endpoint and network protection, and personnel management controls are some of the most essential categories of security controls that must be used to accomplish a defense-in-depth security strategy.
 

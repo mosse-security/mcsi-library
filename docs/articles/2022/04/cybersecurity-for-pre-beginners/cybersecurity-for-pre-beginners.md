@@ -13,19 +13,19 @@ Malicious code, denial of service attacks, and identity theft are all examples o
 
 ### Cyber security and its convenience
 
-*It is hard to underestimate the importance of cyber security. Almost everything in today's world is linked to the internet in some form. This provides cybercriminals with a variety of prospective targets. Furthermore, the physical harm produced by traditional crimes is often considerably higher than the damage caused by a successful hack.*
+_It is hard to underestimate the importance of cyber security. Almost everything in today's world is linked to the internet in some form. This provides cybercriminals with a variety of prospective targets. Furthermore, the physical harm produced by traditional crimes is often considerably higher than the damage caused by a successful hack._
 
 The good news is that there are several ways to secure oneself from cyber threats. The good part is that many of these solutions are simple to implement. You may, for example, install anti-virus software on your computer to protect it from viruses, or you can configure a firewall to prevent malicious internet traffic. Of course, no system is flawless, and there is always the possibility that something may go through the gaps.
 
 ### Information Security
 
-*The process of protecting electronic information by limiting information risks is known as information security.*
+_The process of protecting electronic information by limiting information risks is known as information security._
 
 Unauthorized access, unauthorized manipulation and interruption, data corruption, disclosure, interception, or destruction are all examples of information risks. Data might include, but is not limited to, sensitive business data or personal data. Physical security, network security, and application security are all required for effective information security.
 
 ### Information Systems Security
 
-*The technique of securing computer systems from illegal access or theft is known as information systems security.*
+_The technique of securing computer systems from illegal access or theft is known as information systems security._
 
 Data is an organization's most valuable asset, therefore it must be protected against unauthorized parties. Data may be protected in a variety of ways, including physical security, logical security, and administrative security. Physical security entails safeguarding hardware and data against criminal attack or damage. Logical security entails protecting data against unwanted access or theft. Administrative security is ensuring that only authorized persons have access to data.
 
@@ -33,7 +33,7 @@ Organizations must implement all three types of security to successfully protect
 
 ### Basics and Fundamentals
 
-*Cyber security is the practice of preventing unauthorized access to or theft of computer networks, systems, and user data.*
+_Cyber security is the practice of preventing unauthorized access to or theft of computer networks, systems, and user data._
 
 It includes the prevention of malware, phishing attacks, and other cyber risks. As the internet becomes more integrated into our lives, cyber security has become a significant issue for organizations and individuals. There are a few simple things you can take to protect yourself online, such as using strong passwords and updating your software.
 

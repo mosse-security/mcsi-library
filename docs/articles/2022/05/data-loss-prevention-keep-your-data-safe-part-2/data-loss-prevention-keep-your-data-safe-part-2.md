@@ -1,7 +1,7 @@
 :orphan:
 (data-loss-prevention-keep-your-data-safe-part-2)=
+
 # Data Loss Prevention: Keep your Data Safe - Part 2
- 
 
 Data Loss Prevention (DLP) is a security mechanism that detects sensitive data and alerts administrators when it leaves the network or is accessed without authorization. Endpoint security, email, cloud-based solutions, and mobile device management software are all examples of DLP products. DLP deployments may be viewed as a barrier or a delay in some workers' and departments' day-to-day job tasks and obligations. However, when properly configured, a DLP system may be a valuable asset to a corporation, supporting a variety of security goals and compliance.
 The danger of data loss (both customer and company) rises when organizations change their working environments and support their IT infrastructure with the introduction of new and innovative technology.

@@ -1,5 +1,6 @@
 :orphan:
 (cia-triad)=
+
 # The CIA Triad: Keep Your Data Safe
 
 The CIA Triad plays an essential role in cyber security. The Triad is an acronym that stands for confidentiality, integrity, and availability. All three principles are essential to the security of information and systems. Confidentiality ensures that information is not disclosed to unauthorized individuals or entities. Integrity ensures that information is not altered or destroyed in an unauthorized manner. Availability ensures that authorized users have access to information and systems when they need them. The Triad is significant because it helps organizations secure their data from unauthorized access and modification.
@@ -10,9 +11,9 @@ In recent times, data confidentiality is extremely crucial. Hackers are finding 
 
 While there are several methods for maintaining confidentiality, encryption is one of the most efficient. Encryption, when used correctly, may make it nearly difficult for unauthorized parties to access data. As a result, companies and organizations should encrypt any critical data to safeguard it from cyber-attacks.
 
-## Integrity 
+## Integrity
 
-*The goal of data integrity is to guarantee that data is correct, reliable, and consistent.*
+_The goal of data integrity is to guarantee that data is correct, reliable, and consistent._
 
 Data integrity is critical for qualitative research and decision-makers credibility. Improving data integrity requires collaboration among data providers and users, as well as investments in quality control methods.
 
@@ -20,7 +21,7 @@ The foundation of cyber security is integrity. Systems are vulnerable to attack 
 
 ## Availability
 
-*The availability of data allows users to access it anytime they need to.*
+_The availability of data allows users to access it anytime they need to._
 
 This is vital because it ensures that information is consistent and up to date. Inconsistency and inaccuracies can arise when data is not available. It is critical for users to be able to access data when they need it. That is why it is critical to understand the function of the information security professional, the skills required, and how to choose the ideal individual for the position. Simultaneously, businesses must consider upgrading their security posture in order to protect data that hackers and criminals are increasingly targeting.
 

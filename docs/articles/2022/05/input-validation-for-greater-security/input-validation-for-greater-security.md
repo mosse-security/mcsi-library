@@ -1,7 +1,7 @@
 :orphan:
 (input-validation-for-greater-security)=
+
 # Input Validation for Greater Security
- 
 
 When developing online apps that accept any sort of user input, you must ensure that input validation is performed. To begin with, you should never allow a user to include script the input field. However, this does not totally fix the problem; an attacker still has numerous smart alternatives at his or her disposal. Input validation is a must when developing a secure application. One of the most common causes of application vulnerabilities is a lack of or inappropriate usage of input validation. All information obtained from a client should be handled as unreliable and checked before further processing. Many developers utilize server-side programming to meet this need. Otherwise, the user may send harmful input to a program that can exploit a flaw.
 

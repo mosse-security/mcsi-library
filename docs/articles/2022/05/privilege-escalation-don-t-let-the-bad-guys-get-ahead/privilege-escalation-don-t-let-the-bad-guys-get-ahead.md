@@ -1,7 +1,7 @@
 :orphan:
 (privilege-escalation-don-t-let-the-bad-guys-get-ahead)=
+
 # Privilege Escalation: Don't Let the Bad Guys Get Ahead
- 
 
 Privilege escalation is a technique used by attackers to gain elevated access to resources or data that are normally forbidden to them. By exploiting vulnerabilities or misconfigurations, an attacker can escalate their privileges and gain access to sensitive information or perform actions that would otherwise be forbidden.
 
@@ -21,17 +21,17 @@ Vertical privilege escalation is an attack in which an attacker acquires access 
 
 ### Credential Exploitation
 
-Stealing credentials and logging in as a valid user is one of the easiest ways for a hacker to get access to any system.  An attacker first tries to gain a privileged user's username through Data Breaches and Dark Web. Attacker then focuses on cracking the password once they've figured out the username. Hackers get a free pass to move around the system undetected once they know the username and password. 
+Stealing credentials and logging in as a valid user is one of the easiest ways for a hacker to get access to any system. An attacker first tries to gain a privileged user's username through Data Breaches and Dark Web. Attacker then focuses on cracking the password once they've figured out the username. Hackers get a free pass to move around the system undetected once they know the username and password.
 
 The attacker then sets up some measures that allow him to access the system even if his actions are detected and the password is reset by the host. For example, They can maintain their presence by installing backdoors or rootkits.
 
-### Privileged vulnerabilities and their exploits 
+### Privileged vulnerabilities and their exploits
 
 Vulnerabilities can exist in a web application, service, operating system, or any other networked digital device. But does a vulnerability itself enough to escalate privileges? No, A vulnerability lets us know there is a possible exploit, To understand the potential consequences of the vulnerability, we must first learn what an "Exploit" is.
 
-An exploit is a malicious code or software which leverages the vulnerability present in any system. Most of the exploits we find on the Internet are POC, while some exploits are reliable and easily weaponized others are unreliable. Exploits can also be found on the dark web. 
+An exploit is a malicious code or software which leverages the vulnerability present in any system. Most of the exploits we find on the Internet are POC, while some exploits are reliable and easily weaponized others are unreliable. Exploits can also be found on the dark web.
 
-In any organization there are many users in play, some might have fewer privileges, and others might have administrative access. Based on the privilege level we can know the amount of damage any vulnerability can cause. For example, let us assume a web application has been compromised, If the privileges are that of a standard user, the exploit might fail as there might be no way to elevate privileges. On the other hand, if the user has administrative privileges, this leads to a vertical privilege escalation. 
+In any organization there are many users in play, some might have fewer privileges, and others might have administrative access. Based on the privilege level we can know the amount of damage any vulnerability can cause. For example, let us assume a web application has been compromised, If the privileges are that of a standard user, the exploit might fail as there might be no way to elevate privileges. On the other hand, if the user has administrative privileges, this leads to a vertical privilege escalation.
 
 ### Misconfigurations
 
@@ -39,15 +39,15 @@ If you're a system administrator, you're well aware that misconfigurations can c
 
 ## Best practices to avoid privilege escalation
 
-### Manage user Privileges 
+### Manage user Privileges
 
 System administrators and security teams must make sure that they have allocated and defined the roles and privileges of each user clearly. Every user in the organization should have privileges concerning their job roles, This reduces the chance of privilege escalation by some services which were not supposed to be there in the first place.
 
 ### Use Multi-Factor authentication
 
-Broken authentication mechanism are one of the most exploited vulnerabilities in any web application, Vulnerabilities such as IDOR, Session hijacking and brute force attack( Due to lack of login security mechanisms) makes way to privilege escalation. 
+Broken authentication mechanism are one of the most exploited vulnerabilities in any web application, Vulnerabilities such as IDOR, Session hijacking and brute force attack( Due to lack of login security mechanisms) makes way to privilege escalation.
 
-Using complex passwords and security mechanisms like OTP authentication makes it difficult for an attacker to get access to the user accounts which can be entry points to a highly privileged security breach. 
+Using complex passwords and security mechanisms like OTP authentication makes it difficult for an attacker to get access to the user accounts which can be entry points to a highly privileged security breach.
 
 ### Revoke default credentials
 
@@ -62,6 +62,7 @@ Regularly scan for vulnerabilities and malware signatures in your application in
 User behavior monitoring (UBM) is a security approach that detects and responds to irregularities in user behavior that may indicate a security breach. UBM can help organizations avoid privilege escalation threats and keep their data and systems safe by monitoring user activity and spotting strange patterns.
 
 ## Final words
+
 Preventing privilege escalation is a critical security measure that should be included in any security strategy. By limiting user privileges and implementing least privilege policies, you can make it more difficult for attackers to gain access to sensitive data and systems. In addition, regularly auditing user privileges and activity can help you identify potential privilege escalation attempts and take action to prevent them.
 
 > **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

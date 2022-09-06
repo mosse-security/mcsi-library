@@ -1,7 +1,7 @@
 :orphan:
 (improve-security-and-trust-with-cloud-based-key-control)=
+
 # Improve Security and Trust With Cloud-based Key Control
- 
 
 How safe are your cloud-stored keys? Where and how secret keys are kept can have a substantial impact on the overall security of the data.
 

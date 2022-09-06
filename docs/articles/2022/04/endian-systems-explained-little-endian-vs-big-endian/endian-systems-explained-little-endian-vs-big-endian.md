@@ -12,7 +12,7 @@ Computers understand only binary data: zeros and ones. At this very moment, the 
 
 ![binary representation of data](images/endian_1.png)
 
-Each zero or one present is referred to as a bit. For the various applications on your system to read and interpret data bits, a structure is required. 
+Each zero or one present is referred to as a bit. For the various applications on your system to read and interpret data bits, a structure is required.
 
 Data is interpreted as a set of 8 bits, called a byte. Each byte is interpreted in hexadecimal form. In the following figure, the first set of 8 bits 10110001, representing one byte, is B1 in hexadecimal form. One tool to help convert data from binary to hexadecimal representation is an online calculator like this one: [Binary to Hex Converter](https://www.binaryhexconverter.com/binary-to-hex-converter). You can also perform this conversion using the calculator application on your computer in programmer mode.
 
@@ -48,7 +48,7 @@ This is how data would appear on memory where data is handled in little-endian.
 
 ## Looking at the big picture
 
-All the files on your hard disk are stored in an organized way. Every file is stored as a unique sequence of bytes using specific data structures.  Depending on the processor and operating system, the bytes are handled in memory as little-endian or big-endian.
+All the files on your hard disk are stored in an organized way. Every file is stored as a unique sequence of bytes using specific data structures. Depending on the processor and operating system, the bytes are handled in memory as little-endian or big-endian.
 
 1. Intel 32-bit and 64-bit processors running Windows and Linux interpret data in little-endian
 2. ARM M1 chip running Mac OS interprets data in big-endian
@@ -60,7 +60,7 @@ Modern systems that have the ability to switch between using little-endian and b
 
 Most commercial and open-source forensic tools can interpret data from collected evidence and present it in a human-readable manner. However, in some unusual situations, the forensic investigator may have to dig deeper into hexadecimal data and interpret it. This is like performing surgery on raw bytes.
 
-Knowing which endianness is in use, will assist the investigator to interpret byte sequences. 
+Knowing which endianness is in use, will assist the investigator to interpret byte sequences.
 
 Let’s assume that you are the investigator processing some bytes on a Windows machine. The bytes appear in memory as shown below:
 
@@ -68,15 +68,15 @@ Let’s assume that you are the investigator processing some bytes on a Windows 
 
 We know that Windows typically runs on Intel processors and handles data in little-endian. To interpret the above sequence of bytes, since they are read right to left before storing, they need to be swapped back before being interpreted. To swap, simply read the bytes right to left again.
 
-After swapping, the final sequence of bytes will be: AC D9 45 68. 
+After swapping, the final sequence of bytes will be: AC D9 45 68.
 
-Let’s assume that you are processing the same sequence of bytes on a Mac running on M1 chip. 
+Let’s assume that you are processing the same sequence of bytes on a Mac running on M1 chip.
 
 ![investigating bytes on Mac running on M1 chip](images/endian_9.png)
 
 We know that Mac OS running on M1 chip handles data in big-endian. The sequence of bytes in memory will be interpreted as it appears: 68 45 D9 AC.
 
-For now, if you understand the difference between the endian systems and how byte sequences stored using both systems can be interpreted, it is enough. 
+For now, if you understand the difference between the endian systems and how byte sequences stored using both systems can be interpreted, it is enough.
 
 If you are working on a problem that requires understanding endianness, you know where to come to refresh your knowledge!
 
