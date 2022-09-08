@@ -47,12 +47,14 @@ Dynamic analysis is the process of reverse engineering a software program by obs
 
 * [](introduction-to-behavior-analysis-techniques)
 * [](fileless-malware-a-new-type-of-malware-that-doesnt-rely-on-executable-files)
+* [](identifying-malware-persistance)
 
 ### Static Analysis Techniques
 
 Static analysis techniques are used in reverse engineering in order to understand the structure and function of a given system. By analyzing the code and data of a given system, reverse engineers can better understand how the system works and identify potential security vulnerabilities. Static analysis techniques can be used to reverse engineer any type of system, including software, hardware, and firmware.
 
 * [](reverse-engineer-malware-without-the-risk-of-infection)
+
 
 ### Malware Injection Techniques
 
@@ -71,6 +73,10 @@ Malware Injection Techniques are used by attackers to insert malicious code into
 :class: dropdown
 Reverse engineering tools are critical for malware analysis because they allow analysts to understand how malware works and identify its capabilities. By understanding the internals of malware, analysts can more effectively defend against it and develop countermeasures. Additionally, reverse engineering tools can be used to create signatures for detection purposes.
 ```
+
+* [](tools-to-get-you-started-in-malware-analysis)
+* [](introduction-to-debuggers-and-disassemblers)
+* [](the-working-environment-of-popular-debuggers-and-disassemblers)
 
 ### YARA
 

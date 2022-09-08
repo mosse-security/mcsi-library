@@ -10,6 +10,8 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
 * [](zero-trust-the-foundation-of-modern-network-security)
 * [](secure-your-containers-today-for-a-safer-tomorrow)
+* [](general-security-risks-when-applying-devops)
+* [](improving-devops-pipeline-security)
 
 
 ## Tools
@@ -18,9 +20,12 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](aws-password-policies-know-your-options)
 * [](compliance-and-security-in-amazon-web-services-aws)
 * [](a-brief-introduction-to-aws-key-management-service)
+* [](a-brief-overview-into-containers-and-the-challenges-they-address)
 
 ## Techniques
 
 * [](secure-your-aws-root-account-with-5-best-practices)
 * [](securing-computing-resources)
 * [](securing-data-in-the-cloud-with-cryptographic-appliances)
+* [](security-measures-to-protect-your-aws-simple-storage-service-s3)
+* [](aws-elastic-load-balancing-elb-improving-your-security)

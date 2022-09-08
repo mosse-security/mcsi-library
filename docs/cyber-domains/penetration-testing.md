@@ -85,3 +85,7 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](mimikatz-the-post-exploitation-tool-for-offensive-security-testing)
 * [](understanding-the-different-types-of-scan-you-can-perform-with-nmap)
 * [](privilege-escalation-don-t-let-the-bad-guys-get-ahead)
+* [](a-brief-introduction-to-wordlists-and-how-to-generate-them-with-cewl)
+* [](enumerating-active-directory-with-powerview))
+* [](enumerating-smtp-with-metasploit)
+* [](open-redirection)

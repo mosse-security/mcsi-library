@@ -12,6 +12,7 @@
 * [](perimeter-security-defend-your-network-against-malicious-attacks)
 * [](secure-peer-to-peer-networks)
 * [](how-to-stop-smtp-open-relays)
+* [](an-introduction-to-active-directory-and-how-powershell-can-be-used-as-a-security-auditor)
 
 ## Tools
 

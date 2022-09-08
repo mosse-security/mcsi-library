@@ -27,6 +27,7 @@ There is no question that security is important in the software development proc
 * [](model-your-threats-to-protect-your-assets)
 
 
+
 ## Software Exploitation
 
 * [](introduction-to-linux-binary-exploitation-part-1)
@@ -35,4 +36,7 @@ There is no question that security is important in the software development proc
 * [](windows-exploitation-stack-overflow-part-1)
 * [](windows-exploitation-stack-overflow-part-2)
 * [](linux-exploitation-evading-exploit-protection)
+* [](linux-exploitation-basic-linux-shellcoding)
+* [](linux-exploitation-linux-reverse-tcp-shellcode)
+* [](linux-exploitation-x64-shellcode)
 
