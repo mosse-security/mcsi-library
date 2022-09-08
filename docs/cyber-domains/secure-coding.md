@@ -34,4 +34,5 @@ There is no question that security is important in the software development proc
 * [](linux-exploitation-abusing-eip)
 * [](windows-exploitation-stack-overflow-part-1)
 * [](windows-exploitation-stack-overflow-part-2)
+* [](linux-exploitation-evading-exploit-protection)
 

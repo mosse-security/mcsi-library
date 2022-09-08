@@ -53,6 +53,7 @@ Application vulnerabilities are weaknesses in software that can be exploited by 
 * [](idor-vulnerability-prevention-best-practices)
 * [](avoid-race-conditions-with-our-easy-to-follow-strategies)
 * [](how-to-prevent-insecure-design-vulnerabilities)
+* [](broken-access-control-bac)
 
 ### Cloud Services Penetration Testing
 

@@ -9,59 +9,59 @@ The best place to hide something is to hide it in plain sight – is a belief th
 
 Let’s start with a quick demo. There are two files _triangles.docx_ and _pic-to-hide.png_ within _Documents\streams_ folder. The goal is to hide the contents of the PNG file within the DOCX file.
 
-![alt text](images/alternate-data-stream1.png)
+![alt data stream](images/alternate-data-stream1.png)
 
 From the following screenshot, we can see that the size of the DOCX file is around 17 KB and the size on disk is around 20 KB. What do these two sizes represent?
 
 Consider a bucket. Assume you are placing a book inside the bucket. The physical dimensions of the book would be smaller than that of the bucket. The value ‘Size’ (in the following screenshot) can be likened to the size of the book (the file, in this case). The value ‘Size on disk’ can be likened to the size of the bucket (storage region within the hard disk for the file. On disks formatted as NTFS, buckets of specific size are used to store files. Detailed description of those buckets is beyond the scope of this blog post.)
 
-![alt text](images/alternate-data-stream2.png)
+![alt data stream](images/alternate-data-stream2.png)
 
 There is one suspicious URL within the TXT file.
 
-![alt text](images/alternate-data-stream3.png)
+![alt data stream](images/alternate-data-stream3.png)
 
 The goal is to hide the TXT file within the DOCX file. This can be achieved using the _type_ command as shown in the following screenshot. The syntax is
 
 `type file-to-hide > file-to-hide-within:hidden-stream-name`
 
-![alt text](images/alternate-data-stream4.png)
+![alt data stream](images/alternate-data-stream4.png)
 
 Once this command executes successfully, we have successfully created an Alternate Data Stream for the TXT file within the DOCX file. Even when you open the DOCX file, you will not see the contents of the TXT file. In this case, the size of the file and its size on disk remains the same, as seen in the following screenshot.
 
-![alt text](images/alternate-data-stream5.png)
+![alt data stream](images/alternate-data-stream5.png)
 
 But how can we view this secret content? Since we know the name of the DOCX file and the name of the ADS within it, we can view the contents in _Notepad_. The command used is shown in the following screenshot.
 
-![alt text](images/alternate-data-stream6.png)
+![alt data stream](images/alternate-data-stream6.png)
 
 We can view the suspicious URL. In the following screenshot, note the file name in the title bar.
 
-![alt text](images/alternate-data-stream7.png)
+![alt data stream](images/alternate-data-stream7.png)
 
 Let’s try another one. From the following screenshot, we can see that we have _script.docx_ and _hexeditor.exe_ within _E:\Source_
 
-![alt text](images/alternate-data-stream8.png)
+![alt data stream](images/alternate-data-stream8.png)
 
 The goal is to hide the EXE within the DOCX file. The following screenshot shows the current size of the DOCX file and the size assigned to it on disk (size of the bucket assigned to store this file on the hard disk.)
 
-![alt text](images/alternate-data-stream9.png)
+![alt data stream](images/alternate-data-stream9.png)
 
 The following command creates an ADS called _hexeditor.exe_ within the DOCX file.
 
-![alt text](images/alternate-data-stream10.png)
+![alt data stream](images/alternate-data-stream10.png)
 
 Now take a look at the file sizes. It appears that the size on disk of the DOCX file has significantly increased. Just by looking at the _Size_ and _Size on disk_ values, we can see that it is rather odd.
 
-![alt text](images/alternate-data-stream11.png)
+![alt data stream](images/alternate-data-stream11.png)
 
 When the DOCX file is opened, there is no indication of an EXE within it. Now is it possible to open the Hex Editor application within the ADS of the DOCX file? Of course! Take a look at the command in the following screenshot. A process can be created using the name of the alternate data stream.
 
-![alt text](images/alternate-data-stream12.png)
+![alt data stream](images/alternate-data-stream12.png)
 
 Once the command executes successfully, the hex editor application opens.
 
-![alt text](images/alternate-data-stream13.png)
+![alt data stream](images/alternate-data-stream13.png)
 
 ## How to detect if a file has Alternate Data Streams?
 
@@ -69,11 +69,11 @@ Within a directory, simply run _dir /r_ command. From the following screenshot, 
 
 Every file in NTFS is made up of attributes. You can read more about this _[NTFS](windows-ntfs-file-attributes-for-digital-forensics)_. A file always has only one $DATA attribute. This is not represented in the directory listing. When an ADS is created for a file, data belonging to the secret file is stored as another $DATA attribute for the file. The second $DATA attribute, i.e. the ADS is represented in the following listing. It’s safe to say that, when a file has more than one $DATA attribute, then it has an ADS within it.
 
-![alt text](images/alternate-data-stream14.png)
+![alt data stream](images/alternate-data-stream14.png)
 
 Now, take a look at the following screenshot. It represents the contents _E:\Source_. Within the highlighted portion, you can see the name of the DOCX file, followed by the ADS that we created (hiding the hex editor application). There is one more ADS, called Zone Identifier! More on this in a bit.
 
-![alt text](images/alternate-data-stream15.png)
+![alt data stream](images/alternate-data-stream15.png)
 
 ## Why did Microsoft create Alternate Data Streams?
 
@@ -83,7 +83,7 @@ It has other legitimate uses too. In some cases, when a file is downloaded from 
 
 Take a look at the following screenshot. This is a listing of three executables from the Downloads folder. Executables for _DB Browser for SQLite_ and _OBS Studio_ have an associated _Zone Identifier_ as an ADS. But the executable for _Python_ does not have it.
 
-![alt text](images/alternate-data-stream16.png)
+![alt data stream](images/alternate-data-stream16.png)
 
 There are other legitimate uses too of ADS.
 

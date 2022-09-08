@@ -8,10 +8,16 @@ Compliance with data security and privacy regulations is essential, and encrypti
 
 ## Controls
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
+* [](zero-trust-the-foundation-of-modern-network-security)
+* [](secure-your-containers-today-for-a-safer-tomorrow)
 
 
 ## Tools
 * [](improve-security-and-trust-with-cloud-based-key-control)
+* [](a-quick-start-guide-to-network-monitoring-and-security-features-in-aws)
+* [](aws-password-policies-know-your-options)
+* [](compliance-and-security-in-amazon-web-services-aws)
+* [](a-brief-introduction-to-aws-key-management-service)
 
 ## Techniques
 

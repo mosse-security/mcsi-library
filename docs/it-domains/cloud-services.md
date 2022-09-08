@@ -11,6 +11,13 @@
 * [](what-is-a-private-cloud)
 * [](what-is-a-public-cloud)
 * [](basic-components-of-a-secure-network-architecture-in-the-cloud)
+* [](raid-and-data-dispersion-for-secure-cloud-storage)
+* [](track-your-configurations-with-a-version-control-system-vcs)
+* [](infrastructure-as-a-service-iaas)
+
+## Tools
+* [](aws-five-pillars-of-a-well-architected-framework)
+* [](a-look-into-aws-data-center-security-procedures)
 
 ## Techniques
 
