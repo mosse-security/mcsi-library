@@ -30,6 +30,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 :caption: "MCSI Platform:"
 :hidden:
 
+platform/minimum-requirements
 platform/testimonials
 platform/career-pathways
 platform/cognitive-science
