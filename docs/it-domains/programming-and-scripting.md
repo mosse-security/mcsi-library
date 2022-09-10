@@ -7,3 +7,5 @@
 * [](powershell-basics-for-security-professionals)
 
 ## Tools
+
+* [](hands-on-with-yaml-basics)

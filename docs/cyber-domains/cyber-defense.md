@@ -30,6 +30,7 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](introduction-to-honeypots-honeynets-and-padded-cells)
 * [](choose-the-right-switch-for-a-secure-network)
 * [](build-a-safe-testing-environment-for-suspicious-files-and-urls)
+* [](an-explanation-of-knowledge-and-behavior-based-detection-within-an-ids)
 
 
 ## Techniques

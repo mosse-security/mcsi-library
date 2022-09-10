@@ -21,6 +21,9 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](compliance-and-security-in-amazon-web-services-aws)
 * [](a-brief-introduction-to-aws-key-management-service)
 * [](a-brief-overview-into-containers-and-the-challenges-they-address)
+* [](understanding-user-roles-and-iam-in-aws)
+* [](additional-security-with-amazon-emr)
+* [](azure-sentinel-comprehensive-security-management-for-the-azure-cloud-platform)
 
 ## Techniques
 

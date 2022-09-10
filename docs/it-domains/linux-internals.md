@@ -7,3 +7,5 @@
 * [](linux-command-line-101-basic-redirection-and-pipes)
 * [](user-accounts-on-linux-systems)
 * [](file-permissions-in-linux)
+* [](file-types-in-linux)
+* [](root-login-vs-sudo)

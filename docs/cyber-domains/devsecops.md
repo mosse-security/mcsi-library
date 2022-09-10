@@ -4,6 +4,7 @@
 ## Concepts
 * [](introduction-to-devops-culture-and-practices)
 * [](introduction-to-the-devsecops-environment)
+* [](devsecops-automated-security-for-continuous-delivery)
 
 ## Tools
 

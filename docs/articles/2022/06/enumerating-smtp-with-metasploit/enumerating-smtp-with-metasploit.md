@@ -29,7 +29,7 @@ In this excercise, first we are going to discover if SMTP is running on a standa
 
 `nmap -A -p- 10.10.3.242 -vv`
 
-![img](images/enumerating-smtp-3.png)
+![metasploit smtp enumeration](images/enumerating-smtp-3.png)
 
 This image shows that SMTP is open in the target machine and running on a standard port which is 25.
 
@@ -37,18 +37,18 @@ After discovering what port we should be targeting, we can run Metasploit with t
 
 As a next step, running `search smtp_version` command gives us the module names and descriptions in Metasploit terminal.
 
-![img](images/enumerating-smtp-4.png)
+![metasploit smtp enumeration](images/enumerating-smtp-4.png)
 
 We can list the options of the current module by with interacting this command: `use smtp_version` and then typing `options`
 
-![img](images/enumerating-smtp-5.png)
+![metasploit smtp enumeration](images/enumerating-smtp-5.png)
 
 We can also set a value for our target machine: `set RHOSTS 10.10.146.144` and then run this command: `run`
 
-![img](images/enumerating-smtp-6.png)
+![metasploit smtp enumeration](images/enumerating-smtp-6.png)
 
 Successful output will also show the system mail name and what Mail Transfer Agent (MTA) is running.
 
-![img](images/enumerating-smtp-7.png)
+![metasploit smtp enumeration](images/enumerating-smtp-7.png)
 
 > **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**

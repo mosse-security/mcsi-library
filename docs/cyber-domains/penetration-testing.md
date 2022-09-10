@@ -60,6 +60,7 @@ Application vulnerabilities are weaknesses in software that can be exploited by 
 Cloud penetration testing is a type of security testing that is used to assess the security of a cloud computing environment. The goal of cloud penetration testing is to identify vulnerabilities and weaknesses in the security of the system that could be exploited by an attacker. Cloud penetration testing can be used to test the security of both public and private cloud environments. 
 
 * [](enumerating-aws-s3-buckets)
+* [](s3-bucket-url-enumeration)
 
 ### Network Vulnerabilities
 
@@ -89,3 +90,4 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](enumerating-active-directory-with-powerview))
 * [](enumerating-smtp-with-metasploit)
 * [](open-redirection)
+* [](password-cracking-techniques-tools-and-protection-recommendations)

@@ -39,4 +39,5 @@ There is no question that security is important in the software development proc
 * [](linux-exploitation-basic-linux-shellcoding)
 * [](linux-exploitation-linux-reverse-tcp-shellcode)
 * [](linux-exploitation-x64-shellcode)
+* [](linux-exploitation-format-string-vulnerabilities-and-exploitation)
 
