@@ -61,6 +61,7 @@ Cloud penetration testing is a type of security testing that is used to assess t
 
 * [](enumerating-aws-s3-buckets)
 * [](s3-bucket-url-enumeration)
+* [](enumerating-and-exploiting-aws-s3-buckets-with-s3scanner-and-flaws-cloud)
 
 ### Network Vulnerabilities
 
@@ -91,3 +92,4 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](enumerating-smtp-with-metasploit)
 * [](open-redirection)
 * [](password-cracking-techniques-tools-and-protection-recommendations)
+* [](using-metasploit-to-enumerate-ssh)

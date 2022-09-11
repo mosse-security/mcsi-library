@@ -15,6 +15,7 @@ There is no question that security is important in the software development proc
 * [](input-validation-for-greater-security)
 * [](generate-a-scalable-view-of-your-software-development-process)
 * [](develop-secure-java-applets-a-step-by-step-guide)
+* [](federated-identity-management-and-single-sign-on-sso)
 
 ## Tools
 
@@ -42,4 +43,5 @@ There is no question that security is important in the software development proc
 * [](linux-exploitation-x64-shellcode)
 * [](linux-exploitation-format-string-vulnerabilities-and-exploitation)
 * [](windows-exploitation-seh-based-overflow)
-
+* [](basic-windows-shellcoding)
+* [](windows-egg-hunting)

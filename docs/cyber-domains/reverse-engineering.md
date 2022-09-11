@@ -77,6 +77,7 @@ Reverse engineering tools are critical for malware analysis because they allow a
 * [](tools-to-get-you-started-in-malware-analysis)
 * [](introduction-to-debuggers-and-disassemblers)
 * [](the-working-environment-of-popular-debuggers-and-disassemblers)
+* [](know-your-malware-classification-is-key-to-understanding-purpose-and-function)
 
 ### YARA
 

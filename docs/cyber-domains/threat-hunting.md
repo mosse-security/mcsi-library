@@ -15,7 +15,8 @@ Threat hunting is a security practice that involves proactively searching for si
 * [](threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable)
 * [](fileless-malware-a-new-type-of-malware-that-doesnt-rely-on-executable-files)
 * [](threat-hunting-concepts-adversary-behavioral-identification-for-predicting-attacks)
-
+* [](intro-to-hunting-webshells)
+* [](stay-one-step-ahead-of-the-hackers-by-hunting-suspicious-traffic)
 
 
 
