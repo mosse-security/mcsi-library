@@ -25,6 +25,7 @@ There is no question that security is important in the software development proc
 
 * [](introduction-to-stride-as-a-threat-modelling-framework)
 * [](model-your-threats-to-protect-your-assets)
+* [](reduce-api-security-risks-by-following-best-practices)
 
 
 
@@ -40,4 +41,5 @@ There is no question that security is important in the software development proc
 * [](linux-exploitation-linux-reverse-tcp-shellcode)
 * [](linux-exploitation-x64-shellcode)
 * [](linux-exploitation-format-string-vulnerabilities-and-exploitation)
+* [](windows-exploitation-seh-based-overflow)
 

@@ -4,26 +4,64 @@ Mossé Cyber Security Institute (MCSI) offers an in-demand education for cyber s
 
 MCSI's library is a great resource for aspiring cyber professionals. It contains a wealth of information on various cybersecurity topics, including penetration testing, incident response, reverse engineering, and more. The library is constantly updated with new resources, so it's a great place to stay up-to-date on the latest cybersecurity trends. 
 
+<hr>
+
 ## Cyber domains
 
 The library is organized by cyber domains in order to more easily facilitate research and information retrieval for readers. This organizational system enables you more readily find the resources you need on the topics you are interested in. 
 
+
+
 :::{figure-md} rev-img
+
+
 <img src="/images/open-graphs/reverse-engineering.png" alt="reverse engineering" width="300px">
 
+
 [](reverse-engineering-landing-page)
+
 :::
+
 
 
 :::{figure-md} dig-img
+
 <img src="/images/open-graphs/digital-forensics.png" alt="digital forensics" width="300px">
 
 [](digital-forensics-main-page)
+
 :::
+
+
+:::{figure-md} pen-test
+<img src="/images/open-graphs/penetration-testing.png" alt="penetration-testing" width="300px">
+
+[](penetration-testing-main-page)
+:::
+
+:::{figure-md} cyber-defense
+<img src="/images/open-graphs/cyber-defense.png" alt="cyber-defense" width="300px">
+
+[](cyber-defense-main-page)
+:::
+
+:::{figure-md} cloud-security
+<img src="/images/open-graphs/cloud-security.png" alt="cloud-security" width="300px">
+
+[](cloud-security-main-page)
+:::
+
+<hr>
 
 ## IT Domains
 
+
+
+<hr>
+
 ## Ways of Working
+
+<hr>
 
 ```{toctree}
 :maxdepth: 8
