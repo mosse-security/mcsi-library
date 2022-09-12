@@ -3,7 +3,7 @@
 
 # Windows Scheduled Tasks in Digital Forensics
 
-On Windows systems it is possible to schedule tasks to be completed at specific times or when specified triggers occur. This blog post discusses the significance of scheduled tasks in digital forensics.
+On Windows systems it is possible to schedule tasks to be completed at specific times or when specified triggers occur. Windows Scheduled Tasks is a digital forensics tool that can be used to investigate a variety of crimes. This tool can be used to examine the time and date of tasks, as well as the user who created them. Additionally, Windows Scheduled Tasks can be used to view the contents of a task and its associated files. This tool can be extremely useful in investigating crimes that involve the use of computers.This blog post discusses the significance of scheduled tasks in digital forensics.
 
 ## A quick primer to scheduled tasks on Windows
 

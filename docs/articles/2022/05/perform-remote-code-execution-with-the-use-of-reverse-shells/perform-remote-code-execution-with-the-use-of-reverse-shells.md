@@ -3,7 +3,7 @@
 
 # Perform Remote Code Execution with the Use of Reverse Shells
 
-Reverse shells are frequently used in red team assessments to test your organization's IT infrastructure defense mechanisms. This article will go over the specifics of unique sort of a remote shell known as the reverse shell.
+A reverse shell is a type of shell where the remote machine executes code on the local machine. This is usually done by exploiting a vulnerability on the local machine, which can be anything from a buffer overflow to a weak password. Once the remote machine has access to the local machine, it can execute any code it wants, including a shell. This gives the attacker full control of the machine, and can be used to do anything from stealing data to planting malware.In red team assessments, reverse shells are frequently used test your organization's IT infrastructure defense mechanisms. This article will go over the specifics of unique sort of a remote shell known as the reverse shell in depth.
 
 ## What is a Shell?
 
