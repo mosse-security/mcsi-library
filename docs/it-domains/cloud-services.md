@@ -15,6 +15,7 @@
 * [](track-your-configurations-with-a-version-control-system-vcs)
 * [](infrastructure-as-a-service-iaas)
 * [](shared-security-responsibilities-in-aws-easing-your-administrative-strain)
+* [](understanding-gcp-identity-and-access-management)
 
 ## Tools
 * [](aws-five-pillars-of-a-well-architected-framework)

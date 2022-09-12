@@ -93,3 +93,5 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](open-redirection)
 * [](password-cracking-techniques-tools-and-protection-recommendations)
 * [](using-metasploit-to-enumerate-ssh)
+* [](exploiting-eternalblue-with-metasploit)
+* [](mac-spoofing-made-easy-with-mac-changer)

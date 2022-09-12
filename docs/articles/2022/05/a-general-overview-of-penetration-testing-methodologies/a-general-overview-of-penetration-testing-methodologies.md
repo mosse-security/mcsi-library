@@ -3,7 +3,7 @@
 
 # A General Overview of Penetration Testing Methodologies
 
-A pentest, or penetration test, is a method to explore and assess security measures to safeguard these resources ethically. A penetration test, like an audit, requires using the similar tools, procedures, and processes that a hacker or any bad actor would benefit from.
+There are many ways to test the security of software, but penetration testing is one of the most common and effective. Penetration testing, also known as "pen testing," is a method of evaluating the security of a computer system or network by simulating an attack. Penetration testers use a variety of tools and techniques to test the security of a system. Penetration testing can be an invaluable tool for organizations to assess and improve their security posture. 
 
 ## Overview
 

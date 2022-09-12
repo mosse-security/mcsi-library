@@ -45,3 +45,4 @@ There is no question that security is important in the software development proc
 * [](windows-exploitation-seh-based-overflow)
 * [](basic-windows-shellcoding)
 * [](windows-egg-hunting)
+* [](windows-universal-shellcoding-x86)

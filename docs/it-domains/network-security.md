@@ -13,6 +13,8 @@
 * [](secure-peer-to-peer-networks)
 * [](how-to-stop-smtp-open-relays)
 * [](an-introduction-to-active-directory-and-how-powershell-can-be-used-as-a-security-auditor)
+* [](network-sniffing-the-good-the-bad-and-the-ugly)
+* [](kerberos-attack-and-defense-techniques)
 
 ## Tools
 
@@ -28,3 +30,4 @@
 ## Techniques
 
 * [](securing-wireless-network-based-idps-nidps)
+* [](secure-your-servers-with-our-advice)

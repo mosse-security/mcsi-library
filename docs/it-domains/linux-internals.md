@@ -12,3 +12,6 @@
 * [](managing-linux-user-accounts)
 * [](linux-shell-scripts-automate-your-command-line-tasks)
 * [](creating-and-executing-linux-shell-scripts)
+* [](linux-resource-monitoring-commands)
+* [](dont-be-tricked-by-hidden-files-viewing-hidden-files-and-directories-in-linux)
+* [](so-many-linux-commands-and-switches-how-do-i-remember-them-all)

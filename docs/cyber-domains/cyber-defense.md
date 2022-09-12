@@ -43,4 +43,5 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](how-do-you-prevent-brute-force-attacks)
 * [](how-to-prevent-insecure-design-vulnerabilities)
 * [](keep-your-computer-updated-for-improved-performance-and-security)
+* [](keep-your-security-posture-strong-with-vulnerability-management)
   
