@@ -3,7 +3,7 @@
 
 # Choose the Right Switch for a Secure Network
 
-Switches are an essential component of network security. Switches can help to prevent denial of service attacks and other malicious activity by controlling the flow of traffic. Switches can also be used to segment networks and isolate problem areas. You can better protect your network by understanding how switches work.
+Switches are an essential component of network security. They act as a barrier between different parts of the network, and can prevent unauthorized access to sensitive data. In addition, switches can also help to detect and isolate malicious activity. By monitoring traffic and identifying suspicious patterns, switches can help to keep networks safe from various attacks making them an essential tool for protecting your network from attack. In this blog post, we will explore how switches can help us with various types of attacks such as MAC Flooding, MAC Spoofing and Physical Tampering.
 
 ## MAC Flooding
 

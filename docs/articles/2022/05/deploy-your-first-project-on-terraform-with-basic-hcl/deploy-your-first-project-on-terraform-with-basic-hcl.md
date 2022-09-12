@@ -3,7 +3,7 @@
 
 # Deploy Your First Project on Terraform with Basic HCL
 
-Welcome to your very first Terraform project! In this blog post, we will create our first project with Terraform using HCL.
+Terraform is a powerful tool for provisioning and managing infrastructure. It is easy to use and has excellent documentation. One of its best features is its use of HCL, or Hashicorp Configuration Language. This language is easy to learn and allows for greater flexibility and control when compared to other options. In short, Terraform with HCL is an excellent choice for anyone looking for a robust, easy-to-use solution for managing infrastructure. In this blog post, we will create our first project with Terraform using HCL.
 
 To deploy our resources, we will utilize these basic HCL commands:
 

@@ -3,7 +3,7 @@
 
 # Identification and Authentication Methods: Kerberos
 
-How do so many people find a way to access resources securely? Well, in this blog post we are going to explore a network authentication protocol that is named _Kerberos_.
+Kerberos is an authentication protocol that is extremely valuable for ensuring secure communication between different systems. The Kerberos protocol uses a third-party authentication server in order to verify the identity of users and provide them with a secure token that can be used to access resources. Kerberos is often used in large organizations where there are many different systems that need to communicate with each other. In this blog post we are going to explore this network authentication protocol in depth. 
 
 ## What is Kerberos?
 

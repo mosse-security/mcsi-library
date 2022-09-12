@@ -3,7 +3,7 @@
 
 # Low-security VPN solution: Point-to-Point Tunneling Protocol
 
-If you want to set up a site-to-site VPN, you need to choose the protocol to employ based on functionality and security. In this blog post, we will look at what a point-to-point tunneling protocol (PPTP) is, how it works, and special security considerations.
+Point-to-Point Tunneling Protocol (PPTP) is a tunneling protocol used to enable virtual private networks (VPNs). It is a popular protocol because it is supported by most VPN providers and is relatively easy to set up. PPTP uses a point-to-point connection to create a tunnel between the VPN client and server. Data is encrypted and encapsulated in this tunnel, making it secure from eavesdropping. PPTP is not as secure as some other protocols, but it is still widely used because it is fast and compatible with most operating systems. In this blog post, we will look at what a point-to-point tunneling protocol (PPTP) is, how it works, and what are some special security considerations related to PPTP.
 
 ## Point-to-Point Tunneling Protocol (PPTP)
 

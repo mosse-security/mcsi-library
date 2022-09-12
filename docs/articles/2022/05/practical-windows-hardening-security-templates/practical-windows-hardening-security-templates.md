@@ -3,7 +3,7 @@
 
 # Practical Windows Hardening: Security Templates
 
-We can strengthen our operating systems in many ways. Today we are going to take a look at the security templates in Windows and how to utilize these tools to protect our environment.
+Security templates are designed to help strengthen our operating systems against potential attacks. By creating a security template, we can specify a set of security settings that should be applied to a system. This helps to ensure that all systems are properly secured, and makes it easier to manage security settings across a large number of systems. In this blog, we are going to take a look at the security templates in Windows and how to utilize these tools to protect our environment.
 
 ## Security Templates
 

@@ -3,13 +3,14 @@
 
 # Run 32-Bit Windows-Based Applications on 64-Bit Windows with WOW64
 
-WOW64 is the x86 emulator that allows 32-bit Windows-based applications to run seamlessly on 64-bit Windows. In this article we explain how it works and why it matters in fields such as Malware Analysis.
+Windows WOW64 is a subsystem of the Windows operating system that allows 32-bit applications to run on 64-bit Windows systems. WOW64 is included with all 64-bit versions of Windows and is transparent to the user, meaning that 32-bit applications will run as if they were native 64-bit applications. WOW64 provides compatibility with existing 32-bit applications and drivers, and also allows for the development of new 64-bit applications that can take advantage of the increased performance and security of 64-bit Windows. In this article we explain how WOW64 works and why it matters in fields such as Malware Analysis.
+
+
+## What is WoW64?
 
 ![process](images/win-process-map.png)
 
-In the picture above we covers only main processes.
-
-## What about WoW64?
+In the picture above we cover only main processes.
 
 Windows `32-bit` on Windows `64-bit`, sometimes known as _WoW64_, is a component of the Windows operating system that allows `32-bit` applications to operate on Windows `64-bit`.
 

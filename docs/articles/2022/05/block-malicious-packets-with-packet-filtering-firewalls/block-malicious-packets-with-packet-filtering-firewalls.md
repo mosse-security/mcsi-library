@@ -3,7 +3,7 @@
 
 # Block Malicious Packets with Packet Filtering Firewalls
 
-Network security tools ensure that you are well equipped to deal with any malicious attempts. In this blog, we are going to explore the network layer firewall mechanism and its pros and cons.
+Packet filtering firewalls are an important part of network security. They can block malicious packets from entering the network, and can also help to identify and track down the source of attacks. packet filtering firewalls work by examining each packet that comes into the network and comparing it to a set of rules. In the simple terms, if the packet matches a rule, it is allowed through, if it does not match a rule, it is blocked. In this blog, we are going to explore the network layer firewall mechanism and its pros and cons.
 
 ## What is a firewall?
 
