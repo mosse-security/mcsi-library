@@ -23,6 +23,7 @@ The image below proposes a workflow you can use to learn penetration testing:
 * [](mastering-the-preparation-phase-in-penetration-testing-engagements)
 * [](reconnaissance-phase-in-penetration-testing-engagements)
 * [](example-of-a-penetration-testing-report-executive-summary)
+* [](performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider)
 
 ## Techniques
 
