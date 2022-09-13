@@ -31,6 +31,7 @@ The image below proposes a workflow you can use to learn penetration testing:
 :class: dropdown
 Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
 ```
+* [](post-exploitation-information-collection-and-persistance-via-process-migration)
 
 ### Reconnaissance
 
@@ -96,3 +97,4 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](using-metasploit-to-enumerate-ssh)
 * [](exploiting-eternalblue-with-metasploit)
 * [](mac-spoofing-made-easy-with-mac-changer)
+* [](a-general-overview-of-nuclei-command-line)

@@ -17,7 +17,8 @@ Information security is the practice of protecting electronic information by mit
 * [](what-is-a-private-cloud)
 * [](what-is-a-public-cloud)
 * [](get-the-most-out-of-your-systems-with-virtualization)
-* 
+* [](implement-physical-security-to-create-a-safe-and-secure-environment)
+* [](the-basics-of-securing-workstations-virtual)
 
 
 
@@ -31,6 +32,7 @@ Information security is the practice of protecting electronic information by mit
 
 ## Techniques
 * [](the-right-type-of-alert-for-the-right-result)
+* [](vulnerability-scanners-result-accuracies)
 
 
 ## Tools

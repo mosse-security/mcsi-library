@@ -16,6 +16,7 @@ There is no question that security is important in the software development proc
 * [](generate-a-scalable-view-of-your-software-development-process)
 * [](develop-secure-java-applets-a-step-by-step-guide)
 * [](federated-identity-management-and-single-sign-on-sso)
+* [](understanding-bug-bounty-hunting)
 
 ## Tools
 
@@ -47,3 +48,5 @@ There is no question that security is important in the software development proc
 * [](windows-egg-hunting)
 * [](windows-universal-shellcoding-x86)
 * [](an-overview-of-file-inclusion-vulnerabilities)
+* [](windows-exploit-countermeasures-part-1)
+* [](hands-on-windows-shellcoding-create-rop-via-mona.py)
