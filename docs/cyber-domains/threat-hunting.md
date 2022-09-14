@@ -19,6 +19,7 @@ Threat hunting is a security practice that involves proactively searching for si
 * [](stay-one-step-ahead-of-the-hackers-by-hunting-suspicious-traffic)
 * [](introduction-to-malware-endpoint-hunting)
 * [](a-general-overview-of-threat-modeling-workflow)
+* [](threat-modeling-basics-system-modeling)
 
 
 
@@ -29,7 +30,9 @@ Threat hunting is a security practice that involves proactively searching for si
 * [](analyzing-malicious-code-without-reverse-engineering-the-assembly)
 * [](hunting-webshells-linux-and-windows-commands)
 * [](threat-hunting-windows-event-logs)
-
+* [](structured-threat-information-expression-stix)
+  
+  
 ## Tools
 
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)

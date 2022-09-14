@@ -34,6 +34,8 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 - [](getting-started-with-linux-forensics)
 - [](search-seize-preserve-digital-evidence)
 - [](shell-history-in-linux)
+- [](linux-distributions-for-dfir)
+- [](understanding-linux-timestamps-for-dfir)
 
 ## Techniques
 
@@ -42,6 +44,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 - [](performing-digital-forensics-on-a-windows-machine)
 - [](windows-recycle-bin-forensics-dumpster-diving-for-evidence)
 - [](collecting-linux-system-information-for-dfir)
+- [](an-overview-of-insider-threats-and-how-to-defend-against-them)
 
 ## Tools
 
