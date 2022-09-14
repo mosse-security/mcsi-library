@@ -25,6 +25,9 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](secure-browsing-101)
 * [](basic-wireless-technologies-and-an-example-of-their-exploits)
 * [](introduction-to-patching)
+* [](wireless-attacks)
+* [](securing-the-internet-of-things-iot-devices)
+* [](the-vulnerabilities-of-iot-devices)
 
 
 ## Tools

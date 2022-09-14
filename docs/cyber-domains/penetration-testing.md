@@ -104,3 +104,7 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](pstools)
 * [](snmp-enumeration-with-snmp-check)
 * [](an-overview-of-information-disclosure-vulnerabilities)
+* [](web-app-vulnerabilities-anatomy-of-an-xss)
+* [](web-app-vulnerabilities-files-and-resources-attacks)
+* [](metasploit-hands-on-with-basic-commands)
+* [](metasploit-hands-on-with-variables)

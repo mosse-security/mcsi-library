@@ -25,10 +25,13 @@
 * [](keep-your-internal-network-secure-from-attack-with-a-dmz-network)
 * [](introduction-to-honeypots-honeynets-and-padded-cells)
 * [](keep-your-online-applications-safe-with-a-web-application-firewall-waf)
-
+* [](analyzing-arp-responses-in-wireshark)
+* [](practical-introduction-to-wireshark)
 
 
 ## Techniques
 
 * [](securing-wireless-network-based-idps-nidps)
 * [](secure-your-servers-with-our-advice)
+* [](wpa3)
+* [](benefits-of-sinkholing)

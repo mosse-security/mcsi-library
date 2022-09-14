@@ -33,6 +33,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 - [](a-note-on-linux-directory-structure-for-dfir)
 - [](getting-started-with-linux-forensics)
 - [](search-seize-preserve-digital-evidence)
+- [](shell-history-in-linux)
 
 ## Techniques
 
