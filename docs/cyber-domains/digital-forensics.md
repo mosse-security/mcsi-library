@@ -36,6 +36,10 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 - [](shell-history-in-linux)
 - [](linux-distributions-for-dfir)
 - [](understanding-linux-timestamps-for-dfir)
+- [](linux-forensics-artifacts-in-a-users-home-directory)
+- [](linux-forensics-artifacts-generated-by-mounted-devices)
+- [](log-sources-in-linux-systems)
+- [](linux-forensics-ssh-artifacts)
 
 ## Techniques
 

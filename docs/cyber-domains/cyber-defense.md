@@ -32,6 +32,8 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](an-insight-into-multi-factor-authentication)
 * [](an-overview-of-premise-systems-and-their-weaknesses)
 * [](basic-authentication-models)
+* [](blockchain-application-in-cybersecurity)
+* [](pros-and-cons-of-blockchain-in-cybersecurity)
 
 
 ## Tools
@@ -41,6 +43,7 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](choose-the-right-switch-for-a-secure-network)
 * [](build-a-safe-testing-environment-for-suspicious-files-and-urls)
 * [](an-explanation-of-knowledge-and-behavior-based-detection-within-an-ids)
+* [](security-orchestration-automation-and-response-soar)
 
 
 ## Techniques

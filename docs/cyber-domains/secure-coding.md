@@ -28,6 +28,7 @@ There is no question that security is important in the software development proc
 * [](introduction-to-stride-as-a-threat-modelling-framework)
 * [](model-your-threats-to-protect-your-assets)
 * [](reduce-api-security-risks-by-following-best-practices)
+* [](content-security-policy-in-web-application-security)
 
 
 
@@ -50,3 +51,4 @@ There is no question that security is important in the software development proc
 * [](an-overview-of-file-inclusion-vulnerabilities)
 * [](windows-exploit-countermeasures-part-1)
 * [](hands-on-windows-shellcoding-create-rop-via-mona.py)
+* [](an-overview-into-website-mechanisms-and-vulnerabilities)

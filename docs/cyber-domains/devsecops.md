@@ -10,6 +10,7 @@
 * [](introduction-to-configuration-management)
 * [](what-is-continuous-integration)
 * [](benefits-of-continuous-delivery-cd)
+* [](deployment-methods-in-continuos-delivery)
 
 
 ## Tools

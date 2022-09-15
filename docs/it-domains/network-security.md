@@ -19,6 +19,7 @@
 * [](network-protocols-the-foundation-of-digital-communication-snmp)
 * [](networking-tools-protocol-analysers)
 * [](snmp-versions-and-security-levels)
+* [](network-protocols-the-foundation-of-digital-communication-syslog)
 
 ## Tools
 
@@ -30,6 +31,7 @@
 * [](keep-your-online-applications-safe-with-a-web-application-firewall-waf)
 * [](analyzing-arp-responses-in-wireshark)
 * [](practical-introduction-to-wireshark)
+* [](analyzing-icmp-traffic-with-wireshark)
 
 
 ## Techniques

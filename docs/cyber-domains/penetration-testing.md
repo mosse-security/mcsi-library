@@ -115,3 +115,4 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](an-overview-of-nuclei-default-templates)
 * [](password-spraying-with-hydra)
 * [](windows-privilege-escalation-unquoted-service-path)
+* [](hands-on-with-john-the-ripper-performing-a-basic-dictionary-attack)
