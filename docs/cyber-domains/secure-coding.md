@@ -29,6 +29,7 @@ There is no question that security is important in the software development proc
 * [](model-your-threats-to-protect-your-assets)
 * [](reduce-api-security-risks-by-following-best-practices)
 * [](content-security-policy-in-web-application-security)
+* [](an-overview-of-cross-origin-resource-sharing)
 
 
 

@@ -40,6 +40,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 - [](linux-forensics-artifacts-generated-by-mounted-devices)
 - [](log-sources-in-linux-systems)
 - [](linux-forensics-ssh-artifacts)
+- [](acquiring-a-forensic-image-on-linux)
 
 ## Techniques
 

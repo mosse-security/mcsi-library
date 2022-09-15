@@ -21,6 +21,7 @@ Information security is the practice of protecting electronic information by mit
 * [](the-basics-of-securing-workstations-virtual)
 * [](biometric-readers-and-their-accuracy)
 * [](embedded-systems-security)
+* [](getting-started-with-security-operations-center-soc)
 
 
 
