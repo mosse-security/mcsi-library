@@ -9,6 +9,7 @@ Cryptography is the practice of secure communication in the presence of third pa
 * [](hashing-algorithms-the-quick-and-easy-way-to-verify-integrity-and-authentication)
 * [](introduction-to-rsa-encryption)
 * [](keep-your-secrets-safe-with-cryptography-and-steganography)
+* [](steghide-hiding-data-in-plain-sight)
 
 
 ## Techniques

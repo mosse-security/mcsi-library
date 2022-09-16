@@ -24,6 +24,10 @@ Information security is the practice of protecting electronic information by mit
 * [](getting-started-with-security-operations-center-soc)
 * [](soc-security-functions)
 * [](what-is-personally-identifiable-information-pii)
+* [](data-stewards-improve-data-utilization-with-fresh-approaches)
+* [](formalize-your-agreement-with-an-mou)
+* [](who-are-data-stewards-why-does-data-stewardship-matter)
+* [](get-to-know-the-features-of-biometric-factors)
 
 
 
@@ -34,6 +38,8 @@ Information security is the practice of protecting electronic information by mit
 * [](choose-the-right-application-control-for-your-organization-with-whitelisting-and-blacklisting)
 * [](choose-the-right-security-control-type-for-the-job)
 * [](what-are-ics-and-scada-and-why-must-they-be-secured)
+* [](a-security-professional-s-guide-to-the-diamond-model)
+* [](safeguard-your-sensitive-data-with-non-disclosure-agreements-ndas)
 
 
 ## Techniques

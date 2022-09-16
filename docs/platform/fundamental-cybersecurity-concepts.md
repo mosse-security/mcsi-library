@@ -10,7 +10,7 @@ Cybersecurity is a rapidly evolving field, and students should begin by familiar
 * [](your-business-information-system-complete-and-secure)
 * [](social-engineering-basic-principals-attacks-phases-and-prevention)
 * [](dont-be-bait-for-phishing-attacks)
-
+* [](the-parkerian-hexad-a-more-complete-set-of-information-security-elements)
 ## Threats
 
 * [](learn-about-the-different-ways-malware-can-infect-your-system)

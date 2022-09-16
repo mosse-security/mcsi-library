@@ -18,3 +18,4 @@
 * [](vi-editor-in-linux)
 * [](installing-software-on-linux-distributions-with-package-managers)
 * [](environment-variables-in-linux)
+* [](introduction-to-suid)

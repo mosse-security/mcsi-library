@@ -20,7 +20,7 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](secure-your-containers-today-for-a-safer-tomorrow)
 * [](general-security-risks-when-applying-devops)
 * [](improving-devops-pipeline-security)
-
+* [](cloud-security-benefits-keep-your-data-safe-in-the-cloud)
 
 ## Tools
 * [](improve-security-and-trust-with-cloud-based-key-control)
@@ -40,3 +40,6 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](securing-data-in-the-cloud-with-cryptographic-appliances)
 * [](security-measures-to-protect-your-aws-simple-storage-service-s3)
 * [](aws-elastic-load-balancing-elb-improving-your-security)
+* [](securing-network-assets-in-the-cloud)
+* [](best-practices-for-securing-privileged-access-in-the-cloud)
+* [](securing-privileged-access-in-the-cloud)

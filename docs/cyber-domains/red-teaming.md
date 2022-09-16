@@ -23,6 +23,7 @@ A concept is an abstract idea that represents a general understanding of somethi
 * [](top-reasons-why-red-teamers-should-know-how-to-write-their-own-custom-tools)
 * [](using-the-cyber-kill-chain-and-the-mitre-matrix-for-red-team-operations)
 * [](what-is-the-difference-between-red-teaming-penetration-testing-and-vulnerability-assessments)
+* [](data-exfiltration-with-the-help-of-linux-binaries)
 
 ## Procedures
 
@@ -50,3 +51,4 @@ The image below proposes a workflow you can use to learn Red Teaming:
 
 * [](perform-remote-code-execution-with-the-use-of-reverse-shells)
 * [](using-netcat-as-a-reverse-shell)
+* [](password-grabbing-dump-and-crack-sam-hashes)

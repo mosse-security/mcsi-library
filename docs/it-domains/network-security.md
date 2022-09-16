@@ -21,6 +21,8 @@
 * [](snmp-versions-and-security-levels)
 * [](network-protocols-the-foundation-of-digital-communication-syslog)
 * [](secure-multipurpose-internet-mail-extension-smime)
+* [](introduction-to-software-defined-networking)
+* 
 
 ## Tools
 
@@ -34,6 +36,8 @@
 * [](practical-introduction-to-wireshark)
 * [](analyzing-icmp-traffic-with-wireshark)
 * [](wireshark-http-request-analysis)
+* [](dissecting-three-way-handshake-in-wireshark)
+* [](tshark-wiresharks-command-line-interface-alternative)
 
 
 ## Techniques
@@ -44,3 +48,4 @@
 * [](benefits-of-sinkholing)
 * [](an-example-of-monitoring-methods)
 * [](basic-steps-to-network-baselining)
+* [](stay-safe-and-secure-while-working-remotely)

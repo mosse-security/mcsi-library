@@ -54,3 +54,4 @@ There is no question that security is important in the software development proc
 * [](hands-on-windows-shellcoding-create-rop-via-mona.py)
 * [](an-overview-into-website-mechanisms-and-vulnerabilities)
 * [](the-role-of-fuzz-testing-in-improving-security)
+* [](linux-rop-exploitation-example)
