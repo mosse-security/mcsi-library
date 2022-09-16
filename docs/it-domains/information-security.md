@@ -22,6 +22,8 @@ Information security is the practice of protecting electronic information by mit
 * [](biometric-readers-and-their-accuracy)
 * [](embedded-systems-security)
 * [](getting-started-with-security-operations-center-soc)
+* [](soc-security-functions)
+* [](what-is-personally-identifiable-information-pii)
 
 
 

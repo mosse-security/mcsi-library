@@ -118,3 +118,8 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](hands-on-with-john-the-ripper-performing-a-basic-dictionary-attack)
 * [](tcp-udp-and-smb-auxiliary-modules-in-metasploit)
 * [](introduction-to-web-caching-and-web-cache-poisoning)
+* [](metasploit-introduction-to-payloads)
+* [](metasploit-introduction-to-exploit-modules)
+* [](metasploit-working-with-sessions)
+* [](single-mode-password-cracking-with-john-the-ripper)
+* [](metasploit-working-with-http-auxiliaries)

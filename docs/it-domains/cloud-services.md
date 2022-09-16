@@ -16,6 +16,8 @@
 * [](infrastructure-as-a-service-iaas)
 * [](shared-security-responsibilities-in-aws-easing-your-administrative-strain)
 * [](understanding-gcp-identity-and-access-management)
+* [](cloud-security-scalability)
+* [](cloud-computing-architectural-considerations)
 
 ## Tools
 * [](aws-five-pillars-of-a-well-architected-framework)

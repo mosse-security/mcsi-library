@@ -20,6 +20,7 @@
 * [](networking-tools-protocol-analysers)
 * [](snmp-versions-and-security-levels)
 * [](network-protocols-the-foundation-of-digital-communication-syslog)
+* [](secure-multipurpose-internet-mail-extension-smime)
 
 ## Tools
 
@@ -32,6 +33,7 @@
 * [](analyzing-arp-responses-in-wireshark)
 * [](practical-introduction-to-wireshark)
 * [](analyzing-icmp-traffic-with-wireshark)
+* [](wireshark-http-request-analysis)
 
 
 ## Techniques

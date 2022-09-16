@@ -9,6 +9,8 @@ Compliance with data security and privacy regulations is essential, and encrypti
 
 * [](hands-on-with-google-cloud-key-management-service-kms)
 * [](secure-your-docker-containers-for-peace-of-mind)
+* [](pillars-of-zero-trust-architecture)
+* [](securing-data-in-iaas-paas-and-saas)
 
 
 

@@ -8,3 +8,5 @@
 * [](what-will-i-do-as-an-incident-responder)
 * [](common-methods-an-adversary-may-adopt-to-cover-their-tracks)
 * [](agentless-log-collection-microsoft-wec-and-wef)
+* [](an-overview-of-a-data-breach-its-causes-recovery-and-remediation-techniques)
+* [](cyber-incident-checklists)
