@@ -46,3 +46,4 @@ Threat hunting is a security practice that involves proactively searching for si
 * [](hunting-webshells-tools)
 * [](malware-hunting-detection-tools)
 * [](threat-hunting-siem-elk-stack-splunk)
+* [](make-your-incident-response-and-threat-hunting-easier-with-powershell-hunting-tools)

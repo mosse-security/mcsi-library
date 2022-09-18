@@ -46,6 +46,7 @@ Digital forensics investigators must be able to identify and preserve evidence, 
 - [](linux-systemd-journal-in-digital-forensics)
 - [](application-of-scripting-in-digital-forensics)
 - [](linux-forensics-network-artifacts)
+- [](linux-forensics-enumerating-users-and-groups)
 
 ## Techniques
 

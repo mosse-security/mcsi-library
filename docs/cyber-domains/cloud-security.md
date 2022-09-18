@@ -43,3 +43,4 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](securing-network-assets-in-the-cloud)
 * [](best-practices-for-securing-privileged-access-in-the-cloud)
 * [](securing-privileged-access-in-the-cloud)
+* [](compliance-challenges-in-the-cloud)

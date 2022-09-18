@@ -22,3 +22,8 @@ Governance, risk and compliance (GRC) is a term that refers to the integrated ap
 * [](information-security-management-system-and-iso27001)
 * [](basic-methods-of-auditing)
 * [](make-information-security-a-priority-with-iso2700)
+* [](how-to-sustain-compliance-in-organizations)
+* [](information-protection-balancing-costs-and-benefits)
+* [](policies-standards-and-guidelines-for-compliance)
+* [](tailor-making-the-perfect-policy-for-your-organizations-security)
+* [](the-foundations-of-a-successful-information-security-policy)

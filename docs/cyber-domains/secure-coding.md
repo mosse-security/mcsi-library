@@ -55,3 +55,7 @@ There is no question that security is important in the software development proc
 * [](an-overview-into-website-mechanisms-and-vulnerabilities)
 * [](the-role-of-fuzz-testing-in-improving-security)
 * [](linux-rop-exploitation-example)
+* [](ensure-the-security-of-your-app-with-a-secure-sdlc)
+* [](windows-advanced-threat-protection)
+* [](remote-code-execution-is-a-serious-threat-be-prepared)
+* [](insecure-deserialization-attacks)

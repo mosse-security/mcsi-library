@@ -38,6 +38,10 @@
 * [](wireshark-http-request-analysis)
 * [](dissecting-three-way-handshake-in-wireshark)
 * [](tshark-wiresharks-command-line-interface-alternative)
+* [](hyper-v-deployment)
+* [](hyper-v-security)
+* [](hyper-v-terminology)
+* [](securing-virtual-machines-of-hyper-v)
 
 
 ## Techniques

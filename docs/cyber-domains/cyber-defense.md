@@ -37,6 +37,10 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](an-overview-of-due-diligence-and-due-care-in-cyber-security)
 * [](don-t-be-the-next-victim-understand-the-attack-lifecycle)
 * [](don-t-be-fooled-by-imitations-protect-your-data-from-evil-twin-attacks)
+* [](a-hotfix-what-is-it)
+* [](preventing-security-breaches-using-two-factor-authentication)
+* [](what-security-elements-are-crucial-for-creating-a-trusted-operating-system-os)
+
 
 ## Tools
 

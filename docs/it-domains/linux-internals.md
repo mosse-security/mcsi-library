@@ -19,3 +19,9 @@
 * [](installing-software-on-linux-distributions-with-package-managers)
 * [](environment-variables-in-linux)
 * [](introduction-to-suid)
+
+## Mac Internals
+
+* [](directory-structure-on-macos)
+* [](properly-list-files-on-macos)
+* [](file-directory-flags-in-macos)

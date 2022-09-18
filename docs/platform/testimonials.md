@@ -33,3 +33,15 @@ This is an interview of Nathan Collins. Nathan started his profession by obtaini
 ### [Samuel Romanov](review-and-testimonial-samuel-romanov)
 
 Samuel is the General Manager of DigitalShield, a cybersecurity firm selling and delivering practical and proportionate cybersecurity solutions for SMEs, startups, scale-ups, and growth companies on time with the utmost quality. He is on a mission to help businesses avoid losses and ensure their employees are protected. As a student of MCSI, he has completed our Remote Internship Programme and is now completing MGRC.
+
+### [Jeremy Gardas](review-and-testimonial-jeremy-gardas)
+
+Jeremy Gardas is a skilled individual. At only 18, he is able to solve technical problems that few industry professionals can. In his opinion, MCSI is the best training method available. He believes that we the best platform to become an expert in cybersecurity. 
+
+### [](review-and-testimonial-allan-hedegaard)
+
+Allan Hedegaard is the IT Operations Manager at GPV. He manages a large team of IT professionals that operate around the globe. His cybersecurity duties include managing the Security Operations Centre and ensuring that GPV meets all of its compliance requirements.
+
+### [](review-and-testimonial-lukasz-wierzbicki)
+
+Łukasz is an application security engineer, penetration tester and vulnerability researcher. His main responsibility is to find vulnerabilities and software bugs. He took the course [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html).

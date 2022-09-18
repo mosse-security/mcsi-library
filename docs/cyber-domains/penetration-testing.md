@@ -129,3 +129,7 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](a-gentle-introduction-to-msfvenom)
 * [](bypass-uac-using-metasploit)
 * [](nfs-enumeration-for-low-privilege-access)
+* [](meterpreter-for-pentesters)
+* [](techniques-used-for-malware-obfuscation)
+* [](windows-persistence-techniques-with-metasploit)
+* [](windows-privilege-escalation-alwaysinstallelevated)
