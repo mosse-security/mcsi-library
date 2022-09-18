@@ -22,7 +22,9 @@
 * [](network-protocols-the-foundation-of-digital-communication-syslog)
 * [](secure-multipurpose-internet-mail-extension-smime)
 * [](introduction-to-software-defined-networking)
-* 
+* [](hardware-security-module-hsm)
+* [](user-and-entity-behavior-analytics-ueba)
+
 
 ## Tools
 
@@ -42,7 +44,7 @@
 * [](hyper-v-security)
 * [](hyper-v-terminology)
 * [](securing-virtual-machines-of-hyper-v)
-
+  
 
 ## Techniques
 
@@ -53,3 +55,5 @@
 * [](an-example-of-monitoring-methods)
 * [](basic-steps-to-network-baselining)
 * [](stay-safe-and-secure-while-working-remotely)
+* [](introduction-to-event-logs-in-windows)
+* [](how-to-install-and-set-up-sysmon-for-windows-endpoint-devices)

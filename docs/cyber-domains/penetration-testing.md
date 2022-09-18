@@ -133,3 +133,5 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](techniques-used-for-malware-obfuscation)
 * [](windows-persistence-techniques-with-metasploit)
 * [](windows-privilege-escalation-alwaysinstallelevated)
+* [](an-overview-of-directory-traversal-attacks-in-a-web-application)
+* [](session-hijacking-attacks-how-they-work-and-what-you-can-do-to-prevent-them)

@@ -29,6 +29,7 @@ Information security is the practice of protecting electronic information by mit
 * [](who-are-data-stewards-why-does-data-stewardship-matter)
 * [](get-to-know-the-features-of-biometric-factors)
 * [](privacy-information-management-system-iso-27701)
+* [](the-importance-of-data-integrity-in-information-security)
 
 
 ## Security Controls

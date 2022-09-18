@@ -59,3 +59,4 @@ There is no question that security is important in the software development proc
 * [](windows-advanced-threat-protection)
 * [](remote-code-execution-is-a-serious-threat-be-prepared)
 * [](insecure-deserialization-attacks)
+* [](an-overview-of-directory-traversal-attacks-in-a-web-application)

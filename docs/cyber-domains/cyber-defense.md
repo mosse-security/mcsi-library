@@ -40,6 +40,7 @@ In the age of the internet, cyber defense is more important than ever. There are
 * [](a-hotfix-what-is-it)
 * [](preventing-security-breaches-using-two-factor-authentication)
 * [](what-security-elements-are-crucial-for-creating-a-trusted-operating-system-os)
+* [](endpoint-protection-platform-epp-what-is-it)
 
 
 ## Tools

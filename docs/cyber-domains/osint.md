@@ -31,3 +31,6 @@
 * [](find-the-business-information-you-need-with-osint-tools)
 * [](shodan-basic-searches-find-devices-and-vulnerabilities)
 * [](domain-name-lookup-your-pivot-point-for-osint-research)
+* [](reverse-ip-and-domain-lookup)
+* [](introduction-to-linkedin-social-media-osint)
+* [](circumventing-linkedin-login-prompt-for-anonymous-osint)

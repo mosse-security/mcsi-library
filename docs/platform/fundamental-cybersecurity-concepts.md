@@ -11,6 +11,11 @@ Cybersecurity is a rapidly evolving field, and students should begin by familiar
 * [](social-engineering-basic-principals-attacks-phases-and-prevention)
 * [](dont-be-bait-for-phishing-attacks)
 * [](the-parkerian-hexad-a-more-complete-set-of-information-security-elements)
+* [](sim-cloning-what-is-it)
+* [](subscriber-identity-module-sim-swapping-what-is-it)
+* [](the-application-of-artificial-intelligence-in-the-field-of-cybersecurity)
+
+
 ## Threats
 
 * [](learn-about-the-different-ways-malware-can-infect-your-system)

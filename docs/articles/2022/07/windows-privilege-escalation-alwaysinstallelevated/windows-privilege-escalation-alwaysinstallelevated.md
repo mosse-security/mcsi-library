@@ -45,7 +45,7 @@ Lport : it is listener port
 Let's upload our MSI file named installer.msi to the target computer using the user's active Meterpreter session. 
 `upload <path_to_msi_file>`
 
-![aie_5](images/aie_51.png)
+![aie_5](images/aie_5.png)
 
 When it successfully uploads, open up the shell by typing shell in meterpreter. Next set up a netcat listener, which will listen for our reverse shell connection when the msi file will be executed by the victim host. 
 ```
