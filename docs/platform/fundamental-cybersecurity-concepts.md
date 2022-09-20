@@ -30,6 +30,8 @@ Cybersecurity is a rapidly evolving field, and students should begin by familiar
 * [](be-botnet-and-zombie-aware-for-a-safer-internet)
 * [](stay-protected-from-bluetooth-threats)
 * [](keep-your-data-safe-encrypt-your-wireless-devices)
+* [](session-hijacking-attacks-how-they-work-and-what-you-can-do-to-prevent-them)
+* [](privilege-escalation-don-t-let-the-bad-guys-get-ahead)
 
 ## Controls
 
