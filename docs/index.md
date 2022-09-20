@@ -55,8 +55,6 @@ The library is organized by cyber domains in order to more easily facilitate res
 
 ## IT Domains
 
-
-
 <hr>
 
 ## Ways of Working
