@@ -31,8 +31,7 @@ extensions = [
   'sphinxext.opengraph',
   'sphinx_sitemap',
   'sphinx.ext.viewcode',
-  'sphinx_togglebutton',
-  
+  'sphinx_togglebutton'
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
@@ -57,8 +56,7 @@ myst_enable_extensions = [
   "smartquotes",
   "strikethrough",
   "substitution",
-  "tasklist",
-
+  "tasklist"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -82,10 +80,7 @@ html_theme_options = {
   "logo_only": True,
   "home_page_in_toc": True, 
   "use_download_button": False,
-  "use_fullscreen_button": False,
-  
- 
-
+  "use_fullscreen_button": False
   }
 
 html_favicon = 'assets/favicon.png'
@@ -94,5 +89,3 @@ html_favicon = 'assets/favicon.png'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_show_sourcelink = False
-
-
