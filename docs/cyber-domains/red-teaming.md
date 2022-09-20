@@ -23,7 +23,6 @@ A concept is an abstract idea that represents a general understanding of somethi
 * [](top-reasons-why-red-teamers-should-know-how-to-write-their-own-custom-tools)
 * [](using-the-cyber-kill-chain-and-the-mitre-matrix-for-red-team-operations)
 * [](what-is-the-difference-between-red-teaming-penetration-testing-and-vulnerability-assessments)
-* [](data-exfiltration-with-the-help-of-linux-binaries)
 
 ## Procedures
 
@@ -45,9 +44,20 @@ The image below proposes a workflow you can use to learn Red Teaming:
 
 ## Techniques
 
+```{admonition} Why is learning Red Teaming techniques important?
+:class: dropdown
+Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
+```
+
 * [](ntfs-data-stream-manipulation)
+* [](data-exfiltration-with-the-help-of-linux-binaries)
 
 ## Tools
+
+```{admonition} Why do I need to master Red Team tools?
+:class: dropdown
+Red Team tools are used by organizations to test their security posture by simulating real-world attacks. These tools are important because they help organizations identify weaknesses in their defenses and prepare for potential threats. By using Red Team tools, organizations can improve their security and better protect their assets.
+```
 
 * [](perform-remote-code-execution-with-the-use-of-reverse-shells)
 * [](using-netcat-as-a-reverse-shell)
