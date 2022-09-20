@@ -1,6 +1,6 @@
 # MCSI LIBRARY
 
-
+![GitHub followers](https://img.shields.io/github/followers/mosse-security?style=social)![GitHub last commit](https://img.shields.io/github/last-commit/mosse-security/mcsi-library)
 
 ## What the project does
 
