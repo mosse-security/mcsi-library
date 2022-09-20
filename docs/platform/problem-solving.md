@@ -37,6 +37,14 @@ If you encounter an IT issue, such as a software bug, you should first try to re
 
 **What are the steps in an RCA technique?**
 
+**Where can I go for help if RCA doesn't work?**
+
+We have found that RCA always succeeds. When it doesn't, it's because the practitioner didn't use the technique correctly or didn't fully comprehend the fault (i.e., it has not been properly dimensioned). In such cases, the following resources will prove helpful:
+
+- [Stackoverflow](https://stackoverflow.com/) A public platform to ask coding questions
+- [Serverfault](https://serverfault.com/) A question and answer site for system and network administrators
+- [MCSI Forums](https://mosse-cyber-security-institute.tribe.so/) MCSI's support forums
+
 ## Structured Analytics Techniques
 
 Structured analytic techniques (SATs) are a set of tools used by analysts to improve the quality of their analysis and reduce the impact of cognitive biases and errors. SATs are based on the premise that humans are fallible and that our cognitive limitations can lead to errors in analysis. The goal of SATs is to provide a framework for analysis that minimizes the impact of these cognitive biases and errors. 
