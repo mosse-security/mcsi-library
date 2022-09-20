@@ -29,6 +29,7 @@ The minimum technical skills you must have to benefit from our platform include:
 
 We recommend that you complete the following free courses:
 
+- [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) to master searching the Internet for resources
 - [Khan Academy](https://www.khanacademy.org/computing) to learn fundamental IT concepts
 - [Google IT Certificates](https://grow.google/certificates/it-support/#?modal_active=none) to learn fundamental IT skills for free
 - [FreeCodeCamp](https://www.freecodecamp.org/) to learn software programming

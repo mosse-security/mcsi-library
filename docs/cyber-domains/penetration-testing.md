@@ -31,7 +31,9 @@ The image below proposes a workflow you can use to learn penetration testing:
 :class: dropdown
 Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
 ```
+
 * [](post-exploitation-information-collection-and-persistance-via-process-migration)
+* [](techniques-used-for-malware-obfuscation)
 
 ### Reconnaissance
 
@@ -56,6 +58,15 @@ Application vulnerabilities are weaknesses in software that can be exploited by 
 * [](avoid-race-conditions-with-our-easy-to-follow-strategies)
 * [](how-to-prevent-insecure-design-vulnerabilities)
 * [](broken-access-control-bac)
+* [](web-app-vulnerabilities-anatomy-of-an-xss)
+* [](web-app-vulnerabilities-files-and-resources-attacks)
+* [](bypassing-authorization-in-web-applications)
+* [](finding-sql-injection-practical-cases)
+* [](web-application-username-enumeration-and-defense-techniques)
+* [](an-overview-of-directory-traversal-attacks-in-a-web-application)
+* [](introduction-to-web-caching-and-web-cache-poisoning)
+* [](open-redirection)
+
 
 ### Cloud Services Penetration Testing
 
@@ -75,6 +86,13 @@ A network vulnerability is a security flaw that can be exploited to gain unautho
 * [](host-discovery-get-the-information-you-need-about-a-network)
 * [](manual-and-automated-password-acquisition)
 * [](scanning-smb-telnet-and-ftp-default-ports)
+* [](netbios-enumeration)
+
+### Endpoint Vulnerabilities
+
+* [](windows-privilege-escalation-unquoted-service-path)
+* [](windows-privilege-escalation-alwaysinstallelevated)
+* [](privilege-escalation-techniques-windows-unquoted-service-path)
 
 ## Tools
 
@@ -88,50 +106,51 @@ Penetration testing tools are used to test the security of systems and networks.
 * [](keep-your-systems-safe-with-regular-vulnerability-scanning)
 * [](mimikatz-the-post-exploitation-tool-for-offensive-security-testing)
 * [](understanding-the-different-types-of-scan-you-can-perform-with-nmap)
-* [](privilege-escalation-don-t-let-the-bad-guys-get-ahead)
-* [](a-brief-introduction-to-wordlists-and-how-to-generate-them-with-cewl)
-* [](enumerating-active-directory-with-powerview))
-* [](enumerating-smtp-with-metasploit)
-* [](open-redirection)
-* [](password-cracking-techniques-tools-and-protection-recommendations)
-* [](using-metasploit-to-enumerate-ssh)
-* [](exploiting-eternalblue-with-metasploit)
+* [](enumerating-active-directory-with-powerview)
 * [](mac-spoofing-made-easy-with-mac-changer)
 * [](a-general-overview-of-nuclei-command-line)
-* [](identifying-arp-request-packets-with-wireshark)
 * [](mac-flooding-attack)
-* [](netbios-enumeration)
-* [](pstools)
 * [](snmp-enumeration-with-snmp-check)
 * [](an-overview-of-information-disclosure-vulnerabilities)
-* [](web-app-vulnerabilities-anatomy-of-an-xss)
-* [](web-app-vulnerabilities-files-and-resources-attacks)
-* [](metasploit-hands-on-with-basic-commands)
-* [](metasploit-hands-on-with-variables)
-* [](bypassing-authorization-in-web-applications)
-* [](finding-sql-injection-practical-cases)
-* [](hands-on-with-wireshark-basic-os-and-vendor-analysis)
-* [](web-application-username-enumeration-and-defense-techniques)
 * [](an-overview-of-nuclei-default-templates)
+* [](llmnr-poisoning-attack-with-responder)
+* [](nfs-enumeration-for-low-privilege-access)
+
+### Brute Force Attacks
+
+A brute force attack is a type of cyberattack where a hacker uses a automated tool to guess passwords or passphrases until they find the correct one. This type of attack is usually very time-consuming and can be very difficult to execute if the target has a long and complex password. However, if the hacker has a large enough list of common passwords, they may be able to successfully guess the correct one relatively quickly. Brute force attacks can be prevented by using strong and unique passwords, as well as by employing security measures such as rate-limiting or CAPTCHAs. 
+
+* [](a-brief-introduction-to-wordlists-and-how-to-generate-them-with-cewl)
 * [](password-spraying-with-hydra)
-* [](windows-privilege-escalation-unquoted-service-path)
 * [](hands-on-with-john-the-ripper-performing-a-basic-dictionary-attack)
-* [](tcp-udp-and-smb-auxiliary-modules-in-metasploit)
-* [](introduction-to-web-caching-and-web-cache-poisoning)
+* [](password-cracking-techniques-tools-and-protection-recommendations)
+* [](single-mode-password-cracking-with-john-the-ripper)
+
+### Metasploit
+
+Metasploit is a free and open source penetration testing platform that enables you to find and exploit vulnerabilities in systems. It is one of the most popular tools in the ethical hacking community and is used by security professionals and Penetration testers to test the security of systems and applications. Metasploit can be used to launch attacks against systems, to test the security of systems, and to find vulnerabilities in systems.
+
 * [](metasploit-introduction-to-payloads)
 * [](metasploit-introduction-to-exploit-modules)
-* [](metasploit-working-with-sessions)
-* [](single-mode-password-cracking-with-john-the-ripper)
 * [](metasploit-working-with-http-auxiliaries)
-* [](llmnr-poisoning-attack-with-responder)
-* [](metasploit-introduction-to-databases-and-workspaces)
-* [](privilege-escalation-techniques-windows-unquoted-service-path)
+* [](metasploit-working-with-sessions)
+* [](meterpreter-for-pentesters)
+* [](metasploit-hands-on-with-basic-commands)
+* [](metasploit-hands-on-with-variables)
+* [](using-metasploit-to-enumerate-ssh)
+* [](windows-persistence-techniques-with-metasploit)
 * [](a-gentle-introduction-to-msfvenom)
 * [](bypass-uac-using-metasploit)
-* [](nfs-enumeration-for-low-privilege-access)
-* [](meterpreter-for-pentesters)
-* [](techniques-used-for-malware-obfuscation)
-* [](windows-persistence-techniques-with-metasploit)
-* [](windows-privilege-escalation-alwaysinstallelevated)
-* [](an-overview-of-directory-traversal-attacks-in-a-web-application)
-* [](session-hijacking-attacks-how-they-work-and-what-you-can-do-to-prevent-them)
+* [](metasploit-introduction-to-databases-and-workspaces)
+* [](enumerating-smtp-with-metasploit)
+* [](tcp-udp-and-smb-auxiliary-modules-in-metasploit)
+* [](exploiting-eternalblue-with-metasploit)
+
+### Wireshark
+
+Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.
+
+Wireshark can be used for penetration testing in order to find security vulnerabilities in a network. By capturing and analyzing network traffic, Wireshark can help identify weak points in a system that can be exploited by an attacker.
+
+* [](identifying-arp-request-packets-with-wireshark)
+* [](hands-on-with-wireshark-basic-os-and-vendor-analysis)
