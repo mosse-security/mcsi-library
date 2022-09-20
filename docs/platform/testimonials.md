@@ -38,10 +38,10 @@ Samuel is the General Manager of DigitalShield, a cybersecurity firm selling and
 
 Jeremy Gardas is a skilled individual. At only 18, he is able to solve technical problems that few industry professionals can. In his opinion, MCSI is the best training method available. He believes that we the best platform to become an expert in cybersecurity. 
 
-### [](review-and-testimonial-allan-hedegaard)
+### [Allan Hedegaard](review-and-testimonial-allan-hedegaard)
 
 Allan Hedegaard is the IT Operations Manager at GPV. He manages a large team of IT professionals that operate around the globe. His cybersecurity duties include managing the Security Operations Centre and ensuring that GPV meets all of its compliance requirements.
 
-### [](review-and-testimonial-lukasz-wierzbicki)
+### [Lukasz Wierzbicki](review-and-testimonial-lukasz-wierzbicki)
 
 Łukasz is an application security engineer, penetration tester and vulnerability researcher. His main responsibility is to find vulnerabilities and software bugs. He took the course [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html).
