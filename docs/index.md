@@ -72,6 +72,7 @@ platform/student-portfolio
 platform/formidable-work
 platform/cognitive-science
 platform/minimum-requirements
+platform/asking-for-help
 platform/problem-solving
 platform/career-pathways
 platform/fundamental-cybersecurity-concepts

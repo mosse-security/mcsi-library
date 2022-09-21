@@ -6,7 +6,7 @@ MCSI's objective is to help our students produce formidable work. We want our st
 
 MCSI provides guidelines for completing exercises. These guidelines teach students how to meet and exceed industry expectations. The guidelines are clear and concise, and they provide step-by-step instructions for completing each exercise. By following these guidelines, students will be able to complete exercises correctly and efficiently. Additionally, the guidelines will help students to understand the expectations of the industry, and they will be able to apply these expectations to their own work.
 
-<img src="/images/platform/guidelines.png" alt="MCSI Exercise Guidelines">
+<img class="grey-border" src="/images/platform/guidelines.png" alt="MCSI Exercise Guidelines">
 
 ## Personalized Feedback
 
@@ -16,7 +16,7 @@ It is essential to receive expert advice in order to improve skills. This allows
 
 The following is an example of feedback we provided to a student:
 
-<img src="/images/platform/personalized-feedback.png" alt="MCSI Personalized Feedback">
+<img class="grey-border" src="/images/platform/personalized-feedback.png" alt="MCSI Personalized Feedback">
 
 ## Trophies
 

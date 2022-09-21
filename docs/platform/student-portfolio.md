@@ -4,9 +4,7 @@ MCSI is special because it provides students with an opportunity to develop a po
 
 The following image is an [example](https://students.mosse-institute.com/student/9arEjhf18Wdej3PFcVKAaQBWK322) of a portfolio:
 
-<img src="/images/platform/portfolio-example-1.png" alt="Jeremy Gardas MCSI Portfolio">
-
-## Components
+<img class="grey-border mb-3" src="/images/platform/portfolio-example-1.png" alt="Jeremy Gardas MCSI Portfolio">
 
 A portfolio contains the following information:
 
@@ -42,13 +40,19 @@ This example is taken from our penetration testing certification:
 
 - **Level 6) Principal Practitioner:** You have gone above and beyond. At this level, you have solved all the practical challenges that MCSI offers. Nothing stands in your way to achieve greatness!
 
+### Industry Certification
+
+From level 2 onwards, every time you reach a milestone, you will receive an industry certification:
+
+<img class="grey-border" src="/images/platform/certificate-of-completion-milestone.png" alt="Industry Certification">
+
 ## Demonstrable Artefacts
 
 When students solve MCSI exercises, they produce tangible evidence of their skills and abilities. This allows instructors to gauge each student's progress and identify areas where they need improvement. The artefacts produced by students also provide a valuable resource for future learning and assessment.
 
 Below is an example of a formidable submission by Jeremy that earned him a Platinum Trophy:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RHF-F_rwC7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="block mb-3 mx-auto" width="560" height="315" src="https://www.youtube.com/embed/RHF-F_rwC7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The portfolio is a great way to show off your skills and work to potential employers. It is also a great way to get your foot in the door with a company. Many students have been able to get jobs without spending thousands of dollars on certifications. The portfolio is a great tool for students to use to get jobs.
 
@@ -61,6 +65,18 @@ MCSI rewards students with Gold and Platinum trophies to encourage them to produ
 - **Gold Trophy:** The student produced one of the best solutions we've seen. They went above and beyond than what was expected.
 
 - **Platinum Trophy:** The solution is formidable and extraordinary. This is the expert level!
+
+## Certificates of Completion
+
+Every time you pass an exercise, you will receive a Certificate of Completion:
+
+<img class="grey-border" src="/images/platform/certificate-of-completion.png" alt="Certificate of Completion">
+
+```{admonition} Continued Professional Education (CPE)
+:class: hint
+
+You can use our Certificates of Completion to claim CPEs!
+```
 
 ## Letter of Recommendation
 
