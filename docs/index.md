@@ -72,12 +72,27 @@ platform/student-portfolio
 platform/formidable-work
 platform/cognitive-science
 platform/minimum-requirements
+platform/fundamental-cybersecurity-concepts
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: "Ways of Working:"
+:hidden:
+
 platform/asking-for-help
 platform/problem-solving
+ways-of-working/charts-and-graphics
+ways-of-working/operational-planning
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: "Concepts:"
+:hidden:
 platform/career-pathways
-platform/fundamental-cybersecurity-concepts
-
-
+it-domains/cryptography
+it-domains/information-security
 ```
 
 ```{toctree}
@@ -99,7 +114,6 @@ cyber-domains/secure-coding
 cyber-domains/threat-hunting
 cyber-domains/threat-intelligence
 cyber-domains/vulnerability-research
-
 ```
 
 ```{toctree}
@@ -108,21 +122,8 @@ cyber-domains/vulnerability-research
 :hidden:
 
 it-domains/cloud-services
-it-domains/cryptography
-it-domains/information-security
 it-domains/linux-internals
 it-domains/network-security
 it-domains/programming-and-scripting
 it-domains/windows-internals
 ```
-
-```{toctree}
-:maxdepth: 1
-:caption: "Ways of Working:"
-:hidden:
-
-ways-of-working/charts-and-graphics
-ways-of-working/operational-planning
-```
-
-
