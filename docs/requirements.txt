@@ -28,6 +28,8 @@ jinja2==3.1.2
     # via
     #   myst-parser
     #   sphinx
+livereload==2.6.3
+    # via sphinx-reload
 markdown-it-py==2.1.0
     # via
     #   mdit-py-plugins
@@ -61,7 +63,9 @@ requests==2.28.1
     #   sphinx
     #   sphinxcontrib-images
 six==1.16.0
-    # via sphinx-sitemap
+    # via
+    #   livereload
+    #   sphinx-sitemap
 snowballstemmer==2.2.0
     # via sphinx
 soupsieve==2.3.2.post1
@@ -72,11 +76,16 @@ sphinx==4.5.0
     #   myst-parser
     #   pydata-sphinx-theme
     #   sphinx-book-theme
+    #   sphinx-design
     #   sphinx-sitemap
     #   sphinx-togglebutton
     #   sphinxcontrib-images
     #   sphinxext-opengraph
 sphinx-book-theme==0.3.3
+    # via -r ./requirements.in
+sphinx-design==0.3.0
+    # via -r ./requirements.in
+sphinx-reload==0.2.0
     # via -r ./requirements.in
 sphinx-sitemap==2.2.0
     # via -r ./requirements.in
@@ -98,6 +107,8 @@ sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 sphinxext-opengraph==0.6.3
     # via -r ./requirements.in
+tornado==6.2
+    # via livereload
 typing-extensions==4.3.0
     # via myst-parser
 urllib3==1.26.12

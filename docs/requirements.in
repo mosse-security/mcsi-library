@@ -5,3 +5,5 @@ sphinx-sitemap
 sphinxext-opengraph
 sphinx-togglebutton
 sphinxcontrib-images
+sphinx-design
+sphinx-reload

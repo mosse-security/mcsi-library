@@ -1,4 +1,4 @@
-(cloud-security-main-page)=
+(cloud_sec)=
 # Cloud Security
 Cloud security is the process of protecting data and information that is stored on a cloud computing platform. This process can involve a variety of measures, including data encryption, firewalls, and access control. Cloud security is important for both businesses and individuals who use cloud-based services, as it helps to protect information from unauthorized access and data loss.
 

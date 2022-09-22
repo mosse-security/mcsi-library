@@ -33,6 +33,7 @@ extensions = [
   'sphinx.ext.viewcode',
   'sphinx_togglebutton',
   'sphinxcontrib.images',
+  "sphinx_design",
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
@@ -77,13 +78,14 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 # These folders are copied to the documentation's HTML output
-html_static_path = ['_static']
-
-html_css_files = [
-  "custom.css",
-]
 
 html_theme = "sphinx_book_theme"
+
+html_static_path = ["_static"]
+
+templates_path = ["_templates"]
+
+html_css_files = ["custom.css"]
 
 html_logo= "assets/logo.svg"
 
