@@ -2,57 +2,97 @@
 
 Mossé Cyber Security Institute (MCSI) offers an in-demand education for cyber security professionals. With a focus on hands-on experience, MCSI provides students with the skills they need to protect their organizations from cyber threats.
 
-MCSI's library is a great resource for aspiring cyber professionals. It contains a wealth of information on various cybersecurity topics, including penetration testing, incident response, reverse engineering, and more. The library is constantly updated with new resources, so it's a great place to stay up-to-date on the latest cybersecurity trends. 
-
+MCSI's library is a great resource for aspiring cyber professionals. It contains a wealth of information on various cybersecurity topics, including penetration testing, incident response, reverse engineering, and more. The library is constantly updated with new resources, so it's a great place to stay up-to-date on the latest cybersecurity trends.
 <hr>
 
-## Cyber domains
+## Cyber domains 
 
 The library is organized by cyber domains in order to more easily facilitate research and information retrieval for readers. This organizational system enables you more readily find the resources you need on the topics you are interested in. 
 
 
-
-:::{figure-md} rev-img
-
-
-<img src="/images/open-graphs/reverse-engineering.png" alt="reverse engineering" width="300px">
+::::{grid} 1 1 2 2
 
 
-[](reverse-engineering-landing-page)
+:::{grid-item}
+```{image} images/open-graphs/cloud-security.png
+:class: img-one
+:target: cyber-domains/cloud-security.html
+```
+:::
+:::{grid-item}
+```{image} images/open-graphs/cyber-defense.png
+:target: cyber-domains/cyber-defense.html
+:class: img-one
+```
+:::
+::::
+
+::::{grid} 1 1 2 2
+
+:::{grid-item}
+```{image} images/open-graphs/devsecops.png
+:target: cyber-domains/devsecops.html
+:class: img-one
+```
 
 :::
+:::{grid-item}
+```{image} images/open-graphs/digital-forensics.png
+:target: cyber-domains/digital-forensics.html
+:class: img-one
+```
+:::
+::::
 
+::::{grid} 1 1 2 2
 
-
-:::{figure-md} dig-img
-
-<img src="/images/open-graphs/digital-forensics.png" alt="digital forensics" width="300px">
-
-[](digital-forensics-main-page)
+:::{grid-item}
+```{image} images/open-graphs/incident-response.png
+:target: cyber-domains/incident-response.html
+:class: img-one
+```
 
 :::
-
-
-:::{figure-md} pen-test
-<img src="/images/open-graphs/penetration-testing.png" alt="penetration-testing" width="300px">
-
-[](penetration-testing-main-page)
+:::{grid-item}
+```{image} images/open-graphs/osint.png
+:target: cyber-domains/osint.html
+:class: img-one
+```
 :::
+::::
 
-:::{figure-md} cyber-defense
-<img src="/images/open-graphs/cyber-defense.png" alt="cyber-defense" width="300px">
 
-[](cyber-defense-main-page)
+
+::::{grid} 1 1 2 2
+
+:::{grid-item}
+```{image} images/open-graphs/penetration-testing.png
+:target: cyber-domains/penetration-testing.html
+:class: img-one
+```
+
 :::
-
-:::{figure-md} cloud-security
-<img src="/images/open-graphs/cloud-security.png" alt="cloud-security" width="300px">
-
-[](cloud-security-main-page)
+:::{grid-item}
+```{image} images/open-graphs/red-teaming.png
+:target: cyber-domains/red-teaming.html
+:class: img-one
+```
 :::
+::::
+
+
+::::{grid} 1 1 2 2
+
+:::{grid-item}
+```{image} images/open-graphs/reverse-engineering.png
+:target: cyber-domains/reverse-engineering.html
+:class: img-one
+```
+:::
+::::
+
 
 <hr>
-
 ## IT Domains
 
 <hr>
