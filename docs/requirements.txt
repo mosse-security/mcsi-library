@@ -57,7 +57,9 @@ pyyaml==6.0
     #   myst-parser
     #   sphinx-book-theme
 requests==2.28.1
-    # via sphinx
+    # via
+    #   sphinx
+    #   sphinxcontrib-images
 six==1.16.0
     # via sphinx-sitemap
 snowballstemmer==2.2.0
@@ -72,6 +74,7 @@ sphinx==4.5.0
     #   sphinx-book-theme
     #   sphinx-sitemap
     #   sphinx-togglebutton
+    #   sphinxcontrib-images
     #   sphinxext-opengraph
 sphinx-book-theme==0.3.3
     # via -r ./requirements.in
@@ -85,6 +88,8 @@ sphinxcontrib-devhelp==1.0.2
     # via sphinx
 sphinxcontrib-htmlhelp==2.0.0
     # via sphinx
+sphinxcontrib-images==0.9.4
+    # via -r ./requirements.in
 sphinxcontrib-jsmath==1.0.1
     # via sphinx
 sphinxcontrib-qthelp==1.0.3

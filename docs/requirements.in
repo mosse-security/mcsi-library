@@ -4,3 +4,4 @@ sphinx-book-theme
 sphinx-sitemap
 sphinxext-opengraph
 sphinx-togglebutton
+sphinxcontrib-images

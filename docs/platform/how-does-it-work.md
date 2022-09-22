@@ -35,6 +35,8 @@ Here's a short video that will give you some important tips about using the MCSI
 
 The following diagram shows the procedure for submitting exercises and receiving expert advice:
 
-<img alt="MCSI Submission Procedure" class="block mb-3 mt-3 mx-auto" src="/images/platform/submission-process.svg">
+
+```{thumbnail} ../images/platform/submission-process.svg
+```
 
 **The instructors review exercises Monday to Friday. Your submission will usually be reviewed within 1 business day.**

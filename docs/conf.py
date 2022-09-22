@@ -31,7 +31,8 @@ extensions = [
   'sphinxext.opengraph',
   'sphinx_sitemap',
   'sphinx.ext.viewcode',
-  'sphinx_togglebutton'
+  'sphinx_togglebutton',
+  'sphinxcontrib.images',
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
@@ -60,7 +61,10 @@ myst_enable_extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
+
 templates_path = ['_templates']
+
+html_extra_path = ["_templates"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -76,7 +80,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_static_path = ['_static']
 
 html_css_files = [
-  'css/helpers.css'
+  "custom.css",
 ]
 
 html_theme = "sphinx_book_theme"
@@ -96,3 +100,7 @@ html_favicon = 'assets/favicon.png'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_show_sourcelink = False
+
+def setup(app):
+    app.add_css_file("custom.css")
+    
