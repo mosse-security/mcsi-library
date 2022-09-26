@@ -85,7 +85,7 @@ html_static_path = ["_static"]
 
 templates_path = ["_templates"]
 
-html_logo= "assets/logo.svg"
+html_logo= "assets/logo.png"
 
 html_theme_options = {
   "logo_only": True,
