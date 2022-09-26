@@ -104,4 +104,6 @@ The web application should never let a user choose the file extension or content
 
 The remote code execution vulnerability is a serious security flaw that could have devastating effects on the company. The use of various security controls by an organization is crucial to identifying and thwarting threats that can launch RCE attacks. Regular testing is also necessary to quickly identify and fix RCE vulnerabilities.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

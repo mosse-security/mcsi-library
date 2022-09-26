@@ -89,4 +89,6 @@ Here is a project idea for you:
 - Attempt to identify kernel, operating system and time zone information
 - What differences do you observe in the file names?
 
-> **Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html). In this course, you'll learn about the different aspects of incident response and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+::: In this course, you'll learn about the different aspects of incident response and how to put them into practice.**

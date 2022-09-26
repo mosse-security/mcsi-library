@@ -71,4 +71,6 @@ dnsrecon -t axfr -d <target domain>
 - Private hosts and their IP addresses should not be listed in DNS zone files of the public DNS servers
 - Use premium DNS registration services to hide sensitive data
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

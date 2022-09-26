@@ -53,4 +53,6 @@ Here is a project idea for you:
 6. Use memory forensics tools to view the list of recently active processes
 7. See if you can spot an entry for `chrome.exe`
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

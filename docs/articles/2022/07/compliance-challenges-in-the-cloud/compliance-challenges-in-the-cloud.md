@@ -28,4 +28,6 @@ As you can see, auditing capabilities in the cloud are limited. Furthermore, act
 
 Cloud services are distributed services shared by the clients. They may provide compliance issues because of the shared tenancy model. The security status of the organizations sharing the same servers may affect each other potentially harming them. Multitenancy brings growing risks to the cloud. As you might already guess, these risks grow bigger in SaaS models where the cloud service provider has the most control. Sometimes You may have data in the same database as other customers, with just the application logic keeping your data separate from theirs. When we look at the IaaS model, the smaller portion of sharing some of the same system resources with other host tenants reduces the compliance risks associated with multi-tenancy.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

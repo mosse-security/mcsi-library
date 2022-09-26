@@ -53,4 +53,6 @@ You can also see the contents of this file with the following commands:
 
 Running CeWL against the sites of a target organization can assist develop a customized word list, but always remember the good habit of adding keywords yourself depending on your own efforts.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

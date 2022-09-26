@@ -51,4 +51,6 @@ Insider threats are defined as an attack performed by a user or malicious code f
 
 A supply chain attack is one where intentional rootkits or hardware backdoors are installed during the manufacturing process. This type of attack can take place in either software or hardware-based products. Once the product's installation is completed, attackers can use backdoors to attack the network. The latest solar winds strike is an excellent illustration of a supply chain attack. This type of attack can be avoided by double-checking the product's integrity and only buying hardware or software from trustworthy vendors.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

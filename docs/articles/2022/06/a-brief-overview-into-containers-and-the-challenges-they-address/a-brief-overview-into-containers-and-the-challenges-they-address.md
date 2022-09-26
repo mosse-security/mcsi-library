@@ -46,4 +46,6 @@ Containers address the matrix of hell without requiring a large guest OS level. 
 
 Upon completion of this blog post, you now know the importance of containers and the challenges they address.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

@@ -39,4 +39,6 @@ Regardless of where you acquire the MFT from – a forensic image or a memory du
 
 These tools can parse the MFT and create a _[timeline](importance-of-timelines-in-a-forensic-investigation)_ of all the entries on it. This means the tools can generate output where all the MFT entries are sorted according to recent modification time. This helps a forensic investigator narrow down the search radius specific to the time window of interest.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

@@ -78,4 +78,6 @@ If you don't use an encrypted proxy server, you might as well not use one at all
 
 A proxy server provides numerous advantages to an organization, including the ability to control internet traffic, improve security, and cache content. However, there are some disadvantages to using a proxy server, such as the possibility of decreased speed and reliability. To summarize, a proxy server can be a valuable tool for an organization, but it is critical to weigh the benefits and drawbacks before implementing one.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

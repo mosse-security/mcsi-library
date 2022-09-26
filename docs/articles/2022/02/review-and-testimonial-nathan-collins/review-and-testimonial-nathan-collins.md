@@ -59,4 +59,6 @@ Anyone who wants to get into cyber security or who wants to keep their skills up
 
 It’s a great platform, but don’t just take my word for it, there is a lot of free exercises you can attempt yourself. If you haven't already, go and create your own account and try some of the free exercises, they range in difficulty and it's a great way to try and see if the platform is the right fit for your learning style. If you get stuck, don't give up, keep researching, post questions on the student forum and try harder!!!
 
-> **Want to learn practical skills that will land you a job in cyber security? Enrol in [MCSI's MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html)**
+:::{seealso}
+Want to learn practical skills that will land you a job in cyber security? Enrol in [MCSI's MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html)
+:::

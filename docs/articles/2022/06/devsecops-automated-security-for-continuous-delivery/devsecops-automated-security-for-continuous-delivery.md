@@ -73,4 +73,6 @@ Dynamic Application Security Testing (DAST) tools provides an automated service 
 The OWASP ZAP tool helps developers to perform better software security and comes with various features such as active scanning that can be integrated into the CI/CD Pipeline. 
 
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html).**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

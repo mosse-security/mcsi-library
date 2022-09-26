@@ -87,8 +87,9 @@ The Physical Security Policy establishes the rules for granting, restricting, an
 
 The policy also specifies how access to office space and equipment will be restricted, as well as the safeguards that will be taken to protect them from natural and man-made threats. This policy also specifies who is responsible for its implementation and maintenance. The Physical Security Policy lays down the consequences of violation of this policy.
 
-<u>Disaster Recovery Policy:</u>
-The purpose of the Disaster Recovery Policy is to specify how the organization will recover its critical IT infrastructure and services within a set deadline in the event of a disaster. The policy outlines all the steps and the tools to be used to recover its critical assets. This policy specifies the recovery point objective(The minimum point in time to which the critical data must be backed up) as well as the recovery time objective(The amount of time before which critical business functions or equipment must be recovered/restored) for the disaster recovery.
+<u>Disaster Recovery Policy:</u:::{seealso}
+The purpose of the Disaster Recovery Policy is to specify how the organization will recover its critical IT infrastructure and services within a set deadline in the event of a disaster. The policy outlines all the steps and the tools to be used to recover its critical assets. This policy specifies the recovery point objective(The minimum point in time to which the critical data must be backed up) as well as the recovery time objective(The amount of time before which critical business functions or equipment must be recovered/restored)
+:::for the disaster recovery.
 
 The policy assigns duties and responsibilities for dealing with the disaster and recovering from it, as well as employees who will interact with media officials. The policy also allocates the resources essential for disaster response and recovery. This policy comprises a list of people who must be notified about the disaster as well as the communication channel that is used during the disaster recovery time period.
 
@@ -118,4 +119,6 @@ This section offers suggestions for writing concise and efficient security polic
 
 - Make use of the policy templates from credible sources that are available on the internet. The SANS Institute features a variety of policy templates that can be found on its [website](https://www.sans.org/information-security-policy/). These templates were created in collaboration with security specialists in the industry. They can serve as a good starting point for policy formulation and can be customized to fit your company's needs.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

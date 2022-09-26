@@ -74,4 +74,6 @@ This page shows us that changing a mac address is a quite easy technique to hide
 
 Which macchanger command alters the current burnt-in address to a fully arbitrary one?
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

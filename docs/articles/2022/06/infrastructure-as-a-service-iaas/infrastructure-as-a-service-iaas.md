@@ -33,4 +33,6 @@ There are a few drawbacks to consider when it comes to Infrastructure as a Servi
 
 Infrastructure as a Service (IaaS) is a type of cloud Scalability, flexibility, and cost-effectiveness are just a few of the benefits over traditional IT infrastructure provisioning approaches. Before switching to IaaS, it's crucial to understand the dangers. IaaS isn't ideal for every company, and there are some security and privacy concerns to consider before making the transition.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

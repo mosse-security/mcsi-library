@@ -43,4 +43,6 @@ Only essential access to key assets is granted under zero-trust. Typically, orga
 
 Adaptive risk-based trust allows businesses to decrease risk by utilizing zero trust as the basis for how companies establish trust scores that are used to decide how much protection is required to obtain access to the cloud, apps, networks, and systems.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

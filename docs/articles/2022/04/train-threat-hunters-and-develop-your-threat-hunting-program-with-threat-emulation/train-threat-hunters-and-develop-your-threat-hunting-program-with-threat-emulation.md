@@ -47,4 +47,6 @@ The more planning which goes into a threat emulation program that supports threa
 
 Threat emulation is an exercise that can help train threat hunters and develop the threat hunting program in an organization. However, it is essential to create realistic threat scenarios to prepare for real cyberattacks.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

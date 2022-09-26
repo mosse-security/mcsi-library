@@ -42,4 +42,6 @@ You have also various other options as follows:
 
 Upon completion of this blog post, now you know which password policy options you have that you can implement according to your business needs.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

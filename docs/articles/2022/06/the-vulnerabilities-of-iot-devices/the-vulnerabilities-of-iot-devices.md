@@ -25,4 +25,6 @@ The Internet of Things (IoT) promises several advantages, including more efficie
 
 IoT vulnerabilities exist and must be handled carefully. The first step is to ensure that your devices have the most recent security fixes. Second, for your IoT devices, choose a strong password and never repeat passwords. Finally, to guard against the most recent dangers, install a reliable security solution on all of your devices.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

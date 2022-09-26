@@ -33,4 +33,6 @@ Threat hunting is an important part of cybersecurity, but it's not the only acti
 
 By understanding the processes of threat hunting, you can be better prepared to protect your organization from cyber threats.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

@@ -41,4 +41,6 @@ You can put in place the following protections to help reduce the risks associat
 
 Security may not be a primary concern in your home networks or small enterprises. However, as we have covered, peer-to-peer networks are frequently used to increase data exposure and as an entry point for infections. Now you are aware of the risks and know how to protect yourself.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

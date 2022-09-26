@@ -80,4 +80,6 @@ Here is a project idea for you:
 
 Windows operating system has many sources of valuable logs for digital forensics. Enabling the collection of logs and knowing how to acquire them is a valuable skill.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

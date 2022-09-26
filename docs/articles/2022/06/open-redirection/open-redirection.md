@@ -65,4 +65,6 @@ If deleting the argument doesn't fit for your application's flow, we could chang
 
 If the app has a lot of possible valid pages to redirect to, we can set up a fixed domain and just attach the redirected page to it.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

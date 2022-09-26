@@ -42,4 +42,6 @@ Here is a project idea for you: you can *[set up your own DFIR lab at home](buil
 - See the tools available on the distro
 - What tools do you observe that can assist in processing evidence from a windows computer?
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

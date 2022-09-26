@@ -47,4 +47,6 @@ Other tools that provide similar information are [Block Explorer](https://blocke
 
 For law enforcement: once a transaction of interest is identified, copy the transaction ID, sender, and receiver’s wallet address, and share it with the exchange service like Binance, Zebpay, WazirX, Coinbase etc. for KYC associated with this wallet.
 
-> **Want to learn practical OSINT skills? Enrol in [MCSI's MOIS - Certified OSINT Expert Certification Programme](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical OSINT skills? Enrol in [MCSI's MOIS - Certified OSINT Expert Certification Programme](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

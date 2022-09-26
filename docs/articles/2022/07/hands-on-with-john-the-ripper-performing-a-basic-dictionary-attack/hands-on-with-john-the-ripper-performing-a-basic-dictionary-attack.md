@@ -66,4 +66,6 @@ The screenshot below demonstrates how John the Ripper was able to detect the pas
 
 Congratulations! Now you know how to perform a basic dictionary-based attack with John.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

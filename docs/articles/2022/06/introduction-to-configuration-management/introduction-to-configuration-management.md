@@ -155,4 +155,6 @@ Terraform developed by HashiCorp., is an open-source IAC (Infrastructure as a Co
 
 Companies can benefit immensely from the implementation of configuration management in many ways, including the ability to scale up and down the number of devices in your network environment more easily, the maintenance of accurate configuration records, the reduction of risks from cyber threats, the assurance of regulatory compliance, the reduction of costs associated with breaches and downtime, and much more. Therefore, configuration management must be implemented in order to form an effective security management program in an organization.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

@@ -45,4 +45,6 @@ Organizations frequently employ a combination of these tactics. In many circumst
 
 It is an organization's general management's obligation to structure the information technology and information security operations in order to safeguard the enterprise assets.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI’s MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI’s MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

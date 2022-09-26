@@ -27,4 +27,6 @@ Assume engineers decide to publish a code but do not initially direct any traffi
 
 - What type of deployment would it be?
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

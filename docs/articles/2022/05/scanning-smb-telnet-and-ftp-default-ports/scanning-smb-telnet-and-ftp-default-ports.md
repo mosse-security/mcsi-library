@@ -57,4 +57,6 @@ The `STATE of PORT 21/TCP is OPEN`, indicating that `port 23` is open and the FT
 
 Common sharing services or other abandoned services may allow attackers to breach a network's security. There are many tools and techniques like Metasploit, enum4linux, rustscan, and many more which can be used to enumerate the most common protocols.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

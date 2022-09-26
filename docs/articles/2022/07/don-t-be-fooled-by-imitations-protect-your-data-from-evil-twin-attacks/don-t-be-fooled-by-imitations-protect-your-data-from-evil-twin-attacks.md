@@ -84,4 +84,6 @@ A Virtual Private Network imitates a private network connection over a public ne
 
 Wireless Intrusion Prevention Systems (WIPS) are a tool that organizations can use to thwart evil twin attacks. With the aid of a Wireless Intrusion Prevention System, it is possible to identify and then report the malicious twin networks that attempt to replicate an organization's access points. These solutions consist of network hardware that searches the entire radio spectrum in the immediate vicinity to look for unauthorized access points.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

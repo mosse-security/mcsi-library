@@ -27,4 +27,6 @@ Advantages of biometric readers vary from faster authentication to flexibility, 
 
 Biometric readers are a great method to boost security and boost productivity in a variety of scenarios. But it's crucial to keep in mind that they're not flawless. Before selecting to install a biometric system, it is crucial to thoroughly consider the hazards involved with employing biometric data.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

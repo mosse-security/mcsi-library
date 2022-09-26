@@ -49,4 +49,6 @@ You have added a new method to your social media OSINT skills!
 
 In this blog post, we have learned how to bypass LinkedIn create account prompt with a publicly available Google service which is originally used to test your site’s user-friendliness. We also utilized Codebeautifier to render the entire HTML code of the LinkedIn account. By the completion of this page, now you know how to display a Linkedin profile without an account.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

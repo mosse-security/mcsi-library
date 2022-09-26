@@ -63,4 +63,6 @@ We can also use the Auto Repeater with the Match and Replace, two other extensio
 
 Access control is only efficient if it is implemented through a trustworthy server-side code or sometimes a serverless Application Programming Interface, in which the access control audit or metadata cannot be modified by the intruder. By convention, access to features should be restricted. Authentication techniques based on roles and ACLs or what we call access control lists should be implemented.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

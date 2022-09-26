@@ -43,4 +43,6 @@ Third-party incident-handling services have experience dealing with cyber attack
 
 Third-party incident-handling services also have the resources to respond to large-scale attacks. They have the staff, expertise, and technology to help you quickly recover from an attack and prevent future attacks from happening.
 
-> **Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html). In this course, you'll learn about the different aspects of incident response and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+::: In this course, you'll learn about the different aspects of incident response and how to put them into practice.**

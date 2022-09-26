@@ -31,4 +31,6 @@ The utility component depends on the data and its presentation. You can have var
 
 The principles covered in the Parkerian hexad give a solid foundation for discussing all of the possible outcomes in the domain of information security. By the end of this page, you should be able to explain the components of the parkerian hexad and how.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

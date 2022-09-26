@@ -20,4 +20,6 @@ There are numerous key asset management issues in the context of an inquiry. Alt
 
 • **Network configuration -** Each interface's network setup should be tracked, including the host name, IP configuration, and MAC address. If the IP address is determined through DHCP, the IP address itself is not generally listed. However, if the IP address is allocated statically, having it in the asset management system is beneficial.
 
-> **Want to learn practical Governance, Risk and Compliance skills? Enrol in MCSI’s [MGRC Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)!**
+:::{seealso}
+Want to learn practical Governance, Risk and Compliance skills? Enrol in MCSI’s [MGRC Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

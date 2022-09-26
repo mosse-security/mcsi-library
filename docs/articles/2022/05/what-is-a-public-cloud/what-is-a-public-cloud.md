@@ -57,4 +57,6 @@ There are certain drawbacks to using the public cloud:
 
 To summarize, the public cloud is a tremendously powerful tool that businesses of all sizes may employ. Before deciding to use the public cloud, it's critical to understand the repercussions of doing so. If not used properly, the public cloud can be a fantastic advantage for a company, but it can also be a problem.
 
-> **Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

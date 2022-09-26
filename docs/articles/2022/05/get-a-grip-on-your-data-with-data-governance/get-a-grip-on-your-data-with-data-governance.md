@@ -60,4 +60,6 @@ A data governance strategy establishes a framework for connecting data governanc
 
 Summarily, data governance ensures that information is useable, accessible, and secure. Data governance leads to better data analytics, which leads to better decision-making and operations support.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

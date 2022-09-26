@@ -33,4 +33,6 @@ In-house training tools are developed and implemented by and inside the company.
 
 - Materials will get outdated if they are not reviewed on a regular basis for content validity, and staff will be forced to create their own norms and processes. The security governance department is responsible for developing security regulations as well as delivering education and training to aid in the application of those policies.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

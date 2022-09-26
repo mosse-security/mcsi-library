@@ -64,4 +64,6 @@ And gallery holds materials submitted by consumers such as YouTube videos.
 
 Upon completion of this blog post, now you're familiar with how to start with Google Earth. Google Earth is one of the tools that you may want to be familiar with if you're performing OSINT studies.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

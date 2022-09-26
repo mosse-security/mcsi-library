@@ -33,4 +33,6 @@ Similarly, a threat hunter could use capa to determine if a deeper analysis of t
 
 As a threat hunter, it is important to understand the various techniques that can be used to analyze malicious code. While assembly and reverse engineering are important skills, they are not always necessary. The Microsoft documentation for their API is extensive and can undoubtedly provide details that a hunter needs to make an informed decision on a suspicious file. Utilizing tools like capa and Yara can help provide information about the behavior of a file to help support a hypothesis or used to create further hypotheses.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

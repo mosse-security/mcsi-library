@@ -248,4 +248,6 @@ If an address is discovered in `importMap`, the algorithm replaces its value wit
 [ssdeep](https://ssdeep-project.github.io/ssdeep/)  
 [Breaking Imphash](https://arxiv.org/abs/1909.07630)
 
-> **Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

@@ -89,4 +89,6 @@ Snopes uncovers fake news, tales, and urban legends and investigates/validates r
 
 ![alt img](images/fact-checking-verification-tools-24.png)
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

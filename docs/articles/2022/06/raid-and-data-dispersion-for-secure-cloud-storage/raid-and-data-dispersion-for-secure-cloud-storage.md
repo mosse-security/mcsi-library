@@ -58,4 +58,6 @@ Data dispersion has several advantages.
 
 We all want to store our data securely in the cloud. Furthermore we want to apply resilient methods for data storage in the cloud to ensure the ability to restore and resume operations. In this blog, we have covered two methods which we can utilize to achieve this goal: RAID and data dispersion.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

@@ -42,4 +42,6 @@ The procedure of preventing illegitimate access, modification, disclosure, inter
 
 As an expert, while designing an organizational security posture, you must keep all of these perspectives in mind. It is your obligation to ensure that people understand the importance of information security to their business and the potential consequences of their actions.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

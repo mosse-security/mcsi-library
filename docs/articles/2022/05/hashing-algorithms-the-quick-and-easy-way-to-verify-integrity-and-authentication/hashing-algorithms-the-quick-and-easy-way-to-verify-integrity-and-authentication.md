@@ -55,4 +55,6 @@ Hashing functions are considerably quicker to calculate than conventional crypto
 
 In the first part of the blog, we covered what a hash function is, and explained some terms like message digest, checksum, and digital footprint. We also looked at applications of hashing algorithms in the real-world and possible reasons why you want to use them.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

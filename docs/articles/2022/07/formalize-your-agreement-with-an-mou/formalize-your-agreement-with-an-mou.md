@@ -29,4 +29,6 @@ An MOU is often drafted by a lawyer. An MOU should be specific about the parties
 
 An MOU is crucial because it enables each party to express their goals and expectations for the relationship in explicit terms. Before each party signs a legally binding contract, drafting an MOU can assist in resolving any disagreements.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

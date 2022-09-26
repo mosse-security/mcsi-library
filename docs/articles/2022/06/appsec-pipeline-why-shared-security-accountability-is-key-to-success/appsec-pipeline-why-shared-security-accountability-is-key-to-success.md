@@ -42,4 +42,6 @@ As we have stated, security and development teams collaborate together on securi
 
 This article discussed how and why development and security teams should collaborate, as well as why shared security accountability enhances overall success of the project. DevSecOps should be shift left and early in the security in a project's lifecycle.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

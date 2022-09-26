@@ -76,4 +76,6 @@ Digital certificates provide communicative groups confidence that the people the
 
 Digital certificates enable companies to safely exchange their public key with people with whom they do not have a pre-existing connection.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

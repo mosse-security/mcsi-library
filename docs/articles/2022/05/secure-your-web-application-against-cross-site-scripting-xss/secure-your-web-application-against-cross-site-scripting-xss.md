@@ -36,4 +36,6 @@ The most serious XSS attacks involve the disclosure of a user's session cookie, 
 
 Cross-site scripting is a serious issue that can result in data breaches, customer distrust, and legal action against the offending company. To protect your company, make sure your website is secure against cross-site scripting attacks. You can accomplish this by deploying a web application firewall, employing input validation, and raising employee security awareness.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

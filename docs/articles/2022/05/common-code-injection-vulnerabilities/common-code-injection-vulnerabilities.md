@@ -33,4 +33,6 @@ XPath Injection is a type of code injection attack that exploits how some web ap
 
 Several effective measures can be taken to prevent injection attacks. First, input validation should be used to ensure that all data entered into a system is clean and free of malicious code. Second, data sanitization should be performed to remove any potentially dangerous characters or strings that could be used to exploit a system. Finally, access control measures should be put in place to restrict access to sensitive data and systems. By following these simple steps, organizations can greatly reduce their risk of becoming the victim of an injection attack.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

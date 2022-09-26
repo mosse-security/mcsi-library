@@ -37,4 +37,6 @@ Some other steps to be considered are:
 
 Finally, while virtual machines have many advantages, they also pose security risks that must be considered. Before deciding whether or not to use virtual machines, businesses must weigh the risks and benefits. However, with the proper security measures in place, virtual machines can be used safely and securely.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

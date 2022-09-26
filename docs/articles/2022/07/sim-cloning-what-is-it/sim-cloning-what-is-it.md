@@ -34,4 +34,6 @@ The following is the typical procedure that scammers use to copy a SIM card:
 - In the event of SIM fraud, get in touch with phone banking at once to freeze your account and stop future fraud. After putting the appropriate justification on your identity documents and signing them, submit them to obtain a new SIM.
 - Check your personal and social media accounts for any posts or activity that is approved. Take remedial action if you see any such posts, and notify the social media assistance center to reclaim control of the compromised account
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -24,4 +24,6 @@ A well-written policy statement is the foundation of a successful information se
 
 **Use a conversational approach** — This is a personal opinion, but it has been found that utilizing a style that is most like a conversation is the greatest way to get the message over to the audience over the years.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

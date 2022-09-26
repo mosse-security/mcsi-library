@@ -34,4 +34,6 @@ It is unquestionably useful to be able to detect buffer overflow vulnerabilities
 
 Finally, buffer overflow attacks can be extremely dangerous and difficult to detect. However, you can help protect your systems and data by understanding how they work and taking preventative measures.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

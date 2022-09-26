@@ -87,4 +87,6 @@ Here is a project idea for you. You can practice this on a virtual machine, so y
 - Create a custom volatility profile for this machine
 - Use Volatility to view the list of active processes in the memory dump. See if you can spot entries for the applications you had open, at the time the dump was taken
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

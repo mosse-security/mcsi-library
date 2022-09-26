@@ -89,4 +89,6 @@ SMB (Server Message Block) is an application layer protocol that is largely used
 
 Upon completion of this page, now you can perform a TCP, UDP, and SMB scan on a target address using Metasploit's related auxiliary modules.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

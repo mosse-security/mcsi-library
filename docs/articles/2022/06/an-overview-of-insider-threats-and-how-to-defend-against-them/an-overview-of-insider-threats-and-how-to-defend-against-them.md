@@ -100,4 +100,6 @@ Implement the zero trust architecture in your organization to mitigate the risk 
 
 Employ Data Loss Prevention solutions to prevent the exposure or loss of sensitive information in the organization. DLP solutions ensure that users cannot intentionally exfiltrate or unintentionally send sensitive or critical information outside the corporate network. DLP products use an organization's security policies to assign labels to critical or sensitive company information. Thus these solutions protect the confidential data by preventing the users from transferring it outside the company's network.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

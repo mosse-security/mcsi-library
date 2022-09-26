@@ -61,4 +61,6 @@ The most important step after handling an incident is to write a report about it
 
 Usually, when an incident occurs, the involved parties are worried and stressed about their files. The Incident Responder is the person who helps to calm down the chaos. You must be mentally prepared to deal with emotionally sensitive clients and try to gather as much information as you can, to help recover from the incident.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

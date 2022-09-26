@@ -73,4 +73,6 @@ Monitor your network with security tools such as intrusion detection systems (ID
 
 PITM will continue as an attacker's go-to technique for gaining access to sensitive information such as passwords and credit card numbers. Although there is no one definitive way to prevent person-in-the-middle attacks, the best defense is to be aware of the possibility of such attacks and take steps to minimize the chances of falling victim to one. Use robust authentication mechanisms, encrypt all messages, and use caution when connecting to an unknown network.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

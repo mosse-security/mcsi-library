@@ -166,4 +166,6 @@ With the number and sophistication of cyber-attacks on the rise around the world
 
 This security strategy is used to provide protection to your assets from different attack vectors. One of the greatest benefits of using this security strategy is that even if one of the security control fails, the rest of the controls can still protect your resources. The implementation of Defense-in-Depth requires the analysis of various vulnerabilities, threats, and risks to the assets as well as the organization's resources. Following this study, cost effective security controls can be applied that protect these resources efficiently.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

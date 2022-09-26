@@ -34,4 +34,6 @@ S/MIME prohibits manipulation with the contents since it needs the entire email'
 
 In conclusion, we strongly recommend Secure/Multipurpose Internet Mail Extension for your business because of the benefits it may provide in the long term. If you wish to create integrity, maintain privacy, protect sensitive data, and prevent phishing and other email threats, S/MIME should be incorporated. If you're worried by its difficulty, don't be. S/MIME has gotten easier to adopt over time, with Windows phones being equipped out of the box being a notable example. The technology to secure your emails is widely accessible. You get to decide.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

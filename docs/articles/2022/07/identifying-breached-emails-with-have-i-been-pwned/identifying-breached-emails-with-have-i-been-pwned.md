@@ -57,4 +57,6 @@ What do we learn from this OSINT research?
 
 By the completion of this blog page, we have learned that we can find various intelligence during email breach research. We have also performed breached email OSINT via one of the Have I been Pwned.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

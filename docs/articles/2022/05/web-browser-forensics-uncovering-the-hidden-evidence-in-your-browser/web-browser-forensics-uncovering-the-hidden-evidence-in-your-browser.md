@@ -63,4 +63,6 @@ Your next project could be to create a _Cheat Sheet_ for web browser artifacts. 
 
 Once your cheat sheet is ready, you can use it to uncover artifacts about the abnormal activity on your friend’s computer.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

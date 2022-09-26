@@ -30,4 +30,6 @@ Syslog-ng, which was started in 1988, includes several filtering and encrypting 
 
 Rsyslog was created in 2004 and is directly developed from Syslog, thus it may be simply utilized as a substitute since a rsyslog.conf file can be replaced by syslog.conf. It also has increased ability to parse unstructured data and transport it to numerous destinations, similar to syslog-ng. In addition to UDP, syslog-ng and rsyslog may employ TCP, TLS, and RELP.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -38,4 +38,6 @@ It has color-coded markings that are intended to assist the distribution of crit
 
 Upon completion of this blog page, we have learned that in order to complete the view of what occurred during an event, an analyst needs to convert an indication into something actionable for subsequent remediation or discovery. We have also learned that exchanging threat intelligence is an essential component of any security operations endeavor.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

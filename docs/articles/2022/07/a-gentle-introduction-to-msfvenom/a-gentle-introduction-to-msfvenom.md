@@ -92,4 +92,6 @@ With the help of the msfvenom .bat extension, the PowerShell reverse shell paylo
 
 This article demonstrated how to create different types of payloads using the msfvenom tool. With the MSFvenom one can create a very powerful payload that can bypass the Antivirus. To learn more about msfvenom techniques, read the manual page of msfvenom or check the following link `https://www.offensive-security.com/metasploit-unleashed/msfvenom/ `
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

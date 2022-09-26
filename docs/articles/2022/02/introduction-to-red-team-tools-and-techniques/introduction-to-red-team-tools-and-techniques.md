@@ -148,4 +148,6 @@ It's critical to be deeply familiar with the tools and strategies utilized by cy
 
 We hope you found this post interesting and that you learned something new as a result of it. While we can't possibly cover all of the tools and techniques in this post, we've highlighted a few of the most significant. Thank you for taking the time to read this.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

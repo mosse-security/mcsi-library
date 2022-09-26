@@ -34,4 +34,6 @@ The following checklist is used to collect further information on how the event 
 
 If your detection details appear to be accurate and consistent, the next step is to gather further information about specific factors linked to the detection. You should descend one step and gather information on specific computers, networks, and possibly dangerous files.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

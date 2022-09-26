@@ -47,4 +47,6 @@ The private cloud has some limitations that may limit its applications:
 
 Private clouds are an excellent method to keep your data safe while also allowing you to access it from anywhere. They can, however, be costly to set up and maintain. If you're not sure if a private cloud is ideal for you, try a public cloud provider that also provides private cloud services.
 
-> **Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

@@ -77,4 +77,6 @@ Well you can use the following commands to change the previous value of a variab
 - Set the global LHOST variable as the same as your attack machine.
 - Verify the newly assigned LHOST ip address.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

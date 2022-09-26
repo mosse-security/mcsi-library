@@ -62,4 +62,6 @@ Do you want to try acquiring evidence from $UsnJrnl?
 
 Once you identify a sequence of interesting operations from $UsnJrnl, you can proceed to create a timeline of activity that had occurred on the system. You can read more about timelines _[read more about timelines](importance-of-timelines-in-a-forensic-investigation)_
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

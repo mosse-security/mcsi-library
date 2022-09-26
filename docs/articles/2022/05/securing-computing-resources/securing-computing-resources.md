@@ -56,4 +56,6 @@ It is critical to plan for this scenario, whether it is the result of malevolent
 
 In this blog post, we learned that compute instances are at the heart of computational power. We also touched upon security implications related to computational resources.
 
-> **Want to learn practical Cloud Security skills? Enroll in [MCSE - Certified Cloud Security Engineer](https://www.mosse-institute.com/certifications/mcse-certified-cloud-security-engineer.html).**
+:::{seealso}
+Want to learn practical Cloud Security skills? Enroll in [MCSE - Certified Cloud Security Engineer](https://www.mosse-institute.com/certifications/mcse-certified-cloud-security-engineer.html)
+:::

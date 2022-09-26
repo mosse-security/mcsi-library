@@ -54,4 +54,6 @@ An increasing number of corporate registrations are available online, which may 
 
 By the completion of this blog page, now you are familiar with open and closed source data and the source of channels you can achieve them.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

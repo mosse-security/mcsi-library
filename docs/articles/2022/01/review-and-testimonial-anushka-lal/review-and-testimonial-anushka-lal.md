@@ -72,4 +72,6 @@ As an academia student myself, if I could complete the remote internship curricu
 
 Even if the slightest part of the cyber world excites you, I highly recommend you to enroll yourself on the MCSI Online Learning Platform. There is not much you can lose but definitely a lot to learn from. This platform has ample resources to help you get started from any point on your journey. Just take up the challenge and see the results for yourself.
 
-> **Want to learn practical skills that will land you a job in cyber security? Enrol in [MCSI's MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html).**
+:::{seealso}
+Want to learn practical skills that will land you a job in cyber security? Enrol in [MCSI's MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html)
+:::

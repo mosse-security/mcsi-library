@@ -68,7 +68,9 @@ Let's suppose you want to crack a single user password that is contained in the 
 
 `john --single --format=raw-SHA1 hash.txt`
 
-You can also use this tool to crack password-protected zip files. In order to generate a hash of the password, we will use the zip2john command and store its output (using > operator) in a file called output.txt. Let's suppose our password-protected zip file is called test.zip. You can use this command to create its hash and store it in output.txt:
+You can also use this tool to crack password-protected zip files. In order to generate a hash of the password, we will use the zip2john command and store its output (using :::{seealso}
+operator)
+:::in a file called output.txt. Let's suppose our password-protected zip file is called test.zip. You can use this command to create its hash and store it in output.txt:
 
 `zip2john test.zip > output.txt`
 
@@ -180,4 +182,6 @@ This section goes over some of the recommendations for protecting user passwords
 
 10. Use multifactor authentication to protect user accounts from being compromised.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

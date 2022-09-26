@@ -33,4 +33,6 @@ While there are so many commits how you can control the building process? Severa
 - Begin an automated building and test process to ensure that the modifications and changes are acceptable and have not affected any element of the application.
 - Execute this method numerous times every day, paying close attention to identified security issues. This allows us to have the most recent functional version of the project status on the main line, which is updated multiple times each day.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

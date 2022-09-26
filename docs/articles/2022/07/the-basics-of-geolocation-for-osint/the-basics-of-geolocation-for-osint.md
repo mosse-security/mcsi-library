@@ -49,4 +49,6 @@ Geospatial OSINT methods can be used during investigations to help locate suspec
 
 You can link the majority of user online activity to geolocation data. Upon completion of this page now you have refreshed the basics of geolocation which will help you with your location-based OSINT research.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

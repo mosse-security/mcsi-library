@@ -50,4 +50,6 @@ The deciphered password is “qwerty” which is a very common password and the 
 
 Performing this type of attack is fairly simple, and the red teamers often use responder tool to conduct lateral movement. Some of the countermeasures against these attacks are disabling the LLMNR and NBT-NS in computer policy. Use stronger user passwords. 
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

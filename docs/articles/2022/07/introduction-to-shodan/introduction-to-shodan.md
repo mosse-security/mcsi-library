@@ -92,4 +92,6 @@ ASNs are global identifiers of a range of IP addresses. As an example, Google's 
 
 - Search for Microsoft Corporation in Shodan by using the`asn:[ASN]` filter?
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

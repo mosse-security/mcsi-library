@@ -61,4 +61,6 @@ What makes you h8mail is so effective is that you can combine it with other osin
 
 By the completion of this blog post, you have gained an insight into various OSINT breached password tools. Keep in mind that websites come and go. Any tool discussed above may be down at the time of your reading. However, there will be always new tools that you’ll be aware of with quick research.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

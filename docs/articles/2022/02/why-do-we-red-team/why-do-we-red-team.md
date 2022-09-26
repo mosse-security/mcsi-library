@@ -33,4 +33,6 @@ Another limitation is that red team operations tend to be relatively small-scale
 
 There are also legal considerations to keep in mind. Many states have laws that regulate what information can be obtained from whom, and how it can be used. Because of this, it is important to ensure that the information provided by the Red Team is not legally actionable.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

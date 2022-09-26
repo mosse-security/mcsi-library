@@ -128,4 +128,6 @@ Notes that:
 
 - [Sysinternals Process Explorer (procexp)](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 
-> **Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

@@ -87,4 +87,6 @@ Although all windows machines process and store data in the same way, the data t
 
 A user can schedule a specific task to occur on the Windows machine. Some adversaries can schedule malicious activities like running an application at a specific time, sending or receiving data, starting or stopping services, etc. An investigator can find information about scheduled tasks at `%SYSTEMROOT%\System32\Tasks`.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

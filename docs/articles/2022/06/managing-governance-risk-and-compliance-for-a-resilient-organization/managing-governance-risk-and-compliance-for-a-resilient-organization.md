@@ -124,4 +124,6 @@ Determine how you will evaluate the success of each of the objectives you set ea
 **5. Choose the right GRC software solution:**
 Choose a suitable GRC software solution that can help you reach your goals, has a user-friendly interface, and can be quickly integrated into your environment.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

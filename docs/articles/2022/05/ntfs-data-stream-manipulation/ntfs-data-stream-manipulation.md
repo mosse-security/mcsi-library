@@ -62,4 +62,6 @@ ADS-encoded files are impossible to discover using traditional file-browsing met
 - Use updated antivirus systems on your machine.
 - Use third-party file integrity checker tools like Tripwire file integrity manager to maintain the integrity of the file.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

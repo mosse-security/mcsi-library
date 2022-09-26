@@ -89,4 +89,6 @@ Some forensic tools display timestamps relevant to GMT. You may need to perform 
 
 This blog post intended to provide a quick overview about the forensic importance of shellbags. As a next step, you can research about the various keys and sub-keys within the registry that store information about shellbags. One to start with can be: ‘What is the significance of the key _BagMRU_?’
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

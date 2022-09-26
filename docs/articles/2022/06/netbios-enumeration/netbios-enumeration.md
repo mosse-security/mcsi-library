@@ -53,4 +53,6 @@ Nbtstat -c command can be used to get the contents of the NetBIOS name cache, th
 
 Enumeration is vital in penetration testing because it uncovers hidden information from a victim's machine. The remote system must have allowed file and printer sharing to enumerate the NetBIOS names. NetBIOS enumeration could allow an attacker to access the data of a remote system and shares present on that system or launch a DoS attack.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

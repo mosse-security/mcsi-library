@@ -37,4 +37,6 @@ Each security team in a distributed enterprise can effectively hunt and provide 
 
 Even though there are some challenges in distributed organizations with threat hunting, they are not insurmountable. Having one person or a team at each site can allow routine and comprehensive hunting. However, the capabilities of a well-tuned SIEM or Data Lake can aid large or small threat hunting teams by aggregating data to help make informed decisions on whether threat actors are or have already compromised an organization.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

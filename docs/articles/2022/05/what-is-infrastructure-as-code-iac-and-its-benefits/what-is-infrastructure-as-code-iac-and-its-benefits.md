@@ -66,4 +66,6 @@ It also allows organizations to build a repeatable process for deploying new inf
 - effective management,
 - regulation with version control, and documentation.
 
-> **Want to learn practical cloud skills? Enroll in [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

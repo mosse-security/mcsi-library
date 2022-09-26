@@ -31,4 +31,6 @@ EPP ought to be used in conjunction with an EDR solution because of this. EDR pr
 
 Platforms for endpoint security assist in defending companies from assaults on endpoints that are weak. Additionally, an EPP enables information about security events from various security solutions to be exchanged, allowing for more thorough analysis and a clearer knowledge of how to enhance endpoint security across the enterprise.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

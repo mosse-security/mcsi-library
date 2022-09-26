@@ -64,4 +64,6 @@ While public-key cryptography can be utilized in IPSec, it does not provide non-
 
 You must ensure confidentiality, validity, integrity, and security for network activity. IPSec is an efficient security enhancement to TCP/IP. Along with its two special security protocols, IPSec seems to provide numerous levels of protection to the communication process.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

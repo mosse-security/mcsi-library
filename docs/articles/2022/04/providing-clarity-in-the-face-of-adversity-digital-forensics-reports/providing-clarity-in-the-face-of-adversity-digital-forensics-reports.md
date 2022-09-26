@@ -45,4 +45,6 @@ Apart from being able to perform technical tasks, a good forensic investigator m
 
 You can create standard templates that are ready to use during an investigation. It would be a good idea to get into the habit of taking screenshots and documenting your work, so that generating reports during a forensic investigation comes naturally to you!
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

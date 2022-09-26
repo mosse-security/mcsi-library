@@ -39,4 +39,6 @@ The next building elements for zero-trust infrastructure are data categorization
 
 In essence, zero trust is primarily concerned with segregating network layers, programs, information, and resources as much as feasible. Zero-trust is also limiting access to all these multiple elements to verified and authorized users with the principle of least privilege.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

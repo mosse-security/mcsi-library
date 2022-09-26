@@ -29,4 +29,6 @@ We may take the following steps to safeguard our systems with the following easy
 
 Upon completion of the blog page, now we have learned that we can harden our systems on the most basic level by uninstalling unnecessary apps, backing up our data regularly, disabling services we don’t require, applying critical updates when available, closing unnecessary ports and last but not least creating functional policies in the organization.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

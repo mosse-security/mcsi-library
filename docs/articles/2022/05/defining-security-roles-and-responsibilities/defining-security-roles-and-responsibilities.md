@@ -58,4 +58,6 @@ An auditor is in charge of assessing and confirming that the security policy has
 
 As we have covered, clearly defined roles and responsibilities are critical in security management. All of these positions play a significant part in a secure environment. We need roles to define, organize, and carry out the activities and actions required to disseminate security policy, standards, and implementation.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

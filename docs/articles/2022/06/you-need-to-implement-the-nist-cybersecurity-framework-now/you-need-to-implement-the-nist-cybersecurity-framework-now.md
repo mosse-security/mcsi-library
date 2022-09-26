@@ -133,4 +133,6 @@ The framework profile is used to align the core elements of the framework (Funct
 
 The description of these profiles is not rigid, allowing for a very flexible approach to the implementation of these profiles. Depending upon the sector in which it operates, every organization can develop a different profile based on its unique business objectives, the obligations for compliance with laws and regulations, and the requirements for cyber risk management.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

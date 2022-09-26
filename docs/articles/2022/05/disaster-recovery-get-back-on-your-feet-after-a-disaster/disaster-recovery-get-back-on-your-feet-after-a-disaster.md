@@ -64,4 +64,6 @@ Disaster recovery preserves business continuity and expedites the recovery proce
 
 In conclusion, a proper and well-laid discovery plan improves efficiency, provides secure standards, and improves organizational throughput.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

@@ -37,4 +37,6 @@ Intel created the eSPI (Enhanced Serial Peripheral Interface) bus, which is effe
 
 Finally, a protocol analyzer is an extremely useful tool for debugging, troubleshooting, and diagnosing networking problems. A protocol analyzer can offer extensive information about what is happening on the network by capturing and decoding traffic. A protocol analyzer, when used correctly, may be a helpful tool for network administrators and engineers.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

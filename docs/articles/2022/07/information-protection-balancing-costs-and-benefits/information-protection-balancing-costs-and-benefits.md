@@ -24,4 +24,6 @@ Eight key components should form the foundation of information protection:
 
 To make sure that the expense of restrictions does not outweigh the anticipated advantages, the cost and benefits of information protection should be carefully considered in both monetary and nonmonetary terms. Controls for information protection should be reasonable and proportionate.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

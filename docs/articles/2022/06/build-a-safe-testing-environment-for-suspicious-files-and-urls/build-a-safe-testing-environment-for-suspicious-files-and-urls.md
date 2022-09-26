@@ -35,4 +35,6 @@ Because the number and effectiveness of zero-day attacks are increasing all the 
 
 Sandboxing may be approached in a variety of ways, and the ideal technique for you will ultimately rely on your needs and tastes. The advice in this article, on the other hand, should help you get off to a good start. You should be able to discover a sandboxing solution that works well for you and helps you enhance your productivity with a little amount of experimenting.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

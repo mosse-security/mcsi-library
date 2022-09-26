@@ -115,4 +115,6 @@ Type `ctrl+ D` when you’re finished.
 
 You have successfully applied your symmetric key knowledge by encrypting and decrypting a _.txt_ file with a single key in Linux with OpenSSL.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

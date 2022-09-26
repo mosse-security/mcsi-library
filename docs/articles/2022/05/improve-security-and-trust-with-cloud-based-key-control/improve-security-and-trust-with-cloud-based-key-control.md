@@ -42,4 +42,6 @@ One option is for you to keep the keys, but this needs a costly and complicated 
 
 Now you know how to manage your keys on the cloud. This is a practice that, if implemented successfully, increases security and trust in the cloud.
 
-> **Want to learn practical Cloud Security skills? Enroll in [MCSE - Certified Cloud Security Engineer](https://www.mosse-institute.com/certifications/mcse-certified-cloud-security-engineer.html).**
+:::{seealso}
+Want to learn practical Cloud Security skills? Enroll in [MCSE - Certified Cloud Security Engineer](https://www.mosse-institute.com/certifications/mcse-certified-cloud-security-engineer.html)
+:::

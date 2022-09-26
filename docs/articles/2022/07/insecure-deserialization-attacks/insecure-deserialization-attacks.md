@@ -127,4 +127,6 @@ In order to avoid deserialization-based attacks, it is important to configure ne
 
 The web application must be thoroughly tested for any vulnerabilities that can lead to deserialization-based attacks. This includes using both SAST (Static Application Security Testing) tools to test the application's code for any vulnerabilities as well as using DAST (Dynamic Application Security Testing) tools to test the application in the running state for insecure deserialization.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

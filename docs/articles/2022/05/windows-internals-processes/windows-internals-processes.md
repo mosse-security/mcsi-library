@@ -167,4 +167,6 @@ Both malware and exploit developers attempt to exploit vulnerabilities and breac
 - [Microsoft Documentation: User-mode and Kernel-mode](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode)
 - [Sysinternals WinObj](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj)
 
-> **Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

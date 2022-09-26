@@ -197,4 +197,6 @@ As stated in the preceding section, complete detection of the reverse shell in y
 
 - Do not allow the executable files from unknown sources to run on the computer.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

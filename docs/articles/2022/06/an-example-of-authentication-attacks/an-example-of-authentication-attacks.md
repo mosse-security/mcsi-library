@@ -33,4 +33,6 @@ Credential stuffing attacks are the last but not least. These attacks make advan
 
 You may find out if your account has ever been a victim of a data breach by visiting haveibeenpwned.com. If it has, if you haven't already, replace your password right away. Also, don't use the same login and password for several services. This may appear to be a simple approach to eliminate the need to memorise your credentials, but it significantly weakens the efficacy of your protection.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

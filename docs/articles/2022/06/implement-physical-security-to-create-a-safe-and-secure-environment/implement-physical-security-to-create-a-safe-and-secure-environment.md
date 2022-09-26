@@ -31,4 +31,6 @@ It's no wonder that the security of our physical world is becoming increasingly 
 
 In a society that is becoming increasingly reliant on technology, physical security is evidently just as crucial as cyber security. While it's critical to have safeguards in place to protect your data and equipment from cyber assaults, it's equally critical to secure your premises and safeguard your gear against physical risks. You can build a safe and secure environment for your business or organization by taking a comprehensive approach to security.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

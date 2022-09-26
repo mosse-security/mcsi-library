@@ -52,4 +52,6 @@ You may add an extra degree of security by starting your EMR cluster's EC2 machi
 
 One of the reasons consumers use Amazon EMR is because of its security features. Amazon EMR is used by clients in legislated industries such as financial services and healthcare in connection with their strategic plan. Amazon EMR security parameters additionally make it simple to encrypt data in motion and at rest. As previously said, Amazon EMR might be an excellent fully-ledged choice for administering your organization's big data frameworks.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

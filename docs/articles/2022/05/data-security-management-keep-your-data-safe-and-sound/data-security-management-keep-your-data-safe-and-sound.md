@@ -43,4 +43,6 @@ Data security is composed of three main components:
 - **Application update and patching:** A patch is a software update that fixes defects (errors) or vulnerabilities in an existing application or operating system. While Update is a more substantial addition of software features (such as a better user interface), as well as performance improvements and bug fixes. Patching and system updates regularly improve data security.
 - **Employee sensitization:** Most attacks target employees. Employee education is critical to ensuring data security. Every company should have data security training workshops, seminars, and programs in place.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

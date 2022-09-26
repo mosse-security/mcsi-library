@@ -185,4 +185,6 @@ It is critical to implement multiple security techniques in tandem to protect ag
 
 * The web application must be rigorously tested before its deployment for the presence of such vulnerabilities. All the user inputs to the web application must be thoroughly tested and protected against exploitation. 
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

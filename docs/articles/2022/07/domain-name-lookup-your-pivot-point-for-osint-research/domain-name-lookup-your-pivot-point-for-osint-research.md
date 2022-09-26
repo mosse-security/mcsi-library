@@ -43,4 +43,6 @@ A WHOIS lookup can provide you with the following information:
 
 In this blog post, we learned whois lookup in detail and how we can perform a basic domain name query on our POI utilizing the ICANN lookup tool, which outputs beneficial details for our OSINT study.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

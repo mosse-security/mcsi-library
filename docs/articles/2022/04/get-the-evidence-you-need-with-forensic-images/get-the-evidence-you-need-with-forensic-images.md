@@ -41,4 +41,6 @@ There are various commercial and free tools to assist in the acquisition of a fo
 
 During an investigation in an enterprise environment, given the large capacity of storage devices, only files relevant to the investigation will be acquired in some situations. This activity is referred to as _triage_.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

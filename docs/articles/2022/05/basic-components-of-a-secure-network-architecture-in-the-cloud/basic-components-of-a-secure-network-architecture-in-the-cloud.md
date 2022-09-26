@@ -35,4 +35,6 @@ A VPN channel encapsulates communications nesting protocols within another. The 
 
 We need to run cloud-based applications or software in a securely designed network. In this blog, we have learned fundamental networking principles for designing safe environments in the cloud such as VLAN, DHCP, DNS, and VPN.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

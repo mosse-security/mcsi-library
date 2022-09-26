@@ -53,4 +53,6 @@ As we have covered, manual browsing identifies the bulk of the material and func
 
 Now, by examining the _robots.txt file_, you already know which content is not allowed to be viewed by web crawlers.
 
-> **Want to learn practical Secure Software Development skills? Enrol in [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

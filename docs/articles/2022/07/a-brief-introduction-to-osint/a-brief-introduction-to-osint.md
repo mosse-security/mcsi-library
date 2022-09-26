@@ -44,4 +44,6 @@ Lastly, let’s have a look at what is an OSINT framework and what are some tool
 
 After reading this page, you should have a good understanding of the questions outlined in the introduction section. Next, we will explore the benefits of OSINT.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html).**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

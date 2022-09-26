@@ -112,4 +112,6 @@ Perimeter security is a philosophy that involves setting up functional devices, 
 So essentially, perimeter security experts take a perimeter-based approach to secure your systems and ward off any threats before they enter the network. They follow best practices like threat recognition, pattern analysis, and surveillance detection to set up high-quality and highly efficient processes to ensure internal security.
 If you would like to know more about perimeter security or have any questions or concerns that need answering, please don’t hesitate to get in touch, or browse our blog for more free articles.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

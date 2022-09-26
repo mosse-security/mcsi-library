@@ -58,4 +58,6 @@ Business Continuity Management is a management strategy that assists firms in fo
 
 Finally, business continuity planning is an integral part of every organization's service continuity. There are different reasons for service interruption. Cyberattacks and natural disasters are two of the most usual challenges that can severely disrupt a business. The more reason a business continuity plan (BCP) is critical for getting services back in operation as quickly as possible.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

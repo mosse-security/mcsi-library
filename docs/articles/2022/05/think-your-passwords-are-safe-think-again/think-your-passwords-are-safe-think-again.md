@@ -35,4 +35,6 @@ To encrypt communication from your browser, most web servers employ a technology
 
 In this blog we have covered possible places where an attacker looks to steal user credentials, and vulnerabilities of some practices we employ daily. As you can see, passwords are the most common way to secure access to accounts and websites. Hovewer, they are also the easiest to hack. You should always protect your passwords where they are stored.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

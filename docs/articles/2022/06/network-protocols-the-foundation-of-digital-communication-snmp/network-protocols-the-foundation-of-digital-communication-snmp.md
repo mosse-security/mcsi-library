@@ -38,4 +38,6 @@ Different variables are:
 
 **7. InformRequest:** It was added in SNMPv2c and is used to determine whether or not the trap message was received by the management. The agents can be set to deliver trap messages indefinitely until they get an Inform message. It is similar to a trap but includes an admission that the trap does not offer.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -318,4 +318,6 @@ Before building a filter, web designers must respond to the following queries:
 
 [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)    
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

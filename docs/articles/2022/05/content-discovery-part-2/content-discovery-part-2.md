@@ -72,4 +72,6 @@ Right click on a web page you want to discover and choose _view page source_ to 
 
 To review, we have covered several ways to manually discover hidden content such as favicons, `sitemap.xml`, HTTP headers and the stack framework. Now you know basically how to manually discover a web site.
 
-> **Want to learn practical Secure Software Development skills? Enrol in [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

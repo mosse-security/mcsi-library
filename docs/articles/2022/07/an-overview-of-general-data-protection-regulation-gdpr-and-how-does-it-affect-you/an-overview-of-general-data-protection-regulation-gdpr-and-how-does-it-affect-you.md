@@ -154,4 +154,6 @@ Data Processors play a critical role in securing personal data. The GDPR require
 
 The GDPR brings significant changes to the way organizations to handle personal data. It shifts the responsibility for securing data from the Data Controller to both the Data Controller and the Data Processor. The GDPR also provides greater rights to Data Subjects, such as the right to erasure, the right to data portability, and the right to be informed of breaches. It also requires companies to obtain user consent for collecting their data and inform them how their data is being used. The GDPR is important for every individual, as it gives you control over your personal data. It also provides stronger privacy protections, increased transparency and accountability, and higher penalties for non-compliance.
 
-> **Want to learn practical Governance, Risk and Compliance skills? Enrol in MCSI’s [MGRC Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)!**
+:::{seealso}
+Want to learn practical Governance, Risk and Compliance skills? Enrol in MCSI’s [MGRC Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

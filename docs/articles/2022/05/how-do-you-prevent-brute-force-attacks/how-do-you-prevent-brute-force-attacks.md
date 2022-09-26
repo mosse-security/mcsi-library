@@ -45,4 +45,6 @@ In its most basic form, brute force refers to attempting as many password combin
 
 Brute force attacks are very simple yet effective, and as security practitioners, we need to prevent unauthorized access to sensitive assets.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

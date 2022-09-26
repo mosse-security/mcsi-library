@@ -57,4 +57,6 @@ Finally, advanced statistical analytic approaches can be used in content analysi
 
 5. Have a data loss prevention policy that outlines how your organization can share and safeguard information.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

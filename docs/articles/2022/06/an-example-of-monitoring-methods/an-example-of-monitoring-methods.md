@@ -19,4 +19,6 @@ Behavior-based network monitoring is a sort of network monitoring that examines 
 Digitization is no longer a competitive advantage or a wise choice for today's organisations; it is a need. However, as more businesses undertake digital transformation, the number of cybersecurity assaults increases. IT teams may provide each employee, partner, or contractor the appropriate amount of access to business resources based on device, user profiles, network, or even geography. Centralized IT administration and access control policies enable the firm to avoid data loss, preserve privacy, and protect assets, while complete real-time monitoring and reporting aid in compliance efforts.
 
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

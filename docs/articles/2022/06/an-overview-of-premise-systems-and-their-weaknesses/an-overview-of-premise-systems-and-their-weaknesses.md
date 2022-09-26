@@ -20,4 +20,6 @@ A premise system has several weaknesses. The most apparent example is that if an
 
 Finally, system administrators must take proactive measures to safeguard their on-premises systems. They may more successfully safeguard their networks and prevent unwanted access if they understand the risks and vulnerabilities connected with premises systems.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

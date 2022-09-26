@@ -109,4 +109,6 @@ Project Zero (P0) tracks a list of zero-days discovered in the wild. The informa
 
 If you're interested in vulnerability research then we recommend you also read their [Root Cause Analysis](https://googleprojectzero.github.io/0days-in-the-wild/rca.html).
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

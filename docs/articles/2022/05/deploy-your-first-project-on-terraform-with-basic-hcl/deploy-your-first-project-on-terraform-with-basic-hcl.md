@@ -148,4 +148,6 @@ Run the `terraform apply` command to build the resource. The apply command displ
 
 Congratulations, you have now deployed your very first resource using Terraform!
 
-> **Want to learn practical cloud skills? Enroll in [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

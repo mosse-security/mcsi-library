@@ -39,4 +39,6 @@ Fokker, J., Mundo Alguacil, A. (2019). Different ways to cook a crab: Gandcrab R
 
 Europol, “Five affiliates to Sodinokibi/REvil unplugged”, 08-11-2021. Available [here](https://www.europol.europa.eu/media-press/newsroom/news/five-affiliates-to-sodinokibi/revil-unplugged).[Accessed 06-05-2021].
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

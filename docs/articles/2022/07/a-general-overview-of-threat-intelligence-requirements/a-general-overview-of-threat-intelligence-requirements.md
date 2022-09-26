@@ -30,4 +30,6 @@ The threat intelligence requirements serve as a guide for reproducible and ongoi
 
 It is critical that a cyber threat intelligence team fulfills threat intelligence requirements. With a successful implementation of this task, your cyber threat intelligence company can establish a capacity that evaluates risks and gives a unified view of the danger, how it functions in an ecosystem, and how it may be utilized as a part of upcoming threat actors campaigns.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

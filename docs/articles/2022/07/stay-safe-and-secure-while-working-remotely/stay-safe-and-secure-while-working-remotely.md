@@ -107,4 +107,6 @@ Identity and access management systems should be implemented by organizations in
 
 This article presents some of the many recommended strategies for securing the organization's remote workforce. Remote work can be a great enabler for businesses all around the world given that it is implemented correctly and that the organization employs necessary security controls in a layered approach to reduce the attack surface.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

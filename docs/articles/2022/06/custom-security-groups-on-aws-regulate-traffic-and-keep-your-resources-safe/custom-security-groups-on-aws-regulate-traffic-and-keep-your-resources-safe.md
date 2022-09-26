@@ -38,4 +38,6 @@ Consider selecting unique ports for your production services in your architectur
 
 In this blog, we have learned what a custom security group is, why it is important, and how we can benefit from it. We have also dealt with what are some security best methods that can be utilized while we create security groups. As the blog page shows, custom security groups help you protect your cloud-based resources by allowing you to regulate how traffic enters and exits your EC2 instances.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

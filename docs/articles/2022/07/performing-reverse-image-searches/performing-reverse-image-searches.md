@@ -71,4 +71,6 @@ You can filter down your options tailored to your research needs. In the below i
 
 In this blog post, we performed a simple reverse image search utilizing Yandex, TinEye and Google image search. While performing a reverse image search, you should use multiple search engines since each may provide different results based on the algorithm they use.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

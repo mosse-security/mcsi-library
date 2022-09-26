@@ -59,4 +59,6 @@ And then headers follow if there is any additional data client wants to add.
 
 Upon completion of this blog page, now you have learned what a standard HTTP request traffic looks like and how to dissect an HTTP request during traffic analysis via Wireshark.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

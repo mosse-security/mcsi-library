@@ -56,4 +56,6 @@ Remove any potentially susceptible software from your servers.
 
 Regardless of the state, you must guarantee that your data is always safe. In this blog post we have leared how to achieve this as SaaS, Paas and IaaS customers.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

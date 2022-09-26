@@ -58,4 +58,6 @@ Additionally, any parameters that are being passed in the URL should be checked 
 
 Another common way to prevent SSRF is to use a whitelist of approved URLs. This can be done by maintaining a list of known good URLs and only allowing requests to those URLs. Any requests to other URLs would be automatically rejected.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

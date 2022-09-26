@@ -143,4 +143,6 @@ Yes, all of them are Windows services operating in the background. There is no s
 [Filesystem Redirector](https://docs.microsoft.com/en-us/windows/win32/winprog64/file-system-redirector)
 [Registry Redirector](https://docs.microsoft.com/en-us/windows/win32/winprog64/registry-redirector)
 
-> **Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

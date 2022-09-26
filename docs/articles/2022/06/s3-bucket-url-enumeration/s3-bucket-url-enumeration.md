@@ -77,4 +77,6 @@ We have already learned what an S3 bucket looks like in the earlier sections of 
 
 In this blog, we covered the very basics of the S3 bucket briefly and obtained the URL of an S3 by utilizing flaws.cloud, s3scanner and nslookup.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

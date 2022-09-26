@@ -43,4 +43,6 @@ You don't have to worry about deploying and managing instances, patching the run
 
 This shared responsibility approach can help ease your administrative strain because AWS maintains, administers, and controls the elements such as the operating system and vms as well as physical safety of the buildings where the resources run.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

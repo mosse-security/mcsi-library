@@ -31,4 +31,6 @@ What exactly is a false negative alert? When a system incorrectly identifies a n
 
 There are four types of alerts: true positive, false positive, true negative, and false negative. A true positive alert is one that is generated correctly and results in the desired outcome. A false positive alert occurs when an alert is generated incorrectly and does not result in the desired outcome. A true negative alert is one that is correctly generated but does not produce the desired result. A false negative alert occurs when an alert is generated incorrectly and results in the desired outcome.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

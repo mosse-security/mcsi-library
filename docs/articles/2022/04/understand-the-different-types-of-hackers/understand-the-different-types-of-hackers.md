@@ -37,4 +37,6 @@ Hacking can be difficult to detect and prevent due to its technological nature. 
 
 We hope you found this post interesting and that you learned something new as a result of it.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -28,4 +28,6 @@ Go ahead and fire all of these tools against a lab environment if you want to qu
 
 Human analysis, rather than automated tests, will help organizations with a higher level of cybersecurity maturity. The human Red Team's worth lies in their capacity to think outside the box and offer engagements that are more realistic. A Red Team's final analysis will also provide more complex insights that can be used to inform an organization's overall cybersecurity strategy.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

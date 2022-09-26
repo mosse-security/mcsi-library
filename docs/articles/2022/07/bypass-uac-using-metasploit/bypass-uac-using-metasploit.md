@@ -72,4 +72,6 @@ From the above screenshot, Metasploit opened a meterpreter `session 4`. Along wi
 
 This article talks about the ways to bypass user account control (UAC) using Metasploit. Metasploit has various modules to bypass the UAC. Understanding how to bypass UAC is essential for the penetration tester/red team because without bypassing UAC one cannot make changes system-wide. 
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

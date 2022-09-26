@@ -36,4 +36,6 @@ Unknown threats cannot be found using traditional signature-based detection, fir
 
 To find every potential threat, many firms purchase a number of security tools. These solutions frequently lack connectivity, have a narrow field of use, and are unable to detect sophisticated attacks that traverse security silos. Implementing different layers of the IT system to identify sophisticated or evasive threats, is the solution.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -64,4 +64,6 @@ Upon completion of this blog page, now you are familiar with Wireshark GUI and h
 
 Wireshark has powerful filters which we will use in future blog posts for network traffic analysis. Research how to narrow down traffic results in the packet list pane only to HTTP requests.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -134,4 +134,6 @@ An activity group consists of events and activity threads that have similar feat
 
 For more information, please read [The Diamond Model of Intrusion Analysis Research Paper](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -180,4 +180,6 @@ The usage of the Content Security Policy to prevent the framing of a website pag
 
 A content security policy is not a replacement for secure web application development techniques. It can, however, serve as another line of defense against client-side attacks that occur in a web application. The resilience of a web application against the most frequent and severe attacks, such as XSS attacks, is ensured by the implementation of different types of security controls working in tandem in a defense-in-depth strategy.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

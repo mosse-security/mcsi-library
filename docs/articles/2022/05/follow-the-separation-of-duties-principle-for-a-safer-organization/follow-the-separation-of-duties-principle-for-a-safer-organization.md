@@ -35,4 +35,6 @@ Additional instances of the separation of duties approach include:
 
 As the blog post demonstrated, the separation of duties principle has a variety of advantages for an organization. Separation of duties restricts information access to authorized users who are acting within the boundaries of their lawful authority. It also controls the possibility of both incorrect and improper acts, which is essential for internal security mechanisms.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

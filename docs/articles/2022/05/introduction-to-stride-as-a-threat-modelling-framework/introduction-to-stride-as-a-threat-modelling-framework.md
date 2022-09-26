@@ -80,4 +80,6 @@ In this article, we explain how you can utilize the STRIDE framework for assessi
 
 The first step in creating defenses is to identify risks. A secure design is essential for every software program or system. Although STRIDE was used primarily for classifying application risks, its six main threats are quite broadly applicable to diverse domains in threat modeling.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

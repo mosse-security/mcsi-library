@@ -88,4 +88,6 @@ As soon as the service will launch, the attacker will get a reverse connection i
 
 Escalation of privilege to the NT authority system is successful. This method will automatically restart the `Common.exe`, which will once more provide a reverse connection, even if the user restarts the system. To mitigate this attack always make sure to enclose the path for any services that have a space in quotes. 
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

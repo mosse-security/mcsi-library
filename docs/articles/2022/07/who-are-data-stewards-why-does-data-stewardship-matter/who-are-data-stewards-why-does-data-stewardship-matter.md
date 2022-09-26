@@ -43,4 +43,6 @@ Programs for data stewardship benefit companies in a variety of ways. A data ste
 
 Appointing Data Stewards is something that organizations trying to enhance data quality must think about. Organizations must adopt a culture that regards data as a competitive advantage rather than a necessary evil if they are to succeed with data stewardship, and they must also establish precise objectives for raising the importance of data has
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

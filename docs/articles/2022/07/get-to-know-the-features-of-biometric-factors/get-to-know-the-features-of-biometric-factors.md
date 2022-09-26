@@ -58,4 +58,6 @@ Circumvention refers to how simple it is to fool a system by utilizing a forged 
 
 - Which biometric factor is manipulated by an attacker who replicates a fingerprint?
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

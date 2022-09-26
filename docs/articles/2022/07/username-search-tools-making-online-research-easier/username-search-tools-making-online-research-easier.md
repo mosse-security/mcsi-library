@@ -59,4 +59,6 @@ Twitter, Facebook, Pinterest, YouTube, Instagram, Tumblr, WordPress, Blogger, an
 
 Using the above services, you may search usernames across many websites, and in particle ones, you may receive links to profiles that you are researching. Because users may use duplicate usernames for the same rationale they recycle their passwords, you may discover websites or services linked to the username you discovered during an OSINT study.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

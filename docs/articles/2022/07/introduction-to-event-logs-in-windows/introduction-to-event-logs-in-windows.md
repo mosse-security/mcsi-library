@@ -76,4 +76,6 @@ If you searched the event log for registry-related events, you would find none! 
 
 You can access local policies by typing local on the search bar local security policy and find registry events on Local Policies/Audit Policy.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

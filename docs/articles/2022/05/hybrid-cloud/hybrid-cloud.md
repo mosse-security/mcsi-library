@@ -42,4 +42,6 @@ The hybrid cloud has a number of problems, including:
 Finally, it's crucial to remember that your problems will persist regardless of the cloud environment you work in. Even if you're buying services from third-parties, you still need to conduct your homework to minimize risk.
 This is referred to as a shared cloud responsibility paradigm. Despite the fact that vendors manage the IT infrastructure and have control over factors like flexibility and agility, your company is still responsible for issues as what information on cloud security and encryption is available to whom and planning for disaster recovery.
 
-> **Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

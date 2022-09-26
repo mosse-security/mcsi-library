@@ -126,4 +126,6 @@ Every organization's procedures in the past were solely concerned with offering 
 
 The myriad advantages that an organization might experience via the adoption of an information security management system are barely touched upon in this article. By putting the ISMS into place, the company may respond to security threats in a proactive manner and adopt security measures while staying well within its security budget. By quickly recovering from these disasters, it will make sure that the losses brought on by security incidents are kept to a minimum and that the business continuity is maintained.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

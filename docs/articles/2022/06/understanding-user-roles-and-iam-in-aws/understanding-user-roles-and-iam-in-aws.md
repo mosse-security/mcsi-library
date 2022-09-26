@@ -32,4 +32,6 @@ A variety of use cases are enabled by roles and temporary security tokens:
 
 This blog article discussed the several principals that can engage with Amazon web services: Roles/Temporary Security Tokens, Root, and IAM Users.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

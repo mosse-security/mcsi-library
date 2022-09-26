@@ -173,4 +173,6 @@ Also we discussed 5 important practices to protect your AWS root account:
 
 As an effective root user, now you can protect your account and know where to start!
 
-> **Want to learn practical Cloud Security skills? Enroll in [MCSE - Certified Cloud Security Engineer](https://www.mosse-institute.com/certifications/mcse-certified-cloud-security-engineer.html).**
+:::{seealso}
+Want to learn practical Cloud Security skills? Enroll in [MCSE - Certified Cloud Security Engineer](https://www.mosse-institute.com/certifications/mcse-certified-cloud-security-engineer.html)
+:::

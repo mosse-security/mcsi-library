@@ -52,4 +52,6 @@ When you try to match the features of a facility in photography or video to a sa
 
 In this blog post, we took a look at how we can use google earth's historical imagery feature. Utilizing prior versions of a target area on a timeline enables us to observe how these regions have evolved over time, which provides valuable information for our OSINT studies.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

@@ -40,4 +40,6 @@ It is important to note that a hypothesis should not be too specific. For exampl
 
 Generating a hypothesis before beginning a threat hunt can help with identifying malware by creating a scope for the hunt. This will help to focus the hunt and make it more efficient. It is important to find the balance between too specific and not specific enough when creating a hypothesis.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

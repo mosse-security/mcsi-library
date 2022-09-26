@@ -48,4 +48,6 @@ If a storage item reaches the end of its life, AWS policies provide a dismantlin
 
 In this blog post, we have learned how AWS is in charge of the physical and environmental security of its facilities.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

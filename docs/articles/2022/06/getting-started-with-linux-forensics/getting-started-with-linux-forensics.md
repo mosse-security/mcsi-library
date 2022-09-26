@@ -41,4 +41,6 @@ Now that you have an idea about the basic differences between Windows forensics 
 
 Here is a tip to get started with Linux forensics: start using Linux on a daily basis. You can install Linux on a virtual machine and use it to perform simple tasks – even browsing the web. You will get used to how the interface works and eventually you can learn how to perform advanced digital forensics operations.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

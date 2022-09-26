@@ -51,4 +51,6 @@ All LinkedIn sites urge you to log in if you do not have an existing account. Th
 
 In the [next blog page](circumventing-linkedin-login-prompt-for-anonymous-osint), we will take a look at how we can research a person on Linkedin without an active account.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

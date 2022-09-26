@@ -36,4 +36,6 @@ Experts evaluate the effectiveness of their inputs and outputs at each stage of 
 
 Like in any intelligence activity, we should adhere to a logical procedure built over time by individuals in the organization. As we have learned from the blog page, the intelligence cycle provides us with the intelligence capability we need in our decision-making processes and actions in security operations.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

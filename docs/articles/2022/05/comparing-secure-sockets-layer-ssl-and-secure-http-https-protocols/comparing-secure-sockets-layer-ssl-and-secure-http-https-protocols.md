@@ -54,4 +54,6 @@ HTTP-S, like SSL, offers secrecy, integrity, and authentication. Although they s
 
 In this blog, we took a brief look at SSL and S-HTTP and made a comparison between the two from a security perspective. S-HTTP has not gained the same level of acceptability and implementation support as HTTPS. RFC 2660 specifically notes that it specifies an "experimental protocol," and there has been no successor produced.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

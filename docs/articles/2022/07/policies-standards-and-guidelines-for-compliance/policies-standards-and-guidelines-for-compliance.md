@@ -38,4 +38,6 @@ Many businesses provide overall information security guides, rules, handbooks, p
 
 Policy needs management approval, whereas standards, guidelines, and procedures can be changed as needed to accommodate changing situations. By providing different methods to the implementation process, standards, guidelines, and procedures encourage flexibility and cost-effectiveness.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

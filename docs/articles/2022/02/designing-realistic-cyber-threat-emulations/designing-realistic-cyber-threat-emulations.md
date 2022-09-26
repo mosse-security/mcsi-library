@@ -67,4 +67,6 @@ Red teamers must also use creativity and innovation when designing their threat 
 
 So far, we have looked at how to design threat emulations that are realistic in terms of their representative attack scenarios, the adversary motivations and behaviour, and the impact on the organisation. However, we have not yet looked at how to make these emulations realistic in terms of their technical execution. This will be the topic of a future article!
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

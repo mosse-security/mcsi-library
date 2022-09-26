@@ -63,4 +63,6 @@ This command line utility is used to shutdown or reboot a remote or local machin
 
 Pstools suite has total of 13 command line utilities which can be used by the attackers for malicious purposes. Attackers can use Pstools for enumerating user accounts and managing remote systems from the command line. 
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

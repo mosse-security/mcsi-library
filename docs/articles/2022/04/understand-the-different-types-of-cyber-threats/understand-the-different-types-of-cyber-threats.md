@@ -35,4 +35,6 @@ A confidence trick, often known as a con game, is a type of fraud that preys on 
 
 In order to best guard against possible threats, a company's cyber-attack plan should be comprehensive and robust. Firstly, all staff should be taught in cybersecurity best practices so that they can identify possible risks. Secondly, the organization's systems should be periodically updated and patched to close any gaps that attackers may exploit. Finally, effective monitoring and detection mechanisms should be in place so that any suspicious activity may be discovered and addressed as soon as possible. By using these steps, a business may make it considerably more difficult for attackers to succeed while also better defending against the ever-changing threat landscape.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

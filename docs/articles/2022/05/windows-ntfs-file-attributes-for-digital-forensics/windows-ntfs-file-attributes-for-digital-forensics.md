@@ -61,4 +61,6 @@ Here is an example. The following screenshot is a snippet of the output of _mftp
 
 In the real world, if it is suspected that a malware sample has been executed on a machine, check if it is possible to get a memory dump from that machine. Use _mftparser_ plugin against that memory dump and see if you can find when the sample was copied into the machine. You can even find evidence about creation of _[prefetch files](windows-prefetch-files-may-be-the-answer-to-your-investigation)_, which indicates that a binary had been executed on a computer recently.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

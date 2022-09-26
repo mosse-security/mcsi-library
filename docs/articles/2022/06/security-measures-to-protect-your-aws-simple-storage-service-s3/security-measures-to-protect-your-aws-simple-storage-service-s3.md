@@ -52,4 +52,6 @@ This enables you to picture the access blueprint of your hosted S3 object data. 
 
 As we have covered, we have a wide array of tools to secure our AWS S3 bucket and and objects. Take advantage of ACL, IAM rules, bucket policies, public availability options, query string verification and S3 analytics to improve protection of your S3 buckets.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

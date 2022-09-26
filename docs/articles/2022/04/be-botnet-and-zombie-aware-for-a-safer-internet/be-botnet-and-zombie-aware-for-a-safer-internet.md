@@ -29,4 +29,6 @@ To summarize, botnets and zombies pose a significant threat to internet security
 
 We hope you found this post interesting and that you learned something new as a result of it.Thank you for taking the time to read the post.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

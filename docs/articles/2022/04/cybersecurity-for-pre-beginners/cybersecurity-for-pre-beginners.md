@@ -41,4 +41,6 @@ It includes the prevention of malware, phishing attacks, and other cyber risks. 
 
 The importance of cyber security cannot be overstated. In today’s world, nearly everything is connected to the internet in some way. This gives cyber criminals a vast array of potential targets. Furthermore, the damage that can be done by a successful cyber attack is often much greater than the physical damage caused by traditional crimes.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

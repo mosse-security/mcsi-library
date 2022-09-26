@@ -45,4 +45,6 @@ Several keylogger prevention measures can be taken to protect oneself from this 
 
 There are a few final takeaways to keep in mind when it comes to keyloggers. First and foremost, they can be used both for good and bad depending on the person using them. Second, they can be extremely hard to detect, so it’s important to be aware of the signs that may indicate their presence on your device.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

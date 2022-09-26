@@ -99,4 +99,6 @@ Protection from malicious messages could use anti-phishing and anti-spam softwar
 on PCs. Anti-malware software should be included to protect against other types of threats. Anti?malware software, like anti-spam software, is programmed by security researchers to detect even the
 most evasive malware.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

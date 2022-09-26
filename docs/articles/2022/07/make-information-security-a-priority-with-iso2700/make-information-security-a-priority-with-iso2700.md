@@ -61,4 +61,6 @@ You should have an Information Security Management System (ISMS) to guarantee th
 Businesses that are new to information security management must primarily overcome its enormous reach. Most managers are unsure of where to start when it comes to implementing and maintaining an ISMS because it covers such a wide range of topics. 
 Implementing the measures recommended in ISO/IEC 27002 is an excellent place to start if this describes you or if you just want to keep on top of your information security.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

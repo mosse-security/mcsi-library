@@ -78,4 +78,6 @@ _Time estimated: 5 minutes_
 
 Congratulations! Upon completion of this blog post, you have gained a general understanding of the powerful automated security tool Nuclei.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

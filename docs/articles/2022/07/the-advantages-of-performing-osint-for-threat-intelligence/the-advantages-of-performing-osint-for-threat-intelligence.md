@@ -30,4 +30,6 @@ The following points illustrate the primary benefits of the OSINT :
 
 Many institutions, such as security agencies, law enforcement agencies, and organizational security executives, are increasingly depending on open sources to construct intelligence plans. After reading this blog, you should understand the critical role that OSINT performs in many intelligence fields, particularly in increasing the data gathering capacities of security services and law enforcement organizations.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html).**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

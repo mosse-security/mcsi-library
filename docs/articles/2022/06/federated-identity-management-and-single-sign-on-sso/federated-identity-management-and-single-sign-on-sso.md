@@ -135,4 +135,6 @@ Federated Identity Management offers a lot of advantages for organizations, howe
 
 * Organizations must guard against unnecessary privileges being granted to a user to prevent authorization creep. If the user's privileges are not properly provisioned then it can lead to severe security consequences for the company such as loss/theft of sensitive data. Thus organizations must ensure that a federated identity must be allowed only the level of access required for the user's job responsibilities, and any temporary access necessary for short-term projects should be revoked as soon as it is no longer required.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

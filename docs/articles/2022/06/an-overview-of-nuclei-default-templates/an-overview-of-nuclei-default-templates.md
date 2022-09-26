@@ -76,4 +76,6 @@ You may also have to specify the HTTP traffic you generate; you may do so by usi
 
 Upon completion of this blog page, now you have learned how to access Nuclei templates, what these `YAML` files look like, and how to read a template. Now you are ready to create your own templates.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

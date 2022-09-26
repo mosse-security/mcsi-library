@@ -74,4 +74,6 @@ Security information and event management (SIEM) technology aid in threat detect
 
 Despite being incredibly effective at detecting and mitigating cyber attacks, AI-based security tools can have certain drawbacks. The deployment of these AI-based tools in an organization demand significant financial resources as well as efforts to streamline these technologies to meet the requirements of the company. In the absence of vast volumes of data and events, AI powered systems may provide erroneous conclusions and/or false positives. Therefore, it is crucial to be aware of these drawbacks so that these tools can be effectively utilized to give the best possible results. In spite of this, AI-based security products are very helpful for preventing cyberattacks and enhancing the organization's overall detection and response process.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

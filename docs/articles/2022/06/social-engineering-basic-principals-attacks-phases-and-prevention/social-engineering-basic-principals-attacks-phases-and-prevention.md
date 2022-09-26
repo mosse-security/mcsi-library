@@ -144,4 +144,6 @@ Leverage threat intelligence from reputable sources to assist you in profiling t
 
 Employ Zero trust architecture to limit user access privileges, protect the organization's resources from unauthorized access and prevent lateral movement of the attacker within your network.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

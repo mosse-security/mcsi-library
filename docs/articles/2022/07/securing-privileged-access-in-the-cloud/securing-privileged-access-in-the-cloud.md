@@ -29,4 +29,6 @@ Reduce the capacity of humans to develop and select passwords. This supervision 
 
 **Audit and analyze** Continuously monitoring privileged account activity through audits and analytical reports aids in the detection of unexpected behaviors that may signal a breach or misuse. These automated reports trace the source of security events and indicate policy and regulatory compliance.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

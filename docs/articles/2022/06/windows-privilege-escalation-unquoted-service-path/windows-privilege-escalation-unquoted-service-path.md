@@ -51,4 +51,6 @@ You can also verify if the privilege escalation is successful by switching to ro
 
 The best countermeasure against privilege escalation is to ensure that users have the lowest possible privileges. And if you are using cron to automate tasks, always check that none of the scripts you run through crontab can be edited by unprivileged users, so that attackers won't take advantage of your cron jobs.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

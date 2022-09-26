@@ -79,4 +79,6 @@ If you are learning AWS, Cloudformation is the easiest IaC tool for deploying re
 
 Choose your IDE and declare your resources either in JSON or YAML format, and CloudFormation will take care of deployment and dependencies.
 
-> **Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

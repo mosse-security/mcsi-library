@@ -222,4 +222,6 @@ Other Event IDs specific to network shares are Event IDs
 
 [https://github.com/ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting)
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

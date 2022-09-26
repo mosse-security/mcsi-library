@@ -144,4 +144,6 @@ Let's examine a few common weaknesses.
 The web application must restrict the answer attempts and ultimately prohibit requests originating from a malicious user in order to prevent dictionary or brute force attacks. By keeping track of a user's unsuccessful efforts and restricting the IP address after numerous consecutive failures, this feature can be quickly deployed.
 Of course, an attacker can always alter an IP address via proxies or the **`TOR`** network.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

@@ -99,4 +99,6 @@ To create interactive dashboards for specific data sources, another option is to
 - To see the template, select the row for the template source you want to see, ensure you have the correct data types, and then click View workbook.
 - Go to the My Workbooks page to see all the workbooks that you've saved or created.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

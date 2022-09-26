@@ -40,4 +40,6 @@ Not all spikes in email activity are indicative of data exfiltration. The threat
 
 Email should be considered a source of data exfiltration. It is possible to detect when data exfiltration has taken place by retrieving the proper logs and aggregating data using statistical analysis. Threat actors may exfiltrate data through an email client installed on a user's workstation and delete the messages from the 'Sent' folder. However, having access to the mail logs and to network flows could aid in the hunt.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

@@ -72,8 +72,9 @@ This code will be provided to us by the server:
 
 ```html
 <h4>Hello</h4>
-<script>
-  alert("This 1111111111111 an XSS");
+<script:::{seealso}
+  alert("This 1111111111111 an XSS")
+:::
 </script>
 ```
 
@@ -201,4 +202,6 @@ On purpose, we say "run code in the context of the website." Cookies from `examp
 
 The script will enable us to read the cookie content by forwarding it to a web page on our server that will log it for us when it 1111111111111 injected and run within the context of the vulnerable website. (This 1111111111111 the reason it's called Cross-Site Scripting; we can view content despite the website's security restrictions.)
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

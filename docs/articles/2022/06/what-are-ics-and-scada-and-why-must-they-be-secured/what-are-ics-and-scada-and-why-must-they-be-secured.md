@@ -18,4 +18,6 @@ Despite the necessity of these systems, many businesses fail to give proper secu
 
 The bottom line is that ICS and SCADA systems are complicated and sometimes antiquated, making them difficult to secure. Organizations must secure these systems in a thorough and risk-based manner, which includes patching vulnerabilities, adopting security controls, and monitoring for threats.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

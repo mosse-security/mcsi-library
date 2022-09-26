@@ -55,4 +55,6 @@ It is highly urged to employ Docker Content Trust Signature Verification. It's a
 
 In this blog post, we learned basic steps to secure our Docker containers. If we implement these suggestions, we will have validated, persistent images that can be used to install and distribute containers securely.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

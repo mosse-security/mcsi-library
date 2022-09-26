@@ -74,4 +74,6 @@ The goal of DevOps is to provide a unified system for the development and operat
 You can benefit from DevOps by producing new versions of your software, testing them, and deploying them to clients in a matter of hours. DevOps focuses on delivering better goods to consumers in an agile environment.
 A successful DevOps plan achieves a product in a faster and more effective way.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html).**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

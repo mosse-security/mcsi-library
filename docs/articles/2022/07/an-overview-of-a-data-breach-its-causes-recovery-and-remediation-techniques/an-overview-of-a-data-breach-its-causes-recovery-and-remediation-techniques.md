@@ -118,4 +118,6 @@ In order for the organization to protect itself from becoming a victim of a rans
 
 Finally, the company needs to give careful consideration to allocating its resources in order to build a solid security management program. As a result, the business will be able to assess the various risks to its valuable assets and implement cost-effective security controls to reduce those risks..
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

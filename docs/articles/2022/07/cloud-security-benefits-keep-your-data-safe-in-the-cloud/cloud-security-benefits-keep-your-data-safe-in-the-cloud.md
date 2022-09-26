@@ -66,4 +66,6 @@ The following is a list of the most common causes of cloud security incidents an
 
 • **Shadow IT** - the practice of employees getting their own IT solutions and cloud services without the authority of IT.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

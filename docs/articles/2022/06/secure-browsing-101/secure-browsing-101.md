@@ -36,4 +36,6 @@ We've already discussed customized wordlists like `SecLists`, `wordlistctl`, and
 
 It takes a few wise steps to secure yourself when using web browsers, but it's critical to identify how to combine ease with protection. Saving all of your passwords in your browser may seem easy since you don't have to write them in, but it also indicates that anyone with access to that machine may obtain your passwords and credentials. You must establish the right combination between safety and convenience, both in the physical and virtual worlds.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

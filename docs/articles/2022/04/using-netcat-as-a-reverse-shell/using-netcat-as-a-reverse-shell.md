@@ -200,4 +200,6 @@ In real cases, an attacker can get a shell using deception or social engineering
 
 Regrettably, there is no way to completely prevent reverse shells. Any reverse shell connections are likely to be malicious unless you employ reverse shells for remote administration on purpose. Control all outgoing connections from the server using the built-in firewall; only allow access to the necessary IP addresses and ports; the rest must be blocked - this is the most basic, tried-and-true solution. This might be achieved by sandboxing or running the server in a minimal container.
 
-> **Do you want to acquire practical penetration testing skills? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html).**
+:::{seealso}
+Do you want to acquire practical penetration testing skills? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

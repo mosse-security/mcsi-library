@@ -23,4 +23,6 @@ Administrative controls usually include developing policies and procedures, crea
 
 For example, a company might develop a policy that requires all employees to use strong passwords. To create user awareness, the company might provide regular training on password security. To ensure that employees follow the policy, the company might require all employees to change their passwords every 90 days.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

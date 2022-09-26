@@ -37,4 +37,6 @@ AWS's IT infrastructure is developed and maintained in accordance with security 
 
 AWS delivers a great deal of information about its IT management system to assist enterprises in meeting regulatory obligations through audits, licenses, qualifications, and other third-party confirmation.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

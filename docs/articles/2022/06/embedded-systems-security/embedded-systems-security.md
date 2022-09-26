@@ -31,4 +31,6 @@ Here are some pointers to assist you to protect your embedded system:
 
 There is no one-size-fits-all solution to the problem of embedded system security. The optimum strategy is determined by the unique system and its surroundings. However, there are certain fundamental rules that may be followed to assist assure embedded system security. These include building systems with security in mind from the beginning, keeping systems up to current with the latest security patches, and protecting data with strong encryption and authentication.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

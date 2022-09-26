@@ -39,4 +39,6 @@ Even though you may configure your interfaces to be in promiscuous mode, the hyp
 
 In this blog article, we discussed some of AWS's network surveillance and protection services. These measures help you defend your systems from a variety of attacks, including Person-in-the-Middle (PITM), IP spoofing, unauthorized port scanning, and packet sniffing.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

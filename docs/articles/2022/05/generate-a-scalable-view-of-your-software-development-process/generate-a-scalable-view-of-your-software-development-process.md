@@ -67,4 +67,6 @@ SDLC demonstrates what is going on and where your development process can be imp
 
 SDLC, like many business processes, seeks to analyze and improve the software development process. It generates a scalable view of the project, from day-to-day coding to production date management.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

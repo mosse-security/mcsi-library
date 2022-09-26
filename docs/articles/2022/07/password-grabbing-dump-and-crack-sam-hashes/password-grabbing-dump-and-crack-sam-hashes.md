@@ -45,4 +45,6 @@ And from the screenshot, john the ripper reveals the password by cracking the gi
 
 Various tools like pwdump, Metasploit-framework, hash-dump, koadic, etc can be used to dump the sam file and crack the hash. The post-exploitation process, which is typically carried out with highly privileged accounts, is covered in this article. This step is easily avoided at a lower level.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

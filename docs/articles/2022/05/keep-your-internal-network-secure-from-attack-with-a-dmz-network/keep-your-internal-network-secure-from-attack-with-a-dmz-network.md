@@ -106,4 +106,6 @@ Security is a critical concern when designing and configuring a DMZ. In order to
 
 A DMZ can be a very effective security measure for an organization, but it is important to remember that it is not a panacea. It is important to have a well-thought-out security plan that takes into account the needs of the organization and the specific threats it faces. The DMZ should be just one part of that plan.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

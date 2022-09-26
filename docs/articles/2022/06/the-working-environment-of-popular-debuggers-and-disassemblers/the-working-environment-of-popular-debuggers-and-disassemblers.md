@@ -224,4 +224,6 @@ Everything is described in more detail in the [documentation](https://help.x64db
 
 [x64dbg](https://help.x64dbg.com/en/latest/)
 
-> **Want to learn practical Malware Analysis? Enrol in [MCSI's MRE - Certified Reverse Engineer Certification Programme](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Want to learn practical Malware Analysis? Enrol in [MCSI's MRE - Certified Reverse Engineer Certification Programme](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

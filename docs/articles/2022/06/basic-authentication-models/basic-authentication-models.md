@@ -36,4 +36,6 @@ Federated Identity Management, or FIdM, is a system that allows for the manageme
 
 There are several authentication models that may be used to secure access to information and systems. The optimum approach for a certain company will be determined by its security requirements. However, all authentication mechanisms have advantages and disadvantages that must be evaluated prior to adoption.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

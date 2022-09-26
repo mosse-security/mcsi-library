@@ -211,4 +211,6 @@ Let's look at how to count the number of fields or columns that a query selects.
 mysql_query("SELECT id, real_name FROM users WHERE id=".$GET['id'].";");
 ```
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

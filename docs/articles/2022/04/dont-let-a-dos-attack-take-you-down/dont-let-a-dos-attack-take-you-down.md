@@ -104,4 +104,6 @@ DoS attacks can be used as a cover for other crimes such as data theft or espion
 
 A Denial of Service attack is a sort of cyber attack in which the attacker tries to prevent users from accessing a computer or network resource. This can be accomplished by delivering the victim a storm of requests or malicious data that causes it to crash. Botnets, which are networks of compromised computers that can be controlled by the attacker, are commonly used in DoS assaults. DoS attacks may be very costly to enterprises, costing them a lot of money in lost productivity and reputational harm.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

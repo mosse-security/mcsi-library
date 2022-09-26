@@ -46,4 +46,6 @@ To review, TLS provides mutual server and client authentication and it is a bett
 
 Despite its flaws, SSL is still used in many circumstances. But as we have covered, instead of SSL which has known security vulnerabilities, we should prefer TLS. Now we know, which protocol provides more security in our next e-commerce transaction.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

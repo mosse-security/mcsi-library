@@ -49,4 +49,6 @@ It is necessary to consider avoiding race conditions for not only what your code
 
 Race conditions can be a difficult problem to solve, but thankfully there are a few strategies that can help. Firstly, it is important to identify when a race condition might occur. Once you have identified potential race conditions, you can then take steps to avoid them. Finally, if you do encounter a race condition, there are a few strategies that can help you to solve the problem. With these strategies in mind, you should be able to avoid or solve race conditions with ease.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

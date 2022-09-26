@@ -91,4 +91,6 @@ To retrieve information on data hidden and which algorithm is used to encrypt th
 
 Steganography is a technique that conceals one message within another. It is mostly used by attackers to conceal information once they have hacked the system. This article demonstrated how to use the steghide tool to conceal data. Steghide is one of the finest steganography tools, which has various applications, such as file encryption, compression, and many more.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

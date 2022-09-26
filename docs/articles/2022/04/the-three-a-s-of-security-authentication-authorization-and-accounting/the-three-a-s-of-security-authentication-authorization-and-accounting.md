@@ -35,4 +35,6 @@ The act of presenting proof that someone has performed an action is known as non
 
 The three A's of security - Authentication, Authorization, and Accounting - are the most effective ways to keep our computer systems and data safe. We can ensure that our systems are protected from unwanted access and misuse if we employ all three of these security procedures.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

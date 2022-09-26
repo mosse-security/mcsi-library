@@ -26,4 +26,6 @@ Written rules should be in place for organizations to ensure that their personne
 
 It is clear from the preceding explanation that there are several advantages to performing an audit of the information security system. However, it is equally crucial to highlight that the auditing process is not without its difficulties. One of the most significant issues is the industry's lack of standards. This implies that various organizations perform their audits in different ways. As a result, comparing the outcomes of several audits might be challenging. Nonetheless, the advantages of auditing information security systems far exceed the difficulties. As a result, it is recommended that all firms perform frequent audits of their information security systems.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

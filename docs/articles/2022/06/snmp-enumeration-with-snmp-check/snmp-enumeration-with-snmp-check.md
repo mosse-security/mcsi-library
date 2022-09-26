@@ -50,4 +50,6 @@ Similarly, scrolling down reveals furthermore sensitive information on storage i
 
 This article talks about what SNMP enumeration is and how security professionals can use the snmp-check tool to enumerate sensitive information that may be useful in penetration engagements.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

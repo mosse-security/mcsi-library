@@ -32,4 +32,6 @@ In many circumstances, inadequate security patches enable a risk of an attack. A
 
 You don't want to risk network breakdowns owing to emerging new compatibility issues, but you also don't want existing technology to be targeted due to your patching restrictions. As we have covered in this blog post, patch management is a critical step in securing a company’s assets.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -64,4 +64,6 @@ CloudTrail can also inspect the utilization of keys by AWS Cloud services in the
 
 To review, we have learned that the AWS Key Management Service is a critical secure platform to protect your cryptographic keys. It has many strong features as above. It also incorporates with AWS CloudTrail. This makes it easy to see who used the keys as well as when.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

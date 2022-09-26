@@ -47,4 +47,6 @@ Hovewer there are some points you should also take into consideration if you wan
 
 Honeypot, honeynet, and padded cell techniques may be useful for businesses seeking to identify and pursue attackers more aggressively.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

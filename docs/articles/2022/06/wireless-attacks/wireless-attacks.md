@@ -29,4 +29,6 @@ A brute force attack is a sort of password assault in which a hacker attempts va
 
 In conclusion, wireless assaults are clearly a genuine and present threat. With the widespread use of wireless devices and networks, it is more vital than ever to be aware of the hazards and take precautions to protect oneself. You may lower your chance of being a victim of a wireless attack by following a few easy actions, and by doing so, you can assist to keep yourself and your data secure.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

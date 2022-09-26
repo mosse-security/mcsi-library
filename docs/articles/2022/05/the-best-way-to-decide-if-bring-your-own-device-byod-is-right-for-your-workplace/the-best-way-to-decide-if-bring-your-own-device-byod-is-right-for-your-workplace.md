@@ -37,4 +37,6 @@ Most people, if not all, have a personal device that they use for work. You may 
 
 As you can see, there are numerous benefits and drawbacks to implementing a BYOD policy in your workplace. It is critical to carefully consider these factors before making a decision, as there is no one-size-fits-all solution. It is ultimately up to you to determine what is best for your company, but hopefully this article has given you some food for thought.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

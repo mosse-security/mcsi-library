@@ -91,4 +91,6 @@ The term "data backup" refers to a group of security measures that enable an org
 
 Data integrity is a critical component of an organization's overall data security. Given that numerous businesses throughout the world are gathering enormous volumes of data, it is crucial to maintain the accuracy and dependability of the data through various controls that have been covered in this article. This will not only guarantee that the data is safe from unauthorized change or corruption, but it will also guarantee that the organization is compliant with relevant security laws and regulations.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

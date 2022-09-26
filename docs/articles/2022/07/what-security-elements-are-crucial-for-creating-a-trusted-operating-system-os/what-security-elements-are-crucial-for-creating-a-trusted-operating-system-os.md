@@ -29,4 +29,6 @@ An operating system that offers enough support for multilayer security and proof
 8.	Audit Log Reduction: Because audit logs can be very large, the trustworthy OS should be able to move them or decrease their size as needed.
 9.	Intrusion Detection: A trusted operating system must be capable of spotting some assaults.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).** 
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+::: 

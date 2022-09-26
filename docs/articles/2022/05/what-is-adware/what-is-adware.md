@@ -29,4 +29,6 @@ No matter how effectively you manage your online behavior, you may unintentional
 
 As we have covered, adware is simply a software that comes bundled with freeware or shareware applications. It usually displays ads or offers other unwanted features. These ads can be annoying and distracting, especially if they appear at unexpected times. Adware can also slow down your computer, cause security problems, and even steal personal information. As you can see, it has a poor image that is connected with the spyware.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

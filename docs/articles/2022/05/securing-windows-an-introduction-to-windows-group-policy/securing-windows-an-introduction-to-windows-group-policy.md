@@ -90,4 +90,6 @@ Click _Ok_.
 
 ![windows-group-policy](images/image21.png)
 
-> **Are you interested in Windows Security? Check out our course [MNSE - Network Security Essentials](https://www.mosse-institute.com/certifications/mnse-network-security-essentials.html)!**
+:::{seealso}
+Are you interested in Windows Security? Check out our course [MNSE - Network Security Essentials](https://www.mosse-institute.com/certifications/mnse-network-security-essentials.html)
+:::

@@ -123,4 +123,6 @@ Like bash shell, there are other shells available – as listed in the following
 
 Now that you know about how to view and process shell history, and also its importance in DFIR; go ahead and try this out on your computer or virtual machine. Type some commands into the terminal, view the history of the commands typed. Login as the root user and modify the attributes of critical files and see how it affects a user’s access to those files.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

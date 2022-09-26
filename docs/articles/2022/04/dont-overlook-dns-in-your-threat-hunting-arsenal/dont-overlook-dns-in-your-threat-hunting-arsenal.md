@@ -55,4 +55,6 @@ Servers, for the most part, should not be able to initiate traffic outbound to t
 
 By understanding how DNS works, it can quickly narrow down which hosts may be compromised when performing a hunt. Using DNS in this way can help an organization identify malicious activity that may have otherwise gone undetected. DNS can be a powerful tool in a threat hunting arsenal and should not be overlooked.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

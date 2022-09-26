@@ -27,4 +27,6 @@ Because the attackers will not receive input from the compromised hosts, you may
 
 As we already learned, sinkholing is an effective technique used to mitigate malicious and abusive traffic by routing it to an internal server or dropping it altogether. You can utilize sinkholes to resolve many issues such as worms, command and control servers, and remote attacks on a single system within the local network. Upon completion of this page, now you know how you can benefit from sinkholing technique to strengthen and secure your network systems.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

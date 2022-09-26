@@ -125,4 +125,6 @@ In this section, we will discuss authentications that are often used in to prote
 
 **6. Physical security:** Do not write down passwords in plain sight, stay vigillant and ensure not to leave financial information and bank card data lying around, keep your cards in a safe place at all times. 
 
- > **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+ :::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

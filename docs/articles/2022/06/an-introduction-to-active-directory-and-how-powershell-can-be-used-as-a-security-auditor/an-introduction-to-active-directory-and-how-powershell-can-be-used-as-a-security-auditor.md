@@ -169,4 +169,6 @@ In order to get all the computers that are enabled and their associated names, I
 ## Conclusion:
 The basics of Active Directory and some of the important PowerShell cmdlets that can be used to gather vital data from the Active Directory have been discussed in this article. These cmdlets can reveal a lot about misconfigured security settings or excessive permissions in Active Directory that an adversary can exploit to carry out successful cyber-attacks on your network.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

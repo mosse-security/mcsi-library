@@ -24,9 +24,13 @@ The output of the above command can have different values/settings. Each of thes
 
 <u>Restricted</u> This is the most secure and default setting. It allows the users to run commands but doesn't allow the execution of any script.
 
-<u>AllSigned</u> This setting requires every script(local or remote) and all the configuration files to be signed by a trusted developer.
+<u>AllSigned</u:::{seealso}
+This setting requires every script(local or remote)
+:::and all the configuration files to be signed by a trusted developer.
 
-<u>RemoteSigned</u> This setting requires all the remote scripts(i.e. downloaded from the internet) to be signed by a trusted developer.
+<u>RemoteSigned</u:::{seealso}
+This setting requires all the remote scripts(i.e. downloaded from the internet)
+:::to be signed by a trusted developer.
 
 <u>Unrestricted</u> This setting allows any script to run and provides the least protection.
 
@@ -288,4 +292,6 @@ The Get-Credential cmdlet prompts the user to enter the credentials(username/pas
 ## Conclusion:
 PowerShell is a very powerful scripting language. This article has just scraped the surface of PowerShell's capabilities. In the future articles, we will go over PowerShell cmdlets for Active Directory management and script generation in greater depth, so stay tuned.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

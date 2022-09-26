@@ -74,4 +74,6 @@ The best strategy to maximize these KPIs is to unify and automate workload manag
 
 To review, we have covered the main points, system architecture principles, and best practice guidelines for developing and delivering cloud workloads that make up the Well-Architected Framework. You should regularly analyze your systems to verify that you adhere to the suggested guidelines of the AWS Well-Architected Framework as well as complying with architectural best practices.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

@@ -46,4 +46,6 @@ On the right column under open ports, we can also learn more about these service
 
 As OSINT researchers, Shodan is a powerful tool that you may want to add to your toolkit. By the completion of this blog page, you should be able to identify banners, meta-data, services, and vulnerabilities on a specific device on Shodan.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

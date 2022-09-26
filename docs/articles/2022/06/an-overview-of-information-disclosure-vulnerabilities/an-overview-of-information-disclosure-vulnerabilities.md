@@ -103,4 +103,6 @@ Some of the preventive techniques that can prevent the important information on 
 
 * The web application should show a generic error message for any resource that doesn't exist on the server or if the user is not allowed to access that resource. By using this functionality, the web application doesn't provide any clues to the attacker about the files that may or may not be present on the web server and their corresponding access restrictions.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

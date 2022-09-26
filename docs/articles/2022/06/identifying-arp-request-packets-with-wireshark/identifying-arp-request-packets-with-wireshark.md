@@ -50,4 +50,6 @@ From this point on what will happen is that our default gateway will broadcast t
 
 Upon completion of this blog page now you have learned how to identify an ARP request structure. You can also tell who is the sender and who is the target of the request message by analyzing the Address Resolution Protocol (request) section of a captured traffic.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

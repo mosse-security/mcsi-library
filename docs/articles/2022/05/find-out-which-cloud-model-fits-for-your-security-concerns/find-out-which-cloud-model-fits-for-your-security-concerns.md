@@ -39,4 +39,6 @@ We briefly covered security issues for different cloud models. Even when control
 
 Each cloud service provider has its own unique set of features and services, which makes each contract unique. Your rights and duties will change depending on the platform. Now that you have read this blog post, you’ll have no trouble deciding which model offers the most benefit for your security needs.
 
-> **Are you interested in learning more practical Cloud skills? Enroll in [MCSF - Cloud Services Fundamentals Course Certification Programme](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Are you interested in learning more practical Cloud skills? Enroll in [MCSF - Cloud Services Fundamentals Course Certification Programme](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

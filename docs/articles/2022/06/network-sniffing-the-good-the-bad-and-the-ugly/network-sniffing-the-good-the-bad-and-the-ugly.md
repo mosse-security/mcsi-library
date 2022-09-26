@@ -43,4 +43,6 @@ Attackers use sniffing tools to sniff packets and monitor network on a target ne
 
 Network sniffing is a powerful method that can be used for both good and malicious reasons. Network sniffing, on the other hand, can be used to eavesdrop on communications, steal important information, and launch attacks. It is critical to be aware of the risks of network sniffing and to take precautions to protect yourself and your network.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

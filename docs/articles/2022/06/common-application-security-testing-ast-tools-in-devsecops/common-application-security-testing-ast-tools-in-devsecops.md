@@ -34,4 +34,6 @@ DevSecOps CI/CD assures us that code has been evaluated against the company defe
 
 After reading this blog article, now you are aware of the numerous tools that you can employ in your DevSecOps pipeline for vulnerability testing and real-time code scanning technologies.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

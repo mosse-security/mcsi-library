@@ -42,4 +42,6 @@ Implementing appropriate input validation is the greatest defense against input 
 
 As a result, you should perform adequate input validation whenever you receive data in the application before any process.
 
-> **Want to learn practical Secure Software Development skills? Enrol in [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

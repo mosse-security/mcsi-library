@@ -27,4 +27,6 @@ As a result, NIDS can detect an attacker before he can perform a breach, whereas
 
 Any business or organization that wants to protect itself from cyberattacks should invest in an intrusion detection system. An intrusion detection system can help you detect and respond to attacks quickly by monitoring network traffic and looking for suspicious activity. However, keep in mind that an intrusion detection system is not a substitute for other security measures such as firewalls and antivirus software. It's only one part of the puzzle.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

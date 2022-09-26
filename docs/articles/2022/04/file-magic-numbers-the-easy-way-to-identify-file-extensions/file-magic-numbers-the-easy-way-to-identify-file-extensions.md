@@ -69,4 +69,6 @@ Using the magic number, it is possible to identify the file extension but it is 
 
 It is not required to remember the magic numbers and their relevant file extensions. There are freely available lists of magic numbers online. Searching through those lists would help identify the extension suitable for a file.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

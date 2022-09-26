@@ -29,4 +29,6 @@ You can implement security at the very start of the software development lifecyc
 
 This blog article demonstrates how security by design decreases the security vulnerabilities in your app and mitigates the effect once they are discovered. Security vulnerabilities may be resolved in the SDLC pipeline before delivery with a security by design mindset.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

@@ -96,4 +96,6 @@ Performing cyber security due diligence and due care are extremely important for
 
 * Cyber security due diligence and due care enable an organization to develop different security metrics to measure the performance of existing security controls, deal with evolving risks, and realize new opportunities for business growth in a manner that is safe and secure for the organization.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

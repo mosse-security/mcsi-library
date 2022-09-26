@@ -39,4 +39,6 @@ Security should not slow down your DevOps workgroups, so consider incorporating 
 
 In this blog post, we discussed how we can improve our DevOps infrastructures with the help of the right mindset, code review, vulnerability analysis, infrastructure management, and system scanning. We should always make sure that only approved and reliable software is delivered. We also learned that automation aids in the early detection of possible weaknesses in the software development life cycle (SDLC), lowering the development cost and rewriting. These recommended practices will aid in the successful management of security concerns.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

@@ -20,4 +20,6 @@ If you're a small business owner, talk to your IT team or security provider abou
 
 The bottom line is that threat hunting is a critical security measure for small businesses and one that should not be overlooked. With the right team in place, small businesses can avoid costly disasters and keep their data and reputation intact.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

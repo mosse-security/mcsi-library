@@ -43,4 +43,6 @@ In a decentralized VCS, the user can check the most recent version of the file. 
 
 Upon completing this blog, now you know the general aspects and benefits of a Version Control System. If you want to keep track of every modification to the configuration file, VCS is the way to go.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

@@ -51,4 +51,6 @@ By the completion of this blog post, we have learned how to perform a domain nam
 
 Use the ViewDNS IP History tool we covered above to find out if the following domain was used another server before: `azure.com`
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

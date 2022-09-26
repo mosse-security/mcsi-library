@@ -86,4 +86,6 @@ In the above image, we can see that the pages with the link given by the user ar
 
 Google Dorking can be used for both good and bad. It can be used to find information that is normally difficult to find. It can also be used to find vulnerabilities in systems that can be exploited.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html).**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

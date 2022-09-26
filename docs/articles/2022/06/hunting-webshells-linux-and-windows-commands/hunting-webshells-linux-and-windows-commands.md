@@ -186,4 +186,6 @@ The results of the previous PowerShell command are displayed below for your peru
 
 The preceding program can be changed to point to the actual web logs and scan for any keywords within the logs to identify any evidence of maliciousness. The grep command in Linux works exactly the same way.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

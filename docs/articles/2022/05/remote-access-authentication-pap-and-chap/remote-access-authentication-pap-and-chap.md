@@ -55,4 +55,6 @@ To strengthen security, the authenticator can be programmed to repeat the authen
 
 - With PPTP VPNs, PAP, CHAP, and MS-CHAP v2 are utilized. However, for increased protection, you can consider utilizing another VPN type. Unfortunately, MS-CHAP and MS-CHAP v-2 are also vulnerable. Many people have abandoned MS-CHAP in favor of L2TP, IPsec, or another sort of secure VPN connection.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

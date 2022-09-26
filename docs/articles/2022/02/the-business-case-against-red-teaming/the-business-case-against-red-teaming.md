@@ -11,4 +11,6 @@ Red Team exercises provide value beyond improving an organization's security pos
 
 By building a culture of security, an organization can create an environment in which employees are more aware of security risks and are more likely to take precautions to protect themselves and the organization's data and ICT systems.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

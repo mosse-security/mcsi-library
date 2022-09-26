@@ -32,4 +32,6 @@ It is still a good idea to provide private networks for current applications tha
 
 Upon completion of this blog page, we have learned that all parts of the Zero Trust architecture collaborate to offer end-to-end security. A security policy that applies the Zero Trust methodology across these core pillars assists your businesses in delivering and enforcing security throughout the company.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

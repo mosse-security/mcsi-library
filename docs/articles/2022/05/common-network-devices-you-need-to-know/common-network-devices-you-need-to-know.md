@@ -105,8 +105,9 @@ Email gateways are used to convert email messages between two email servers that
 <u>Payment Gateways:</u>
 Payment gateways act as a middleman between a seller's website and the buyer's bank, which processes credit/debit card transactions.
 
-<u>VOIP Gateways:</u>
-A VOIP Gateway connects a telephone company's network to the internet. For voice calls, the telecom provider may use an underlying technology such as PSTN (Public Switched Telephone Network). The VOIP gateway connects to the PSTN network and converts it into data packets that can be sent over the internet.
+<u>VOIP Gateways:</u:::{seealso}
+A VOIP Gateway connects a telephone company's network to the internet. For voice calls, the telecom provider may use an underlying technology such as PSTN (Public Switched Telephone Network)
+::: The VOIP gateway connects to the PSTN network and converts it into data packets that can be sent over the internet.
 
 <u>Default Gateway:</u>
 A default gateway is a device that connects a local internal network to the internet. Any network traffic between the local network and the internet is routed through the default gateway.
@@ -161,4 +162,6 @@ Wireless devices use a network interface card (NIC) to transmit and receive sign
 
 Access points also provide network segmentation by constructing separate WLANs. Devices that need to connect to a specific WLAN must use the correct SSID (Service Set Identifier). An SSID is a unique identifier associated with a specific WLAN. This enables the creation of multiple WLANs, each with its own SSID. As a result, different WLANs with different security or business requirements can be isolated in this manner.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

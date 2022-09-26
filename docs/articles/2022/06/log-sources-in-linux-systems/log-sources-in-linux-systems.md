@@ -90,4 +90,6 @@ Now that you are aware about the various log sources on Linux systems, here is a
 - Identify the commands that had been typed in the shell recently
 - Review the latest log entries relevant to system activity. There are various fields of information in a single log entry. Identify what each field represents. Which field represents the severity level of a log entry?
 
-> **Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html). In this course, you'll learn about the different aspects of incident response and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+::: In this course, you'll learn about the different aspects of incident response and how to put them into practice.**

@@ -49,4 +49,6 @@ Yara is a powerful program that allows creation of fine-grain searches of files,
 
 It would also behoove threat hunters to periodically test the kraken program and the scheduled tasks to inject benign files, though ones containing signatures it should match to determine if an alert will be generated.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

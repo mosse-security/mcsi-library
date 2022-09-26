@@ -39,4 +39,6 @@ The BIA should consider these risks while migrating infrastructure to the cloud.
 
 By the completion of this blog page, you have learned what a BIA is, why it is important, and what issues you need to address in your new BIA effectively.
 
-> **Are you interested in learning more practical Cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Are you interested in learning more practical Cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

@@ -49,4 +49,6 @@ Some public FTP sites may not need authentication to access their data. That is 
 
 As you might have guessed, FTP solely employs the TCP transport protocol. It never uses UDP for transport as it is critical to transfer files correctly.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -44,4 +44,6 @@ Besides, the exact process for configuring will vary based on the application. T
 
 Open relaying has many risks for your business and home network. As a business owner or IT professional, now you know how to keep your simple mail transfer servers safe.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

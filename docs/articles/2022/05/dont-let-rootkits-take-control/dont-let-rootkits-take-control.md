@@ -47,4 +47,6 @@ Finally, using a whitelisting solution can also be effective, as this can help t
 
 Rootkits are a serious threat to security and privacy, and they're not going away anytime soon. With that in mind, it's important to be aware of the dangers they pose and to take steps to protect yourself. Keep your software up to date, use strong passwords, and don't click on links or open attachments from unknown senders. If you think you may have been infected with a rootkit, run a scan with a trusted security program and then follow the steps to remove the infection.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

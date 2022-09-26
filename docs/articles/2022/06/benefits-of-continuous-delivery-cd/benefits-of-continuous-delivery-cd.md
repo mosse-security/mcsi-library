@@ -37,4 +37,6 @@ Continuous delivery is a wider concept that includes the automated software deli
 
 In this blog post, we defined what is continuous delivery and its powerful characteristics which enhance the overall success of our software development projects. Now you know how you can achieve agility without trading off security by employing CI/CD in your software building environment.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

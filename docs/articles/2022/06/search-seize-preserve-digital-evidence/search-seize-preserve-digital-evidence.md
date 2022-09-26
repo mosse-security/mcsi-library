@@ -62,4 +62,6 @@ An audit trail of all the processes applied to the computer-based evidence shoul
 
 The lead on the scene of crime is responsible for ensuring that the previously stated principles are adhered to. This applies to the possession and accessing of data contained on a computer. This must be satisfactory as it is the responsibility of the team to prove that everything on the scene was rightly done!
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

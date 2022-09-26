@@ -58,4 +58,6 @@ During post-exploitation, we acquire information about the system, hunt for inte
 
 In the reporting phase, we share our results with the client. We tell them what they're doing right, where they need to enhance their overall security, how we got in, what we discovered, and how to solve problems.
 
-> **Want to learn practical Penetration Testing skills and improve mastery of penetration testing tools? Enrol in [MCSI's Penetration Testing Tools Master Course Certification Programme](https://www.mosse-institute.com/penetration-testing-certifications.html).**
+:::{seealso}
+Want to learn practical Penetration Testing skills and improve mastery of penetration testing tools? Enrol in [MCSI's Penetration Testing Tools Master Course Certification Programme](https://www.mosse-institute.com/penetration-testing-certifications.html)
+:::

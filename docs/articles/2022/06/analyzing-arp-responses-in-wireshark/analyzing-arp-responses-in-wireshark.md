@@ -59,4 +59,6 @@ We will deep dive into the ARP cache in future penetration testing blog pages an
 
 Upon completion of this blog page and hopefully also [Identifying ARP Request Packets with Wireshark](https://blog.mosse-institute.com/2022/06/23/identifying-arp-request-packets-wth-wireshark.html) now you know how does a normal ARP request and response traffic look like in Wireshark.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

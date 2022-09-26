@@ -28,4 +28,6 @@ This allows programmers to reproduce the bug in the same way that the researcher
 
 As the page shows, bug bounties are presently among the most common ways for corporations to get reviews on security problems. Upon completion of this page, now you have a basic understanding of what is bug bounty hunting.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

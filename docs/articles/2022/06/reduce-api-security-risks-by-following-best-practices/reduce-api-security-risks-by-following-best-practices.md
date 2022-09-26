@@ -36,4 +36,6 @@ Using an API, on the other hand, has some drawbacks. One disadvantage of using a
 
 Despite the numerous advantages that APIs provide, it is crucial to realize that they also pose some risks. These risks can be reduced by implementing API security best practices, such as employing secure authentication and authorisation procedures, encrypting data in transit, and tracking API usage via activity logging. You can assist guarantee that your API is as secure as possible by following these best practices.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -148,4 +148,6 @@ In the upcoming articles, we will examine these two vulnerabilities in detail. L
 
 [Virtual sweatshops versus capt](http://boingboing.net/2012/01/09/virtual-)
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

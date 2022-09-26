@@ -117,4 +117,6 @@ The appropriate implementation and setup of CORS settings are critical to preven
 
 * Extensive testing should be done to identify any CORS setup errors and remediate any identified security flaws. Make sure that no access is permitted to arbitrary domains. When access to sensitive information is required, ensure that the Access-Control-Allow-Origin header value is specified correctly.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

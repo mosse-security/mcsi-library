@@ -39,4 +39,6 @@ You can benefit from the following efforts to maintain your compliance.
 
 Modern regulations are continually updated and evolving. Businesses must follow the requirements and laws in this growing environment and maintain compliance by following the steps we covered above.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

@@ -164,4 +164,6 @@ While there is no definitive answer, as each circumstance is unique, the followi
 [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)  
 [ListDLLs.exe](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
 
-> **Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

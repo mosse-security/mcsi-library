@@ -25,4 +25,6 @@ There are several drawbacks to SaaS, but it's vital to remember that each compan
 
 The software-as-a-service market is exploding, and it's evident that this trend will continue. This form of software has several advantages over traditional software, and it is growing in popularity among companies of all sizes. If you're considering employing software as a service for your company, make sure to look into the many possibilities to discover the greatest fit for your needs.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

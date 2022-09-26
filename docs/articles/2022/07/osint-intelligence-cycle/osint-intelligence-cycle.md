@@ -50,4 +50,6 @@ This is the ultimate transmission of an analytical output for use by others. In 
 
 By the end of the page, you have learned that you can benefit from the intelligence cycle to turn raw data into information and, ideally, actionable intelligence. Always remember to start by developing a hypothesis for your OSINT research.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

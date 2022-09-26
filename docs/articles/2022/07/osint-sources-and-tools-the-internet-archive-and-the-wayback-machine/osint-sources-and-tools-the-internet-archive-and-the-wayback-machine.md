@@ -44,4 +44,6 @@ The Wayback Machine archives only publicly accessible pages. Pages that are prot
 
 There are more benefits when creating an account with the Internet Archive organization. It also provides you with access to other features of the archive. For instance, it enables you to borrow books from libraries all over the world and view and use other restricted items such as videos and audio. This is a convenient way of expanding your OSINT resource base.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html).**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

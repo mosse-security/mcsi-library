@@ -100,4 +100,6 @@ Here is a project idea for you:
 - What can you infer about the *mtime* of the contents of *media/* and *mnt/* folders?
 - `mount` command when used without any switches displays a large chunk of output. It provides a lot of critical information. Research about it!
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

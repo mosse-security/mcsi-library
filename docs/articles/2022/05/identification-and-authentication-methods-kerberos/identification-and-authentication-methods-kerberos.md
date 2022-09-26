@@ -64,4 +64,6 @@ Kerberos is extremely valuable in today's dispersed computing settings since it 
 
 Despite its flaws, Kerberos is an excellent example of a network authentication technology that has gained universal adoption.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -78,4 +78,6 @@ Avoid clicking on any link in an email unless the message is from a legitimate s
 
 The web application users must be educated to never use public Wi-Fi, especially for important tasks like carrying out banking transactions, doing online shopping, performing office work, logging into your email, and much more. Public Wifi networks are a special attack target for malicious adversaries. Attackers can use different techniques to steal sensitive information from the users connecting to public Wi-Fi networks.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

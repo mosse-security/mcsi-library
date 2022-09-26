@@ -172,4 +172,6 @@ Some of the remediation strategies to prevent web cache poisoning for your web a
 
 * Last but not least, web developers must patch various flaws including HTTP response splitting and Cross-Site Scripting flaws that can be used by attackers to perform web cache poisoning attacks.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

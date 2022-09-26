@@ -47,4 +47,6 @@ Here are some best practices to consider when performing memory forensics:
 
 Let’s assume you are reading this blog post using Firefox browser. Right now, if you take a memory dump from your computer and analyze it, you can infer that Firefox application is being used. You may even recover a copy of this webpage stored in memory!
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

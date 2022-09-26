@@ -31,4 +31,6 @@ Encrypting data at rest or in transit is a good way to prevent unauthorized data
 
 We also discussed entire disk encryption, which encrypts all of your system's data in a single process. Finally, we discovered that you also have the option of encrypting just a partition on a hard drive rather than the entire disk.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

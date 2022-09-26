@@ -53,4 +53,6 @@ A general rule of thumb is to learn which protocols are frequently seen on a net
 
 In order to detect data exfiltration within network protocols, it is important to have a baseline understanding of how network protocols work and what data is supposed to be in each field. Network tools that can aggregate data and provide results on the number packets and bytes sent per protocol and further to specific hosts can help identify which protocols are being used and if the amount of data being transferred is normal. If there is a sudden increase in the amount of data being transferred for a particular protocol, that would raise red flags. Custom rules may need to be created to aid in the hunt because some organizations use non-standard protocols. Routinely testing the custom signatures is important to ensure they are still working as intended. Knowing which threat actors target the type of industry where the hunt is taking place can help limit the scope and workload involved with analyzing traffic for exfiltration.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

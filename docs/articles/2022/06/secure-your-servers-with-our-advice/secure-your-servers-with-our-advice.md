@@ -30,4 +30,6 @@ Several servers may be active in an organization's network. These servers provid
 
 Network servers are among the most appealing objectives for attackers. Upon completion of this blog, you are now provided with various strong suggestions to keep network servers with operating systems and applications secure.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

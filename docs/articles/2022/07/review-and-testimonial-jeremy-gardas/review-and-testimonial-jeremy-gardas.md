@@ -10,8 +10,9 @@ Hi,<br/>
 My name is Jeremy. I live in France. I'm 18 years old and I've been learning cybersecurity on my own for several years.<br/>
 <br/>
 Like others, I have worked on various high profile platforms. 
-<br/>
-I was also one of the youngest in the world to get one of the most recognized certifications: I tried harder :) ...<br/>
+<br/:::{seealso}
+I was also one of the youngest in the world to get one of the most recognized certifications: I tried harder :)
+:::...<br/>
 <br/>
 After comparison, having really tried these platforms, my point of view is very simple:
 <br/>

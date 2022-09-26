@@ -72,4 +72,6 @@ Assume that the size of an image file is unusually large. In that case, it could
 image contains steganography. Furthermore, because encryption and obfuscation are easier to detect at endpoints, corporations should try to detect these parts of their systems. Companies should educate employees about image files that can contain malicious code, implement internet filtering for secure browsing, and keep up with the latest security patches. A reliable host-based anti-malware solution will identify and detects hidden malicious code and their loaders provided with these procedures. 
 Furthermore, network tracking may aid in the detection of new steganographically delivered malicious code or outbound stolen data.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -58,4 +58,6 @@ A true negative is a condition in which an intrusion detection system considers 
 
 In conclusion, an intrusion detection system is a valuable security tool that can be used to protect networks and systems from attack. When choosing an intrusion detection system, it is important to consider the needs of the organization and the environment in which it will be deployed.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

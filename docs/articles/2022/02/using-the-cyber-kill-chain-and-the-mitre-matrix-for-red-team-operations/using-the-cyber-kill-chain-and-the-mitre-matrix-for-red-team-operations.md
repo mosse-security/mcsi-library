@@ -73,4 +73,6 @@ There is a tendency within large organizations to ask defenders and ethical hack
 
 The Red Team should use the CKC and MITRE Matrix to formulate and communicate their attack plans and strategies. These tools help the Red Team to deliver their message to the right people in a way that is meaningful and credible.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

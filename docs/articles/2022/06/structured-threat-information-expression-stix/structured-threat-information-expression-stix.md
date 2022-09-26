@@ -64,4 +64,6 @@ While the observed data domain object would be used to convey that you noticed t
 
 As this blog page suggests, the STIX framework assists us in identifying trends that may signal cyber attacks and in facilitating cyber threat response efforts such as protection, diagnosis, and mitigation. STIX also improves the exchange of cyber threat intelligence within an enterprise as well as with foreign stakeholders or groups who benefit from it.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

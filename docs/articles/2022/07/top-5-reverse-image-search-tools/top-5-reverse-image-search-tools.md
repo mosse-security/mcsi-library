@@ -57,4 +57,6 @@ Baidu is a Chinese search engine. Baidu, like other search engines, provides a r
 
 In this blog post, we explored various reverse image tools that you can use in your reverse image search studies. Now you know what is a reverse image search and which open-source tools you can use.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

@@ -92,4 +92,6 @@ By passing the tshark output into grep, these packet summaries can be filtered.
 
 The article covers the fundamentals of packet capture and analysis with the tshark tool. You can use multiple options inside the same command to narrow down the results to your unique interests. More information about the filters can be found on the tshark tool's manual page.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

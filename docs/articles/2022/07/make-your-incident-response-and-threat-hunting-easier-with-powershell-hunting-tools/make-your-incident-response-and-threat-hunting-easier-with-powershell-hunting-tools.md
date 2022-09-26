@@ -178,4 +178,6 @@ You want to hunt efficiently at scale, and PowerShell is an excellent hunting to
 [NOAH](https://github.com/giMini/NOAH)    
 [NOAH: BlackHat USA 2017](https://www.blackhat.com/us-17/arsenal/schedule/#noah-uncover-the-evil-within-respond-immediately-by-collecting-all-the-artifacts-agentlessly-7965)     
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

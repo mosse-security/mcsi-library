@@ -105,4 +105,6 @@ This section goes over some of the recommended techniques that can be used to pr
 
 * If the web server software is not patched to the latest version, then it is highly likely that a malicious adversary can attempt to exploit its security flaws that are known to the public. Ensure that the underlying web server software is updated to the latest version. This will ensure that the web server is fully patched to prevent the exploitation of the known security weaknesses in the previous versions of the server software.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

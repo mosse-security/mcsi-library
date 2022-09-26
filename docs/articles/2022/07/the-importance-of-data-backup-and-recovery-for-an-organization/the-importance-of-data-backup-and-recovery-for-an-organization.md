@@ -84,4 +84,6 @@ Specially built hardware backup devices have a large amount of storage capacity 
 
 The ability to restore data from a backup is much better than backing it up in the first place. The fact that many organizations have a very well-organized and efficient method for backing up their data has led many of them to believe that they are secure. That feeling of security can vanish in an instant if a business discovers during a crisis that its restoration procedures do not truly work. Therefore, it is crucial that your organization not only implements backup solutions but also frequently tests them.
 
-> **Want to learn practical Governance, Risk and Compliance skills? Enrol in MCSI’s [MGRC Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)!**
+:::{seealso}
+Want to learn practical Governance, Risk and Compliance skills? Enrol in MCSI’s [MGRC Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

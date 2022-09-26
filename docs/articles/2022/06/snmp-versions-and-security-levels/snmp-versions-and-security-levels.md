@@ -26,4 +26,6 @@ SNMP security levels describe the type of security technique used to protect SNM
 
 It is evident that the various SNMP versions provide a variety of capabilities and benefits. However, it is evident that security is a top priority while utilizing this protocol. As a result, understanding the security levels provided by each version is critical in determining which is best suited to your needs. You can assure the security of your network and the protection of your data by taking the time to study the various versions of SNMP and their security levels
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

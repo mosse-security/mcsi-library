@@ -31,4 +31,6 @@ While building an appsec training and awareness program, the following broad rec
 
 Upon completion of this blog, now you’ve learned how to establish an effective education program to help developers obtain the knowledge and abilities they need to excel as security-focused development teams.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

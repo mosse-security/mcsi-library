@@ -37,4 +37,6 @@ If a company has an application that has high usage peaks, such as one that is o
 
 Cloud computing has transformed the way businesses function, allowing them to scale their operations more quickly and efficiently. However, like with any new technology, there are a few obstacles to overcome before businesses can completely benefit from cloud computing. Hopefully, you now have a better grasp of cloud computing and how it might assist your business as a result of this post.
 
-> **Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html).**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in [MCSF - Cloud Services Fundamentals](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

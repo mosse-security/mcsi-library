@@ -103,4 +103,6 @@ Here’s a quick project idea for you:
 - Use _dir_ or _lads.exe_ to identify that the text file has an ADS
 - Attempt to view the ADS contents of the text file. You can view images using MS Paint
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

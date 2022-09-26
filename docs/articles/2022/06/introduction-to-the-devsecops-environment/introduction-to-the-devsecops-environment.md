@@ -49,4 +49,6 @@ Service-level agreements for incident response periods and the early implementat
 
 In this blog post we tried to create a picture of the DevSecOps environment, and it's major components. We also covered how it handles the 3 layers of DevSecOps: culture, automation and security by design. And at the last part we touched upon similarities and differences of DevSecOps and SECaaS. Now you have a clear image of what is development, security, and operations.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

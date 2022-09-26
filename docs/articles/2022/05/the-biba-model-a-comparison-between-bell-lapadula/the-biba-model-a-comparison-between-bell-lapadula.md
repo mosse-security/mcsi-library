@@ -71,4 +71,6 @@ Because it is difficult to reconcile confidentiality and integrity, integrity-fo
 
 Most business firms are more concerned with data integrity than confidentiality. Because the Biba model concentrates mainly on achieving object integrity, it is a more widespread option for security models than Bell-laPadula model.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

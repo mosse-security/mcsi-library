@@ -78,4 +78,6 @@ A packet filtering firewall is a network security system tool that filters and b
 
 Although there is not much logic behind the scenes packet-filtering firewalls help you protect your network in various appliances such as setting up a DMZ or limiting all access to the bare minimum to help with your security needs. Whether this kind of firewall is your choice, keep your network always secure.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

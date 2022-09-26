@@ -33,4 +33,6 @@ In this phase, an attacker archives the ultimate goal of network exploitation, w
 
 This is the final phase, in which an attacker cleans up the target to avoid detection and remove traces of compromise. Attackers cover their traces by clearing logs and the any files which can hint of an attack. An attacker can also manipulate data in the target environment to mislead security experts.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

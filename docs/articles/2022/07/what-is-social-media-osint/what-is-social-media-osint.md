@@ -31,4 +31,6 @@ Social media contents may also be valuable in the business context. Employers, f
 
 Although you can utilize complex techniques for OSINT collecting, after reading this blog post, you have realized that they may not be always necessary. Social networking sites may provide the information you need.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

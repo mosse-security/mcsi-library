@@ -30,4 +30,6 @@ Information and data are essential for effective communication, cooperation, and
 
 The three principles that assist organizations protect their assets and maintain data privacy are Confidentiality, Integrity, and Availability (CIA). Companies may preserve their assets and maintain customer trust by ensuring that data is maintained secret (only accessible to authorized parties), integrity (correct and full), and availability (accessible when required). Data breaches, which may result in financial loss, legal responsibility, and reputational harm, can be avoided with strong data privacy and security measures. They also allow businesses to respond to dangers posed by the industrial, commercial, and national security sectors.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

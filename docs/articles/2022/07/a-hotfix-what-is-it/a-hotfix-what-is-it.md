@@ -36,4 +36,6 @@ A tester will probably test thousands of hotfixes throughout the course of their
 
 5. Remember that hotfixes are a last resort and shouldn't be used often. Consider using a more thorough testing approach that takes use of worldwide crowd testers who can simulate the actual use of your product in order to increase your test coverage and prevent major faults from occurring in the first place.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).** 
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+::: 

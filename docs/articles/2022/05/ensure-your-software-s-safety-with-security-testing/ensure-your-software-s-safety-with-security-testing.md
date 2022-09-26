@@ -74,8 +74,9 @@ Matrix testing is used to locate unused or un-optimized variables within the app
 <u>2. Regression Testing:</u>
 Regression testing, as mentioned above, is used to detect if any changes to the application are causing degradation in its performance/functionality.
 
-<u>3. Pattern Testing:</u>
-Pattern Testing is used to identify the patterns in the application (based on the history of past security weaknesses) that can lead to vulnerabilities.
+<u>3. Pattern Testing:</u:::{seealso}
+Pattern Testing is used to identify the patterns in the application (based on the history of past security weaknesses)
+:::that can lead to vulnerabilities.
 
 ## Types of Security Tests and Assessments:
 
@@ -212,4 +213,6 @@ Nikto is an open-source security scanner for web applications. This tool can per
 
 SonarQube is an open-source tool used to perform static and dynamic code analysis. It is developed by SonarSource and provides support for various programming languages. With its continuous inspection capabilities, this tool aids developers in improving code quality. This utility is accessible in both a free community version and many commercial versions.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

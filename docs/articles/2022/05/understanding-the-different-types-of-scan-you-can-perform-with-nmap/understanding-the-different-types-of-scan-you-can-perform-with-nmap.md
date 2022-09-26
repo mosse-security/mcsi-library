@@ -45,4 +45,6 @@ Port scanning provides the attacker with a variety of useful information, includ
 - Ensure that the firmware on the router, IDS, and firewall is up to date with the most recent releases/versions.
 - Unwanted services on the ports should be blocked, and service versions should be updated.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

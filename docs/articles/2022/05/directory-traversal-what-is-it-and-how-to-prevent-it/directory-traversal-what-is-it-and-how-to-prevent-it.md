@@ -39,4 +39,6 @@ Another way is to Single or double encode the URL. Some web servers discard any 
 
 There are many different ways to prevent directory traversal attacks, but some of the most common methods include input validation and output encoding. Input validation is a process of ensuring that all user-supplied input is valid and safe before using it. This can be done in many different ways, but some common methods include whitelisting, blacklisting, and sanitization. Output encoding is a process of ensuring that all output is properly encoded so that it can't be interpreted as code. This can be done in many different ways, but some common methods include HTML encoding, URL encoding, and JavaScript escaping.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

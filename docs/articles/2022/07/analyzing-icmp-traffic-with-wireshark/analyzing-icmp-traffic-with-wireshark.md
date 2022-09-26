@@ -52,4 +52,6 @@ If you see a different number in the type section other than 8 for ICMP request 
 
 In this blog post, we looked at what is ICMP protocol and analyzed what a normal ICMP request and reply structure seem like in Wireshark.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

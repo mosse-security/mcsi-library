@@ -25,4 +25,6 @@ The fundamental workflow of threat modeling is as follows:
 
 Threat modeling is an ongoing process that is based on the security knowledge of the teams performing the exercise. Upon completion of this blog page, now you have a basic understanding of this ever-changing and critical activity in the most basic terms.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

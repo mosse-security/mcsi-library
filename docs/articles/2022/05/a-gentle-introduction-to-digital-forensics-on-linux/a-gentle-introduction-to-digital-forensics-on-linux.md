@@ -55,4 +55,6 @@ Now you know what Linux is, what Linux-based distros are and how they are benefi
 
 Once you are familiar with how a Linux OS works, you can begin acquiring skills to perform Linux Forensics.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

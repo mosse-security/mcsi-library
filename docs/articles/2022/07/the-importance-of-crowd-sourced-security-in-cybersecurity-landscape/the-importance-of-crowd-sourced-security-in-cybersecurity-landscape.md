@@ -74,4 +74,6 @@ Although crowd-sourced security testing has many benefits for the company, it ca
 
 * Crowd-sourced testers can sometimes be more focused on the quantity instead of quality as the testers receive more payment with the number of bugs that are reported. This can result in the complexity of the reported bugs being quite low and their quality being compromised. The organization can thus use both in-house testers for the task of finding complicated bugs while outsourcing the easy to find flaws to the crowd. 
 
-> **Looking to expand your knowledge of vulnerability research and exploitation? Check out our online course, [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html). In this course, you'll learn about the different aspects of software exploitation and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of vulnerability research and exploitation? Check out our online course, [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html)
+::: In this course, you'll learn about the different aspects of software exploitation and how to put them into practice.**

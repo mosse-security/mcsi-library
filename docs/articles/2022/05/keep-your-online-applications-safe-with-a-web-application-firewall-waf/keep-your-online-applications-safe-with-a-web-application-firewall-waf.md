@@ -32,4 +32,6 @@ It examines web requests for known hacking strategies and determines if the requ
 
 In this blog, you learned that a WAF secures your online applications by filtration, tracking, and prevention of any unwanted web traffic to your app. It also functions as a reverse proxy server and helps prevent DDOS attacks. WAF accomplishes these by following policies that assist in the evaluation of which traffic is hostile and which one is safe.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -20,4 +20,6 @@ Remote Desktop Protocol (RDP) is a proprietary protocol from Microsoft. The prot
 ## VNC
 Virtual Network Computing (VNC) is an alternative protocol to RDP. Similar to RDP, VNC is a client-server protocol that enables remote access to another device. There are a few differences. VNC is platform-independent. The protocol is open-source and available for all operating systems. VNC utilizes the remote frame buffer protocol (RFB). RFB is insecure by default. Using VNC with tunnelling technologies such as VPN or SSH is therefore recommended. You can use software applications for remotely accessing other devices that securely use VNC. Whether you should use VNC or RDP depends on the purpose of your remote connection and your personal preferences. VNC can be used with both TCP and UDP, depending on the application that uses VNC to establish the remote connection. Often you can configure the client application to either use TCP or UDP.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

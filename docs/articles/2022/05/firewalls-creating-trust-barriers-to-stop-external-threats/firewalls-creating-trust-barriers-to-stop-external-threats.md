@@ -61,4 +61,6 @@ Firewalls are an important security tool to protect any system but they come wit
 
 A firewall is a software or hardware-based device that prevents unwanted access to your computer. It accomplishes this by screening traffic and banning certain types of traffic deemed harmful. Firewalls can be quite effective in preventing malicious attacks, but they are not without limitations. It's crucial to remember that a firewall is only as good as its configuration, so make sure your firewall is set up correctly to safeguard your system.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

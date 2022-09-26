@@ -45,4 +45,6 @@ It is always a good practice to have many tools to help perform the same task. I
 
 Now that you have an idea about the possible tools in an Incident Response Toolkit, you are in a better position to handle incidents. Practice using the available hardware and software tools in your free time. When an incident occurs, you will be ready take on the role of the Incident Response Professional walking in with a bulky case to help contain the incident!
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

@@ -69,4 +69,6 @@ You can follow these guidelines to secure the running of Java applets in your lo
 
 It should be clear now why we need to secure our code development process. We are also clear what actions we can take prior to applet execution, and how to safeguard our local environment while focusing on development. How secure is your Java applet?
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

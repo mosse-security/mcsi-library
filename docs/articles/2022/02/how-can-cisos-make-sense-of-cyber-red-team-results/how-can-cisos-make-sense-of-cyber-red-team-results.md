@@ -60,4 +60,6 @@ As a CISO, this can be extremely frustrating because you will almost certainly r
 
 One of the best ways to do this is to request Red Team exercises as a means of validating your performance, rather than having such a test sprung on you by another group inside the organization. You'll come across as a person who is serious about getting cybersecurity right if you appear proactive and open to contradiction. You should also highlight that cybersecurity is a shared duty, and that other IT executives are accountable for following your recommendations, policies, and procedures. As a result, the Red Team is testing not only the Blue Team, but also the organization as a whole.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

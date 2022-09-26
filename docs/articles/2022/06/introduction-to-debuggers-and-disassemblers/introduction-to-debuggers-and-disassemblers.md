@@ -178,4 +178,6 @@ Debuggers allow us to inspect the contents of memory locations, registers, and f
 
 [Decompiler vs Disassembler](https://www.hex-rays.com/products/decompiler/compare_vs_disassembly/)
 
-> **Want to learn practical Malware Analysis? Enrol in [MCSI's MRE - Certified Reverse Engineer Certification Programme](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Want to learn practical Malware Analysis? Enrol in [MCSI's MRE - Certified Reverse Engineer Certification Programme](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

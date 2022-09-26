@@ -49,4 +49,6 @@ When the port is open, it indicates that the service/banner is active on it. Whe
 - Disable or change banner information, use tools such as serverMask.
 - Hide file extensions to hide web technologies and change file extensions like .asp to .htm or .foo to hide the server's identity.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

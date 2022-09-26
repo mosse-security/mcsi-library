@@ -168,4 +168,6 @@ Turnstiles are gates that only allow one person to pass through at a time. Turns
 
 Bollards are small concrete pillars that are erected outside the buildings. One of the main functions of the bollards is to protect the building from damage caused by vehicles, either accidentally or intentionally. Bollards are a type of natural access control. They are used to direct people to the building's entry and exit points along the pavements.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

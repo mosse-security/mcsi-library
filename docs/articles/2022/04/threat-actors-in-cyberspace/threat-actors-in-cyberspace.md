@@ -35,4 +35,6 @@ APT attacks are notoriously tough to protect against since they are generally we
 
 Organizations can defend against threats by implementing strong security measures. These include things like training employees in cyber security, installing firewalls and antivirus software, and having a policy in place for how to deal with data breaches. By taking these precautions, organizations can make it much harder for attackers to gain access to their systems and steal sensitive information.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

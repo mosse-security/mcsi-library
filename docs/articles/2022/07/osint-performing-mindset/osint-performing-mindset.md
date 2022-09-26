@@ -38,4 +38,6 @@ You should also cross-check your findings at this point.
 
 You have now learned that doing OSINT research is a methodical process that demands the deployment of an effective roadmap. It is easy to get overwhelmed by the vast number of information available while doing OSINT analysis. Before you begin your research, bear in mind that the goal of OSINT is to uncover answers to your queries about your POI.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

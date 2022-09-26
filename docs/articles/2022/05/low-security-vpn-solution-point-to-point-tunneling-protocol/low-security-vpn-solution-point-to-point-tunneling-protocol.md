@@ -65,4 +65,6 @@ PPTP has been around since the 1990s. In this blog post, we examined the oldest 
 
 Most remote locations enable PPTP packets to pass through their firewalls. You can consider PPTP as a tunneling option for networks with the least security needs.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

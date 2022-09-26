@@ -41,4 +41,6 @@ To prevent security issues, implement infrastructure as code security tools as y
 
 Security is an ongoing process. Integrating procedures such as security testing and other activities into an existing development process is what a secure SDLC comprises. Through some methods such as risk assessment, threat modeling, scanning and testing, and operational assurance techniques, now you’re ready to apply security in every phase of secure SDLC.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

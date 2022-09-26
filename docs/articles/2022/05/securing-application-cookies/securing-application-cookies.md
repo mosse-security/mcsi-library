@@ -63,4 +63,6 @@ When your sensitive information is stolen by cookie hijacking, unauthorized user
 
 - Disable third-party cookies. Any cookie which doesn’t originate from your parent domain scans freshly produced cookies on your system and generate tailored popups based on keywords.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

@@ -81,4 +81,6 @@ A timestamp is a very important entity in DFIR – it helps to build timeline of
 
 While investigating a Linux system, a DFIR professional must be aware of the various facts associated with timestamps. Timestamps on Linux may not always serve as concrete evidence. Looking for other evidence on the system, like shell history or log files, may help provide clarity about recent activity on the system.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

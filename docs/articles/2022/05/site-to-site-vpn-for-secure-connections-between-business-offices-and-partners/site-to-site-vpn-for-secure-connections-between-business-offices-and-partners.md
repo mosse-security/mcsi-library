@@ -38,4 +38,6 @@ As we have covered, a site-to-site VPN is established between business offices a
 
 However, there is a major challenge for network administrators. Setting up a site-to-site VPN and then ignoring other forms of protection is a typical error. Users on distant networks should not be able to reach the local network assets without a proper access control mechanism, and vice versa. This can be challenging in some circumstances, especially if the remote office is another organization, such as a vendor or a partner.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

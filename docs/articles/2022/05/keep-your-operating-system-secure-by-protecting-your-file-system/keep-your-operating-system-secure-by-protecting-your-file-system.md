@@ -78,4 +78,6 @@ Here is a full list of different access privileges to a directory that a system 
 
 Securing our operating system starts with protecting our resources. Understanding the basics of file systems and their functions helps us to apply best practices in protection.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

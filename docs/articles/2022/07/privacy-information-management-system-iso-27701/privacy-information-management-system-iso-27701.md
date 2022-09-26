@@ -40,4 +40,6 @@ The concepts and procedures outlined in ISO 27701 are consistent with those outl
 
 An organization must routinely generate documentation detailing how it manages personal data and guards against breaches in order to comply with ISO 27701. Having open communication about your organization's data governance demonstrates to customers, staff, investors, clients, and governments that you value privacy.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

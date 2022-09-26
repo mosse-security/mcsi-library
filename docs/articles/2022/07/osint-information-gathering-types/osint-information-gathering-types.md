@@ -40,4 +40,6 @@ There are some factors that improve an OSINT effort’s success such as the foll
 
 In this blog page, we have looked at basic OSINT information gathering types, the importance of anonymity, and which skills may be beneficial in the OSINT gathering process. The essence of OSINT is open source and passive information gathering. So we should stick with passive collection techniques and learn to secure our privacy while conducting these methods.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

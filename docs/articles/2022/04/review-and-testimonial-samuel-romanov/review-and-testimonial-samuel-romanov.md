@@ -69,4 +69,6 @@ Anyone that is either looking to start a career in cyber security or is in cyber
 
 Give it a go and see if you like it. If you’re interested in cyber security but not sure where to start, check the free curriculum that’s provided. Gaining more knowledge in cyber security will help enable you to protect you, your family, and the organisation you’re working for and to become an inspiration to those around you that are on the same journey. Life is short, learn while you still can and achieve your dreams.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

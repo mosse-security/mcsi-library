@@ -38,4 +38,6 @@ Each NDA is unique; thus each one will have a different duration. The typical du
 An NDA template is a non-disclosure agreement sample that a person or business may use to construct their own NDA. A customized NDA between two or more parties that is appropriate to their relationship may be created using the template, which includes general legal information and gaps that can be filled up.
 Online searches make it simple to find NDA templates. There are several websites that provide free NDA templates.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

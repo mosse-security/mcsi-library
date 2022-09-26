@@ -69,4 +69,6 @@ In addition, Web applications can use a security measures known as the Same Orig
 
 In conclusion, CSRF is a type of attack that can be used to exploit web applications that do not properly verify the source of the request. This can lead to the attacker being able to perform actions on behalf of the user, such as changing their password or making purchases in their name. CSRF attacks are relatively easy to carry out and can be very difficult to detect, so to protect against this type of attack, web sites should implement a number of security measures, such as using cryptographically secure tokens to verify user requests.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

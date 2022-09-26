@@ -50,4 +50,6 @@ Every request issued to the load balancer is recorded, even those that cannot re
 
 In summary, AWS Elastic Load Balancing improves the overall networking security of your business with a range of benefits we covered above.
 
-> **Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)**
+:::{seealso}
+Want to learn practical cloud skills? Enroll in MCSI’s - [MCSF Cloud Services Fundamentals ](https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html)
+:::

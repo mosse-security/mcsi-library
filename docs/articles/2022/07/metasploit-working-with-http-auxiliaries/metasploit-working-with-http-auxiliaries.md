@@ -80,4 +80,6 @@ Most search engines rely on bots to scan websites and index pages. In this scena
 
 Upon completion of this blog page, now you've gained an insight into how to work with HTTP auxiliary modules in Metasploit Framework.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

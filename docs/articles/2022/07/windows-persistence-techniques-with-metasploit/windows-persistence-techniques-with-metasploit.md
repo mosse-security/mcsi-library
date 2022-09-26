@@ -68,4 +68,6 @@ Set session ID
 
 In many circumstances, obtaining an initial foothold on a network or an asset is insufficient, and maintaining access to the system over the long term is crucial for APT/red team professionals. This article demonstrated various techniques Metasploit techniques to maintain access for the long term. 
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

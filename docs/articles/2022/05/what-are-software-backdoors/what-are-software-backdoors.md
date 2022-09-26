@@ -57,4 +57,6 @@ There are many ways that you can protect yourself from backdoor malware - some o
 
 - You might check file integrity to look for changes to essential system files and registry keys on your Windows computers.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

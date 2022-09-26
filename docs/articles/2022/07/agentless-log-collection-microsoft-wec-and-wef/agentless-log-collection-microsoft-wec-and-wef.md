@@ -53,4 +53,6 @@ Despite being an agentless-based architecture, we will also need to configure a 
 
 As we already learned, WEF and WEC are very powerful tools that allow us to collect Windows Events logs consistently. We can benefit from these tools for agentless log collecting purposes.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

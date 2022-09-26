@@ -96,4 +96,6 @@ From the above screenshot, the data exfiltration was successful and the contents
 
 Data exfiltration is a key step for a red teamer or attacker, and knowing how to use Linux binaries for data exfiltration can enable you transfer data with less possibility of discovery and without the need to install any external tools for data exfiltration.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

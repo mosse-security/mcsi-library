@@ -46,4 +46,6 @@ This final stage is the key and most important phase in the baselining process. 
 
 Finally, baselining your network performance is a critical step in assessing the health and performance of your network. Understanding what typical behaviour looks like allows you to more readily spot when anything is incorrect and take corrective action. There are several tools available to assist you with this procedure, and the methods are pretty straightforward. You can guarantee that your network runs as effectively as possible with little time and effort.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

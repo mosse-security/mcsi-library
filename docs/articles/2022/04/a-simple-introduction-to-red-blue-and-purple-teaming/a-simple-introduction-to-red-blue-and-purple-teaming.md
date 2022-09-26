@@ -52,4 +52,6 @@ Implementing red team and blue team activities allows organizations to test thei
 
 The red and blue teams take very different approaches to organizational security. Using both teams together can have a major influence on strengthening the organization's security posture and lowering the chance of a successful cyber attack.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

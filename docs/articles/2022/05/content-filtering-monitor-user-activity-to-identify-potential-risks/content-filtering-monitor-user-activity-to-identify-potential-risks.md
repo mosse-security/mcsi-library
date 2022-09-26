@@ -49,4 +49,6 @@ Content filters are used in a variety of ways to restrict access to various type
 
 When it comes to content filtering, there are several approaches that can be taken, and the most effective solution will vary depending on the specific needs of each individual or organization. However, some general recommendations include employing multiple layers of filtering, employing keyword filtering to block specific content, and monitoring user activity to identify potential risks.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

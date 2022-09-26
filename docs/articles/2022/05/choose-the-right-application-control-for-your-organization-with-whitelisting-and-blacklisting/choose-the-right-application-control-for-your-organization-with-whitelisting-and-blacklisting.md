@@ -31,4 +31,6 @@ As a result, administrators may create overly broad whitelisting rules in some c
 
 There is no definitive answer to the widely debated topic of "Whitelisting vs. Blacklisting." In fact, with technological advancements and the development of application control tools, there is no need to choose just one. Organizations can combine these features to meet their specific needs and reap the benefits of both at the same time.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

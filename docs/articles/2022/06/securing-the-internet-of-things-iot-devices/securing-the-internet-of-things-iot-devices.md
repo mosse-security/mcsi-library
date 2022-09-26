@@ -47,4 +47,6 @@ Manufacturers frequently deploy smart devices with default, static, or readily g
 
 IoT devices are highly targeted by malicious actors for various reasons as we covered in this blog page. Now you are capable of securing IoT technologies by following the guideline suggested above.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

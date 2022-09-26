@@ -124,4 +124,6 @@ Some of the most commonly used and popular fuzz testing tools are as follows:
 
 **APIFuzzer:** APIFuzzer is a python-based fuzz testing tool that reads your API description and step-by-step fuzzes the fields to validate if your application can cope with the fuzzed parameters.
 
-> **Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html).**
+:::{seealso}
+Want to learn practical Secure Software Development skills? Enrol in MCSI’s [MASE - Certified Application Security Engineer](https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html)
+:::

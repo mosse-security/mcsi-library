@@ -63,4 +63,6 @@ Examples of what a communication plan may include:
 
 In order to be successful at red teaming, you need to have the right mindset and approach. Be creative and think outside the box, challenge assumptions, and be willing to take risks. Be prepared to face resistance and criticism, but stay focused on your goals. And most importantly, always maintain a sense of humor and keep things in perspective.
 
-> **Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html). In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
+::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**

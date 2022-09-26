@@ -46,4 +46,6 @@ Security as a service includes both cloud-based security software and third-part
 
 Service-based security is an excellent method to delegate your security needs to a business that specializes in the sector. This will allow you to concentrate on other parts of your business. If you're looking for a Security as a Service provider, do your homework and ask around for suggestions. Make careful to read the reviews before making a selection. A reputable Security as a Service provider will be well worth the money and will assist you in keeping your company safe.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

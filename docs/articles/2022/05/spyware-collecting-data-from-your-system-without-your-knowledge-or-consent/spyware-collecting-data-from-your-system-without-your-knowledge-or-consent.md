@@ -40,4 +40,6 @@ In terms of **information collection methods**, they can:
 
 To review, spyware is software that collects data from your system without your knowledge or consent. This form of malware is frequently distributed in conjunction with other programs such as adware, browser hijackers, and potentially unwanted apps.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

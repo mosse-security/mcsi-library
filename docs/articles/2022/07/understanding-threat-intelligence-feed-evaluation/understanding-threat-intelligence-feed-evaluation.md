@@ -22,4 +22,6 @@ Source evaluation is best viewed as a comprehensive analysis of the source direc
 
 We must analyse TI feeds before integrating them to our security systems in threat analysis. As we have learned from the blog page, we can enhance TI feed analysis by considering the source of the feed, verifying that the feed is up to date, ensuring that the feed is genuine. We should also avoid data redundancies and detect overlaps between the feeds, and study the potential return on investment effectively.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

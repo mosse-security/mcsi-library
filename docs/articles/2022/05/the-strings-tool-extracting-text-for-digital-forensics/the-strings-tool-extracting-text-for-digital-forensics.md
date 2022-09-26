@@ -72,4 +72,6 @@ It would be a good idea to be familiar which how the _strings_ utility works. It
 - Open the binary in a hex editor, navigate to a specific offset and view the string in that location
 - Are you able to identify the company/organisation that has developed this binary?
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

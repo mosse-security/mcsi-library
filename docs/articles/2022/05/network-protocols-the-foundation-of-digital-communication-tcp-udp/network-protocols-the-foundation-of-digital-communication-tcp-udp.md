@@ -34,4 +34,6 @@ Various important services and protocols use UDP. Examples are the Domain Name S
 
 Nowadays, almost all digital communication networks are based on the Internet Protocol (IP), and practically all applications use TCP or UDP (or both). In the next blog post, you can read about other network protocols with different functions, but remember, most rely on TCP/IP or UDP to perform their role.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

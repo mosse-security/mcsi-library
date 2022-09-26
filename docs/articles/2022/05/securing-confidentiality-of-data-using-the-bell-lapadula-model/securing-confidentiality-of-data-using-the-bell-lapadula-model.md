@@ -84,4 +84,6 @@ Bell LaPadula is a confidentiality-based formal security model which has defined
 
 After all, we implement security models in order to maintain the confidentiality and integrity of information. With a strong and efficient security model, it is easier to safeguard your critical information or data in a company.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -46,4 +46,6 @@ We recommend hybrid hunting because it covers the most scope and allows threat h
 Threat hunting is a way that organizations can employ to discover and protect against cyber threats. It's a proactive technique that goes beyond typical security measures and can be used in conjunction with other security measures.
 Organizations can increase their detection capabilities and minimize their overall risk exposure by using the correct tools and approaches.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

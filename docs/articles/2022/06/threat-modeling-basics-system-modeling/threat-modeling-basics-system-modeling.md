@@ -40,4 +40,6 @@ Since they enable you to comprehend the status of your system across time, seque
 
 As we have learned from the blog page, you can utilize system models to have a better understanding of our design’s practicality, vulnerabilities, and current operational status. These system-modeling tools can help you notice changes which are vital to discover and avoid any vulnerabilities. You can update your security posture by modifying your system design and evaluating hypotheses. Employ a model type that is best suitable for you.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

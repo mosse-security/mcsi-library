@@ -36,4 +36,6 @@ Once the MAC table is full and the switch switches to hub mode, an attacker can 
 
 The outcome of a MAC flooding attack depends on how it is carried out. It may expose the user's sensitive personal information, which could be exploited for malicious purposes. Place the server behind the router to prevent MAC address spoofing. Modifying the port-security interface configuration is another technique for preventing MAC spoofing attacks.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

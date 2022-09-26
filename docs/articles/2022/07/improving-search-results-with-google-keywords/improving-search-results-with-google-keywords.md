@@ -61,4 +61,6 @@ Upon completion of this blog post we have learned that we can combine some opera
 
 With this search, you will be able to identify if the exact term “coronavirus is dead” is used by other social media platform user accounts such as Facebook.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

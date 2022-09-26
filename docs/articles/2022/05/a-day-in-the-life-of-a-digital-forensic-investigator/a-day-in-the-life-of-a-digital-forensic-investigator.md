@@ -58,4 +58,6 @@ Here’s a quick idea to help you get started with memory forensics:
 
 After having performed such tasks in your home lab, you will be in a better position to help out when a cyber incident happens in the real world. You will know what to do!
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

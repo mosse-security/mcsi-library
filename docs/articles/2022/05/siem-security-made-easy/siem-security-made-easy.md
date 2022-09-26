@@ -67,4 +67,6 @@ Administering SIEM solutions in an organization can be implemented in the follow
 
 Although SIEM is an expensive tool to possess and maintain, its benefits are a guaranteed value for money, this is why it is important for organizations to study available SIEMs in the market to know which one best suits their security needs before it is purchsed. Security in an organization heavily relies on the ability to detect and remediate threats immediately they surface to avert the risk of data loss or violation, SIEM provides accurate security solutions using artificial intelligence in contrast to human capabilities that lead to errors.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

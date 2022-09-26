@@ -170,4 +170,6 @@ This will help with your final report.
 - [Cuckoo Sandbox](https://cuckoosandbox.org/)
 - [Practical Malware Analysis Book](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 
-> **Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html).**
+:::{seealso}
+Would you like to learn practical malware analysis techniques? Then register for our online course! [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+:::

@@ -40,4 +40,6 @@ Incidents happen. They can be small and contain little impact, or they can be la
 
 There are many reasons why we do incident response. The most important reason, however, is to protect our organizations and our customers. By responding to incidents quickly and efficiently, we can minimize the damage that is done and help to get our organizations back up and running as quickly as possible. Another reason for doing incident response is to learn from our mistakes. By investigating and analyzing incidents, we can identify the root causes and learn from them so that we can improve our security posture and help to prevent similar incidents from happening in the future.
 
-> **Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html). In this course, you'll learn about the different aspects of incident response and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+::: In this course, you'll learn about the different aspects of incident response and how to put them into practice.**

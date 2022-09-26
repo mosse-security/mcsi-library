@@ -42,4 +42,6 @@ Windows Updates are updates and service packs for Microsoft's Windows operating 
 
 Finally, while updates can be inconvenient, they are critical to the security and upkeep of your computer. You can make the update process much smoother and less stressful by following the tips above. Keep your computer up to date to benefit from improved performance and security!
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

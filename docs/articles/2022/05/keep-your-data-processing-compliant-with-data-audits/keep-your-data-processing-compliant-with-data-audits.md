@@ -42,4 +42,6 @@ Businesses can use data auditing to achieve:
 
 [Open-Audit](https://www.open-audit.org/) is an open-source audit management solution that enables businesses to provide precise asset location data in seconds.
 
-> **Interested in learning practical GRC skills? Enrol in [MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in learning practical GRC skills? Enrol in [MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

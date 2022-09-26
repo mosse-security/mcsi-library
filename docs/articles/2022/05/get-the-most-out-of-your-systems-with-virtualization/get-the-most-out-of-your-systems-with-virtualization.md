@@ -37,4 +37,6 @@ Storage virtualization is the process of combining the physical storage of multi
 
 Organizations can use virtualization software, also known as hypervisors, to simulate hardware functionality and create multiple virtual computer systems. This enables IT departments to run multiple applications and operating systems on a single server. Virtualization software is used by businesses to efficiently manage and allocate resources to virtual machines. When using virtual machines, if one of them crashes, neither the physical hardware nor the other virtual machines are affected.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

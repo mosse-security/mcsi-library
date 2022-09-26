@@ -54,4 +54,6 @@ A virtual private network ensures data privacy, integrity, and authenticity rega
 
 A properly configured VPN is a great solution to a quick, safe, secure, and trustworthy network that allows distant departments to communicate with all of their offices.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

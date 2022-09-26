@@ -46,4 +46,6 @@ A threat management system based on alerts frequently results in numerous analys
 * **Boost Cooperation:**
 When procedures are disrupted by a security issue, various teams employ different software sets to identify and respond to the incident. On a daily basis, a single, centralized SOAR platform promotes team cooperation. Using SOAR's case management tools and task management dashboards, teams can track and communicate event details.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

@@ -65,4 +65,6 @@ After a successful sign up you can also view the titles of the email addresses, 
 
 In this blog post, we explored how we can find out the email addresses behind a domain name. Successful identification of the syntax of the company's email addresses can give you a pivot point. You may then use some websites like LinkedIn to gather more names and then put together all your findings.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

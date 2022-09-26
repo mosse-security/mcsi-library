@@ -70,4 +70,6 @@ As you can see The Metasploit module was not able able to identify the service v
 
 Having completed this blog post, you have learned how to use Metasploit to scan and enumerate ssh on a target system.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

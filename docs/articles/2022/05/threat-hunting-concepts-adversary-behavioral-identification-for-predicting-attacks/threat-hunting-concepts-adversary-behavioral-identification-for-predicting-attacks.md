@@ -33,4 +33,6 @@ Data exfiltration is the unauthorized copying or transfer of data from a compute
 
 Understanding the adversary's behavioral identification is critical because it provides insight into the common strategies used by adversaries to launch attacks. It provides security professionals with early warning of potential threats and exploits.
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

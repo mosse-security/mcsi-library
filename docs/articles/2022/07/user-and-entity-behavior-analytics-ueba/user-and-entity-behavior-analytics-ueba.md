@@ -20,4 +20,6 @@ A UEBA solution consists of three major components:
 Web gateways, firewalls, intrusion detection, and prevention systems, and encryption solutions like virtual private networks (VPNs) are traditional security measures that can no longer provide adequate protection. Sophisticated cyber attackers will find a way into a system, and detecting even the tiniest abnormality is critical.
 Social engineering and phishing are also becoming more common. These techniques target an organization's people rather than its hardware, encouraging employees to click on links, download software, and transmit passwords. Infecting one machine is simply the beginning of what may be a large-scale hack. UEBA aims to identify even the most minor anomalies and prevent a little phishing campaign from growing into a huge data leak. Indeed, UEBA may have a significant influence on an organization's security posture
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

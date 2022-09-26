@@ -73,4 +73,6 @@ The disadvantages of hardware-based security are generally as follows:
 2.	Since hardware security, such as hardware encryption, is typically coupled to a specific device, one solution cannot be used to secure the entire system and all of its components, making it less versatile than its software counterpart.
 3.	Compared to software-based solutions, hardware-based solutions are more difficult to upgrade and/or update since those functions can only be performed through device substitution.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

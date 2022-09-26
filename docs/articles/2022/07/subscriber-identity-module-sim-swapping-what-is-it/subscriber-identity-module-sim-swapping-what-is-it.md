@@ -40,4 +40,6 @@ The following are some methods the fraudster can complete this step:
 
 Once the new SIM card is activated using your number, the fraudster has access to all of your mobile operations, passwords, codes, PINs, OTPs, and other information. They may then use this information to access your bank accounts, shop online, hack your social media accounts, and do other things. The fraudster can access your bank accounts and any applications without passwords by switching the SIM card and stealing your cell number. Therefore, this scam poses a serious hazard to users of mobile devices.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

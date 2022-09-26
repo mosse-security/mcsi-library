@@ -44,4 +44,6 @@ This alarm system may warn admins by e-mail or notifications, as well as by runn
 
 As we have learned, knowledge-based detection approaches utilize all known vulnerabilities of certain attacks, whereas behavior-based detection is familiar with usual communication and may detect malicious activities by studying differences from anticipated or regular activity. Each has different set of advantages and drawbacks which you now have a strong knowledge of upon completion of this blog.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

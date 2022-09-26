@@ -24,4 +24,6 @@ It is useful to understand that there are three sorts of policies that will be e
 2. Topic-specific– These policies target specific issues. Each part of an information security document will often include a topic-specific policy.
 3. Application-specific– These are decisions made by management to safeguard specific apps or systems.
 
-> **Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html).**
+:::{seealso}
+Interested in information security governance, risk and compliance? Enrol in [MCSI's MGRC - Certified GRC Expert](https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html)
+:::

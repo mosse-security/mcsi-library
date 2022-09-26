@@ -36,4 +36,6 @@ These are just a few of the most critical things to keep an eye on. Monitoring t
 
 The weakness of default configurations is a problem because it can lead to system and data vulnerabilities. The best way to combat this issue is to keep your system up to date with the most recent security patches and updates. To help protect your system from attacks, you should also consider using a security suite that includes a firewall and other security features.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html). In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**

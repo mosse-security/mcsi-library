@@ -51,4 +51,6 @@ Organizations must implement security measures to protect their data from both i
 
 We hope you found this post interesting and that you learned something new as a result of it. While we can't possibly cover all of the cyber specialties in depth in a single post, we've highlighted a few of the most significant. Thank you for taking the time to read this.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

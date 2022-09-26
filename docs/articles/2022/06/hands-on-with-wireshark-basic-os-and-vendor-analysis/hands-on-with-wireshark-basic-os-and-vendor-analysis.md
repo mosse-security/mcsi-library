@@ -53,4 +53,6 @@ As you can see the manufacturer is Huawei Technologies Co.,Ltd.
 
 Can you identify your system and vendor details using Wireshark by going over the steps we followed through in this blog page?
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

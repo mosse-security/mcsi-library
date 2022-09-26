@@ -74,4 +74,6 @@ As a next step, some points to research about can be:
 - How many characters are present in the hash when SHA256 or SHA512 algorithm is used?
 - Identify some other utilities that can be used to generate the hash value.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

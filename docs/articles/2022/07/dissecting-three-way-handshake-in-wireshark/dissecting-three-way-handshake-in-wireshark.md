@@ -56,4 +56,6 @@ you can see that the packet byte is 32 bytes. This is due to the fact that this 
 
 By the completion of this blog post, you should be able to identify the TCP three-way handshake while performing network analysis with Wireshark.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

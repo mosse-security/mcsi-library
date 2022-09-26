@@ -65,4 +65,6 @@ Although consumers are most interested in the information contained in digital p
 
 Upon completion of this page, you have learned that you should examine the metadata of all digital files before doing any Internet-related action on them (such as uploading, or sharing) along with displaying and analyzing Exif data.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

@@ -45,4 +45,6 @@ As attackers improve their tactics and strategies, the cyber kill chain continue
 
 While the cyber kill chain is a popular and widely used methodology for developing a cybersecurity strategy, it has significant and potentially severe weaknesses. One of the most prominent comments directed at the cyber kill chain model is that it prioritizes perimeter security and malware prevention over other security controls.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

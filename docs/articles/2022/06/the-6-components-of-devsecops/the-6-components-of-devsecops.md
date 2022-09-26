@@ -52,4 +52,6 @@ These methods desegregate security, making it a part of the workflow rather than
 
 As you have learned, security procedures are already implemented into the initial stages of development using the DevSecOps approach. Increasing the security level by adopting the appropriate measures from the beginning rather than deploying them as a security patch on an already finished product provides a solid architecture for your softwares, business solutions.
 
-> **Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)**
+:::{seealso}
+Want to learn practical DevSecOps skills? Enroll in [MDSO - Certified DevSecOps Engineer](https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html)
+:::

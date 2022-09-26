@@ -17,4 +17,6 @@ Another feature of WPA3 is Simultaneous Authentication of Equals (SAE). SAE is a
 
 In terms of security, WPA3 is a significant advance over its predecessor. It fixes many of WPA2's flaws and adds additional features that make it more difficult for hackers to crack your WiFi password. It's vital to keep in mind, though, that no security system is flawless, and WPA3 is no exception. To make your WPA3 network as secure as possible, remain up to current on the newest security developments.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

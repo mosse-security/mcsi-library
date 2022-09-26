@@ -44,4 +44,6 @@ Since it is a password spraying attack, we need to use the `“-u” flag`. The 
 
 Malicious hackers use the method known as "password spraying" to get around measures like account lockout that prevent brute-force attacks. These types of attacks are simple to execute and yield effective results. Some of the measures to mitigate these attacks are by enabling Multi-factor authentication, Implementing a password policy that prevents using easy-to-guess passwords. 
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

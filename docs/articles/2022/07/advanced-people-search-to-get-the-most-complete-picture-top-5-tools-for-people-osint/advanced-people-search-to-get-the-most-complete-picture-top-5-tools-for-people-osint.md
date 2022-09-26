@@ -57,4 +57,6 @@ Another fact with TruthFinder is that this search engine also searches the dark 
 
 By the completion of this blog page, you have seen that searching for a target's actual name frequently leads to finding additional important facts that can leverage our research. Although there are many tools for people OSINT, we presented you with the top five of them which are White pages, True People Search, Fast people search, Xlek, and TruthFinder.
 
-> **Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)**
+:::{seealso}
+Want to learn practical Open-Source Intelligence skills? Enrol in MCSI’s [MOIS - Certified OSINT Expert Program](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+:::

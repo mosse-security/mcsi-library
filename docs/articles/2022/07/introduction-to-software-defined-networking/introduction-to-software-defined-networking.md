@@ -102,4 +102,6 @@ The SDN Overlay model makes use of a virtualized model that is constructed on to
 
 A single network environment houses both software-defined networking and conventional networking protocols under the hybrid SDN approach. In order to enable various network operations, this SDN approach is used to provide appropriate protocols for the various types of network traffic. Using this technique, network administrators can gradually implement SDN into an existing network environment by continuing to use some of the normal networking protocols while delegating control of other traffic to SDN.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

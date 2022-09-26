@@ -82,4 +82,6 @@ The attacker can delete files using `Cipher.exe` by implementing the following s
 
 Defending against attackers can be difficult when they try to cover their tracks by modifying the information. However, some precautions can be taken to protect the systems, such as regularly updating and patching operating systems, applications, and firmware, enabling logging functionality on all critical systems and encrypting log files stored on the system so that altering them is impossible without an appropriate decryption key.
 
-> **Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response skills? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

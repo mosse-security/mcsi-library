@@ -29,4 +29,6 @@ By 2027, the importance of iPaaS is predicted to grow significantly as organizat
 
 Finally, a Platform as a Service (PaaS) may bring several advantages to enterprises, including the ability to swiftly and simply create and test applications without the need for costly infrastructure. Another significant benefit is the ability to scale up or down fast and efficiently, as well as the enhanced flexibility that a PaaS may provide. However, it's critical to pick a PaaS provider that works with your current systems and provides the capabilities and functionality you need.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

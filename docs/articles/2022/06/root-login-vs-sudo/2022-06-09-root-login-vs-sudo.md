@@ -32,4 +32,6 @@ In this blog article, we discussed the security risks inherent with utilizing th
 
 Sudo allows for elaborate access control by providing admin rights to just the services that require them. In conclusion, Logging in as Sudo improves our systems security by decreasing the attack surface.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

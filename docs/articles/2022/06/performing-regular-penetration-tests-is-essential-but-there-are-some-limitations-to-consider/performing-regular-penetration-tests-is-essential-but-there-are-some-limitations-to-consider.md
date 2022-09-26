@@ -39,4 +39,6 @@ Testing may result in a DoS attack instead of obtaining access to the system. Ma
 
 To recap, a Pentest program inside an organization is always hampered by a number of criteria, restricting its ability to identify all conceivable security flaws and their related criticality levels. When participating in a Pentest program, it is critical to understand the restrictions in order to properly evaluate the benefits and set expectations.
 
-> **Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)**
+:::{seealso}
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
+:::

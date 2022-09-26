@@ -28,4 +28,6 @@ HMAC-based One Time Password (HOTP) is a one-time password generation technique 
 
 As the combination of different authentication techniques grew, 2FA has now been superseded by MFA. Multi-factor authentication is simply the combination of 2 or more authentication techniques. When it comes to authentication, there isn’t any solution that fits all the cases. The optimal strategy is to utilise a mix of approaches, such as something the user knows (such as a password), something the user has (such as a token or key), and something the user is aware of (like their biometric data). You may make it far more difficult for someone to obtain illegal access to your systems by employing various ways.
 
-> **Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)!**
+:::{seealso}
+Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)
+:::

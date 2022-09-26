@@ -31,4 +31,6 @@ It is critical for the intelligence team to put in place systems that enable the
 
 Threat intelligence is a continuous process because attackers alter their techniques, and businesses should do the same. Data gathering, processing, analyzing, and production are all procedures for translating data into threat intelligence. Comprehending the significance of threat intelligence and the distinction between data, information, and intelligence is critical for a well-established threat intelligence program.
 
-> **Want to learn practical Threat Intelligence skills? Enrol in MCSI’s [MTIA - Certified Threat Intelligence Analyst](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html).**
+:::{seealso}
+Want to learn practical Threat Intelligence skills? Enrol in MCSI’s [MTIA - Certified Threat Intelligence Analyst](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html)
+:::
