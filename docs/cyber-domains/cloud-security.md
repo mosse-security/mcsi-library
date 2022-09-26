@@ -1,4 +1,4 @@
-(cloud_sec)=
+(cloud_security)=
 # Cloud Security
 Cloud security is the process of protecting data and information that is stored on a cloud computing platform. This process can involve a variety of measures, including data encryption, firewalls, and access control. Cloud security is important for both businesses and individuals who use cloud-based services, as it helps to protect information from unauthorized access and data loss.
 
@@ -7,6 +7,11 @@ Compliance with data security and privacy regulations is essential, and encrypti
 
 ## Concepts
 
+```{admonition} Why is learning fundamental Red Team concepts important?
+:class: dropdown
+
+```
+
 * [](hands-on-with-google-cloud-key-management-service-kms)
 * [](secure-your-docker-containers-for-peace-of-mind)
 * [](pillars-of-zero-trust-architecture)
@@ -14,7 +19,13 @@ Compliance with data security and privacy regulations is essential, and encrypti
 
 
 
-## Controls
+## Procedures
+
+```{admonition} What is a procedure and why it is important for cloud security?
+:class: dropdown
+A procedure is a set of instructions that detail how to carry out a task. 
+
+```
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
 * [](zero-trust-the-foundation-of-modern-network-security)
 * [](secure-your-containers-today-for-a-safer-tomorrow)
@@ -22,18 +33,14 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](improving-devops-pipeline-security)
 * [](cloud-security-benefits-keep-your-data-safe-in-the-cloud)
 
-## Tools
-* [](improve-security-and-trust-with-cloud-based-key-control)
-* [](a-quick-start-guide-to-network-monitoring-and-security-features-in-aws)
-* [](aws-password-policies-know-your-options)
-* [](compliance-and-security-in-amazon-web-services-aws)
-* [](a-brief-introduction-to-aws-key-management-service)
-* [](a-brief-overview-into-containers-and-the-challenges-they-address)
-* [](understanding-user-roles-and-iam-in-aws)
-* [](additional-security-with-amazon-emr)
-* [](azure-sentinel-comprehensive-security-management-for-the-azure-cloud-platform)
 
 ## Techniques
+
+```{admonition} Why is learning cloud security techniques important?
+:class: dropdown
+
+```
+
 
 * [](secure-your-aws-root-account-with-5-best-practices)
 * [](securing-computing-resources)
@@ -44,3 +51,21 @@ Compliance with data security and privacy regulations is essential, and encrypti
 * [](best-practices-for-securing-privileged-access-in-the-cloud)
 * [](securing-privileged-access-in-the-cloud)
 * [](compliance-challenges-in-the-cloud)
+
+
+## Tools
+
+```{admonition} Why do I need to master cloud security tools?
+:class: dropdown
+
+```
+* [](improve-security-and-trust-with-cloud-based-key-control)
+* [](a-quick-start-guide-to-network-monitoring-and-security-features-in-aws)
+* [](aws-password-policies-know-your-options)
+* [](compliance-and-security-in-amazon-web-services-aws)
+* [](a-brief-introduction-to-aws-key-management-service)
+* [](a-brief-overview-into-containers-and-the-challenges-they-address)
+* [](understanding-user-roles-and-iam-in-aws)
+* [](additional-security-with-amazon-emr)
+* [](azure-sentinel-comprehensive-security-management-for-the-azure-cloud-platform)
+
