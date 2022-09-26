@@ -4,7 +4,10 @@ MCSI is special because it provides students with an opportunity to develop a po
 
 The following image is an [example](https://students.mosse-institute.com/student/9arEjhf18Wdej3PFcVKAaQBWK322) of a portfolio:
 
-<img class="grey-border mb-3" src="/images/platform/portfolio-example-1.png" alt="Jeremy Gardas MCSI Portfolio">
+```{thumbnail} ../images/platform/portfolio-example-1.png
+:alt: Jeremy Gardas MCSI Portfolio
+:class: block grey-border mb-3
+```
 
 A portfolio contains the following information:
 
@@ -24,7 +27,9 @@ MCSI's certifications covers all six levels of the Australian Signals Directorat
 
 This example is taken from our penetration testing certification:
 
-<img src="/images/platform/career-development-milestones.png" alt="ASD Cyber Skills Framework">
+```{thumbnail} ../images/platform/career-development-milestones.png
+:alt: ASD Cyber Skills Framework
+```
 
 ### What does each level mean?
 

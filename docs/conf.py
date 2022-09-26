@@ -104,5 +104,5 @@ html_favicon = 'assets/favicon.png'
 html_show_sourcelink = False
 
 def setup(app):
-    app.add_css_file("custom.css")
-    
+  app.add_css_file("custom.css")
+  

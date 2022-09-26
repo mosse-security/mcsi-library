@@ -1,15 +1,20 @@
 @import "sphinx-book-theme.css";
 
+a {
+  text-decoration: none !important;
+}
+
 h1 {
   color: #472D2D !important;
 }
+
 h2 {
   color: #553939 !important;
+  margin-top: 50px !important;
 }
 
 .block {
-
-    display: block;
+  display: block;
 }
   
 .grey-border {
@@ -19,4 +24,8 @@ h2 {
 .img-one {
   border-radius: 20px;
   box-shadow: 2px 2px 3px #14100fb4, 0px 0px 0px #E6E6E6, 0px 0px 0px #E6E6E6;
+}
+
+#main-content {
+  padding-bottom: 20px;
 }
