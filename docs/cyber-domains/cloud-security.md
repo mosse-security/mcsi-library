@@ -7,15 +7,21 @@ Compliance with data security and privacy regulations is essential, and encrypti
 
 ## Concepts
 
-```{admonition} Why is learning fundamental Red Team concepts important?
+```{admonition} Why is learning fundamental Cloud security concepts important?
 :class: dropdown
+
+There are a number of different technologies and approaches that can be used to secure data and applications in the cloud. Learning cloud security concepts is the key to take a comprehensive and layered approach.
 
 ```
 
-* [](hands-on-with-google-cloud-key-management-service-kms)
+
 * [](secure-your-docker-containers-for-peace-of-mind)
-* [](pillars-of-zero-trust-architecture)
 * [](securing-data-in-iaas-paas-and-saas)
+* [](securing-computing-resources)
+* [](secure-your-containers-today-for-a-safer-tomorrow)
+* [](improving-devops-pipeline-security)
+* [](cloud-security-benefits-keep-your-data-safe-in-the-cloud)
+* [](securing-network-assets-in-the-cloud)
 
 
 
@@ -23,15 +29,15 @@ Compliance with data security and privacy regulations is essential, and encrypti
 
 ```{admonition} What is a procedure and why it is important for cloud security?
 :class: dropdown
-A procedure is a set of instructions that detail how to carry out a task. 
+A procedure is a set of instructions that detail how to carry out a task. There are many procedures that are followed in order to maintain Cloud security. Following these procedures helps to ensure that the data is secure and protected.
 
 ```
+* [](pillars-of-zero-trust-architecture)
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
 * [](zero-trust-the-foundation-of-modern-network-security)
-* [](secure-your-containers-today-for-a-safer-tomorrow)
 * [](general-security-risks-when-applying-devops)
-* [](improving-devops-pipeline-security)
-* [](cloud-security-benefits-keep-your-data-safe-in-the-cloud)
+* [](compliance-challenges-in-the-cloud)
+
 
 
 ## Techniques
@@ -39,18 +45,17 @@ A procedure is a set of instructions that detail how to carry out a task.
 ```{admonition} Why is learning cloud security techniques important?
 :class: dropdown
 
+Cloud security techniques are important for ensuring the safety of data and applications in the cloud. These techniques can help to prevent data breaches, protect against malicious attacks, and help organizations improve their cloud security posture.
+
 ```
 
-
+* [](hands-on-with-google-cloud-key-management-service-kms)
 * [](secure-your-aws-root-account-with-5-best-practices)
-* [](securing-computing-resources)
 * [](securing-data-in-the-cloud-with-cryptographic-appliances)
 * [](security-measures-to-protect-your-aws-simple-storage-service-s3)
-* [](aws-elastic-load-balancing-elb-improving-your-security)
-* [](securing-network-assets-in-the-cloud)
 * [](best-practices-for-securing-privileged-access-in-the-cloud)
 * [](securing-privileged-access-in-the-cloud)
-* [](compliance-challenges-in-the-cloud)
+
 
 
 ## Tools
@@ -58,7 +63,10 @@ A procedure is a set of instructions that detail how to carry out a task.
 ```{admonition} Why do I need to master cloud security tools?
 :class: dropdown
 
+Cloud security tools are important for protecting data and applications in the cloud. They can help organizations to detect and prevent attacks, and to monitor and respond to threats. Tools can also help to automate security processes and to compliance with security policies.
+
 ```
+* [](aws-elastic-load-balancing-elb-improving-your-security)
 * [](improve-security-and-trust-with-cloud-based-key-control)
 * [](a-quick-start-guide-to-network-monitoring-and-security-features-in-aws)
 * [](aws-password-policies-know-your-options)
