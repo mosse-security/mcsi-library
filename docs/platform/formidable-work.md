@@ -32,7 +32,7 @@ If you wish to obtain a trophy, the most crucial step is to put our instructors'
 
 Some general ideas that will help you win trophies:
 
-1. Attempt difficult exercises
+1. Attempt difficult exercises, trophies are not provided for novice exercises
 2. Produce a clean and professional video
 3. Document your code professionally, as-if you intended to release it as an industry tool
 4. Produce a report that could be be shared with an employer
