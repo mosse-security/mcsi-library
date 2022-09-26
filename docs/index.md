@@ -3,7 +3,6 @@
 Mossé Cyber Security Institute (MCSI) offers an in-demand education for cyber security professionals. With a focus on hands-on experience, MCSI provides students with the skills they need to protect their organizations from cyber threats.
 
 MCSI's library is a great resource for aspiring cyber professionals. It contains a wealth of information on various cybersecurity topics, including penetration testing, incident response, reverse engineering, and more. The library is constantly updated with new resources, so it's a great place to stay up-to-date on the latest cybersecurity trends.
-<hr>
 
 ## Cyber domains 
 

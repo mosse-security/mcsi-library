@@ -1,7 +1,7 @@
 @import "sphinx-book-theme.css";
 
 a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 h1 {
@@ -10,6 +10,7 @@ h1 {
 
 h2 {
   color: #553939 !important;
+  margin-top: 50px !important;
 }
 
 .block {

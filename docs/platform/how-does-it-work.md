@@ -39,4 +39,7 @@ The following diagram shows the procedure for submitting exercises and receiving
 ```{thumbnail} ../images/platform/submission-process.svg
 ```
 
+```{admonition} Important!
+:class: danger
 **The instructors review exercises Monday to Friday. Your submission will usually be reviewed within 1 business day.**
+```
