@@ -131,7 +131,6 @@ ways-of-working/operational-planning
 :hidden:
 platform/career-pathways
 it-domains/cryptography
-it-domains/information-security
 ```
 
 ```{toctree}
