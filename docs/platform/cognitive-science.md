@@ -2,6 +2,8 @@
 
 Cognitive science is the study of the mind and how it works. It covers a wide range of topics, from how we learn and remember things, to how we think and make decisions. Cognitive science draws on a number of disciplines, including psychology, neuroscience and anthropology.
 
+## Professor Duane Dunston
+
 MCSI's platform uses a variety of teaching methods that are supported by cognitive science. The MCSI Method&trade; has been reviewed by Professor Duane Dunston, who specializes in developing methods to teach cybersecurity based on cognitive science.
 
 Here's what Prof. Dunston has to say about our platform:
