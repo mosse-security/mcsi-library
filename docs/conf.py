@@ -85,8 +85,6 @@ html_static_path = ["_static"]
 
 templates_path = ["_templates"]
 
-html_css_files = ["custom.css"]
-
 html_logo= "assets/logo.svg"
 
 html_theme_options = {
