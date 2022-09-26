@@ -5,16 +5,20 @@ Cryptography is the practice of secure communication in the presence of third pa
 
 ## Concepts
 
+This section introduces fundamental concepts of cryptography, including the history of cryptography, symmetric-key cryptography, and public-key cryptography:
+
 * [](introduction-to-cryptography-and-block-cipher-modes)
 * [](hashing-algorithms-the-quick-and-easy-way-to-verify-integrity-and-authentication)
 * [](introduction-to-rsa-encryption)
 * [](keep-your-secrets-safe-with-cryptography-and-steganography)
-* [](steghide-hiding-data-in-plain-sight)
-
+* [](how-practical-is-homomorphic-encryption)
 
 ## Techniques
 
 * [](hands-on-with-shared-key-encryption)
 * [](hands-on-with-public-key-cryptography)
 * [](hands-on-with-hash-functions)
-* [](how-practical-is-homomorphic-encryption)
+
+## Tools
+
+* [](steghide-hiding-data-in-plain-sight)

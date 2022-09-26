@@ -129,8 +129,9 @@ ways-of-working/operational-planning
 :maxdepth: 1
 :caption: "Concepts:"
 :hidden:
-platform/career-pathways
-it-domains/cryptography
+concepts/career-pathways
+concepts/cryptography
+concepts/network-security
 ```
 
 ```{toctree}
@@ -160,8 +161,6 @@ cyber-domains/vulnerability-research
 :hidden:
 
 it-domains/cloud-services
-it-domains/cryptography
-it-domains/network-security
 it-domains/os-internals
 it-domains/programming-and-scripting
 
