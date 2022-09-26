@@ -93,5 +93,5 @@ Third, use open source intelligence (OSINT) to gather information about the orga
 Finally, involve the defenders in the creation of the scenarios. This will help to build mutual trust and cooperation, and will also help to identify any potential weaknesses in the organisation's defences.
 
 :::{seealso}
-Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
-::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html) In this course, you'll learn about the different aspects of red teaming and how to put them into practice.
+:::

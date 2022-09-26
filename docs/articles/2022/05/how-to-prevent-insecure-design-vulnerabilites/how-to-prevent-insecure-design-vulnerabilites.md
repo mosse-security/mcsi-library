@@ -28,5 +28,5 @@ A design flaw, for example, could allow an attacker to circumvent security measu
 Even if we account for all of these issues, however, there are still design vulnerabilities that can be exploited by determined criminals. Social engineering ploys can be used to trick people into giving up their information, and malicious software can be installed on devices without the user ever knowing. The best way to protect yourself is to be aware of these risks and take steps to mitigate them. Use strong passwords, keep your software up to date, and don't click on links from untrustworthy sources. With a little effort, you can make it much harder for criminals to take advantage of you.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

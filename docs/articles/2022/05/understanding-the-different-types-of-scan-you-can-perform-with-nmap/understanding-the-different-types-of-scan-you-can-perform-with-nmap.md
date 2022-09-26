@@ -46,5 +46,5 @@ Port scanning provides the attacker with a variety of useful information, includ
 - Unwanted services on the ports should be blocked, and service versions should be updated.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

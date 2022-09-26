@@ -94,9 +94,8 @@ Here is an image of a packet capture.
 It displays seven ARP Request packets that were broadcast.
 According to physical address name resolution within Wireshark, the source device appears to be a Cisco device that is monitoring the status of various network devices.
 
-:::{seealso}
+
 PCAP from [Wireshark Sample Captures](https://wiki.wireshark.org/SampleCaptures)
-:::page
 
 How would we determine whether or not this is suspicious traffic? How do we know it's not an issue with the Cisco device's configuration or its normal behavior? Is Cisco equipment even present on the network?
 

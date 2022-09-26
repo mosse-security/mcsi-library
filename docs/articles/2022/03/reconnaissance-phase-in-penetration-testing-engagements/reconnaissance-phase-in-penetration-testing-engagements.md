@@ -132,5 +132,5 @@ This article has provided a detailed examination of the reconnaissance phase of 
 There are many reconnaissance tools and techniques available, and this article provides a few examples. We encourage you to try out as many of these tools as you can to determine which ones work best for your needs.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

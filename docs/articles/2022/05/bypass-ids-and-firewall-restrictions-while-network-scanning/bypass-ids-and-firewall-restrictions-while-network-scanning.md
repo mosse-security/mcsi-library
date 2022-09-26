@@ -80,5 +80,5 @@ By checking for any responses, an attacker can obtain information from an improp
 Nmap offers various techniques to bypass the firewall and IDS and these techniques only work if IDS/firewalls are misconfigured. So in a network that has IDS and firewalls properly configured most of these techniques may not work. Every situation is different so you need to decide which one will work for you.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

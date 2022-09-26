@@ -30,17 +30,17 @@ Set-SPN is a Windows command-line tool that is built into Windows Server operati
 
 Use the output of this command to discover SPNs associated with user accounts.
 
-<u>GetUserSPN.ps1:</u:::{seealso}
+<u>GetUserSPN.ps1:</u>
 This PowerShell script is part of the kerberoast toolkit published by Tim Medin on [github](https://github.com/nidem/kerberoast/blob/master/GetUserSPNs.ps1)
-::: This script can be leveraged to discover only those SPNs that are associated with a user account. In order to discover user service accounts run this script command from a PowerShell prompt as follows:
+This script can be leveraged to discover only those SPNs that are associated with a user account. In order to discover user service accounts run this script command from a PowerShell prompt as follows:
 
 `.\GetUserSPN.ps1`
 
 ![getuserspn](images/getuserspn.png)
 
-<u>Find-PSServiceAccount.ps1:</u:::{seealso}
+<u>Find-PSServiceAccount.ps1:</u>
 Another PowerShell script that can be leveraged to discover a user service account in a domain is Find-PSServiceAccount.ps1. This script is also a part of the PowerShell Active Directory reconnaissance toolkit found on [github](https://github.com/PyroTek3/PowerShell-AD-Recon/blob/master/Find-PSServiceAccounts)
-::: In order to discover user service accounts run this script command from a PowerShell prompt as follows:
+In order to discover user service accounts run this script command from a PowerShell prompt as follows:
 
 `.\Find-PSServiceAccounts.ps1 -Domain <Specify_the_domain_name_here>`
 

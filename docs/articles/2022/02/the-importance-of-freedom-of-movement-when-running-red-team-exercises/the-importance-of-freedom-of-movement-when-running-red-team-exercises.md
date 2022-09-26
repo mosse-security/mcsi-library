@@ -36,5 +36,5 @@ Without freedom of movement, the Red Team won't be able to effectively test the 
 Of course, there are some limits to what the Red Team can do. There are certain areas of the network that are off-limits, and the Red Team is not allowed to damage or abuse the systems they are attacking. But within these limits, the Red Team should be able to move around freely.
 
 :::{seealso}
-Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
-::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html) In this course, you'll learn about the different aspects of red teaming and how to put them into practice.
+:::

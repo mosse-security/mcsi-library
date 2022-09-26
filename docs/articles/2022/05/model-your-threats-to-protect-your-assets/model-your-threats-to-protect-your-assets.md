@@ -44,9 +44,9 @@ This step requires you to examine your system holistically and discover various 
 
 This step helps you in answering the second question, which is what could go wrong. This stage must be carried out in great detail, taking into account all possible situations for exploitation or failure. This stage will equip security experts with sufficient information to implement appropriate security measures in order to address the security issues.
 
-<u>3. Determine the security safeguards:</u:::{seealso}
+<u>3. Determine the security safeguards:</u>
 In this step, you decide how you will deal with each threat. This phase assists you in answering the threat modeling framework's third question. Depending on the risk posed by each threat, you can choose to accept, transfer, decrease, or avoid the risk. This stage helps to choose from different sets of security controls (physical, administrative, or technical)
-:::to mitigate the risk posed by each threat.
+to mitigate the risk posed by each threat.
 
 <u>4. Validation of security controls:</u>
 This phase allows you to see if the security controls you've chosen are actually reducing the risk posed by a specific threat. This stage aids you in answering the threat modeling framework's last question. This aids in evaluating the efficacy of security countermeasures and determining how to improve your security approach. This process should be continued throughout the system's development lifecycle. This is because different threats emerge as the system progresses through its developmental stages.
@@ -59,9 +59,9 @@ There are numerous frameworks available that can be utilized to simplify the eff
 
 Microsoft created the STRIDE threat modeling framework. Developers primarily utilize STRIDE to assess the security of applications. This model is used to identify threats that could jeopardize the system's confidentiality, integrity, or availability, as well as its authentication, authorization, and non-repudiation mechanisms. STRIDE stands for Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege. Each of these elements is described below:
 
-<u>1. Spoofing:</u:::{seealso}
+<u>1. Spoofing:</u>
 Spoofing occurs when an entity (user/program)
-:::masquerades as another entity trusted by the system. Spoofing is a technique used by attackers to get around a system's authentication procedures.
+masquerades as another entity trusted by the system. Spoofing is a technique used by attackers to get around a system's authentication procedures.
 
 <u>2. Tampering:</u> Tampering is the unauthorized alteration of a system or its components in order to change its behavior or data. A tampering attack compromises the system's integrity.
 

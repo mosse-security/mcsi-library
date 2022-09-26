@@ -602,5 +602,5 @@ As a supplement to the ASLR bypass, you might like another tool that was not use
 [Undocumented sysinternals](https://undocumented.ntinternals.net/)
 
 :::{seealso}
-Looking to expand your knowledge of vulnerability research and exploitation? Check out our online course, [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html)
-::: In this course, you'll learn about the different aspects of software exploitation and how to put them into practice.**
+Looking to expand your knowledge of vulnerability research and exploitation? Check out our online course, [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html) In this course, you'll learn about the different aspects of software exploitation and how to put them into practice.
+:::

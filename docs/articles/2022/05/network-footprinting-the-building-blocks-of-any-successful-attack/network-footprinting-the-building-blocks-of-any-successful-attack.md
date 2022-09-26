@@ -48,5 +48,5 @@ From line 14 to line 28, timeouts are displayed instead of information. This usu
 In final words, Network footprinting is a crucial step in the process of penetration testing. Attackers often use numerous tools to gather different kinds of network information. Which are the building block of any successful attack.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

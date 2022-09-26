@@ -55,5 +55,5 @@ This will find every URL in `s3.amazonaws.com` with the directory _backup_
 There are a few best practices to follow when using AWS S3 Buckets. First, it is important to enabling versioning on your bucket. This will allow you to keep track of all the different versions of files that are stored in the bucket, and you can easily revert back to older versions if necessary. Secondly, it is a good idea to enable MFA Delete on the bucket. This will add an extra layer of security and will help to prevent accidental deletions of files. Finally, it is important to set up access control lists (ACLs) on the bucket to ensure that only authorized users have access to the files.
 
 :::{seealso}
-Looking to expand your knowledge of cloud penetration testing? Check out our online course, [MCPT - Certified Cloud Penetration Tester](https://www.mosse-institute.com/certifications/mcpt-cloud-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of cloud penetration testing and how to put them into practice.**
+Looking to expand your knowledge of cloud penetration testing? Check out our online course, [MCPT - Certified Cloud Penetration Tester](https://www.mosse-institute.com/certifications/mcpt-cloud-penetration-tester.html) In this course, you'll learn about the different aspects of cloud penetration testing and how to put them into practice.
+:::

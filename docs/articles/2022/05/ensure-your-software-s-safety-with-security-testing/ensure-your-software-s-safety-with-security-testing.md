@@ -3,7 +3,7 @@
 
 # Ensure your Software's Safety with Security Testing
 
-Security testing is the process of assessing and testing software's security by discovering and mitigating various vulnerabilities and security concerns. Security testing's main purpose is to ensure that software or applications are resistant to cyber-attacks and may be used safely. By conducting security testing, organizations can identify and fix potential security issues before they are exploited by attackers. Once potential security issues have been identified, they can be mitigated by implementing security controls. Whether done manually or with automated tools, security testing is an important part of ensuring software security. 
+Security testing is the process of assessing and testing software's security by discovering and mitigating various vulnerabilities and security concerns. Security testing's main purpose is to ensure that software or applications are resistant to cyber-attacks and may be used safely. By conducting security testing, organizations can identify and fix potential security issues before they are exploited by attackers. Once potential security issues have been identified, they can be mitigated by implementing security controls. Whether done manually or with automated tools, security testing is an important part of ensuring software security.
 
 ## Importance of Security Testing in Web Applications:
 
@@ -74,9 +74,8 @@ Matrix testing is used to locate unused or un-optimized variables within the app
 <u>2. Regression Testing:</u>
 Regression testing, as mentioned above, is used to detect if any changes to the application are causing degradation in its performance/functionality.
 
-<u>3. Pattern Testing:</u:::{seealso}
-Pattern Testing is used to identify the patterns in the application (based on the history of past security weaknesses)
-:::that can lead to vulnerabilities.
+<u>3. Pattern Testing:</u>
+Pattern Testing is used to identify the patterns in the application (based on the history of past security weaknesses) that can lead to vulnerabilities.
 
 ## Types of Security Tests and Assessments:
 

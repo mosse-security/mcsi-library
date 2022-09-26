@@ -66,5 +66,5 @@ User behavior monitoring (UBM) is a security approach that detects and responds 
 Preventing privilege escalation is a critical security measure that should be included in any security strategy. By limiting user privileges and implementing least privilege policies, you can make it more difficult for attackers to gain access to sensitive data and systems. In addition, regularly auditing user privileges and activity can help you identify potential privilege escalation attempts and take action to prevent them.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

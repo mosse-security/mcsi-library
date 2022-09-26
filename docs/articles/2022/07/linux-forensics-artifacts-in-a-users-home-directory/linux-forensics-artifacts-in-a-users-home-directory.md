@@ -10,9 +10,9 @@ When a user account is created, a *home/* directory is also created for that use
 
 ## 1. Recently Used Files
 
-Within */home/[user]/.local/share* there is a file called *recently-used.xbel*, which stores information about which files were recently used on the machine. XBEL refers to XML Bookmark Exchange Language, which is a file format that stores every entry as a bookmark. The following screenshot shows the XML version information and a single bookmark entry, within the \<bookmark:::{seealso}
+Within */home/[user]/.local/share* there is a file called *recently-used.xbel*, which stores information about which files were recently used on the machine. XBEL refers to XML Bookmark Exchange Language, which is a file format that stores every entry as a bookmark. The following screenshot shows the XML version information and a single bookmark entry, within the \<bookmark>
 tag. It can be seen that *spark* has accessed the file *volatility-master.zip* in the */home/spark/Downloads* folder. The application that this file was used with is *Firefox*, that is underlined in red in the following screenshot. It could indicate that *spark* had downloaded this file via Firefox. You can also see the timestamps when this file was added and modified last. The timestamps are displayed relevant to the *[time zone](collecting-linux-system-information-for-dfir)
-::: the device is operating in.
+the device is operating in.
 
 ![alt text](images/home-1.png)
 

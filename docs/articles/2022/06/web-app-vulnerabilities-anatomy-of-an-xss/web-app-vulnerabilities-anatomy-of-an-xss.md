@@ -70,11 +70,11 @@ The following 1111111111111 the URL-encoded version:
 
 This code will be provided to us by the server:
 
-```html
+```{code-block} html
+:force:
 <h4>Hello</h4>
-<script:::{seealso}
+<script
   alert("This 1111111111111 an XSS")
-:::
 </script>
 ```
 

@@ -26,19 +26,18 @@ The drivers should take into account how the penetration test can be tailored to
 A variety of factors should be considered when selecting the target environments that need to be subject to penetration testing.
 
 - <u>The criticality of the systems:</u> To identify the most critical systems, your organization should consider the nature of the business, the size of the target system, and the sensitivity of the data associated with the system.
-- <u>Regulatory and compliance requirements:</u:::{seealso}
-Certain industries and data types are regulated and must be handled securely (like the financial sector, or credit card data). In this case, as part of the certification process, your regulator will require a penetration test. Penetration testing is also required by some industry standards, such as ISO 27001 and the Payment Card Industry Data Security Standard (PCI DSS)
-:::
+- <u>Regulatory and compliance requirements:</u>
+  Certain industries and data types are regulated and must be handled securely (like the financial sector, or credit card data). In this case, as part of the certification process, your regulator will require a penetration test. Penetration testing is also required by some industry standards, such as ISO 27001 and the Payment Card Industry Data Security Standard (PCI DSS)
 
 - <u>Major business or IT changes:</u> In today's dynamic world, most organizations make significant changes on a fairly regular basis, whether to business processes, applications, IT systems, or end user environments, many of which can have a significant impact on an organization's threat profile and security arrangements. As a result, it is critical to conduct a penetration test on a system immediately after a significant change to the system or the business environment it supports.
 
-- <u>Critical systems under development:</u:::{seealso}
-The decision to perform independent penetration testing on a new system is frequently made late in the project lifecycle. As a result, there is frequently insufficient time and budget for desired testing, and little ability to change the system as a result of any security vulnerabilities discovered. Security testing should thus, be fully integrated into your system development lifecycle (SDLC)
-:::rather than performed as a checkbox exercise at the end.
+- <u>Critical systems under development:</u>
+  The decision to perform independent penetration testing on a new system is frequently made late in the project lifecycle. As a result, there is frequently insufficient time and budget for desired testing, and little ability to change the system as a result of any security vulnerabilities discovered. Security testing should thus, be fully integrated into your system development lifecycle (SDLC)
+  rather than performed as a checkbox exercise at the end.
 
-- <u>Outsourced applications or infrastructure (including cloud services):</u:::{seealso}
-Many organizations rely heavily on services they have outsourced (often to cloud service providers)
-::: but an attacker is not limited by whether the organization manages its own environment or not. Any flaws in these third-party security can have a significant impact on the integrity of an organization's IT security.
+- <u>Outsourced applications or infrastructure (including cloud services):</u>
+  Many organizations rely heavily on services they have outsourced (often to cloud service providers)
+  but an attacker is not limited by whether the organization manages its own environment or not. Any flaws in these third-party security can have a significant impact on the integrity of an organization's IT security.
 
 If you are not permitted to test an important environment controlled by a third party, you should seek assurances that appropriate penetration tests are performed on a regular basis by appropriately qualified staff working for a certified organization. This can be achieved using Request for Information (RFI) documents.
 
@@ -105,5 +104,5 @@ The penetration testing team should formally get Authority to Commence and Opera
 Of course, this entire process can be streamlined, especially for minor penetration testing contracts. Pre-assessment surveys, template RFIs, template CONOP briefs, and other tools can help with this. As a penetration tester, you'd be wise to prepare all of these templates ahead of time and keep them up to date throughout your career.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

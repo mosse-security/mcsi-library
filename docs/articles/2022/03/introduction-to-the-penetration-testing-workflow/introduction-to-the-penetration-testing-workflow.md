@@ -92,5 +92,5 @@ One of the most significant parts of post-penetration testing is the implementat
 Finally, the penetration testing team may be allocated to mentor developers, system administrators and project managers. This may involve giving technical demonstrations, answering questions and delivering structured training. The objective is to upskill key IT personnel on cybersecurity to prevent similar vulnerabilities from being reintroduced in the IT environment.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

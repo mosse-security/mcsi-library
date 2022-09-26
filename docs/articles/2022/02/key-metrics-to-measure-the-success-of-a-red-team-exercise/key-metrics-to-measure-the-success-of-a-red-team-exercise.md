@@ -44,5 +44,5 @@ Organizations should take the time to identify which metrics are most important 
 A successful red team exercise is one that meets the objectives set out at the beginning. By measuring the key performance indicators, you can ensure that your red team exercise is successful.
 
 :::{seealso}
-Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
-::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html) In this course, you'll learn about the different aspects of red teaming and how to put them into practice.
+:::

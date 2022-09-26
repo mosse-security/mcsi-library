@@ -105,9 +105,8 @@ Email gateways are used to convert email messages between two email servers that
 <u>Payment Gateways:</u>
 Payment gateways act as a middleman between a seller's website and the buyer's bank, which processes credit/debit card transactions.
 
-<u>VOIP Gateways:</u:::{seealso}
-A VOIP Gateway connects a telephone company's network to the internet. For voice calls, the telecom provider may use an underlying technology such as PSTN (Public Switched Telephone Network)
-::: The VOIP gateway connects to the PSTN network and converts it into data packets that can be sent over the internet.
+<u>VOIP Gateways:</u>
+A VOIP Gateway connects a telephone company's network to the internet. For voice calls, the telecom provider may use an underlying technology such as PSTN (Public Switched Telephone Network) The VOIP gateway connects to the PSTN network and converts it into data packets that can be sent over the internet.
 
 <u>Default Gateway:</u>
 A default gateway is a device that connects a local internal network to the internet. Any network traffic between the local network and the internet is routed through the default gateway.

@@ -68,9 +68,7 @@ Let's suppose you want to crack a single user password that is contained in the 
 
 `john --single --format=raw-SHA1 hash.txt`
 
-You can also use this tool to crack password-protected zip files. In order to generate a hash of the password, we will use the zip2john command and store its output (using :::{seealso}
-operator)
-:::in a file called output.txt. Let's suppose our password-protected zip file is called test.zip. You can use this command to create its hash and store it in output.txt:
+You can also use this tool to crack password-protected zip files. In order to generate a hash of the password, we will use the zip2john command and store its output in a file called output.txt. Let's suppose our password-protected zip file is called test.zip. You can use this command to create its hash and store it in output.txt:
 
 `zip2john test.zip > output.txt`
 

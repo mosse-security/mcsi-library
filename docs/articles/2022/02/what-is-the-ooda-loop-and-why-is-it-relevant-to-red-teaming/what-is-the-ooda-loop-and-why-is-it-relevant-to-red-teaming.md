@@ -20,5 +20,5 @@ The OODA concept is vital for Red Teams who wish to be successful. The cycle of 
 This level of flexibility are able to deliver a higher quality engagement and better position themselves to achieve the goals outlined for the team. Additionally, a flexible team is more likely to maintain morale throughout difficult projects and be less likely to experience the politics that can so often cripple teams.
 
 :::{seealso}
-Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
-::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html) In this course, you'll learn about the different aspects of red teaming and how to put them into practice.
+:::

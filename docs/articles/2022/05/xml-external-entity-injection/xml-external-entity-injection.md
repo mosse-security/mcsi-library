@@ -67,5 +67,5 @@ This prevents external entities from being loaded, keeping your application safe
 As we can see, the XEE attack is a serious vulnerability that attackers can use to gain access to sensitive data. Because of the way XML parsers handle external entities, this type of attack is possible. It is critical to use a less vulnerable XML parser, such as the one provided by the Apache XML project, to protect against this type of attack. It is also critical to set your XML parser to reject external entities.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

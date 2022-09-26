@@ -31,9 +31,9 @@ Let's suppose you are using your Outlook email account to send an important busi
 
 The application layer takes the data from the corresponding application, adds the necessary information for its communication, and passes it onto the layer directly underneath it. This process is repeated for each layer until it reaches the destination computer. Some of the protocols that are supported at this layer are:
 
-<u>1. HTTP(Hypertext Transfer Protocol):</u:::{seealso}
+<u>1. HTTP(Hypertext Transfer Protocol):</u>
 HTTP is an application layer protocol used for transporting data (text, audio, video, etc.)
-:::across the internet.
+across the internet.
 
 <u>2. FTP(File Transfer Protocol):</u> FTP is an application layer protocol used for file transfer between two nodes over a computer network.
 
@@ -50,9 +50,9 @@ Every day, we send and receive several images via the internet. PNG (Portable Ne
 
 Data compression and encryption are also handled by the presentation layer. If the sender's application requires that the data be encrypted or compressed before being sent over the network, the presentation layer delivers the necessary information, such as encryption algorithms and compression techniques. The application on the destination computer will use this information to determine which program/techniques should be used for decryption or decompression. The following protocols are used at this layer:
 
-<u>1. MIME(Multipurpose Internet Mail Extension):</u:::{seealso}
+<u>1. MIME(Multipurpose Internet Mail Extension):</u>
 MIME is an extension of the SMTP protocol and is used to exchange different types of files (audio, video, text, or image)
-:::over email.
+over email.
 
 <u>2. AFP(Apple Filling Protocol):</u> AFP is a proprietary network protocol developed by Apple and is used to transfer files over a network.
 
@@ -83,9 +83,8 @@ Session layer protocols must provide authentication capabilities to ensure the s
 
 <u>2. PPTP(Point-to-point Tunneling Protocol):</u> PPTP is a secure communication protocol that is used to establish a VPN connection between two end points.
 
-<u>3. NetBIOS(Network Basic Input Output System):</u:::{seealso}
+<u>3. NetBIOS(Network Basic Input Output System):</u>
 NetBIOS protocol enables applications on different computers to communicate with each other and access shared resources over LAN(Local Area Network)
-:::
 
 <u>4. RPC(Remote Procedure Call):</u> RPC protocol allows an application on one computer to call a procedure on another application without having to know the application details on the receiving end.
 
@@ -131,9 +130,9 @@ The network layer and the LLC layer communicate directly. This layer is in charg
 
 The MAC layer receives frames from the LLC layer, adds headers and trailers, and forwards them to the physical layer for transmission. This layer gives a frame, a source and destination address, so that it can be sent to a specific network device. The MAC layer directly interfaces with the physical layer below it and controls the access to the physical transmission channel. Some of the protocols at the data link layer are:
 
-<u>1. ARP(Address Resolution Protocol):</u:::{seealso}
+<u>1. ARP(Address Resolution Protocol):</u>
 ARP protocol is used to convert the IP address(on the datagram from the network layer)
-:::to the physical MAC address of the destination device.
+to the physical MAC address of the destination device.
 
 <u>2. RARP(Reverse Address Resolution Protocol):</u> RARP protocol is used for the translation of the device's physical MAC address to the IP address.
 
@@ -147,17 +146,17 @@ The Physical Layer is the 1st layer of the OSI model. This layer deals with the 
 
 Physical features of transmission, including synchronization, data speeds, line noise, and transmission mechanisms, are controlled by protocols at this layer. The transmission medium can be guided, such as coaxial cables, twisted pair cables, fiber optic cables, and so on, or it can be an unguided wireless medium, such as air. Some of the protocols used at this layer are:
 
-<u:::{seealso}
+<u>
 1. DSL(Digital Subscriber Line)
-:::</u> DSL is a communication technology that is used for data transmission over telephone lines.
+</u> DSL is a communication technology that is used for data transmission over telephone lines.
 
-<u:::{seealso}
+<u>
 2. ISDN(Integrated Services Digital Network)
-:::</u> ISDN is a set of communication protocols for sending voice, data, and other types of traffic over the public switched telephone network circuits in a digital format.
+</u> ISDN is a set of communication protocols for sending voice, data, and other types of traffic over the public switched telephone network circuits in a digital format.
 
-<u:::{seealso}
+<u>
 3. SONET(Synchronous Optical Networking)
-:::</u> SONET is a telecommunication standard for data transmission over fiber-optic cables
+</u> SONET is a telecommunication standard for data transmission over fiber-optic cables
 
 :::{seealso}
 Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)

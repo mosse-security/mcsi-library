@@ -1,5 +1,6 @@
 :orphan:
 (find-out-what-is-banner-grabbing-and-how-to-prevent-it)=
+
 # Find out What is Banner Grabbing and How to Prevent it
 
 OS fingerprinting, also known as banner grabbing, is a technique for determining the operating system that is installed on the targeted machine. Once the operating system and its version are determined, the attacker then finds the system vulnerabilities and exploits that may work on that machine to carry out further attacks. Active and passive banner grabbing are the two types of banner grabbing.
@@ -50,5 +51,5 @@ When the port is open, it indicates that the service/banner is active on it. Whe
 - Hide file extensions to hide web technologies and change file extensions like .asp to .htm or .foo to hide the server's identity.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::

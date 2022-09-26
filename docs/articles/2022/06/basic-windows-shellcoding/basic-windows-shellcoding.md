@@ -114,7 +114,8 @@ The window displays all of the module's functions along with their respective ad
 
 `Arwin` is a straightforward piece of software that employs Windows functions to locate a library, load it, and obtain the address of the desired function it contains.
 
-```cpp
+```{code-block} cpp
+:force:
 #include <windows.h>
 #include <stdio.h>
 
@@ -144,9 +145,9 @@ int main(int argc, char** argv)
 	printf("arwin - win32 address resolution program - by steve hanna - v.01\n");
 	if(argc < 3)
 	{
-		printf("%s <Library Name:::{seealso}
+		printf("%s <Library Name
 <Function Name>\n",argv[0])
-:::
+
 		exit(-1);
 	}
 
@@ -419,5 +420,5 @@ Now the application does not display any errors - we see just calc being execute
 [ExitProcess](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-exitprocess)
 
 :::{seealso}
-Looking to expand your knowledge of vulnerability research and exploitation? Check out our online course, [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html)
-::: In this course, you'll learn about the different aspects of software exploitation and how to put them into practice.**
+Looking to expand your knowledge of vulnerability research and exploitation? Check out our online course, [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html) In this course, you'll learn about the different aspects of software exploitation and how to put them into practice.
+:::

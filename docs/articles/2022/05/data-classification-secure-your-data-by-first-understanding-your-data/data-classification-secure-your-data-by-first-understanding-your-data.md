@@ -45,9 +45,9 @@ Organizations can create different levels of information classification dependin
 
 The following are some of the most commonly utilized classification levels in commercial organizations:
 
-<u>Confidential:</u:::{seealso}
+<u>Confidential:</u>
 This is the most sensitive information in the company, and its unauthorized disclosure could result in catastrophic consequences for the company. This information is only accessible to senior management and a small group of carefully chosen personnel. Customers' PII (personally identifiable information)
-::: healthcare information, and company trade secrets are all examples of confidential information.
+healthcare information, and company trade secrets are all examples of confidential information.
 
 <u>Private:</u> This information is personal information to be utilized within the organization, and its unauthorized disclosure could have an adverse impact on the organization or its personnel. Medical information concerning employees, Human Resources information, and so forth are examples of private information.
 
@@ -73,25 +73,24 @@ The following are some of the classification levels commonly used in government 
 
 Organizations that store and process sensitive data must protect it in compliance with data privacy laws and security standards. The compliance requirements may differ depending on the industry in which the company operates and the type of data gathered and stored by the organization. This section lists some of the most common regulatory frameworks that require businesses to classify their data. These laws are as follows:
 
-<u>SOC2:</u:::{seealso}
+<u>SOC2:</u>
 The SOC2 audit is one of the most essential compliance requirements for businesses. This standard was developed by AICPA (American Institute of CPAs)
-::: SOC2 mandates organizations to safeguard the security and privacy of their customers' data. This standard addresses essential data protection issues, such as security, availability, confidentiality, integrity, and privacy. Organizations must implement data classification to protect the security and privacy of sensitive data throughout its lifecycle in order to achieve SOC2 compliance.
+SOC2 mandates organizations to safeguard the security and privacy of their customers' data. This standard addresses essential data protection issues, such as security, availability, confidentiality, integrity, and privacy. Organizations must implement data classification to protect the security and privacy of sensitive data throughout its lifecycle in order to achieve SOC2 compliance.
 
-<u>GDPR(General Data Protection Regulation):</u:::{seealso}
-The General Data Protection Regulation (GDPR) is a European Union (EU)
-:::data privacy and protection law that mandates businesses to implement suitable protection mechanisms to secure customer data. GDPR requires enterprises to identify all personal data relating to subjects that is collected, stored, utilized, or destroyed by them and to assess the sensitivity of data in order to apply adequate security controls. As a result, data classification is critical in achieving GDPR compliance.
+<u>GDPR(General Data Protection Regulation):</u>
+The General Data Protection Regulation (GDPR) is a European Union (EU)data privacy and protection law that mandates businesses to implement suitable protection mechanisms to secure customer data. GDPR requires enterprises to identify all personal data relating to subjects that is collected, stored, utilized, or destroyed by them and to assess the sensitivity of data in order to apply adequate security controls. As a result, data classification is critical in achieving GDPR compliance.
 
-<u>HIPAA(The Health Insurance Portability and Accountability Act):</u:::{seealso}
+<u>HIPAA(The Health Insurance Portability and Accountability Act):</u>
 The Health Insurance Portability and Account Act requires covered entities(healthcare providers, healthcare insurers, medical clearinghouses, and employer-sponsored healthcare plans) to protect the confidentiality, integrity, and availability of PHI(Protected Health Information)
-::: HIPAA mandates the organization to identify and classify all the healthcare-related information in order to apply physical, technical, and administrative countermeasures to protect its security and privacy.
+HIPAA mandates the organization to identify and classify all the healthcare-related information in order to apply physical, technical, and administrative countermeasures to protect its security and privacy.
 
 <u>PCI DSS(Payment Card Industry Data Security Standard):</u> The PCI DSS standard was developed to ensure that all businesses that collect, store, or process cardholder data implement the essential security controls. The PCI DSS standard requires enterprises to classify data in order to evaluate its sensitivity.
 
 <u>NIST SP 800-53:</u> The NIST SP 800-53 is a set of suggested security and privacy controls to aid in the development of secure and resilient federal information systems. To comply with NIST SP 800-53, organizations must classify data and the systems that hold/process it in order to apply the necessary safeguards to preserve their confidentiality, integrity, and availability.
 
-<u>ISO/IEC 27001:</u:::{seealso}
+<u>ISO/IEC 27001:</u>
 The ISO/IEC 27001 standard lays forth a set of guidelines for creating, implementing, maintaining, and improving an organization's ISMS(Information Security Management System)
-::: The ISO 27001 standard requires enterprises to complete asset inventories, assign security labels to information and information systems, and establish appropriate procedures to ensure their security. According to Information Classification Annex A.8.2 of this standard, the organization must classify information to establish its value to the organization.
+The ISO 27001 standard requires enterprises to complete asset inventories, assign security labels to information and information systems, and establish appropriate procedures to ensure their security. According to Information Classification Annex A.8.2 of this standard, the organization must classify information to establish its value to the organization.
 
 ## Personnel responsible for Data Classification:
 

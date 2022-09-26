@@ -53,5 +53,5 @@ There are numerous reasons why Red Team members should be able to create their o
 Remember that combining off-the-shelf products with custom tools is the best strategy! This is how it's done by the pros!
 
 :::{seealso}
-Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html)
-::: In this course, you'll learn about the different aspects of red teaming and how to put them into practice.**
+Looking to expand your knowledge of red teaming? Check out our online course, [MRT - Certified Red Teamer](https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html) In this course, you'll learn about the different aspects of red teaming and how to put them into practice.
+:::

@@ -99,5 +99,5 @@ That said, checklists can be a valuable part of an incident response plan if use
 By following the guidelines in this guide, your organization can create a playbook that will help to efficiently and effectively respond to any incident, reducing the overall impact on your business. Remember to tailor the playbook to your specific needs, and to continuously update and test it to ensure that it is effective.
 
 :::{seealso}
-Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
-::: In this course, you'll learn about the different aspects of incident response and how to put them into practice.**
+Looking to expand your knowledge of incident response? Check out our online course, [MDFIR - Certified DFIR Specialist](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html) In this course, you'll learn about the different aspects of incident response and how to put them into practice.
+:::

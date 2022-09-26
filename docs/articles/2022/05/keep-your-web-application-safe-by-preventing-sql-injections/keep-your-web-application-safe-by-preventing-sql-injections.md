@@ -46,5 +46,5 @@ Input validation and parametrized queries, including prepared statements, are th
 SQL injections are a serious threat to any website or application that relies on a SQL database. If you're not familiar with SQL injections, they are basically a way for attackers to inject malicious code into your database in order to extract sensitive information or wreak havoc on your data. While there are many different ways to prevent SQL injections, the best way is to use parameterized queries. Parameterized queries basically involve using placeholders for your SQL code, which makes it much harder for attackers to inject malicious code into your database.
 
 :::{seealso}
-Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html)
-::: In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.**
+Looking to expand your knowledge of penetration testing? Check out our online course, [MPT - Certified Penetration Tester](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) In this course, you'll learn about the different aspects of penetration testing and how to put them into practice.
+:::
