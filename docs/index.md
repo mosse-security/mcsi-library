@@ -160,7 +160,7 @@ cyber-domains/vulnerability-research
 :hidden:
 
 it-domains/cloud-services
-it-domains/linux-internals
+it-domains/cryptography
 it-domains/network-security
 it-domains/os-internals
 it-domains/programming-and-scripting
