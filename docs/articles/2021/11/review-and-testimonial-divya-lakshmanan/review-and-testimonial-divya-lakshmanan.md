@@ -98,4 +98,6 @@ I have learnt more on the platform than I have as a student in traditional acade
 
 Think of the knowledge as treasure. The platform provides a map for you to reach that treasure. It’s available for anybody who wants it. Do you want it?
 
-> **Want to learn practical Digital Forensics and Incident Response? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Digital Forensics and Incident Response? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

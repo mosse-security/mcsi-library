@@ -59,4 +59,6 @@ If you are someone who has the ability to identify patterns and unusual events, 
 
 The MCSI Online Learning Platform offers a certification titled “MCSI Certified Threat Hunter” that provides cyber threat hunting training. Happy learning!
 
-> **Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html).**
+:::{seealso}
+Want to learn practical Threat Hunting tactics and strategies? Enrol in [MTH - Certified Threat Hunter Certification](https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html)
+:::

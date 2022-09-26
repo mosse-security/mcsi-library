@@ -163,6 +163,7 @@ cyber-domains/vulnerability-research
 it-domains/cloud-services
 it-domains/linux-internals
 it-domains/network-security
+it-domains/os-internals
 it-domains/programming-and-scripting
-it-domains/windows-internals
+
 ```

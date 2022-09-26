@@ -123,4 +123,6 @@ If you are someone who can think and act quickly in high-pressure situations, th
 
 The MCSI Online Learning Platform offers a certification titled “MCSI Certified Digital Forensics and Incident Response Specialist”, that teaches you Incident Response skills. Happy learning!
 
-> **Want to learn practical Incident Response? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso}
+Want to learn practical Incident Response? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::

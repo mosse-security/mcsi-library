@@ -111,4 +111,8 @@ If you are unable to land a job, it is recommended to keep yourself engaged in t
 
 Hopefully, this post gave you a good primer to the world of digital forensics. Happy learning!
 
-> **Want to learn practical Digital Forensics and Incident Response? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html).**
+:::{seealso} 
+Want to learn practical Digital Forensics and Incident Response? Enrol in [MCSI's MDFIR - Certified DFIR Specialist Certification Programme](https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html)
+:::
+
+

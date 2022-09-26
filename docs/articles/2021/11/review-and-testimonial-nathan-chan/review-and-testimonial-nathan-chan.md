@@ -69,4 +69,6 @@ The creators of MCSI always want you to score the best and have the best for you
 
 I want to also shout out to Harris Wassylko and his team for making this happen, as it is not an easy job having to mark hundreds of assignments a day. This exemplifies the hard work put into the program. Thanks MCSI for everything!
 
-> **Want to learn practical Blue Team skills? Enrol in [MCSI's MBT - Certified Blue Teamer](https://www.mosse-institute.com/certifications/mbt-certified-blue-teamer.html).**
+:::{seealso}
+Want to learn practical Blue Team skills? Enrol in [MCSI's MBT - Certified Blue Teamer](https://www.mosse-institute.com/certifications/mbt-certified-blue-teamer.html)
+:::

@@ -75,4 +75,6 @@ If you select a training path that is based on your current role, you will be ab
 
 Finally, you will have a profile that you can show to employers or your current employer to see your progress or provide them with video evidence of your skill development.
 
-> **Want to learn practical Threat Intelligence Analyst skills? Enrol in [MCSI's MTIA - Certified Threat Intelligence Analyst Certification](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html).**
+:::{seealso}
+Want to learn practical Threat Intelligence Analyst skills? Enrol in [MCSI's MTIA - Certified Threat Intelligence Analyst Certification](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html)
+:::

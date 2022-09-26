@@ -24,8 +24,9 @@ Incident response concepts can help an organization determine the best course of
 
 ```{admonition} What is a procedure and a workflow and why are they important?
 :class: dropdown
-```
 Incident response procedures and workflow are important in helping to ensure that incidents are handled in a consistent and effective manner. Having well-defined procedures and a clear workflow can help to ensure that incidents are dealt with quickly and efficiently, and that the appropriate people are notified and involved in the response.
+```
+
 
 * [](cyber-incident-checklists)
 
@@ -46,6 +47,6 @@ Incident response techniques are important in helping to mitigate the impact of 
 
 ```{admonition} Why do I need to master Incident Response tools?
 :class: dropdown
-
+Incident response tools are important because they help organizations manage and respond to incidents effectively. These tools help organizations identify potential incidents, track and manage incidents, and communicate with stakeholders about incidents. They also help organizations plan for and respond to incidents effectively.
 ```
 * [](what-is-an-incident-response-toolkit)

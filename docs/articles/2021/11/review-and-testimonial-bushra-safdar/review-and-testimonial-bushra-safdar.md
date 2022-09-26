@@ -79,4 +79,6 @@ MCSI provides you with certificates for each and every exercise that you can use
 
 Also I really love how accepting this platform is of all the people all around the world without any discrimination and how it has formed into a unified community. MCSI provides an opportunity to students who are in any part of the world, to gain the skills required to break into the field of cyber security. That to me is just wonderful.
 
-> **Want to learn practical skills that will land you a job in cyber security? Enrol in [MCSI's MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html).**
+:::{seealso}
+Want to learn practical skills that will land you a job in cyber security? Enrol in [MCSI's MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html)
+:::
