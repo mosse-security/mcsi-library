@@ -20,7 +20,23 @@ The following is an example of feedback we provided to a student:
 
 ## Trophies
 
+MCSI rewards students with Gold and Platinum trophies to encourage them to produce formidable work. These trophies are a great way to motivate students to do their best and to show off their accomplishments.
 
+<img class="grey-border" src="/images/platform/trophies.png" alt="MCSI Trophies">
+
+```{admonition} How do I win a trophy?
+:class: hint
+
+If you wish to obtain a trophy, the most crucial step is to put our instructors' feedback into practice. Our goal is to assist you and the other students create formidable submissions, and we frequently offer advice and suggestions on how to create work that can win gold and platinum trophies.
+```
+
+Some general ideas that will help you win trophies:
+
+1. Attempt difficult exercises
+2. Produce a clean and professional video
+3. Document your code professionally, as-if you intended to release it as an industry tool
+4. Produce a report that could be be shared with an employer
+5. Apply all the guidelines that MCSI provides
 
 ## Hall of Fame
 
