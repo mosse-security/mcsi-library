@@ -71,7 +71,8 @@ Let’s start!
 
 `openssl genrsa -aes-256-cbc -out private.key`
 
-![](images/public-key-cryptography22.png)
+``` {thumbnail} images/public-key-cryptography22.png
+```
 
 **Step 2** Create a public key from your private key.
 
@@ -79,7 +80,8 @@ Let’s start!
 
 Enter your password if you have specified.
 
-![](images/public-key-cryptography23.png)
+``` {thumbnail} images/public-key-cryptography23.png
+```
 
 **Step 3** Create a file that will contain your hidden message.
 
@@ -87,12 +89,14 @@ Enter your password if you have specified.
 
 Type Ctrl+D when you are finished.
 
-![](images/public-key-cryptography26.png)
+``` {thumbnail} images/public-key-cryptography26.png
+```
 **Step 4** Encrypt the `hidden.txt` file using your public key.
 
 `openssl rsautl --encrypt -inkey public.key -pubin -in hidden.txt -out hidden.enc`
 
-![](images/public-key-cryptography27.png)
+``` {thumbnail} images/public-key-cryptography27.png
+```
 
 **Step 5** Until now, we have created a private key and a public key out of it. Then we encrypt a file with our public key to share with anybody we want. Now nobody can decrypt the message other than us, because only we have the private key ( assuming that you don’t share your private key with anybody).
 
@@ -100,19 +104,22 @@ Run this command for verification:
 
 `cat hidden.enc`
 
-![](images/public-key-cryptography28.png)
+``` {thumbnail} images/public-key-cryptography28.png
+```
 
 **Step 6** Now we will decrypt the hidden message using our private key.
 
 `openssl rsautl --decrypt -inkey private.key -in hidden.enc > decrypted.txt`
 
-![](images/public-key-cryptography29.png)
+``` {thumbnail} images/public-key-cryptography29.png
+```
 
 **Step 7** Open `decrypted.txt` with this command.
 
 `cat decrypted.txt`
 
-![](images/public-key-cryptography30.png)
+``` {thumbnail} images/public-key-cryptography30.png
+```
 
 :::{seealso}
 Do you want to get practical skills to work in cybersecurity or advance your career? Enrol in [MCSI Bootcamps](https://www.mosse-institute.com/bootcamps.html)

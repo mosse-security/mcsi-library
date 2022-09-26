@@ -90,35 +90,42 @@ In this quick exercise, we will compute the hash value of a text file with the S
 
 **Step-1)** Create a text file on your computer.
 
-![](images/hashing14.png)
+``` {thumbnail} images/hashing14.png
+```
 
 **Step-2)** Open Powershell, change the directory to where your file is located or specify the full path of your file in the following command by replacing the filename with yours.
 
 ` Get-FileHash .\hash.txt`
 
-![](images/hashing13.png)
+``` {thumbnail} images/hashing13.png
+```
 
 **Step-3)** Duplicate the file and make a slight change in the content.
 Run this code, replacing the file name with yours:
 
 ` Get-FileHash .\hash - Copy.txt`
 
-![](images/hashing16.png)
-![](images/hashing17.png)
+``` {thumbnail} images/hashing16.png
+```
+``` {thumbnail} images/hashing17.png
+```
 
 **Step-4)** Compare the two SHA256 results
 
 `(Get-FileHash .\hash.txt -A SHA256).hash -eq (Get-FileHash '.\hash - Copy.txt' -A SHA256).hash`
 
-![](images/hashing18.png)
+``` {thumbnail} images/hashing18.png
+```
 
 **Step-5)** Now let’s go back to your duplicated file and remove the modification. Now the two files have the same content.
 
-![](images/hashing19.png)
+``` {thumbnail} images/hashing19.png
+```
 
 **Step-6)** Let’s check their hashes with SHA256 again.
 Run the last command again.
 
-![](images/hashing20.png)
+``` {thumbnail} images/hashing20.png
+```
 
 Congratulations! You have successfully made a file integrity check on Windows Powershell using SHA256 algorithm.
