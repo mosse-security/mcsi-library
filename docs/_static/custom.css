@@ -25,3 +25,7 @@ h2 {
   border-radius: 20px;
   box-shadow: 2px 2px 3px #14100fb4, 0px 0px 0px #E6E6E6, 0px 0px 0px #E6E6E6;
 }
+
+#main-content {
+  padding-bottom: 20px;
+}
