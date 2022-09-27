@@ -49,3 +49,32 @@ The following are some fantastic things that Angela accomplished when she posed 
 
 ## Reporting Bugs
 
+Bugs and errors are an inevitable part of IT. No matter how much testing and debugging is done, there will always be some errors that slip through the cracks!
+
+**Have you found a bug with an exercise?**
+
+You can report a bug with an exercise by clicking the "report issue" button:
+
+<img alt="report bug with exercise" class="mb-3 grey-border" src="/images/platform/report-issue-button.png">
+
+There will be a pop-up box where you may describe the bug. Our team will then receive your message and look into the problem!
+
+**Have you found a bug with the platform?**
+
+You can report a bug in the platform via the "Help" section in the right-hand-side menu.
+
+<img alt="report platform bug" class="mb-3 grey-border" src="/images/platform/report-platform-bug.png">
+
+We will ask you to answer four questions:
+
+1. What is the object or "thing" that you're having a problem with?
+2. What is wrong with the object or "thing"? Do you know the cause of this fault?
+3. What steps should we follow to reproduce this fault?
+
+## Improving Exercises
+
+We would love to get feedback on our exercises! If you have any suggestions on how we could improve them, please let us know. We are always looking for ways to make our exercises more effective and enjoyable.
+
+You can provide suggestions to improve an exercise once you've passed it:
+
+<img alt="improve exercise button" class="mb-3 grey-border" src="/images/platform/improve-exercise-button.png">
