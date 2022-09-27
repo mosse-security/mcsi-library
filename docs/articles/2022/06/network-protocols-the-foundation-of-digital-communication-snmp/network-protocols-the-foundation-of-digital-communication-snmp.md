@@ -1,6 +1,6 @@
 :orphan:
 (network-protocols-the-foundation-of-digital-communication-snmp)=
-# Network protocols The Foundation of Digital Communication SNMP
+# Network Protocols: SNMP
  
 If a business has 1000 devices, checking each one individually every day to see if they are operating correctly or not is a time-consuming operation. Simple Network Management Protocol (SNMP) is used to help with this.
 

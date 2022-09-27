@@ -90,18 +90,8 @@ The library is organized by cyber domains in order to more easily facilitate res
 :::
 ::::
 
-
-<hr>
-## IT Domains
-
-<hr>
-
-## Ways of Working
-
-<hr>
-
 ```{toctree}
-:maxdepth: 8
+:maxdepth: 1
 :caption: "MCSI Platform:"
 :hidden:
 
@@ -130,8 +120,7 @@ ways-of-working/operational-planning
 :caption: "Concepts:"
 :hidden:
 concepts/career-pathways
-concepts/cryptography
-concepts/network-security
+concepts/it-systems
 ```
 
 ```{toctree}

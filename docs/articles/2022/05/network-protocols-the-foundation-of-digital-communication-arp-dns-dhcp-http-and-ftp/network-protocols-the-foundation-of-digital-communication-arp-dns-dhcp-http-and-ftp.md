@@ -1,7 +1,7 @@
 :orphan:
 (network-protocols-the-foundation-of-digital-communication-arp-dns-dhcp-http-and-ftp)=
 
-# Network protocols: The Foundation of Digital Communication - ARP, DNS, DHCP, HTTP and FTP
+# Network Protocols: ARP, DNS, DHCP, HTTP and FTP
 
 Our [previous blog post about network protocols](network-protocols-the-foundation-of-digital-communication-tcp-udp) covered the foundational protocols TCP/IP and UDP. In the additional parts of the Network protocols series, we will cover other protocols that almost all rely on TCP/IP or UDP to function. This article will continue with ARP, DNS, DHCP, HTTP and FTP.
 

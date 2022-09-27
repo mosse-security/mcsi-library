@@ -1,7 +1,7 @@
 :orphan:
 (network-protocols-the-foundation-of-digital-communication-tcp-udp)=
 
-# Network protocols: The Foundation of Digital Communication - TCP & UDP
+# Network Protocols: TCP & UDP
 
 Network protocols are the foundation of digital communication. Without them, we would not be able to communicate with each other or with computers. In the world of digital communication, two main protocols manage nearly all traffic: TCP and UDP. At a high level, these protocols are responsible for ensuring that packets are delivered reliably and in order between devices. TCP is responsible for ensuring that data is transferred correctly and in the correct order. UDP is responsible for ensuring that data is transferred quickly. Both have their own advantages and disadvantages, so it's important to understand the difference between the two.
 

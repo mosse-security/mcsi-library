@@ -1,8 +1,6 @@
 (fundamental-cybersecurity-concepts)=
 # Fundamental Concepts
 
-Cybersecurity is a rapidly evolving field, and students should begin by familiarizing themselves with basic concepts. These include understanding how computer systems work, how they are vulnerable to attack, and what measures can be taken to protect them. With this foundation in place, students can then move on to more specialized areas of study, such as network security or penetration testing. By starting with the basics, students will be better prepared to tackle the more complex topics that they will encounter later on.
-
 ## Introduction
 
 * [](cybersecurity-for-pre-beginners)
@@ -22,11 +20,7 @@ Cybersecurity is a rapidly evolving field, and students should begin by familiar
 * [](low-security-vpn-solution-point-to-point-tunneling-protocol)
 * [](the-best-way-to-decide-if-bring-your-own-device-byod-is-right-for-your-workplace)
 * [](defining-security-roles-and-responsibilities)
-* [](efficiency-meets-flexibility-with-cloud-computing)
-* [](hybrid-cloud)
-* [](what-is-a-private-cloud)
-* [](what-is-a-public-cloud)
-* [](get-the-most-out-of-your-systems-with-virtualization)
+
 * [](implement-physical-security-to-create-a-safe-and-secure-environment)
 * [](the-basics-of-securing-workstations-virtual)
 * [](biometric-readers-and-their-accuracy)

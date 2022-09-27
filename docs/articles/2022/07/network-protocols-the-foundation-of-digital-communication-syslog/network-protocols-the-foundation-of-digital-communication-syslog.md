@@ -1,7 +1,7 @@
 :orphan:
 (network-protocols-the-foundation-of-digital-communication-syslog)=
-# Network protocols The Foundation of Digital Communication Syslog
- 
+# Introduction to Syslog
+
 The System Logging Protocol (Syslog) is a standard message format that network devices can use to interact with a logging server. It was created primarily to make network device monitoring simple. A Syslog agent may be used by devices to send out notification messages under a variety of scenarios. These log messages contain a timestamp, a severity rating, a device ID (including IP address), and event-specific information. Despite its flaws, the Syslog protocol is extensively used because it is easy to develop and very open-ended, allowing for a variety of proprietary implementations and hence the ability to monitor practically any connected device. Syslog is compatible with all Unix, Linux, and other *nix operating systems, as well as MacOS. Although Windows-based servers do not natively support Syslog, various third-party applications are available to allow Windows devices to connect with a Syslog server.
 
 ## The Importance of Logging

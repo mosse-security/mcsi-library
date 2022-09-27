@@ -1,6 +1,6 @@
 :orphan:
 (network-protocols-the-foundation-of-digital-communication-imap-pop3-smtp-rdp-and-vnc)=
-# Network protocols: The Foundation of Digital Communication - IMAP, POP3, SMTP, RDP and VNC
+# Network Protocols: IMAP, POP3, SMTP, RDP and VNC
  
 
 In our [previous blog post on network protocols](network-protocols-the-foundation-of-digital-communication-tcp-udp) we covered the definition of a protocol, why they are important and began explaining some common protocols; TCP/IP and UDP. These are important network protocols as most other protocols rely on TCP/IP or UDP to perform their role. Our [second blog post on the subject of network protocols](network-protocols-the-foundation-of-digital-communication-arp-dns-dhcp-http-and-ftp) covered some additional network protocols and their reliance on either TCP/IP or UDP (or both). In this blog post, we continue to discuss network protocols that rely on either TCP/IP, UDP, or both.
