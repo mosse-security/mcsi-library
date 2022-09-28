@@ -44,6 +44,21 @@ Feel free to add more dimensions. Every incident is unique so you should adapt t
 
 When troubleshooting software, it is important to generate hypotheses and test them. This will help to identify the root cause of the problem and find a solution. One way to generate hypotheses is to brainstorm potential causes of the problem. Once you have a list of potential causes, you can then test each one to see if it is the actual cause of the problem. To test a hypothesis, you can try to reproduce the problem and see if the hypothesis is correct. If you are unable to find the root cause of the problem, it may be necessary to ask for help from others who are more experienced.
 
+## Example
+
+The following image shows how RCA is put in practice on a whiteboard:
+
+<img alt="RCA Example" class="grey-border mb-3" src="/images/problem-solving/rca-example-image.png">
+
+Some key points that are highlighted:
+
+1. This is a list of hypotheses generated that may explain the fault
+2. In this column, we crossed the hypotheses that were disproved
+3. Testing of some hypotheses was in progress, "50%" is how many test ideas were ruled out
+4. This is Dependency Tree - what triggers the fault, what does not, why not?
+5. An example of a hypothesis that was ruled out without testing, through pure logic
+6. Examples of tests for a hypothesis
+
 ## Where can I go for help if RCA doesn't work?
 
 We have found that RCA always succeeds. When it doesn't, it's because the practitioner didn't use the technique correctly or didn't fully comprehend the fault (i.e., it has not been properly dimensioned). In such cases, the following resources will prove helpful:
