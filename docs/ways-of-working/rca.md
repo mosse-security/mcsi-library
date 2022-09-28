@@ -13,7 +13,7 @@ There are two main approaches to problem solving: the intuitive approach and the
 
 If you encounter an IT issue, such as a software bug, you should first try to resolve it intuitively. However, you should only try this for 20 minutes the first time. If you are unable to resolve the issue in this amount of time, you must switch to a structured approach. It may take 1-3 hours to address a challenging problem using a structured approach. Though these issues are uncommon, a truly challenging situation can take many days to solve. Asking the community for assistance is the next step if structured RCA doesn't work.
 
-<img alt="When should I used a structured RCA technique?" class="mb-5" src="/images/problem-solving/structured-rca.svg">
+<img alt="When should I used a structured RCA technique?" class="block grey-border mx-auto" src="/images/problem-solving/structured-rca.svg">
 
 ## What are the steps in an RCA technique?
 
@@ -28,6 +28,8 @@ When troubleshooting an incident, it is important to first gather all of the rel
 Here's a simple template for an incident statement:
 
 <img alt="Incident Statement Template" class="grey-border mb-3" src="/images/problem-solving/incident-statement-template.png">
+
+Note that this methodology can be used to investigate a wide range of IT problems, including cyber intrusions.
 
 * <u>Step 2 - Identify all of the incident's dimensions</u>
 
@@ -44,9 +46,15 @@ There are many different dimensions to an incident. The most common dimensions a
 
 Feel free to add more dimensions. Every incident is unique so you should adapt the process to the problem you are facing.
 
+Here's an example of how "dimensioning" an incident looks like:
+
+<img alt="Dimensioning an incident" class="grey-border mb-3" src="/images/problem-solving/incident-domains-examples.png">
+
 * <u>Step 3 - Generate hypotheses and test them</u>
 
 When troubleshooting software, it is important to generate hypotheses and test them. This will help to identify the root cause of the problem and find a solution. One way to generate hypotheses is to brainstorm potential causes of the problem. Once you have a list of potential causes, you can then test each one to see if it is the actual cause of the problem. To test a hypothesis, you can try to reproduce the problem and see if the hypothesis is correct. If you are unable to find the root cause of the problem, it may be necessary to ask for help from others who are more experienced.
+
+<img alt="Hypothesis Generation and Testing" class="grey-border mb-3" src="/images/problem-solving/hypothesis-generation-and-testing.png">
 
 ## Whiteboard Example
 
