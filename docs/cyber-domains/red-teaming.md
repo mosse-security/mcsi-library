@@ -28,7 +28,10 @@ A workflow is a series of steps that are followed in order to complete an engage
 
 The image below proposes a workflow you can use to learn Red Teaming:
 
-<img alt="Red Teaming procedure and workflow" class="mb-5" src="/images/procedures/red-teaming.svg">
+```{thumbnail} ../images/procedures/red-teaming.svg
+:alt: Red Teaming procedure and workflow
+:class: block grey-border mb-5
+```
 
 **Articles:**
 
