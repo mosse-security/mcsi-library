@@ -11,6 +11,11 @@ h2 {
   margin-top: 50px !important;
 }
 
+h3 {
+  color: #553939 !important;
+  font-size: 1.5rem !important;
+}
+
 .block {
   display: block;
 }
