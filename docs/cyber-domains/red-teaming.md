@@ -2,13 +2,6 @@
 
 Red Teaming is a security testing method that simulates a real-world attack on an organization's systems and infrastructure. It is an important cybersecurity activity for organizations to use in order to identify weaknesses in their security posture and to harden their defenses against potential attacks. Red Teaming can help organizations to identify and fix vulnerabilities before they are exploited by attackers. Additionally, Red Teaming can help organizations to develop better incident response plans and to test their ability to detect and respond to attacks.
 
-## Concepts
-
-```{admonition} Why is learning fundamental Red Team concepts important?
-:class: dropdown
-A concept is an abstract idea that represents a general understanding of something. It is important to learn fundamental Red Team concepts because they provide a foundation for understanding more complex ideas. Concepts help us make sense of the world and communicate our thoughts and ideas to others. They are the building blocks of knowledge and the key to unlocking our potential. 
-```
-
 * [](why-do-we-red-team)
 * [](a-simple-introduction-to-red-blue-and-purple-teaming)
 * [](what-is-the-right-mindset-for-red-teaming)
@@ -27,7 +20,7 @@ A concept is an abstract idea that represents a general understanding of somethi
 ## Procedures
 
 ```{admonition} What is a procedure and a workflow and why are they important?
-:class: dropdown
+:class: tip
 A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
 
 A workflow is a series of steps that are followed in order to complete an engagement or a mission. In Red Teaming, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, Red Teamers can ensure that they are thorough in their tests and that they do not miss any important steps. 
@@ -44,21 +37,24 @@ The image below proposes a workflow you can use to learn Red Teaming:
 
 ## Techniques
 
-```{admonition} Why is learning Red Teaming techniques important?
-:class: dropdown
-Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
-```
+When discussing "red team techniques", we are referring to the various ways in which a security team can simulate a real-world attack on their systems in order to test their defenses. This can include everything from social engineering attacks (e.g. phishing) to more technical attacks (e.g. privilege escalation). One of the most important aspects of red teaming is that it allows organizations to see their systems from the perspective of an attacker.
 
 * [](ntfs-data-stream-manipulation)
 * [](data-exfiltration-with-the-help-of-linux-binaries)
 
 ## Tools
 
-```{admonition} Why do I need to master Red Team tools?
-:class: dropdown
-Red Team tools are used by organizations to test their security posture by simulating real-world attacks. These tools are important because they help organizations identify weaknesses in their defenses and prepare for potential threats. By using Red Team tools, organizations can improve their security and better protect their assets.
-```
+There are various tools that are used by red teams in order to assess and improve the security of an organization. Some of these tools include penetration testing, social engineering, and threat modeling. Red team tools can be used to identify vulnerabilities in an organization's systems and to help create a plan to mitigate these vulnerabilities.
+
+### Poor Man's Reverse Shells
+
+A reverse shell is a type of shell in which the primary purpose is to enable remote access to a machine, typically for the purpose of executing commands on the machine. Unlike a standard shell, which is typically accessed by logging into the machine, a reverse shell is accessed by connecting to the machine from another machine.
 
 * [](perform-remote-code-execution-with-the-use-of-reverse-shells)
 * [](using-netcat-as-a-reverse-shell)
+
+### Password Dumping
+
+There are two main methods for obtaining passwords: password dumping and password cracking. Password dumping is the process of extracting passwords from a system that has already been compromised. This can be done manually, by an attacker who has physical access to the system, or remotely, by exploiting a vulnerability in the system. Once the passwords have been obtained, they can be cracked, which is the process of guessing the passwords using a computer program.
+
 * [](password-grabbing-dump-and-crack-sam-hashes)
