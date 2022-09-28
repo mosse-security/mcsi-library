@@ -6,7 +6,7 @@ Penetration testing, also known as pen testing or ethical hacking, is the proces
 ## Procedures
 
 ```{admonition} What is a procedure and a workflow and why are they important?
-:class: dropdown
+:class: tip
 A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
 
 A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
@@ -14,7 +14,10 @@ A workflow is a series of steps that are followed in order to complete an engage
 
 The image below proposes a workflow you can use to learn penetration testing:
 
-<img alt="Penetration testing procedure and workflow" class="mb-5" src="/images/procedures/penetration-testing.svg">
+```{thumbnail} ../images/procedures/penetration-testing.svg
+:alt: Penetration testing procedure and workflow
+:class: block grey-border mb-5
+```
 
 **Articles:**
 
@@ -27,10 +30,7 @@ The image below proposes a workflow you can use to learn penetration testing:
 
 ## Techniques
 
-```{admonition} Why is learning penetration testing techniques important?
-:class: dropdown
-Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
-```
+There are several types of penetration testing techniques that can be used in order to assess the security of a system. One type of penetration testing is known as black box testing, which is where the tester has no knowledge of the system beforehand and attempts to find vulnerabilities through trial and error. Another type of penetration testing is known as white box testing, which is where the tester has full knowledge of the system and attempts to find vulnerabilities by looking for weaknesses in the system's design. One of the most common penetration testing techniques is known as social engineering, which is where the tester tries to trick users into revealing sensitive information or granting access to the system.
 
 * [](post-exploitation-information-collection-and-persistance-via-process-migration)
 * [](techniques-used-for-malware-obfuscation)
