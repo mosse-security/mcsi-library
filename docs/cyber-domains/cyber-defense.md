@@ -57,6 +57,10 @@ Endpoint security is a term that refers to the measures taken to protect the end
 * [](secure-your-servers-with-our-advice)
 * [](secure-browsing-101)
 * [](how-to-collect-information-about-a-microsoft-vulnerability)
+* [](securing-windows-an-introduction-to-windows-group-policy)
+* [](keep-your-computer-updated-for-improved-performance-and-security)
+* [](keep-your-security-posture-strong-with-vulnerability-management)
+* [](practical-windows-hardening-security-templates)
 
 ## Application Security
 
@@ -116,6 +120,7 @@ Active Directory (AD) is a directory service that Microsoft developed for Window
 
 Wireless security is the prevention of unauthorized access or damage to electronic data, whether in transit or stored locally. It includes both physical security measures to prevent tampering or theft, as well as logical security measures to prevent unauthorized access. Wireless security is a growing concern due to the increased use of wireless networks and devices. There are a variety of measures that can be taken to secure a wireless network. Physical security measures include the use of physical barriers such as walls or ceilings to block wireless signals, as well as the use of security devices such as locks or alarms. Logical security measures include the use of passwords, encryption, and other security protocols.
 
+- [](basic-wireless-technologies-and-an-example-of-their-exploits)
 * [](securing-wireless-network-based-idps-nidps)
 * [](wpa3)
 - [](wireless-attacks)
@@ -126,6 +131,13 @@ IoT security is a growing concern as more and more devices are connected to the 
 
 - [](securing-the-internet-of-things-iot-devices)
 - [](the-vulnerabilities-of-iot-devices)
+
+## Blockchain Security
+
+The security of blockchain technology is of paramount importance. The decentralized nature of the technology means that there is no central point of failure that could be exploited by malicious actors. Furthermore, the immutable nature of the blockchain means that once data has been recorded on the blockchain, it cannot be altered or deleted.
+
+- [](pros-and-cons-of-blockchain-in-cybersecurity)
+- [](blockchain-application-in-cybersecurity)
 
 ## Miscellaneous
 
@@ -139,8 +151,6 @@ There are a number of articles that don't fit into any specific category. These 
 
 ## Concepts
 
-- [](basic-wireless-technologies-and-an-example-of-their-exploits)
-- [](pros-and-cons-of-blockchain-in-cybersecurity)
 - [](basic-authentication-models)
 - [](an-overview-of-premise-systems-and-their-weaknesses)
 - [](weighing-the-risks-and-benefits-of-virtual-machines)
@@ -165,17 +175,12 @@ There are a number of articles that don't fit into any specific category. These 
 - [](securing-application-cookies)
 - [](prevent-buffer-overflows-before-they-happen)
 - [](secure-your-web-application-against-cross-site-scripting-xss)
-- [](practical-windows-hardening-security-templates)
 - [](how-do-you-prevent-brute-force-attacks)
 - [](how-to-prevent-insecure-design-vulnerabilities)
-- [](keep-your-computer-updated-for-improved-performance-and-security)
-- [](keep-your-security-posture-strong-with-vulnerability-management)
 - [](data-security-management-keep-your-data-safe-and-sound)
 - [](preventing-security-breaches-using-two-factor-authentication)
 - [](build-a-safe-testing-environment-for-suspicious-files-and-urls)
 - [](an-explanation-of-knowledge-and-behavior-based-detection-within-an-ids)
 - [](find-the-right-vulnerability-scanner-for-your-organization-s-needs)
-- [](securing-windows-an-introduction-to-windows-group-policy)
 - [](content-filtering-monitor-user-activity-to-identify-potential-risks)
 - [](an-insight-into-multi-factor-authentication)
-- [](blockchain-application-in-cybersecurity)
