@@ -1,7 +1,7 @@
 :orphan:
 (the-most-comprehensive-suite-of-tools-for-microsoft-windows)=
 
-# The Most Comprehensive Suite of Tools for Microsoft Windows
+# Sysinternals graphical tools
 
 Sysinternals is a suite of free products that was founded by Bryce Cogswell and Mark Russinovich in 1996 and later acquired by Microsoft. These tools are continually updated. These programs are useful not just for managing, diagnosing, troubleshooting, and monitoring a Microsoft Windows environment, but also for Malware Analysts and Threat Hunters.
 

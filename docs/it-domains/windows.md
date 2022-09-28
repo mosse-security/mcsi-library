@@ -4,9 +4,10 @@ The Windows operating system is a series of software programs that manage the ha
 
 ## Software
 
+Windows software refers to a type of computer program that is designed to run on the Windows operating system. This includes both desktop and mobile apps, as well as any other type of software that is designed to run on Windows devices. The Windows operating system is a widely used platform, and as such, there is a large market for software that is designed to run on it. This includes both popular consumer apps as well as more specialized business and industrial applications. Due to the popularity of the Windows platform, many software developers have focused their efforts on creating programs that are designed to run on it.
+
 * [](pstools)
 * [](the-most-comprehensive-suite-of-tools-for-microsoft-windows)
-* [](run-32-bit-windows-based-applications-on-64-bit-windows-with-wow64)
 
 ## OS Internals
 
@@ -14,3 +15,4 @@ The Windows Internals refers to the inner workings of the Microsoft Windows oper
 
 * [](windows-internals-processes)
 * [](get-a-handle-on-windows-processes-and-services-for-better-anomaly-identification)
+* [](run-32-bit-windows-based-applications-on-64-bit-windows-with-wow64)

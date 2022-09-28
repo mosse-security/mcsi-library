@@ -1,7 +1,6 @@
 :orphan:
 (pstools)=
-# Pstools
- 
+# The sysinternal command line tools
 
 Mark Russinovich created the PS Tools Kit, a collection of 13 tools. These utilities are command-line tools that allow you to launch processes on remote computers and redirect console application output to the local system, making it appear that the applications are running locally. All of these tools are compatible with Windows NT and later versions. Because they are console applications, these tools can be used on both a local computer and a remote host. 
 
