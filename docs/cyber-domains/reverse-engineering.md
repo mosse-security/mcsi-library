@@ -15,7 +15,7 @@ Reverse engineering is the process of taking something apart and figuring out ho
 ## Procedures
 
 ```{admonition} What is a procedure and a workflow and why are they important?
-:class: dropdown
+:class: tip
 A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
 
 A workflow is a series of steps that are followed in order to complete an engagement. In reverse engineering, a workflow is important in order to ensure that all steps are followed in order to complete the reverse engineering process. By following a workflow, reverse engineers can ensure that they are thorough in their analysis and that they do not miss any important steps. 
@@ -23,14 +23,14 @@ A workflow is a series of steps that are followed in order to complete an engage
 
 The image below proposes a workflow you can use to learn malware analysis:
 
-<img alt="Reverse engineering procedure and workflow" class="mb-5" src="/images/procedures/malware-analysis.svg">
+```{thumbnail} ../images/procedures/malware-analysis.svg
+:alt: Reverse engineering procedure and workflow
+:class: block grey-border mb-5
+```
 
 ## Techniques
 
-```{admonition} Why do I need to learn reverse engineering techniques?
-:class: dropdown
-Techniques are important because they provide a means of achieving a desired outcome. They can be used to improve skills, to develop new ones, or to simply get a job done. There are many different techniques that can be employed, and the right one for any given situation depends on the goal. The most important thing is to select the appropriate technique and to use it correctly.
-```
+Reverse engineering techniques can be applied to any system, but are commonly used on software and hardware. There are a variety of reverse engineering techniques, each with its own strengths and weaknesses.
 
 ### Analyzing Portable Executable (PE) Files
 
@@ -69,10 +69,7 @@ Malware Injection Techniques are used by attackers to insert malicious code into
 
 ## Tools
 
-```{admonition} Why do I need to master reverse engineering tools?
-:class: dropdown
-Reverse engineering tools are critical for malware analysis because they allow analysts to understand how malware works and identify its capabilities. By understanding the internals of malware, analysts can more effectively defend against it and develop countermeasures. Additionally, reverse engineering tools can be used to create signatures for detection purposes.
-```
+There are a number of different tools that can be used for reverse engineering. These tools can be used to decompile code, to extract information from binaries, and to analyze data. Reverse engineering tools can be used to understand how a system works, to find vulnerabilities, and to create new programs that work with the system.
 
 * [](tools-to-get-you-started-in-malware-analysis)
 * [](introduction-to-debuggers-and-disassemblers)
