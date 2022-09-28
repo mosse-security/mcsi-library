@@ -6,34 +6,37 @@ Digital forensics is the science of acquiring, analyzing and reporting on digita
 
 Digital forensics is a rapidly growing field, as more and more crimes are committed using digital devices. The field requires a strong understanding of computer science and investigation techniques.
 
-## Concepts
-
-```{admonition} Why is learning fundamental Digital Forensics concepts important?
-:class: dropdown
-A concept is an abstract idea that represents a general understanding of something. Digital forensics concepts are important in today's digital world because they help us to understand how to collect, preserve and analyse digital evidence.
-```
-
+- [](a-day-in-the-life-of-a-digital-forensic-investigator)
+- [](build-your-own-digital-forensics-lab-at-home)
 - [](endian-systems-explained-little-endian-vs-big-endian)
 - [](file-magic-numbers-the-easy-way-to-identify-file-extensions)
-- [](uncover-crucial-information-within-memory-dumps)
-- [](windows-hibernation-files-in-digital-forensics)
 - [](importance-of-timelines-in-a-forensic-investigation)
-- [](get-the-most-out-of-the-windows-registry-in-your-digital-forensic-investigations)
-- [](windows-volume-shadow-copies-in-digital-forensics)
-- [](forensic-importance-of-windows-file-management)
+- [](digital-forensics-hashing-for-data-integrity)
+- [](search-seize-preserve-digital-evidence)
+- [](application-of-scripting-in-digital-forensics)
+
+## Windows Forensics
+
+Windows forensics is the process of using investigative techniques to collect, analyze, and report data about a digital event that occurred on a computing device running the Microsoft Windows operating system. The data collected can be used to answer questions about what happened, when it happened, how it happened, and who was involved. Windows forensics is a specialized form of digital forensics that is designed to take advantage of the unique features and capabilities of the Windows operating system. Because of the way that Windows stores data and tracks activity, forensics investigators can use Windows forensics techniques to gain a more complete understanding of a digital event. 
+
+- [](performing-digital-forensics-on-a-windows-machine)
 - [](windows-file-system-journal-in-digital-forensics)
 - [](windows-event-logs-in-digital-forensics)
 - [](windows-scheduled-tasks-in-digital-forensics)
 - [](windows-shellbags-in-digital-forensics)
 - [](windows-ntfs-file-attributes-for-digital-forensics)
+- [](windows-hibernation-files-in-digital-forensics)
+- [](windows-volume-shadow-copies-in-digital-forensics)
+- [](forensic-importance-of-windows-file-management)
 - [](significance-of-windows-alternate-data-streams-in-dfir)
-- [](digital-forensics-hashing-for-data-integrity)
-- [](search-seize-preserve-digital-evidence)
-- [](application-of-scripting-in-digital-forensics)
-- [](web-browser-forensics-uncovering-the-hidden-evidence-in-your-browser) 
-- [](a-day-in-the-life-of-a-digital-forensic-investigator)
+- [](windows-file-system-tunneling-in-digital-forensics)
+- [](windows-prefetch-files-may-be-the-answer-to-your-investigation)
+- [](windows-recycle-bin-forensics-dumpster-diving-for-evidence)
+- [](get-the-most-out-of-the-windows-registry-in-your-digital-forensic-investigations)
 
-### Linux Forensics
+## Linux Forensics
+
+Linux forensics is the process of using investigative techniques to collect, analyze, and report on evidence from a Linux system. Linux forensics is a critical tool for investigating incidents on Linux systems. When an incident occurs, forensics can be used to identify the cause, confirm the identity of the attacker, and gather evidence for prosecution. Linux forensics is a complex process, and there are many tools and techniques that can be used to collect and analyze evidence. In order to be effective, Linux forensics must be tailored to the specific needs of the investigation.
 
 - [](timestamp-format-in-windows-linux-mac-os)
 - [](a-gentle-introduction-to-digital-forensics-on-linux)
@@ -53,40 +56,22 @@ A concept is an abstract idea that represents a general understanding of somethi
 - [](linux-forensics-network-artifacts)
 - [](linux-forensics-enumerating-users-and-groups)
 
-## Procedures
+## Memory Forensics
 
-```{admonition} What is a procedure and a workflow and why are they important in Digital Forensics?
+In computer security, memory forensics is the art of acquiring and analyzing digital evidence from a computer's memory dump. Memory forensics is a critical component of incident response, as it can provide insight into what a malicious actor was doing on a system prior to being detected. Memory forensics is a relatively new field, and as such, there are a limited number of tools and techniques available to practitioners. However, memory forensics is a critical tool in the arsenal of any security professional, as it can provide insights that would otherwise be unavailable.
 
-:class: dropdown
-A digital forensic procedure is a set of instructions for conducting a digital forensic investigation. It is important to have procedures in place so that tasks can be carried out efficiently and consistently.
-
-A digital forensic workflow is a series of steps that are followed in order to complete a digital forensic investigation. Digital forensics procedures and workflow are important in order to ensure that data is collected and analyzed correctly. 
-```
-- [](performing-digital-forensics-on-a-windows-machine)
-
-
-## Techniques
-
-```{admonition} Why is learning Digital Forensics techniques important?
-:class: dropdown
-Digital forensics techniques are important in helping to investigate and prosecute crimes that have been committed using computers or other digital devices. These techniques can help to recover evidence that may have been deleted or hidden, and they can also be used to track down the culprits behind the crimes.
-```
-
-- [](windows-file-system-tunneling-in-digital-forensics)
-- [](windows-prefetch-files-may-be-the-answer-to-your-investigation)
-- [](windows-recycle-bin-forensics-dumpster-diving-for-evidence)
-- [](an-overview-of-insider-threats-and-how-to-defend-against-them)
-
-## Tools
-
-```{admonition} Why do I need to master Digital Forensics tools?
-:class: dropdown
-Digital forensics tools are important for helping to investigate and prosecute crimes that have been committed using computers or other digital devices. These tools can help to recover data that has been deleted or hidden, and they can also be used to track down the source of illegal or unauthorized activity
-```
-- [](get-the-evidence-you-need-with-forensic-images)
-- [](build-your-own-digital-forensics-lab-at-home)
+- [](uncover-crucial-information-within-memory-dumps)
+- [](discover-the-truth-with-memory-forensics)
 - [](make-memory-forensics-easier-with-volatility-profiles)
+
+## Browser Forensics
+
+Browser forensics is the process of using forensic tools and techniques to examine web browsers and collect evidence of web-based activity. This process can be used to investigate a wide variety of crimes, including cybercrime, fraud, and child exploitation. There are a number of different ways to collect evidence from a web browser, including examining web browser history, cookies, and cached files.
+
+- [](web-browser-forensics-uncovering-the-hidden-evidence-in-your-browser) 
+
+## Other Tools
+
+- [](get-the-evidence-you-need-with-forensic-images)
 - [](the-strings-tool-extracting-text-for-digital-forensics)
 - [](providing-clarity-in-the-face-of-adversity-digital-forensics-reports)
-- [](discover-the-truth-with-memory-forensics)
-
