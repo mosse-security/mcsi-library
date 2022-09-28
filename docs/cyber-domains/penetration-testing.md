@@ -145,12 +145,3 @@ Metasploit is a free and open source penetration testing platform that enables y
 * [](enumerating-smtp-with-metasploit)
 * [](tcp-udp-and-smb-auxiliary-modules-in-metasploit)
 * [](exploiting-eternalblue-with-metasploit)
-
-### Wireshark
-
-Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.
-
-Wireshark can be used for penetration testing in order to find security vulnerabilities in a network. By capturing and analyzing network traffic, Wireshark can help identify weak points in a system that can be exploited by an attacker.
-
-* [](identifying-arp-request-packets-with-wireshark)
-* [](hands-on-with-wireshark-basic-os-and-vendor-analysis)
