@@ -109,9 +109,11 @@ platform/asking-for-help
 :caption: "Ways of Working:"
 :hidden:
 
+ways-of-working/analytics-techniques
 ways-of-working/charts-and-graphics
 ways-of-working/operational-planning
 ways-of-working/problem-solving
+ways-of-working/rca
 ```
 
 ```{toctree}
