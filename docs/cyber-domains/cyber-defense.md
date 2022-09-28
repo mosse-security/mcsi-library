@@ -15,8 +15,7 @@ Cybersecurity is a rapidly evolving field, and students should begin by familiar
 - [](don-t-be-the-next-victim-understand-the-attack-lifecycle)
 - [](the-importance-of-security-training-and-awareness)
 - [](an-overview-of-due-diligence-and-due-care-in-cyber-security)
-- [](a-hotfix-what-is-it)
-- [](introduction-to-patching)
+* [](the-importance-of-crowd-sourced-security-in-cybersecurity-landscape)
 
 ## Cyber Threats
 
@@ -53,8 +52,11 @@ Network security is a broad term that refers to the various measures taken to pr
 
 Endpoint security is a term that refers to the measures taken to protect the endpoint devices in a network from being compromised. These measures can include both hardware and software solutions, and they are designed to prevent unauthorized access to the devices and to the data they contain. The term “endpoint” refers to any device that has the potential to connect to a network, including computers, laptops, smartphones, and tablets. Endpoint security is therefore a critical part of overall network security. There are a number of different ways to secure endpoint devices, including the use of firewalls, anti-virus software, and encryption. In many cases, a combination of these methods is used to provide the most comprehensive protection possible.
 
+* [](a-hotfix-what-is-it)
+* [](introduction-to-patching)
 * [](secure-your-servers-with-our-advice)
 * [](secure-browsing-101)
+* [](how-to-collect-information-about-a-microsoft-vulnerability)
 
 ## Application Security
 
