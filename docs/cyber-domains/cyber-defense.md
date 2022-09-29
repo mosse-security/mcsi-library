@@ -4,10 +4,28 @@
 
 In the age of the internet, cyber defense is more important than ever. There are a variety of ways to protect your computer and your data, and it is important to be aware of all of them. Firewalls, antivirus software, and strong passwords are all important tools in the fight against cybercrime. In addition to these technical measures, it is also important to be aware of the risks of clicking on links or opening attachments from unknown sources. These can be the gateway for malware and viruses to enter your system. Be cautious and stay safe online!
 
-## Cyber Threats
+* [](cybersecurity-for-pre-beginners)
+* [](a-short-introduction-to-the-major-cyber-disciplines)
+* [](getting-started-with-security-operations-center-soc)
+* [](soc-security-functions)
+* [](defining-security-roles-and-responsibilities)
+
+## Principles and Key Ideas
+
+There are several cyber security principles that are important to consider when protecting your online information. The first principle is confidentiality, which refers to the need to keep information private and secure. This is important because if information is leaked, it can be used to exploit vulnerabilities or commit fraud. The second principle is integrity, which means that information should be accurate and reliable. This is important because if information is inaccurate, it can lead to incorrect decisions being made. The third principle is availability, which refers to the need to keep information accessible to those who need it.
+
+* [](cia-triad)
+* [](the-parkerian-hexad-a-more-complete-set-of-information-security-elements)
+* [](the-three-a-s-of-security-authentication-authorization-and-accounting)
+* [](the-importance-of-data-integrity-in-information-security)
+
+## Cyber Threats and Attacks
 
 Cyber threats are a type of risk that can arise from the use of technology. They can take many forms, including viruses, malware, phishing attacks, and denial-of-service attacks. Cyber threats can pose a significant risk to organizations, as they can lead to the loss of confidential information, damage to systems, and interruption of business operations. Cyber threats can also have a significant impact on individuals, as they can result in the loss of personal information, identity theft, and financial loss.
 
+- [](understand-the-different-types-of-cyber-threats)
+- [](understand-the-different-types-of-hackers)
+- [](threat-actors-in-cyberspace)
 - [](the-attacker-mindset-the-dad-triad)
 - [](what-are-software-backdoors)
 - [](dont-let-rootkits-take-control)
@@ -19,6 +37,19 @@ Cyber threats are a type of risk that can arise from the use of technology. They
 - [](advanced-persistent-threat-lifecycle)
 - [](don-t-be-the-next-victim-understand-the-attack-lifecycle)
 - [](what-are-zero-day-vulnerabilities-and-who-uses-them)
+- [](social-engineering-basic-principals-attacks-phases-and-prevention)
+- [](dont-be-bait-for-phishing-attacks)
+- [](cyber-kill-chain-protect-your-system-by-understanding-the-attackers-methods)
+- [](protect-your-organization-by-learning-common-cyber-attack-classifications)
+- [](privilege-escalation-don-t-let-the-bad-guys-get-ahead)
+- [](learn-about-the-different-ways-malware-can-infect-your-system)
+- [](ransomware-security-against-extortion)
+- [](be-malware-aware-what-are-the-different-types-of-malware)
+- [](dont-let-a-dos-attack-take-you-down)
+- [](watch-out-for-these-visual-signs-of-a-malware-infection)
+- [](be-aware-of-person-in-the-middle-attacks-and-take-steps-to-prevent-them)
+- [](be-botnet-and-zombie-aware-for-a-safer-internet)
+- [](stay-protected-from-bluetooth-threats)
 
 ## Network Security
 
@@ -42,6 +73,17 @@ Network security is a broad term that refers to the various measures taken to pr
 * [](content-filtering-monitor-user-activity-to-identify-potential-risks)
 * [](find-the-right-vulnerability-scanner-for-your-organization-s-needs)
 * [](an-explanation-of-knowledge-and-behavior-based-detection-within-an-ids)
+* [](vulnerability-scanners-result-accuracies)
+* [](stop-cyberattacks-before-they-start-with-an-intrusion-detection-system)
+* [](how-do-intrusion-detection-systems-work)
+* [](you-re-never-too-far-from-the-office-with-a-vpn)
+* [](low-security-vpn-solution-point-to-point-tunneling-protocol)
+* [](server-client-communication-security-digital-certificates)
+* [](site-to-site-vpn-for-secure-connections-between-business-offices-and-partners)
+* [](the-best-way-to-decide-if-bring-your-own-device-byod-is-right-for-your-workplace)
+* [](the-advantages-and-disadvantages-of-proxy-servers)
+* [](siem-security-made-easy)
+* [](the-right-type-of-alert-for-the-right-result)
 
 ## Endpoint Security
 
@@ -67,6 +109,7 @@ Endpoint security is a term that refers to the measures taken to protect the end
 Application security refers to measures taken to secure applications from threats. These measures can include things like securing data inputs and outputs, implementing authentication and authorization controls, and protecting against common attacks like SQL injection. Application security is important because applications are often the target of attacks. By securing applications, we can help to prevent data breaches, ensure data integrity, and protect against other types of attacks.
 
 * [](keep-your-online-applications-safe-with-a-web-application-firewall-waf)
+* [](choose-the-right-application-control-for-your-organization-with-whitelisting-and-blacklisting)
 
 ## Logging and Monitoring
 
@@ -126,6 +169,7 @@ Wireless security is the prevention of unauthorized access or damage to electron
 * [](securing-wireless-network-based-idps-nidps)
 * [](wpa3)
 * [](wireless-attacks)
+* [](keep-your-data-safe-encrypt-your-wireless-devices)
 
 ## IoT Security
 
@@ -142,6 +186,30 @@ Authentication security is the process of verifying the identity of a user or pr
 - [](an-insight-into-multi-factor-authentication)
 - [](an-example-of-authentication-attacks)
 - [](preventing-security-breaches-using-two-factor-authentication)
+* [](get-to-know-the-features-of-biometric-factors)
+- [](biometric-readers-and-their-accuracy)
+- [](identification-and-authentication-methods-kerberos)
+- [](remote-access-authentication-pap-and-chap)
+
+## Virtualization Security
+
+Virtualization security is the process of securing a virtualized environment from unauthorized access and potential threats. This process includes creating and maintaining secure virtual machine images, as well as configuring security settings for the virtualized environment. Virtualization security is a critical component of securing data and systems in a virtualized environment. By creating and maintaining secure virtual machine images, as well as configuring security settings for the virtualized environment, organizations can protect their data and systems from unauthorized access and potential threats.
+
+* [](weighing-the-risks-and-benefits-of-virtual-machines)
+* [](implement-physical-security-to-create-a-safe-and-secure-environment)
+* [](the-basics-of-securing-workstations-virtual)
+
+## Data Security
+
+Data security is the practice of protecting electronic data from unauthorized access. Data security includes both physical security to prevent unauthorized access to data stored on devices, and logical security to prevent unauthorized access to data over networks. Data security is important because electronic data is often confidential and/or proprietary. Unauthorized access to data can lead to data breaches, which can result in the loss of confidential information, financial loss, and damage to reputation. There are a variety of data security measures that can be employed to protect data, including physical security measures such as security cameras and access control, and logical security measures such as firewalls and encryption.
+
+* [](safeguard-your-data-by-implementing-different-cyber-security-controls)
+* [](data-loss-prevention-keep-your-data-safe-part-1)
+* [](data-loss-prevention-keep-your-data-safe-part-2)
+* [](who-are-data-stewards-why-does-data-stewardship-matter)
+* [](data-stewards-improve-data-utilization-with-fresh-approaches)
+* [](securing-confidentiality-of-data-using-the-bell-lapadula-model)
+* [](the-biba-model-a-comparison-between-bell-lapadula)
 
 ## Blockchain Security
 
@@ -157,7 +225,6 @@ There are a number of articles that don't fit into any specific category. These 
 * [](hardware-security-module-hsm)
 * [](user-and-entity-behavior-analytics-ueba)
 * [](stay-safe-and-secure-while-working-remotely)
-* [](weighing-the-risks-and-benefits-of-virtual-machines)
 * [](the-importance-of-security-training-and-awareness)
 * [](an-overview-of-due-diligence-and-due-care-in-cyber-security)
 * [](the-importance-of-crowd-sourced-security-in-cybersecurity-landscape)
@@ -166,3 +233,15 @@ There are a number of articles that don't fit into any specific category. These 
 * [](an-overview-of-premise-systems-and-their-weaknesses)
 * [](follow-the-separation-of-duties-principle-for-a-safer-organization)
 * [](data-security-management-keep-your-data-safe-and-sound)
+* [](don-t-let-a-corrupt-bios-ruin-your-computer-bios-security-helps-keep-your-computer-safe)
+* [](sim-cloning-what-is-it)
+* [](subscriber-identity-module-sim-swapping-what-is-it)
+* [](the-application-of-artificial-intelligence-in-the-field-of-cybersecurity)
+* [](embedded-systems-security)
+* [](your-business-information-system-complete-and-secure)
+* [](what-is-personally-identifiable-information-pii)
+* [](a-security-professional-s-guide-to-the-diamond-model)
+* [](what-are-ics-and-scada-and-why-must-they-be-secured)
+* [](formalize-your-agreement-with-an-mou)
+* [](access-controls-for-a-secure-organization)
+* [](choose-the-right-security-control-type-for-the-job)

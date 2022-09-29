@@ -24,6 +24,7 @@ Web application vulnerabilities are weaknesses that can be exploited by attacker
 * [](prevent-buffer-overflows-before-they-happen)
 * [](securing-application-cookies)
 * [](protect-your-web-applications-against-csrf-attacks)
+* [](session-hijacking-attacks-how-they-work-and-what-you-can-do-to-prevent-them)
 
 ## Threat Modelling
 

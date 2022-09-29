@@ -26,11 +26,13 @@ Policies and processes are the cornerstones of any organization. They provide th
 * [](tailor-making-the-perfect-policy-for-your-organizations-security)
 * [](data-classification-secure-your-data-by-first-understanding-your-data)
 * [](information-protection-balancing-costs-and-benefits)
+* [](safeguard-your-sensitive-data-with-non-disclosure-agreements-ndas)
 
 ### Frameworks and Standards
 
 * [](make-information-security-a-priority-with-iso2700)
 * [](information-security-management-system-and-iso27001)
+* [](privacy-information-management-system-iso-27701)
 * [](an-overview-of-general-data-protection-regulation-gdpr-and-how-does-it-affect-you)
 
 ## Risk Management
