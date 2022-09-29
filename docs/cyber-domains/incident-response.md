@@ -20,5 +20,7 @@ An effective incident response plan can help organizations to quickly and effect
 Incident response procedures and workflow are important in helping to ensure that incidents are handled in a consistent and effective manner. Having well-defined procedures and a clear workflow can help to ensure that incidents are dealt with quickly and efficiently, and that the appropriate people are notified and involved in the response.
 ```
 
+**Articles:**
+
 * [](a-short-introduction-to-writing-incident-response-playbooks)
 * [](cyber-incident-checklists)

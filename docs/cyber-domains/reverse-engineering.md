@@ -40,6 +40,7 @@ The Portable Executable Format is a file format used for executables, object cod
 * [](reverse-engineering-portable-executables-pe-part-2)
 * [](fuzzy-hashing-import-hashing-and-section-hashing)
 * [](don-t-be-fooled-by-malware-in-disguise-identifying-obfuscated-malware)
+* [](analyzing-malicious-code-without-reverse-engineering-the-assembly)
 
 ### Dynamic Analysis Techniques
 
