@@ -8,19 +8,16 @@ In the age of the internet, cyber defense is more important than ever. There are
 
 Cybersecurity is a rapidly evolving field, and students should begin by familiarizing themselves with basic concepts. These include understanding how computer systems work, how they are vulnerable to attack, and what measures can be taken to protect them. With this foundation in place, students can then move on to more specialized areas of study, such as network security or penetration testing. By starting with the basics, students will be better prepared to tackle the more complex topics that they will encounter later on.
 
-- [](endpoint-protection-platform-epp-what-is-it)
-- [](advanced-persistent-threat-lifecycle)
 - [](security-orchestration-automation-and-response-soar)
-- [](the-attacker-mindset-the-dad-triad)
-- [](don-t-be-the-next-victim-understand-the-attack-lifecycle)
 - [](the-importance-of-security-training-and-awareness)
 - [](an-overview-of-due-diligence-and-due-care-in-cyber-security)
-* [](the-importance-of-crowd-sourced-security-in-cybersecurity-landscape)
+- [](the-importance-of-crowd-sourced-security-in-cybersecurity-landscape)
 
 ## Cyber Threats
 
 Cyber threats are a type of risk that can arise from the use of technology. They can take many forms, including viruses, malware, phishing attacks, and denial-of-service attacks. Cyber threats can pose a significant risk to organizations, as they can lead to the loss of confidential information, damage to systems, and interruption of business operations. Cyber threats can also have a significant impact on individuals, as they can result in the loss of personal information, identity theft, and financial loss.
 
+- [](the-attacker-mindset-the-dad-triad)
 - [](what-are-software-backdoors)
 - [](dont-let-rootkits-take-control)
 - [](what-is-adware)
@@ -28,6 +25,9 @@ Cyber threats are a type of risk that can arise from the use of technology. They
 - [](keep-an-eye-out-for-keyloggers-they-may-be-hiding-on-your-device)
 - [](think-your-passwords-are-safe-think-again)
 - [](an-overview-of-insider-threats-and-how-to-defend-against-them)
+- [](advanced-persistent-threat-lifecycle)
+- [](don-t-be-the-next-victim-understand-the-attack-lifecycle)
+* [](what-are-zero-day-vulnerabilities-and-who-uses-them)
 
 ## Network Security
 
@@ -62,8 +62,12 @@ Endpoint security is a term that refers to the measures taken to protect the end
 * [](keep-your-computer-updated-for-improved-performance-and-security)
 * [](keep-your-security-posture-strong-with-vulnerability-management)
 * [](practical-windows-hardening-security-templates)
+* [](endpoint-protection-platform-epp-what-is-it)
+* [](windows-advanced-threat-protection)
 
 ## Application Security
+
+Application security refers to measures taken to secure applications from threats. These measures can include things like securing data inputs and outputs, implementing authentication and authorization controls, and protecting against common attacks like SQL injection. Application security is important because applications are often the target of attacks. By securing applications, we can help to prevent data breaches, ensure data integrity, and protect against other types of attacks.
 
 * [](keep-your-online-applications-safe-with-a-web-application-firewall-waf)
 
@@ -121,10 +125,10 @@ Active Directory (AD) is a directory service that Microsoft developed for Window
 
 Wireless security is the prevention of unauthorized access or damage to electronic data, whether in transit or stored locally. It includes both physical security measures to prevent tampering or theft, as well as logical security measures to prevent unauthorized access. Wireless security is a growing concern due to the increased use of wireless networks and devices. There are a variety of measures that can be taken to secure a wireless network. Physical security measures include the use of physical barriers such as walls or ceilings to block wireless signals, as well as the use of security devices such as locks or alarms. Logical security measures include the use of passwords, encryption, and other security protocols.
 
-- [](basic-wireless-technologies-and-an-example-of-their-exploits)
+* [](basic-wireless-technologies-and-an-example-of-their-exploits)
 * [](securing-wireless-network-based-idps-nidps)
 * [](wpa3)
-- [](wireless-attacks)
+* [](wireless-attacks)
 
 ## IoT Security
 
