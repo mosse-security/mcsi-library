@@ -18,7 +18,12 @@ Web application vulnerabilities are weaknesses that can be exploited by attacker
 * [](content-security-policy-in-web-application-security)
 * [](an-overview-of-file-inclusion-vulnerabilities)
 * [](an-overview-of-directory-traversal-attacks-in-a-web-application)
-
+* [](how-to-prevent-insecure-design-vulnerabilities)
+* [](how-do-you-prevent-brute-force-attacks)
+* [](secure-your-web-application-against-cross-site-scripting-xss)
+* [](prevent-buffer-overflows-before-they-happen)
+* [](securing-application-cookies)
+* [](protect-your-web-applications-against-csrf-attacks)
 
 ## Threat Modelling
 
