@@ -218,6 +218,13 @@ The security of blockchain technology is of paramount importance. The decentrali
 - [](pros-and-cons-of-blockchain-in-cybersecurity)
 - [](blockchain-application-in-cybersecurity)
 
+## Zero Trust
+
+Zero trust is a security model that requires strict verification of users before allowing them access to data or systems. In a zero trust security model, all users are treated as untrusted, regardless of whether they are inside or outside the network perimeter. This approach is designed to address the shortcomings of the traditional security perimeter, which assumes that all users inside the perimeter are trustworthy and all users outside the perimeter are untrusted.
+
+* [](pillars-of-zero-trust-architecture)
+* [](zero-trust-the-foundation-of-modern-network-security)
+
 ## Miscellaneous
 
 There are a number of articles that don't fit into any specific category. These are known as miscellaneous articles.

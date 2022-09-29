@@ -4,76 +4,47 @@ Cloud security is the process of protecting data and information that is stored 
 
 Compliance with data security and privacy regulations is essential, and encryption is a key part of ensuring that data is protected. By taking steps to understand the risks and vulnerabilities associated with cloud computing, and putting in place appropriate security measures, businesses can ensure that their data is protected and their compliance obligations are met.
 
-
-## Concepts
-
-```{admonition} Why is learning fundamental Cloud security concepts important?
-:class: dropdown
-
-There are a number of different technologies and approaches that can be used to secure data and applications in the cloud. Learning cloud security concepts is the key to take a comprehensive and layered approach.
-
-```
-
-
-* [](secure-your-docker-containers-for-peace-of-mind)
 * [](securing-data-in-iaas-paas-and-saas)
 * [](securing-computing-resources)
-* [](secure-your-containers-today-for-a-safer-tomorrow)
-* [](improving-devops-pipeline-security)
 * [](cloud-security-benefits-keep-your-data-safe-in-the-cloud)
 * [](securing-network-assets-in-the-cloud)
-
-
-
-## Procedures
-
-```{admonition} What is a procedure and why it is important for cloud security?
-:class: dropdown
-A procedure is a set of instructions that detail how to carry out a task. There are many procedures that are followed in order to maintain Cloud security. Following these procedures helps to ensure that the data is secure and protected.
-
-```
-* [](pillars-of-zero-trust-architecture)
 * [](improve-your-clouds-resilience-with-business-impact-analysis)
-* [](zero-trust-the-foundation-of-modern-network-security)
-* [](general-security-risks-when-applying-devops)
 * [](compliance-challenges-in-the-cloud)
-
-
-
-## Techniques
-
-```{admonition} Why is learning cloud security techniques important?
-:class: dropdown
-
-Cloud security techniques are important for ensuring the safety of data and applications in the cloud. These techniques can help to prevent data breaches, protect against malicious attacks, and help organizations improve their cloud security posture.
-
-```
-
-* [](hands-on-with-google-cloud-key-management-service-kms)
-* [](secure-your-aws-root-account-with-5-best-practices)
-* [](securing-data-in-the-cloud-with-cryptographic-appliances)
-* [](security-measures-to-protect-your-aws-simple-storage-service-s3)
-* [](best-practices-for-securing-privileged-access-in-the-cloud)
 * [](securing-privileged-access-in-the-cloud)
-
-
-
-## Tools
-
-```{admonition} Why do I need to master cloud security tools?
-:class: dropdown
-
-Cloud security tools are important for protecting data and applications in the cloud. They can help organizations to detect and prevent attacks, and to monitor and respond to threats. Tools can also help to automate security processes and to compliance with security policies.
-
-```
-* [](aws-elastic-load-balancing-elb-improving-your-security)
+* [](best-practices-for-securing-privileged-access-in-the-cloud)
 * [](improve-security-and-trust-with-cloud-based-key-control)
-* [](a-quick-start-guide-to-network-monitoring-and-security-features-in-aws)
+* [](securing-data-in-the-cloud-with-cryptographic-appliances)
+
+## AWS Security
+
+AWS security is a process of protecting data and resources in the Amazon Web Services (AWS) cloud. It includes both physical and logical security measures. Physical security measures are designed to protect the AWS infrastructure from unauthorized access. These measures include things like security cameras, access control systems, and physical security barriers. Logical security measures are designed to protect data and resources from unauthorized access. These measures include things like firewalls, intrusion detection and prevention systems, and encryption. AWS security is a shared responsibility between AWS and its customers. AWS is responsible for securing the AWS infrastructure, while customers are responsible for securing their data and resources.
+
+* [](secure-your-aws-root-account-with-5-best-practices)
+* [](aws-elastic-load-balancing-elb-improving-your-security)
 * [](aws-password-policies-know-your-options)
+* [](a-quick-start-guide-to-network-monitoring-and-security-features-in-aws)
 * [](compliance-and-security-in-amazon-web-services-aws)
-* [](a-brief-introduction-to-aws-key-management-service)
-* [](a-brief-overview-into-containers-and-the-challenges-they-address)
+* [](security-measures-to-protect-your-aws-simple-storage-service-s3)
 * [](understanding-user-roles-and-iam-in-aws)
 * [](additional-security-with-amazon-emr)
+* [](a-brief-introduction-to-aws-key-management-service)
+
+## GCP Security
+
+The Google Cloud Platform (GCP) is a cloud computing platform that provides users with a wide range of tools and services for building and managing applications. One of the key features of GCP is its security. In this article, we'll take a look at some of the ways GCP keeps your data and applications safe. GCP uses a number of security measures to protect your data, including physical security, data encryption, and access control.
+
+* [](hands-on-with-google-cloud-key-management-service-kms)
+
+## Azure Security
+
+Azure security is a comprehensive and complex topic. There are many different aspects to consider when securing an Azure environment. Azure provides a variety of built-in security features and services that can be used to help secure your environment.
+
 * [](azure-sentinel-comprehensive-security-management-for-the-azure-cloud-platform)
 
+## Container Security
+
+Container security is the process of securing the containers used in an application or system. This includes the host operating system, the container runtime, the container images, and the containers themselves. Container security is important because containers are often used to run mission-critical applications and systems. The host operating system is the first layer of defense for containers. The host operating system should be properly configured to ensure that containers are isolated from each other and from the host itself. The container runtime is the next layer of defense. The container runtime is responsible for running and managing containers. It should be properly configured to ensure that containers are isolated from each other and from the host operating system. The container images are the next layer of defense.
+
+* [](a-brief-overview-into-containers-and-the-challenges-they-address)
+* [](secure-your-docker-containers-for-peace-of-mind)
+* [](secure-your-containers-today-for-a-safer-tomorrow)
