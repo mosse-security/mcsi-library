@@ -186,7 +186,7 @@ Authentication security is the process of verifying the identity of a user or pr
 - [](an-insight-into-multi-factor-authentication)
 - [](an-example-of-authentication-attacks)
 - [](preventing-security-breaches-using-two-factor-authentication)
-* [](get-to-know-the-features-of-biometric-factors)
+- [](get-to-know-the-features-of-biometric-factors)
 - [](biometric-readers-and-their-accuracy)
 - [](identification-and-authentication-methods-kerberos)
 - [](remote-access-authentication-pap-and-chap)
