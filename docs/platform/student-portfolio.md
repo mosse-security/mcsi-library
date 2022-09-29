@@ -59,7 +59,11 @@ Below is an example of a formidable submission by Jeremy that earned him a Plati
 
 <iframe class="block mb-3 mx-auto" width="560" height="315" src="https://www.youtube.com/embed/RHF-F_rwC7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+```{admonition} Employment Tip!
+:class: tip
+
 The portfolio is a great way to show off your skills and work to potential employers. It is also a great way to get your foot in the door with a company. Many students have been able to get jobs without spending thousands of dollars on certifications. The portfolio is a great tool for students to use to get jobs.
+```
 
 ## Trophies
 
