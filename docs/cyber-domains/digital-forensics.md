@@ -23,6 +23,7 @@ This video course provides an introduction to digital forensics. It covers the b
 
 - [Introduction to the field of Digital Forensics](https://www.youtube.com/watch?v=jEJYXu59ecQ)
 - [How to learn Digital Forensics by yourself](https://www.youtube.com/watch?v=mBFP8zkYxz8)
+- [What are the top skills you must learn in Digital Forensics?](https://youtu.be/O4-DIrGG95Q)
 
 ## Windows Forensics
 
