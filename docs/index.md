@@ -155,7 +155,7 @@ cyber-domains/vulnerability-research
 ```{admonition} Keep up with MCSI's articles and videos!
 :class: tip
 
-Every week, new articles and videos are posted. To get alerts about the newest instructional content, make sure to follow on Twitter, LinkedIn, and YouTube! [Twitter](https://twitter.com/MosseInstitute), [LinkedIn](https://www.linkedin.com/school/the-moss%C3%A9-cyber-security-institute/) and [YouTube](https://www.youtube.com/channel/UC_8_I5Ebq2haZxaLmpXM2TQ)!
+Every week, new articles and videos are posted. To get alerts about the newest instructional content, make sure to follow on [Twitter](https://twitter.com/MosseInstitute), [LinkedIn](https://www.linkedin.com/school/the-moss%C3%A9-cyber-security-institute/) and [YouTube](https://www.youtube.com/channel/UC_8_I5Ebq2haZxaLmpXM2TQ)!
 ```
 
 ## Contribute
