@@ -151,3 +151,24 @@ cyber-domains/threat-hunting
 cyber-domains/threat-intelligence
 cyber-domains/vulnerability-research
 ```
+
+```{admonition} Keep up with MCSI's articles and videos!
+:class: tip
+
+Every week, new articles and videos are posted. To get alerts about the newest instructional content, make sure to follow on Twitter, LinkedIn, and YouTube! [Twitter](https://twitter.com/MosseInstitute), [LinkedIn](https://www.linkedin.com/school/the-moss%C3%A9-cyber-security-institute/) and [YouTube](https://www.youtube.com/channel/UC_8_I5Ebq2haZxaLmpXM2TQ)!
+```
+
+## Contribute
+
+Would you link to contribute to this library? We're looking for amazing Content Writers to join our team! Our goal is to develop the top educational resources available to teach cybersecurity and assist people in advancing their careers. To view and apply for the position, [click here](https://www.mosse-security.com/jobs/cybersecurity-content-writer.html).
+
+## Links
+
+Learn cybersecurity across all our channels:
+
+- [MCSI's website](https://www.mosse-institute.com/)
+- [MCSI's Online Learning Platform](https://platform.mosse-institute.com/)
+- [LinkedIn Alumnus Group](https://www.linkedin.com/groups/10485362/)
+- [LinkedIn School Page](https://www.linkedin.com/school/the-moss%C3%A9-cyber-security-institute/)
+- [Twitter](https://twitter.com/MosseInstitute)
+- [YouTube Channel](https://www.youtube.com/channel/UC_8_I5Ebq2haZxaLmpXM2TQ)
