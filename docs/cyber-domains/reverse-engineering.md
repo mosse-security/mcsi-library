@@ -6,7 +6,6 @@ myst:
     "category": "penetration-testing"
     "property=og:image": "https://library.mosse-institute.com/_images/reverse-engineering.png"      
 ---
-
 (reverse-engineering-landing-page)=
 # Reverse Engineering
 
