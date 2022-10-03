@@ -172,6 +172,7 @@ ways-of-working/charts-and-graphics
 ways-of-working/operational-planning
 ways-of-working/problem-solving
 ways-of-working/rca
+ways-of-working/study-plan
 ```
 
 ```{toctree}
