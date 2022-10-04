@@ -19,6 +19,13 @@ There isn't a single best way to learn. To find the approach that works best for
 - Reading a cybersecurity book an hour per day
 ```
 
+The training regime necessary to become a cybersecurity specialist is illustrated in the accompanying image, which offers some helpful insights. Everyone is unique, so there isn't any advice that applies to everyone and always works. However, we advise you to consider if you have been engaging in the proper training to meet your career objectives.
+
+```{thumbnail} ../images/ways-of-working/student-profiles.png
+:alt: Student Profiles
+:class: block mb-3
+```
+
 ## Start with something that cannot go wrong
 
 We advise you to complete our [MICS](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html) certification if you are just starting out in cybersecurity.
