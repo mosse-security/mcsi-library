@@ -65,3 +65,17 @@ In addition to sharing what you're learning, you can also encourage others to le
 - Share your certificates on social media
 - Express gratitude towards those who help you
 - Be consistent, post twice a week
+
+## The 100 Days Cybersecurity Challenge
+
+The 100 Days Cybersecurity Challenge is a great way to improve your cybersecurity knowledge and skills. All you have to do is practice cybersecurity exercises for 100 Days and document your journey on social media:
+
+```{thumbnail} ../images/ways-of-working/100-days-example-1.png
+:alt: Duane Dunston 100 Days Challenge
+:class: block grey-border max-width-500 mx-auto mt-2
+```
+
+```{thumbnail} ../images/ways-of-working/100-days-example-2.png
+:alt: Ruth Charles 100 Days Challenge
+:class: block grey-border max-width-500 mx-auto mt-2
+```

@@ -19,3 +19,12 @@ Here's what Prof. Dunston has to say about our platform:
 [](mosse-cyber-security-institute-part-III)
 
 *In this last article in the series, I discuss how experts can benefit from Mossé training and some suggestions to further support their learning.*
+
+### Results
+
+Here's what Prof. Dunston said about his results training with MCSI:
+
+```{thumbnail} ../images/platform/duane-dunston-testimonial.png
+:alt: Duane Dunston Testimonial
+:class: block grey-border max-width-500 mx-auto mt-2
+```
