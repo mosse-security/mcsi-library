@@ -30,6 +30,10 @@ This video course provides an introduction to digital forensics. It covers the b
 
 - [Kill Chain and the MITRE Matrix](https://youtu.be/4riC6YiLfSs)
 
+### Chapter 4: Windows Forensics
+
+- [Introduction to Windows Forensics](https://youtu.be/13rb6gGJYYs)
+
 ## Windows Forensics
 
 Windows forensics is the process of using investigative techniques to collect, analyze, and report data about a digital event that occurred on a computing device running the Microsoft Windows operating system. The data collected can be used to answer questions about what happened, when it happened, how it happened, and who was involved. Windows forensics is a specialized form of digital forensics that is designed to take advantage of the unique features and capabilities of the Windows operating system. Because of the way that Windows stores data and tracks activity, forensics investigators can use Windows forensics techniques to gain a more complete understanding of a digital event. 
