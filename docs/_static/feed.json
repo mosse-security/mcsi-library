@@ -1040,6 +1040,13 @@
       "categories": [
         "cyber-defense"
       ],
+      "href": "/articles/2022/06/the-basics-of-securing-workstations-physical/the-basics-of-securing-workstations-physical.html",
+      "title": "The Basics of Securing Workstations: Physical"
+    },
+    {
+      "categories": [
+        "cyber-defense"
+      ],
       "href": "/articles/2022/04/safeguard-your-data-by-implementing-different-cyber-security-controls/safeguard-your-data-by-implementing-different-cyber-security-controls.html",
       "title": "Safeguard your Data by Implementing Different Cyber Security Controls"
     },
@@ -1889,6 +1896,13 @@
       ],
       "href": "/articles/2022/07/agentless-log-collection-microsoft-wec-and-wef/agentless-log-collection-microsoft-wec-and-wef.html",
       "title": "Agentless Log Collection Microsoft WEC and WEF"
+    },
+    {
+      "categories": [
+        "incident-response"
+      ],
+      "href": "/articles/2022/07/pros-and-cons-of-agent-based-and-agentless-log-collection/pros-and-cons-of-agent-based-and-agentless-log-collection.html",
+      "title": "Pros and Cons of Agent-based and Agentless Log Collection"
     },
     {
       "categories": [
@@ -3422,6 +3436,13 @@
       ],
       "href": "/articles/2022/06/linux-exploitation-evading-exploit-protection/linux-exploitation-evading-exploit-protection.html",
       "title": "Linux Exploitation: Evading Exploit Protection"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "/articles/2022/07/linux-exploitation-advanced-exploit-protection-evasion/linux-exploitation-advanced-exploit-protection-evasion.html",
+      "title": "Linux Exploitation: Advanced Exploit Protection Evasion"
     },
     {
       "categories": [

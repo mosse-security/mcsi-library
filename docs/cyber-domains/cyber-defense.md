@@ -198,6 +198,7 @@ Virtualization security is the process of securing a virtualized environment fro
 * [](weighing-the-risks-and-benefits-of-virtual-machines)
 * [](implement-physical-security-to-create-a-safe-and-secure-environment)
 * [](the-basics-of-securing-workstations-virtual)
+* [](the-basics-of-securing-workstations-physical)
 
 ## Data Security
 

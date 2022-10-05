@@ -17,6 +17,7 @@ Some examples of cyber incident scenarios are:
 Such incidents must be handled in an organised manner.
 
 % end-before
+
 <img src="images/becoming-an-incident-responder.png" alt="Becoming a Incident Responder"/>
 
 ## What is Incident Response?
