@@ -14,7 +14,7 @@ Computer networking is the process of connecting computers and devices together 
 * [](network-protocols-the-foundation-of-digital-communication-imap-pop3-smtp-rdp-and-vnc)
 * [](network-protocols-the-foundation-of-digital-communication-snmp)
 * [](network-protocols-the-foundation-of-digital-communication-arp-dns-dhcp-http-and-ftp)
-* [](network-protocols-the-foundation-of-digital-communication-syslog)
+
 
 ## Tools
 
