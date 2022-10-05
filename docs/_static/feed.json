@@ -1901,13 +1901,6 @@
       "categories": [
         "incident-response"
       ],
-      "href": "/articles/2022/07/pros-and-cons-of-agent-based-and-agentless-log-collection/pros-and-cons-of-agent-based-and-agentless-log-collection.html",
-      "title": "Pros and Cons of Agent-based and Agentless Log Collection"
-    },
-    {
-      "categories": [
-        "incident-response"
-      ],
       "href": "/articles/2022/07/an-overview-of-a-data-breach-its-causes-recovery-and-remediation-techniques/an-overview-of-a-data-breach-its-causes-recovery-and-remediation-techniques.html",
       "title": "An Overview of a Data Breach, its Causes, Recovery, and Remediation Techniques"
     },
@@ -1917,6 +1910,13 @@
       ],
       "href": "/articles/2022/05/common-methods-an-adversary-may-adopt-to-cover-their-tracks/common-methods-an-adversary-may-adopt-to-cover-their-tracks.html",
       "title": "Common methods an adversary may adopt to cover their tracks"
+    },
+    {
+      "categories": [
+        "incident-response"
+      ],
+      "href": "/articles/2022/07/pros-and-cons-of-agent-based-and-agentless-log-collection/pros-and-cons-of-agent-based-and-agentless-log-collection.html",
+      "title": "Pros and Cons of Agent-based and Agentless Log Collection"
     },
     {
       "categories": [
@@ -3441,13 +3441,6 @@
       "categories": [
         "vulnerability-research"
       ],
-      "href": "/articles/2022/07/linux-exploitation-advanced-exploit-protection-evasion/linux-exploitation-advanced-exploit-protection-evasion.html",
-      "title": "Linux Exploitation: Advanced Exploit Protection Evasion"
-    },
-    {
-      "categories": [
-        "vulnerability-research"
-      ],
       "href": "/articles/2022/06/linux-exploitation-basic-linux-shellcoding/linux-exploitation-basic-linux-shellcoding.html",
       "title": "Linux Exploitation: Basic Linux Shellcoding"
     },
@@ -3478,6 +3471,13 @@
       ],
       "href": "/articles/2022/07/linux-rop-exploitation-example/linux-rop-exploitation-example.html",
       "title": "Linux ROP Exploitation Example"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "/articles/2022/07/linux-exploitation-advanced-exploit-protection-evasion/linux-exploitation-advanced-exploit-protection-evasion.html",
+      "title": "Linux Exploitation: Advanced Exploit Protection Evasion"
     },
     {
       "categories": [
