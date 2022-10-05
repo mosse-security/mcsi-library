@@ -57,6 +57,11 @@ def updateResults(title, href, category):
     print("[x] duplicate found for %s in category %s" % (href, category))
     return
 
+  # dealing with pesky unicode characters
+  title = title.replace("\u2013", "-")
+  title = title.replace("\u2018", "'")
+  title = title.replace("\u2019", "'")
+
   # add the new link to the results
   items.append({
     'title': title,
@@ -100,6 +105,9 @@ def main ():
 
     # write the results to disk
     outfile.write(json_string)
+
+    # debug message
+    print("\n[v] Success! Wrote %d articles to feed.json" % len(items))
 
 #
 #
