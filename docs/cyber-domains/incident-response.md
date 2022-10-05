@@ -12,6 +12,7 @@ An effective incident response plan can help organizations to quickly and effect
 * [](agentless-log-collection-microsoft-wec-and-wef)
 * [](an-overview-of-a-data-breach-its-causes-recovery-and-remediation-techniques)
 * [](common-methods-an-adversary-may-adopt-to-cover-their-tracks)
+* [](pros-and-cons-of-agent-based-and-agentless-log-collection)
 
 ## Procedures and Workflows
 
