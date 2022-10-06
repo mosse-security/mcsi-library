@@ -8,12 +8,6 @@ Digital forensics is a rapidly growing field, as more and more crimes are commit
 
 - [](a-day-in-the-life-of-a-digital-forensic-investigator)
 - [](build-your-own-digital-forensics-lab-at-home)
-- [](endian-systems-explained-little-endian-vs-big-endian)
-- [](file-magic-numbers-the-easy-way-to-identify-file-extensions)
-- [](importance-of-timelines-in-a-forensic-investigation)
-- [](digital-forensics-hashing-for-data-integrity)
-- [](search-seize-preserve-digital-evidence)
-- [](application-of-scripting-in-digital-forensics)
 
 ## Video Course
 
@@ -39,6 +33,21 @@ This video course provides an introduction to digital forensics. It covers the b
 ### Chapter 5: Linux Forensics
 
 - [Introduction to Linux Forensics](https://youtu.be/rkj9K8tvQgg)
+
+## Procedures
+
+```{admonition} What is a procedure and a workflow and why are they important?
+:class: tip
+A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
+
+A workflow is a series of steps that are followed in order to complete an engagement. In reverse engineering, a workflow is important in order to ensure that all steps are followed in order to complete the reverse engineering process. By following a workflow, reverse engineers can ensure that they are thorough in their analysis and that they do not miss any important steps. 
+```
+
+**Articles:**
+
+- [](importance-of-timelines-in-a-forensic-investigation)
+- [](digital-forensics-hashing-for-data-integrity)
+- [](search-seize-preserve-digital-evidence)
 
 ## Windows Forensics
 
@@ -94,6 +103,12 @@ In computer security, memory forensics is the art of acquiring and analyzing dig
 Browser forensics is the process of using forensic tools and techniques to examine web browsers and collect evidence of web-based activity. This process can be used to investigate a wide variety of crimes, including cybercrime, fraud, and child exploitation. There are a number of different ways to collect evidence from a web browser, including examining web browser history, cookies, and cached files.
 
 - [](web-browser-forensics-uncovering-the-hidden-evidence-in-your-browser) 
+
+## Miscellaneous Articles
+
+- [](endian-systems-explained-little-endian-vs-big-endian)
+- [](file-magic-numbers-the-easy-way-to-identify-file-extensions)
+- [](application-of-scripting-in-digital-forensics)
 
 ## Other Tools
 
