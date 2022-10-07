@@ -34,7 +34,7 @@ extensions = [
   'sphinx_togglebutton',
   'sphinxcontrib.images',
   "sphinx_design",
-  'notfound.extension',
+  
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
@@ -88,7 +88,7 @@ templates_path = ["_templates"]
 
 html_logo= "images/logo.png"
 
-html_favicon = "assets/favicon.png"
+html_favicon = "assets/favicon.ico"
 
 html_theme_options = {
   "logo_only": True,
