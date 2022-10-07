@@ -77,6 +77,7 @@ sphinx==4.5.0
     #   pydata-sphinx-theme
     #   sphinx-book-theme
     #   sphinx-design
+    #   sphinx-notfound-page
     #   sphinx-sitemap
     #   sphinx-togglebutton
     #   sphinxcontrib-images
@@ -84,6 +85,8 @@ sphinx==4.5.0
 sphinx-book-theme==0.3.3
     # via -r ./requirements.in
 sphinx-design==0.3.0
+    # via -r ./requirements.in
+sphinx-notfound-page==0.8.3
     # via -r ./requirements.in
 sphinx-reload==0.2.0
     # via -r ./requirements.in

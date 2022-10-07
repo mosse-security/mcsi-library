@@ -34,6 +34,7 @@ extensions = [
   'sphinx_togglebutton',
   'sphinxcontrib.images',
   "sphinx_design",
+  'notfound.extension',
 ]
 
 html_baseurl = "https://mcsi-library.readthedocs.io/"
