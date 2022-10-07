@@ -10,6 +10,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 
 :::{grid-item}
@@ -27,6 +28,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 ::::
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 :::{grid-item}
 ```{image} images/open-graphs/cyber-defense.png
@@ -44,6 +46,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 ::::
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 :::{grid-item}
 ```{image} images/open-graphs/digital-forensics.png
@@ -63,6 +66,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 :::{grid-item}
 ```{image} images/open-graphs/incident-response.png
@@ -81,6 +85,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 :::{grid-item}
 ```{image} images/open-graphs/penetration-testing.png
@@ -99,6 +104,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 :::{grid-item}
 ```{image} images/open-graphs/reverse-engineering.png
@@ -117,6 +123,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 :::{grid-item}
 ```{image} images/open-graphs/threat-hunting.png
@@ -135,6 +142,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 
 
 ::::{grid} 1 1 2 2
+:gutter: 3
 
 :::{grid-item}
 ```{image} images/open-graphs/vulnerability-research.png
