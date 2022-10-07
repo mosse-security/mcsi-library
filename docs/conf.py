@@ -88,7 +88,7 @@ templates_path = ["_templates"]
 
 html_logo= "images/logo.png"
 
-html_favicon = "assets/favicon.ico"
+html_favicon = "https://library.mosse-institute.com/_static/favicon.ico"
 
 html_theme_options = {
   "logo_only": True,
