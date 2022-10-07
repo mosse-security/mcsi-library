@@ -24,6 +24,10 @@ This video course provides an introduction to digital forensics. It covers the b
 
 - [Kill Chain and the MITRE Matrix](https://youtu.be/4riC6YiLfSs)
 
+### Chapter 3: Investigating an Incident
+
+- [What is a structured investigation process?](https://youtu.be/to1ibcnM97g)
+
 ### Chapter 4: Windows Forensics
 
 - [Introduction to Windows Forensics](https://youtu.be/13rb6gGJYYs)
@@ -34,6 +38,7 @@ This video course provides an introduction to digital forensics. It covers the b
 
 - [Introduction to Linux Forensics](https://youtu.be/rkj9K8tvQgg)
 - [Top 10 forensics artefacts and data sources on Linux](https://www.youtube.com/watch?v=HLVA52gGJM8)
+- [Setting up a lab to practice Linux Forensics](https://youtu.be/Icf2P3xGb7U)
 
 ## Procedures
 
