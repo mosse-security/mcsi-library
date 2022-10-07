@@ -87,6 +87,8 @@ templates_path = ["_templates"]
 
 html_logo= "images/logo.png"
 
+html_favicon = "assets/favicon.png"
+
 html_theme_options = {
   "logo_only": True,
   "home_page_in_toc": True, 
@@ -94,7 +96,7 @@ html_theme_options = {
   "use_fullscreen_button": False
   }
 
-html_favicon = 'assets/favicon.png'
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
