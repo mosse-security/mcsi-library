@@ -3,7 +3,7 @@ a {
 }
 
 h1 {
-  color: #472D2D !important;
+  color: #472d2d !important;
 }
 
 h2 {
@@ -19,14 +19,14 @@ h3 {
 .block {
   display: block;
 }
-  
+
 .grey-border {
   border: 1px gray solid;
 }
 
 .img-one {
   border-radius: 20px;
-  box-shadow: 2px 2px 3px #14100fb4, 0px 0px 0px #E6E6E6, 0px 0px 0px #E6E6E6;
+  box-shadow: 2px 2px 3px #14100fb4, 0px 0px 0px #e6e6e6, 0px 0px 0px #e6e6e6;
 }
 
 .max-width-500 {
@@ -37,7 +37,6 @@ h3 {
   padding-bottom: 20px;
 }
 
-#page1{
-  background-color: rgb(243, 247, 242);   
-
+#page1 {
+  background-color: rgb(243, 247, 242);
 }
