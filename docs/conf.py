@@ -37,7 +37,7 @@ extensions = [
   
 ]
 
-html_baseurl = "https://mcsi-library.readthedocs.io/"
+html_baseurl = "https://library.mosse-institute.com/"
 
 html_title = "MCSI Library"
 
