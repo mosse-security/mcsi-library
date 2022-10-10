@@ -43,6 +43,7 @@ This video course provides an introduction to digital forensics. It covers the b
 ### Chapter 6: Memory Forensics
 
 - [Introduction to Memory Forensics](https://youtu.be/Xe6p0b98viw)
+- [Setting up a lab to practice Memory Forensics](https://youtu.be/10Fo7J4rRXM)
 
 ## Procedures
 
