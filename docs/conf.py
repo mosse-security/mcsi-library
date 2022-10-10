@@ -88,7 +88,8 @@ templates_path = ["_templates"]
 
 html_logo= "images/logo.png"
 
-html_favicon = "https://library.mosse-institute.com/_static/favicon.ico"
+# URL favicon
+html_favicon = "images/favicon.ico"
 
 html_theme_options = {
   "logo_only": True,
@@ -105,5 +106,5 @@ html_theme_options = {
 html_show_sourcelink = False
 
 def setup(app):
-  app.add_css_file("custom.css")
+  app.add_css_file("css/custom.css")
   
