@@ -40,6 +40,10 @@ This video course provides an introduction to digital forensics. It covers the b
 - [Top 10 forensics artefacts and data sources on Linux](https://www.youtube.com/watch?v=HLVA52gGJM8)
 - [Setting up a lab to practice Linux Forensics](https://youtu.be/Icf2P3xGb7U)
 
+### Chapter 6: Memory Forensics
+
+- [Introduction to Memory Forensics](https://youtu.be/Xe6p0b98viw)
+
 ## Procedures
 
 ```{admonition} What is a procedure and a workflow and why are they important?
