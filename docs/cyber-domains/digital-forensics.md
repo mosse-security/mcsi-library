@@ -33,6 +33,7 @@ This video course provides an introduction to digital forensics. It covers the b
 - [Introduction to Windows Forensics](https://youtu.be/13rb6gGJYYs)
 - [Setting up a lab to practice Windows Digital Forensics](https://youtu.be/t4q8i2WrZtM)
 - [Top 10 forensics artefacts and data sources on Windows](https://youtu.be/8D0e36gyEYw)
+- [The Windows Forensics tools you need to learn and master](https://youtu.be/EfAhZMb4pnQ)
 
 ### Chapter 5: Linux Forensics
 
