@@ -2,9 +2,7 @@
 (a-brief-introduction-to-aws-key-management-service)=
 # A Brief Introduction to AWS Key Management Service 
 
-In this blog post, we will deep dive into the Key Management Service offered by AWS. 
-
-Let’s learn more about KMS.
+AWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data. AWS KMS is integrated with other AWS services, making it easy for you to encrypt your data with a few simple clicks. In this blog post, we'll cover some of the key security considerations for using KMS, and how you can keep your keys safe.
 
 ## What is a Key Management Service?
 

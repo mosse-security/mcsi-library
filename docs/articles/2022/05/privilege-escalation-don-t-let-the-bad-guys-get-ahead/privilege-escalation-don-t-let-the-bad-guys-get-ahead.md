@@ -3,7 +3,7 @@
 
 # Privilege Escalation: Don't Let the Bad Guys Get Ahead
 
-Privilege escalation is a technique used by attackers to gain elevated access to resources or data that are normally forbidden to them. By exploiting vulnerabilities or misconfigurations, an attacker can escalate their privileges and gain access to sensitive information or perform actions that would otherwise be forbidden.
+Privilege escalation is when a user with some level of access to a system is able to gain additional levels of access that they are not supposed to have. This can be done through a variety of methods, but the most common is by exploiting vulnerabilities in the system. In this blog post, we’ll explain what privilege escalation is, how it works, and how you can prevent it.
 
 ## Types of Privilege escalation attack
 

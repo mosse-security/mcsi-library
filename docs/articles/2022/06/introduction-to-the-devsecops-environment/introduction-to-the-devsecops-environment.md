@@ -2,7 +2,7 @@
 (introduction-to-the-devsecops-environment)=
 # Introduction to the DevSecOps Environment 
 
-Let's learn about what a DevSecOps is.
+The term “DevSecOps” has been making its rounds in the tech industry for a while now. And while it may seem like a new buzzword, the concept is actually quite simple: DevSecOps is the practice of integrating security into the software development process. In other words, DevSecOps is all about collaboration between developers and security professionals. By working together, they can create software that is more secure and less likely to contain vulnerabilities. But what are the specific components of DevSecOps? In this blog post, we’ll explore the three main pillars of DevSecOps: culture, security by design and automation.
 
 ## Components of DevSecOps
 

@@ -3,7 +3,7 @@
 
 # Securing Data in the Cloud with Cryptographic Appliances
 
-In this blog, we will go through the various forms of encryption, where they are utilized, and how they are employed in the cloud.
+Data security is a top priority for businesses of all sizes. But with the increasing use of cloud services, it can be difficult to know how to best protect your data. One solution is to use cryptographic appliances. In this blog post, we'll take a look at  various forms of encryption and how they can help you secure your data in the cloud. 
 
 ## Cryptographic mechanisms utilized in data security
 

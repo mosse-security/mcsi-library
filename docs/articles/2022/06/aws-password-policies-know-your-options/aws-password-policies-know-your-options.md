@@ -3,7 +3,7 @@
 # AWS Password Policies: Know Your Options
  
 
-Most of the time, you will need a password to complete your actions in AWS. The password is set when you register the account, and you may modify it at any time by visiting the Security Credentials page. Let's learn what are your different password policy options.
+Your AWS account is the key to your cloud resources. That’s why it’s critical to have strong password policies in place to protect your account and data. But with so many options available, it can be hard to know where to start. In this blog post, we’ll give you an overview of the different types of password policies available in AWS, and how to choose the right one for your needs.
 
 ## Password Administration: Policies
 

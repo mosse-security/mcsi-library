@@ -3,7 +3,7 @@
 # A Look into AWS Data Center Security Procedures
  
 
-The AWS global infrastructure is developed and maintained in accordance with the best standards in security. Today we are going to take a look at the physical and environmental responsibilities of Amazon Web Services in its data centers.
+As more and more businesses move to the cloud, it's important to understand the security procedures used by cloud providers. In this blog post, we'll take a look at the data center security procedures used by Amazon Web Services (AWS). We'll cover topics such as AWS's physical and environmental security protection measures. By the end of this post, you'll have a good understanding of the measures taken by AWS to keep your data safe and secure.
 
 ## Introduction
 
