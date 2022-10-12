@@ -38,8 +38,9 @@ This video course provides an introduction to digital forensics. It covers the b
 ### Chapter 5: Linux Forensics
 
 - [Introduction to Linux Forensics](https://youtu.be/rkj9K8tvQgg)
-- [Top 10 forensics artefacts and data sources on Linux](https://www.youtube.com/watch?v=HLVA52gGJM8)
 - [Setting up a lab to practice Linux Forensics](https://youtu.be/Icf2P3xGb7U)
+- [Top 10 forensics artefacts and data sources on Linux](https://www.youtube.com/watch?v=HLVA52gGJM8)
+- [The Linux Forensics tools you need to learn and master](https://youtu.be/XL5GAjJt3nU)
 
 ### Chapter 6: Memory Forensics
 
