@@ -3,7 +3,7 @@
 
 # Disaster Recovery: Get Back on Your Feet After a Disaster
 
-Disaster recovery preserves business continuity and expedites the recovery process when a firm is hit by a natural catastrophe thereby reducing loss. The purpose of disaster recovery is to limit the effect of the incident on the company while maintaining customer service standards.
+Disasters happen. And when they do, it's important to have a plan in place so you can get your life and business back on track as quickly as possible. That's where disaster recovery comes in. Disaster recovery is the process of getting your business up and running after a disaster. This can include anything from losing power to losing data. zThere are plenty of resources and support available to help you through this difficult time. In this blog post, we'll share some tips and advice on how to get started with disaster recovery.
 
 ## What are the five disaster recovery processes?
 

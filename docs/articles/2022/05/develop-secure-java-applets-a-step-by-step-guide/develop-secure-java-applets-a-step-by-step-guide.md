@@ -3,13 +3,7 @@
 
 # Develop Secure Java Applets: A Step-by-Step Guide
 
-What if a malicious code takes over all of your local resources while you're working on a Java applet? This is something that should never happen.
-
-## Introduction
-
-Java is a programming language that has become very popular over the years. The popularity of Java has led to its widespread adoption across multiple platforms. As such, it has become essential for developers to master the basics of Java.
-
-However, Java is also prone to vulnerabilities. If you want to stay safe, then you need to take some precautions. This is a step-by-step guide you should read before developing applications using Java.
+Java applets have been used for a variety of purposes since they were first introduced in the 1990s. While they offer many benefits, they also come with some security risks. In this article, we'll show you how to develop secure Java applets.  By the end of this guide, you'll be able to confidently develop Java applets that are secure and can be run safely by your users.
 
 Let’s start with some basics.
 

@@ -3,7 +3,7 @@
 
 # DNS enumeration using zone transfer
 
-DNS enumeration is the process of identifying all DNS servers and records for a specific domain. This information can identify potential security flaws such as unprotected DNS servers and zone transfers. DNS enumeration can also be used to collect information about a target company, such as identifying email and web servers.
+DNS enumeration is the process of identifying DNS servers and their corresponding records for a given domain. This can be useful in a number of ways, such as identifying potential targets for attacks, misconfigured DNS servers, or simply for reconnaissance purposes. One common method of DNS enumeration is zone transfer, which is used to replicate DNS records from one DNS server to another. This blog post will introduce the concept of DNS enumeration and demonstrate how zone transfers can be used to enumerate DNS records.
 
 ## What is DNS zone transfer?
 
