@@ -23,6 +23,7 @@ This video course provides an introduction to digital forensics. It covers the b
 ### Chapter 2: Fundamental Concepts
 
 - [Kill Chain and the MITRE Matrix](https://youtu.be/4riC6YiLfSs)
+- [The Rootkit Paradox](https://youtu.be/9Z4s3r4hbmg)
 
 ### Chapter 3: Investigating an Incident
 
