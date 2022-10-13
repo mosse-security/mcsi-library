@@ -2,9 +2,7 @@
 (secure-your-containers-today-for-a-safer-tomorrow)=
 # Secure Your Containers Today for a Safer Tomorrow 
 
-There are various ways to attack a containerized operation. In this article we will discuss a few basic vulnerabilities that could be present within a container.
-
-Potential attack vectors can occur at every phase of a container's entire lifespan.
+If you're running a containerized environment, it's important to be aware of the potential vulnerabilities that can exist. In this blog post, we'll take a look at some of the most common container vulnerabilities and how to mitigate them. By the end of this post, you should have a good understanding of the risks involved in running containers and how to protect your environment.
 
 ## Application code vulnerability
 

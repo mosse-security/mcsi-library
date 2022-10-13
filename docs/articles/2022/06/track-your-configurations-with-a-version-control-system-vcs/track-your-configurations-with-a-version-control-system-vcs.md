@@ -3,11 +3,11 @@
 # Track Your Configurations With a Version Control System (VCS)
  
 
-A version control system (VCS) is a mechanism in which modifications to a file (or collection of files) are typically logged so that they may be recalled at any time.
+In software development, a version control system is a tool that helps manage changes to source code over time. It allows developers to work on different versions of a codebase simultaneously, and track and merge changes from different developers. In this blog post, we'll introduce you to the basics of version control systems, advantages of adopting VCS, and explore some of the most popular version control categories in use today.
 
 ## Why we need a Version Control System?
 
-There are several advantages to adopting VCS for a task as follows:
+There are several advantages of adopting VCS for a task as follows:
 
 ### Cooperation
 

@@ -3,7 +3,7 @@
 
 # Manual and automated password acquisition
 
-Password attack/cracking is one crucial step in the art of system hacking. When performing penetration tests, passwords can be obtained in a variety of ways. These can range from manually obtaining them from the target to using advanced automated attacks such as packet sniffing and brute force.
+Password acquisition is one of the most common and successful methods used by attackers to gain access to systems and data. When performing penetration tests, passwords can be obtained in a variety of ways. These can range from manually obtaining them from the target to using advanced automated attacks such as packet sniffing and brute force. In this blog post, we'll take a look at some of the most common password acquisition techniques, both manual and automated.
 
 ## Non-Electronic Attacks:
 

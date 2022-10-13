@@ -3,9 +3,7 @@
 
 # Directory Traversal: What is it and How to Prevent it
 
-When an attacker gains access to a web server, they often attempt to move around the server to find sensitive information. One way they can do this is by using a technique called directory traversal. Directory traversal is when an attacker uses the directory structure of a website to their advantage.
-
-By exploiting how web servers handle requests, an attacker can access files and directories that they should not have access to. To access a file, the file's path must be known. The path can be absolute, which specifies the full path from the root directory, or relative, which specifies the path from the current directory. This can lead to the disclosure of sensitive information, such as passwords, financial information, and more.
+A directory traversal is a type of security attack that allows an attacker to access files and directories that they should not have access to. Directory traversal attacks are often used to gain access to sensitive information, such as passwords and confidential data. They can also be used to delete files and directories, or to modify file permissions. Directory traversal attacks are relatively easy to execute, and can have devastating consequences. That's why it's important to know how to prevent them. In this blog post, we'll take a look at what directory traversal attacks are, how they work, and some steps you can take to prevent them.
 
 ## Reading Files using Directory traversal
 

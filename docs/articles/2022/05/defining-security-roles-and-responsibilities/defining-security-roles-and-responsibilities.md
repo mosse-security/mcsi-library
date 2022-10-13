@@ -3,7 +3,7 @@
 
 # Defining Security Roles and Responsibilities
 
-Why do we need security roles and responsibilities? In this blog post, we will answer what security roles and responsibilities are and how important they are to the organization.
+Security roles and responsibilities are critical to any organization. They ensure that an organization's assets are protected and that its employees are aware of their roles in security. Security roles and responsibilities also help to ensure that an organization's security posture is aligned with its business goals. In this blog post, we will discuss what security roles and responsibilities are and how important they are to the organization.
 
 ## Security Roles and Responsibilities
 

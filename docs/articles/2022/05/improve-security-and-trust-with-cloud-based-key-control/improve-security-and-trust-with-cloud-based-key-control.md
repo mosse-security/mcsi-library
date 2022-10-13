@@ -3,7 +3,7 @@
 
 # Improve Security and Trust With Cloud-based Key Control
 
-How safe are your cloud-stored keys? Where and how secret keys are kept can have a substantial impact on the overall security of the data.
+As businesses move more of their data and applications to the cloud, security and trust become even more important considerations. One way to help ensure both security and trust is to use a cloud-based key control system for your business. Key control systems help you track and manage keys and other sensitive items, so you can be sure they are always accounted for. In addition, by using a cloud-based system, you can give authorized users access to the system from anywhere, at any time. This can help improve security and trust among employees, customers, and other stakeholders. Here's a look at how cloud-based key control can benefit your business.
 
 ## Key security in the cloud
 

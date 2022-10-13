@@ -3,7 +3,7 @@
 
 # Comparing Secure Sockets Layer (SSL) and Secure-HTTP (HTTP-S) Protocols
 
-In this blog post, we are going to explain what Secure Sockets Layer (SSL), and Secure-HTTP (HTTP-S) protocols are and how they differ from each other.
+SSL and HTTPS are two security protocols that are commonly used on the internet. They are both designed to protect data as it is transmitted between two devices. SSL is the older of the two protocols and is designed to protect data as it is transmitted over the internet. HTTPS is a newer protocol that is designed to protect data as it is transmitted over the internet and also to protect data as it is stored on servers. In this blog post, we are going to explore Secure Sockets Layer (SSL), and Secure-HTTP (HTTP-S) protocols and how they differ from each other.
 
 ## Introduction to SSL
 

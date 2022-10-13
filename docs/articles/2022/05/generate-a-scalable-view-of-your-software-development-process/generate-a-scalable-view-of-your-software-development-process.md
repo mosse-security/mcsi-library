@@ -3,7 +3,7 @@
 
 # Generate a Scalable View of Your Software Development Process
 
-SDLC, or Software Development Life Cycle, is a set of procedures for developing software applications. These steps break the development process down into tasks that can be assigned, completed, and measured.
+The software development life cycle (SDLC) is a process that software developers use to create and maintain software. The SDLC consists of several stages. In each stage, there are different activities that need to be completed in order to move on to the next stageThese steps break the development process down into tasks that can be assigned, completed, and measured. Let's take a more detailed look at each stage of the software development life cycle.
 
 ## What Is the Life Cycle of Software Development?
 

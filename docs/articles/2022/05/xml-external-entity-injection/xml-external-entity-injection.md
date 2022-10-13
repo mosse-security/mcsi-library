@@ -3,9 +3,11 @@
 
 # XML External Entity Injection
 
-XXE (XML External Entity Injection) is a common web-based security vulnerability that allows an attacker to interfere with a web application's processing of XML data. XXE is a common security flaw because XML is an extremely popular format used by developers to transfer data between the web browser and the server.
+XML External Entity (XXE) injection is a type of attack that allows an attacker to gain access to sensitive information by exploiting a vulnerabilities in an application that processes XML input. In order to prevent XXE injection attacks, it is important to understand how they work and what you can do to mitigate them. In this blog post, we will cover the basics of XXE injection and provide some tips on how to prevent these attacks.
 
-XML necessitates the use of a parser, which is where most vulnerabilities occur. The content of a file path or URL can be used to define an entity in XXE. When the server reads the XML attack payload, the external entity is parsed, merged into the final document, and returned to the user with the sensitive data inside.
+## Introduction
+
+XXE is a common security flaw because XML is an extremely popular format used by developers to transfer data between the web browser and the server. XML necessitates the use of a parser, which is where most vulnerabilities occur. The content of a file path or URL can be used to define an entity in XXE. When the server reads the XML attack payload, the external entity is parsed, merged into the final document, and returned to the user with the sensitive data inside.
 
 XXE attacks can result in internal network port scanning, server-side request forgery (SSRF), data exfiltration, and the use of an organization's servers to perform denial of service (DoS), among other things. As a result, XXE prevention strategies must be implemented.
 
