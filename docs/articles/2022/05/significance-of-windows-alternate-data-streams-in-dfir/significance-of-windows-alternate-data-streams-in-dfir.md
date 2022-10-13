@@ -65,9 +65,9 @@ Once the command executes successfully, the hex editor application opens.
 
 ## How to detect if a file has Alternate Data Streams?
 
-Within a directory, simply run _dir /r_ command. From the following screenshot, you can see that there are 2 files within this directory, but there are three filenames. One of the names has _:$DATA_ attached to it.
+Within a directory, simply run _dir /r_ command. From the following screenshot, you can see that there are 2 files within this directory, but there are three filenames. One of the names has _:`$DATA`_ attached to it.
 
-Every file in NTFS is made up of attributes. You can read more about this _[NTFS](windows-ntfs-file-attributes-for-digital-forensics)_. A file always has only one $DATA attribute. This is not represented in the directory listing. When an ADS is created for a file, data belonging to the secret file is stored as another $DATA attribute for the file. The second $DATA attribute, i.e. the ADS is represented in the following listing. It’s safe to say that, when a file has more than one $DATA attribute, then it has an ADS within it.
+Every file in NTFS is made up of attributes. You can read more about this _[NTFS](windows-ntfs-file-attributes-for-digital-forensics)_. A file always has only one ``$DATA`` attribute. This is not represented in the directory listing. When an ADS is created for a file, data belonging to the secret file is stored as another `$DATA` attribute for the file. The second `$DATA` attribute, i.e. the ADS is represented in the following listing. It’s safe to say that, when a file has more than one `$DATA` attribute, then it has an ADS within it.
 
 ![alt data stream](images/alternate-data-stream14.png)
 
@@ -94,7 +94,7 @@ Clearly, a legitimate feature can be misused by cyber adversaries to store secre
 Here’s what a DFIR professional can do:
 
 - Be aware of ADS and how they exist
-- When using various forensic tools, if you become aware that a file has two $DATA attributes, that should ring some alarm bells. Dig into the contents of the ADS
+- When using various forensic tools, if you become aware that a file has two `$DATA` attributes, that should ring some alarm bells. Dig into the contents of the ADS
 - When you have a suspect disk, you can use the _dir_ command or _lads.exe_ tool to identify the existence of files with alternate data streams.
 
 Here’s a quick project idea for you:

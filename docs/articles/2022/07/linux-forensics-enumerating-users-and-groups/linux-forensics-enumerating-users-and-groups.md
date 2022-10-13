@@ -78,11 +78,11 @@ To find out all the users a user is a member of, then `groups` command can be us
 
 ## Password information in */etc/shadow*
 
-In the */etc/passwd* file if *x* is present in the password field; then a corresponding password value is present in the */etc/shadow* file. Notice in the following screenshots, that service accounts may have *!* or *\** in the password field. Regular user accounts will have the encrypted password starting with a *$* sign. There is a specific format with which the encrypted password is stored.
+In the */etc/passwd* file if *x* is present in the password field; then a corresponding password value is present in the */etc/shadow* file. Notice in the following screenshots, that service accounts may have *!* or *\** in the password field. Regular user accounts will have the encrypted password starting with a *`$`* sign. There is a specific format with which the encrypted password is stored.
 
 ![alt text](images/user-11.png)
 
-What do these mean? *!* means the account is locked and *\** means no password can be used to login to the account. This means you cannot login to service accounts using a user name and password. If a service account password field is empty or has a value starting with *$*, like a regular user account, it must be looked into.
+What do these mean? *!* means the account is locked and *\** means no password can be used to login to the account. This means you cannot login to service accounts using a user name and password. If a service account password field is empty or has a value starting with *`$`*, like a regular user account, it must be looked into.
 
 ## Sudoers File
 

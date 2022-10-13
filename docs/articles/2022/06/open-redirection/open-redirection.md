@@ -17,7 +17,7 @@ Even though this flaw may not necessarily have a direct effect on the genuine ap
 
 ## Example
 
-Mark, a music addict and aspiring DJ, has gotten up and is reading her mails. Her preferred streaming site is on sale, and she receives a good discount in her mailbox. MusicLovers is usually \$90 per quarter, but for a short period, it is only $30 per quarter.
+Mark, a music addict and aspiring DJ, has gotten up and is reading her mails. Her preferred streaming site is on sale, and she receives a good discount in her mailbox. MusicLovers is usually `$90` per quarter, but for a short period, it is only `$30` per quarter.
 
 Mark navigates to the MusicLovers user account page by clicking the website address. After logging in, she is prompted to submit her payment card information in order to complete the new membership. She fills out all of the required information, only to be dismayed when she sees the message "Unfortunately, you are not suitable for this discount" and is routed to the site.
 

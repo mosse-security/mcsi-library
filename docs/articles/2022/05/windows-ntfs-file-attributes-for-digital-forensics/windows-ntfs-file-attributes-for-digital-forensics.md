@@ -9,31 +9,31 @@ Jane just purchased a new mobile phone. She enjoys describing about it to her fr
 
 The following sections describes the attributes used by NTFS to store information about a file.
 
-**$STANDARD_INFORMATION**: This attribute holds information about the file timestamps (creation time, modification time, access time), if the file is compressed or encrypted or hidden or is an archive and information about the file owner.
+**`$STANDARD_INFORMATION`**: This attribute holds information about the file timestamps (creation time, modification time, access time), if the file is compressed or encrypted or hidden or is an archive and information about the file owner.
 
-**$FILE_NAME**: True to its name, this attribute stores the file name and file size. It also stores the timestamps (creation time, modification time, access time). Now which timestamps are more important – the ones stored in $STANDARD_INFORMATION or the ones stored in $FILE_NAME? Well, that is a story for another blog post!
+**`$FILE_NAME`**: True to its name, this attribute stores the file name and file size. It also stores the timestamps (creation time, modification time, access time). Now which timestamps are more important – the ones stored in `$STANDARD_INFORMATION` or the ones stored in `$FILE_NAME`? Well, that is a story for another blog post!
 
-**$DATA**: The actual file content is stored by this attribute.
+**`$DATA`**: The actual file content is stored by this attribute.
 
-**$INDEX_ROOT, $INDEX_ALLOCATION**: Directories use these two attributes to store information about the files stored within that directory.
+**`$INDEX_ROOT, $INDEX_ALLOCATION`**: Directories use these two attributes to store information about the files stored within that directory.
 
-**$SECURITY_DESCRIPTOR**: This attribute stores access control information for a file.
+**`$SECURITY_DESCRIPTOR`**: This attribute stores access control information for a file.
 
-**$OBJECT_ID**: NTFS assigns a unique ID to every file. That ID is stored within this attribute. This can be likened to the unique student ID number assigned to you in a class.
+**`$OBJECT_ID`**: NTFS assigns a unique ID to every file. That ID is stored within this attribute. This can be likened to the unique student ID number assigned to you in a class.
 
-**$LOGGED_UTILITY_STREAM**: If a file is encrypted, this file stores encryption information for that file.
+**`$LOGGED_UTILITY_STREAM`**: If a file is encrypted, this file stores encryption information for that file.
 
-**$REPARSE_POINT**: When you create a shortcut for a file and open the shortcut file, it will take you to the original file. This is because, the shortcut file stores information about where the original file is. This information is stored by the $REPARSE_POINT attribute. NTFS also allows you to create shortcuts for directories across two hard disks on your computer. These shortcuts called as junctions also use $REPARSE_POINT attribute to store information.
+**`$REPARSE_POINT`**: When you create a shortcut for a file and open the shortcut file, it will take you to the original file. This is because, the shortcut file stores information about where the original file is. This information is stored by the `$REPARSE_POINT` attribute. NTFS also allows you to create shortcuts for directories across two hard disks on your computer. These shortcuts called as junctions also use `$REPARSE_POINT` attribute to store information.
 
-**$SYMBOLIC LINK**: This attribute was previously used to store shortcut information for files, but is obsolete now.
+**`$SYMBOLIC LINK`**: This attribute was previously used to store shortcut information for files, but is obsolete now.
 
-**$VOLUME_INFO, $VOLUME_NAME, $VOLUME_VERSION**: When you format your hard disk, you would give it a name. By default, Windows assigns alphabets like _C:_ or _D:_ to it. For every volume on your hard disk, these three attributes store information about it in a system file called $Volume.
+**`$VOLUME_INFO, $VOLUME_NAME, $VOLUME_VERSION`**: When you format your hard disk, you would give it a name. By default, Windows assigns alphabets like _C:_ or _D:_ to it. For every volume on your hard disk, these three attributes store information about it in a system file called $Volume.
 
 Every single file on your computer, is defined by a specific set of attributes from the list described above.
 
 The _[Master File Table (MFT)](forensic-importance-of-windows-file-management)_ handles all the files on a hard disk. An entry for every file exists in the MFT. That entry has the collection of attributes which describe a file.
 
-All attribute names start with the dollar ($) symbol. All characters in the name are represented with uppercase characters.
+All attribute names start with the dollar `($)` symbol. All characters in the name are represented with uppercase characters.
 
 ## Why should I know NTFS File Attributes for Digital Forensics?
 
@@ -51,9 +51,9 @@ Here is a project idea for you.
 - Use Volatility tool to process that memory dump
 - Use _mftparser_ plugin present in Volatility tool against the memory dump
 - See if you can recover information about the executed malware sample
-- Since the sample was recently downloaded, it qualifies as a recently created file on the hard disk. The _mftparser_ plugin will present information about the $STANDARD_INFORMATION, $FILE_NAME and $DATA attributes of a file.
+- Since the sample was recently downloaded, it qualifies as a recently created file on the hard disk. The _mftparser_ plugin will present information about the `$STANDARD_INFORMATION`, `$FILE_NAME` and `$DATA` attributes of a file.
 
-We know that timestamp information can be found within the $STANDARD_INFORMATION and $FILE_NAME attributes. You can use that information to find out when the file was created on disk.
+We know that timestamp information can be found within the `$STANDARD_INFORMATION` and `$FILE_NAME` attributes. You can use that information to find out when the file was created on disk.
 
 Here is an example. The following screenshot is a snippet of the output of _mftparser_ plugin, when executed against a memory dump. You can see that a temporary JavaScript file with a random name has been created on 12th May 2020 at 5:20 hours.
 

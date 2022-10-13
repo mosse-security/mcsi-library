@@ -33,7 +33,7 @@ To view the created local environment variable, `set` command can be used. Since
 
 ![alt text](images/env-2.png)
 
-We can view the value of the variable using `echo` command as shown below. The command followed by a dollar sign ($) and the name of the variable prints its value.
+We can view the value of the variable using `echo` command as shown below. The command followed by a dollar sign `($)` and the name of the variable prints its value.
 
 ![alt text](images/env-3.png)
 

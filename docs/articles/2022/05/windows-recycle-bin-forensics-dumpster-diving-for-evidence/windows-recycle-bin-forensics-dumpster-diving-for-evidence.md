@@ -55,15 +55,15 @@ Note how the _Recycle Bin_ folder of the current user has its modification time 
 
 ![windows recycle bin](images/bin-8.png)
 
-On the current machine, the Recycle Bin displays the deleted files _stars.png_ and _tent.png_. Typically, a forensic investigator would copy the contents of the Recycle Bin to another machine for analysis. When the contents of the bin are copied and viewed on another computer, the contents would appear as seen in the following screenshot. You can see that there are four PNG files, the names of two files start with $I and the names of two files start with $R. There is also a _desktop.ini_ file. Whenever a file is deleted, two files are created $I and $R with the same extension as the deleted file. The $R file holds the actual file content. The $I file holds metadata about the deletion activity (deletion timestamp, absolute path of the file, file name, file size) that was initially observed in the GUI.
+On the current machine, the Recycle Bin displays the deleted files _stars.png_ and _tent.png_. Typically, a forensic investigator would copy the contents of the Recycle Bin to another machine for analysis. When the contents of the bin are copied and viewed on another computer, the contents would appear as seen in the following screenshot. You can see that there are four PNG files, the names of two files start with `$I` and the names of two files start with `$R`. There is also a _desktop.ini_ file. Whenever a file is deleted, two files are created `$I` and `$R` with the same extension as the deleted file. The `$R `file holds the actual file content. The `$I `file holds metadata about the deletion activity (deletion timestamp, absolute path of the file, file name, file size) that was initially observed in the GUI.
 
-Note the file names of the two files underlined in the following screenshot. After $I and $R, both files have the same sequence of characters. Likewise, note the names of the other pair of $I and $R files – they have the same sequence of characters too. Six characters will be added to a pair of $I and $R files, making the filename have a total of 8 characters. _desktop.ini_ has some information about folder configuration.
+Note the file names of the two files underlined in the following screenshot. After `$I` and `$R`, both files have the same sequence of characters. Likewise, note the names of the other pair of `$I `and `$R `files – they have the same sequence of characters too. Six characters will be added to a pair of $I and $R files, making the filename have a total of 8 characters. _desktop.ini_ has some information about folder configuration.
 
 ![windows recycle bin](images/bin-9.png)
 
-Even without copying the contents of the Recycle Bin to another computer, you can view the bunch of $I and $R files present via the Command Prompt.
+Even without copying the contents of the Recycle Bin to another computer, you can view the bunch of `$I` and `$R` files present via the Command Prompt.
 
-The $I files can be parsed using tools like *$I Parse\*. The input to this tool will be the entire Recycle Bin acquired from a target computer.
+The `$I` files can be parsed using tools like *`$I Parse\`*. The input to this tool will be the entire Recycle Bin acquired from a target computer.
 
 ![windows recycle bin](images/bin-10.png)
 
@@ -71,11 +71,11 @@ You can find metadata about the deletion operation for each file in the Recycle 
 
 ![windows recycle bin](images/bin-11.png)
 
-The $R files can be directly viewed using relevant applications. The PNG file has been viewed using _Photos_ app.
+The `$R` files can be directly viewed using relevant applications. The PNG file has been viewed using _Photos_ app.
 
 ![windows recycle bin](images/bin-12.png)
 
-When you acquire the Recycle Bin from a target computer, parse the entire folder using tools like $I parse to find out the deletion timestamps and absolute path of the file.
+When you acquire the Recycle Bin from a target computer, parse the entire folder using tools like `$I` parse to find out the deletion timestamps and absolute path of the file.
 
 ## Can the Recycle Bin be configured?
 
@@ -130,7 +130,7 @@ Here is a project idea for you:
 - View the contents of the Recycle Bin on the GUI
 - View the contents of the Recycle Bin on the command line
 - Copy the contents of the Recycle Bin to a USB drive and view the contents
-- Use _$I Parse_ tool to parse all the $I files within the Recycle bin
+- Use _`$I Parse`_ tool to parse all the `$I` files within the Recycle bin
 - Use _Rifiuti2.exe_ to parse the contents of the Recycle Bin folder. Observe how the output is displayed
 - Try to build a timeline corresponding to deletion of all the 10 files
 - Are you able to identify the absolute path of the deleted files?

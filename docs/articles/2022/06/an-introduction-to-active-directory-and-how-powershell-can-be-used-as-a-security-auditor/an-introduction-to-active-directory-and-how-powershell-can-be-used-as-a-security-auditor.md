@@ -114,7 +114,7 @@ In order to enumerate all user accounts that are active, use the following comma
 
 `Get-ADUser -Filter * | Where-Object{$_.Enabled -eq "True"}`
 
-Here the Where-Object cmdlet is used to check the output for the Get-ADUser cmdlet for the condition where its Enabled property is set to True. $_ is used to refer to each user object in the output of Get-ADUser.
+Here the Where-Object cmdlet is used to check the output for the Get-ADUser cmdlet for the condition where its Enabled property is set to True. `$_` is used to refer to each user object in the output of Get-ADUser.
 
 In order to get the login name of all the user accounts, use the following command:
 

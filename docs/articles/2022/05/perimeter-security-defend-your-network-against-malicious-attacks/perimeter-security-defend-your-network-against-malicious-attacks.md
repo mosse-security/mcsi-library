@@ -9,7 +9,7 @@ In the world of cybersecurity, perimeter security refers to the measures taken t
 
 Hackers launch attacks every 39 seconds, or 2,244 times per day. Small businesses are the target of 43 percent of cyber-attacks, and 64 percent of businesses have experienced web-based attacks. Phishing and social engineering attacks were experienced by 62% of respondents. Malicious code and botnets were experienced by 59% of businesses, and denial of service attacks were experienced by 51%.
 
-The statistics are concerning, but this is largely due to the fact that many businesses do not adequately defend their networks. When deciding what type of security to implement, cost can be a factor. The average cost of a ransomware attack on a business is $133,000, so cybersecurity should be viewed as an investment rather than an expense.
+The statistics are concerning, but this is largely due to the fact that many businesses do not adequately defend their networks. When deciding what type of security to implement, cost can be a factor. The average cost of a ransomware attack on a business is `$133,000`, so cybersecurity should be viewed as an investment rather than an expense.
 
 ## What Is Perimeter Security?
 

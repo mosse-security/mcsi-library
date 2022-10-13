@@ -57,7 +57,7 @@ In some cases, you may find thumbnails of deleted files – of files that had pr
 
 A Quick Introduction to Desktop Environments
 
-On Linux systems, a Desktop Environment (DE) is the software bundle that makes it possible for the system to have a Graphical User Interface. A DE defines the visual appearance of your Linux system. There are various desktop environments available for use on Linux systems like GNOME, MATE, Cinnamon, Xfce, etc. On Ubuntu systems, by default GNOME desktop environment is used. To find out which DE is in use on your computer, find out the value stored in $XDG_CURRENT_DESKTOP *[environment variable](environment-variables-in-linux)*.
+On Linux systems, a Desktop Environment (DE) is the software bundle that makes it possible for the system to have a Graphical User Interface. A DE defines the visual appearance of your Linux system. There are various desktop environments available for use on Linux systems like GNOME, MATE, Cinnamon, Xfce, etc. On Ubuntu systems, by default GNOME desktop environment is used. To find out which DE is in use on your computer, find out the value stored in `$XDG_CURRENT_DESKTOP` *[environment variable](environment-variables-in-linux)*.
 
 The following screenshot confirms that *spark’s* Ubuntu machine is using GNOME DE.
 

