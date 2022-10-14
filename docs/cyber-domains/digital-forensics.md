@@ -36,6 +36,7 @@ This video course provides an introduction to digital forensics. It covers the b
 - [Top 10 forensics artefacts and data sources on Windows](https://youtu.be/8D0e36gyEYw)
 - [The Windows Forensics tools you need to learn and master](https://youtu.be/EfAhZMb4pnQ)
 - [A simple process for performing a digital forensics investigation on Windows](https://www.youtube.com/watch?v=ENTxnawFQ5g)
+- [How to investigate Windows Event Logs](https://youtu.be/XGt0pQfMGN0)
 
 ### Chapter 5: Linux Forensics
 
