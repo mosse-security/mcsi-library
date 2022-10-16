@@ -3,6 +3,10 @@
 
 # Windows Egg-Hunting
 
+
+An egghunter is a piece of shellcode used as a payload in exploits where the available space is very limited. It is called an egghunter because it "hunts" for a specific sequence of bytes (known as an egg) in memory, which is then used to determine where the shellcode should be executed. The egghunter itself is usually very small, usually around 20-40 bytes. In this blog post, we will take a look at how egghunters work and how they can be used in exploits.
+
+## How does Egghunter shellcode work?
 During a buffer overflow attack, the entire buffer is not always allocated in its original form within the memory of the target program. Egghunter shellcode, or egghunter, is a specific type of (small-sized) shellcode that can be executed when a user’s buffer is split and allocated in an unknown portion of memory during an overflow.
 
 You are aware that character transformations are possible. However, transformations are not restricted to characters alone. Occasionally, entire memory portions may be relocated for unknown reasons.

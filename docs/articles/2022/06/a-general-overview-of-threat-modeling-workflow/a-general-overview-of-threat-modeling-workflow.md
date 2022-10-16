@@ -2,8 +2,7 @@
 (a-general-overview-of-threat-modeling-workflow)=
 # A General Overview of Threat Modeling Workflow
 
-
-The threat modeling activity has a consistent plan that may be broken down into many basic elements. In this blog post, we are going to give a basic outline of a threat modeling process.
+Threat modeling is a process of identifying, assessing, and mitigating security risks in software and systems. It's an essential part of any security program, and can help you avoid costly breaches. But threat modeling can be a complex and daunting task. To help you get started, we've put together a perspective on threat modeling workflow. In this first post, we'll introduce the basics of threat modeling and explain why it's so important.
 
 ## A Broad Perspective on Threat Modeling
 

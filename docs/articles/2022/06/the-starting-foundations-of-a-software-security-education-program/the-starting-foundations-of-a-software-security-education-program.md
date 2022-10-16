@@ -2,8 +2,7 @@
 (the-starting-foundations-of-a-software-security-education-program)=
 # The Starting Foundations of a Software Security Education Program
  
-
-In this blog post, we will cover the necessity of developing an appsec awareness and education program and how it may assist to equip the staff to integrate security into all development activities.
+In this blog post, we'll be discussing the necessity of developing an appsec awareness and education program and how it may assist to equip the staff to integrate security into all development activities. We'll go over what these programs are, what they entail, and how they can benefit both individuals and organizations. We'll also be sharing some recommendations to follow building an appsec training and awareness program. By the end of this post, you should have a better understanding of why software security education is essential and how it can help protect your data and systems.
 
 ## What is an appsec education program and why do we need them?
 

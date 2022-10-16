@@ -2,7 +2,7 @@
 (structured-threat-information-expression-stix)=
 # Structured Threat Information Expression STIX
  
-MITRE is leading a cooperative process to transmit threat intelligence data utilizing a standardized language called Structured Threat Information Expression (STIX).
+The Structured Threat Information Expression (STIX) is a language used to exchange cyber threat intelligence (CTI). STIX enables organizations to share CTI with one another in a consistent and structured manner, providing context that allows recipients to better understand the information related to a cyber threat. This blog will provide an introduction to STIX, including its features such as SDOs and SROs and benefits.
 
 ## Benefits of STIX
 

@@ -3,12 +3,11 @@
 # Appsec Pipeline: Why Shared Security Accountability is Key to Success
  
 
-As we have learned, in the DevSecOps Methodologies article, DevSecOps offers the incorporation of security products as part of the continuous integration and deployment processes. Let's take a step further and discover how to achieve security right from the start.
+In the past, security has often been seen as an afterthought, something that can be tacked on at the end of the development process. However, this is no longer the case. With the rise of DevOps and the need for faster release cycles, security must now be built into the very fabric of the software development process. This is known as shift left security, and it is key to the success of any modern software development team. In this blog post, we will explore what shift left security is and how we can implement security right from the start.
 
 ## What is the AppSec pipeline?
 
-Application security pipeline components are
-automation of the code review process, security checks and scans, auditing, and reporting. The outcome of this system helps us to operate the whole DevSecOps cycle, safeguarding each process with specialized methods and incorporating the full procedure with frequent communication in each phase.
+Application security pipeline components are automation of the code review process, security checks and scans, auditing, and reporting. The outcome of this system helps us to operate the whole DevSecOps cycle, safeguarding each process with specialized methods and incorporating the full procedure with frequent communication in each phase.
 
 ### Benefits of application security pipeline
 

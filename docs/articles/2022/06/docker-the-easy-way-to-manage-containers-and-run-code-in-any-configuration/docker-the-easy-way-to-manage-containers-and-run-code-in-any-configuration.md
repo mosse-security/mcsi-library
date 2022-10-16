@@ -3,7 +3,8 @@
 
 # Docker: the Easy Way to Manage Containers and Run Code in Any Configuration
 
-Docker, in it's most simple terms, is a container management framework. Docker allows software developers to bundle programs into containers, which are predefined binary units that include all of the operating system (OS) libraries and external dependencies needed to run the code in any configuration.
+Docker is a tool that enables you to create, deploy, and run applications in containers. Containers allow you to package an application with all of its dependencies so that it can be run on any machine that has Docker installed. Docker allows software developers to bundle programs into containers, which are predefined binary units that include all of the operating system (OS) libraries and external dependencies needed to run the code in any configuration.
+In this blog post, we'll give you a brief introduction to Docker and show you how to get started with using it.
 
 ## Appliances of Docker
 

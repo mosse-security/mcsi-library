@@ -3,6 +3,8 @@
 
 # Basic Windows Shellcoding
 
+Windows shellcoding is a very vast topic. There are a lot of ways to achieve code execution in windows and a lot of different places from which we can execute our shellcode. In this blog post, we will be looking at the very basics of windows shellcoding. By the end of this post, you will have a very basic understanding of how to write shellcode for windows.
+
 Shellcode is the most vital component of any exploit. At its core, it enables us to carry out the tasks that the exploit is designed to accomplish. When using Metasploit against any software, the `payload` option is the shellcode that will be loaded into the exploit.
 
 The simplest way to obtain a shellcode for your exploit is to search for it online (e.g., using shellstorm or cutting it from existing exploits) or to generate it using `msfvenom`.

@@ -2,8 +2,9 @@
 (network-sniffing-the-good-the-bad-and-the-ugly)=
 # Network Sniffing: the Good, the Bad, and the Ugly
  
- 
-The act of monitoring and capturing data packets as they travel across a network is referred to as network sniffing. This can be done for various reasons, including network troubleshooting, monitoring user behavior, and stealing sensitive data. Network sniffing can be used to identify the source of error when troubleshooting a network.
+Network sniffing is the act of monitoring and capturing data packets as they travel across a network. A network sniffer is a type of software or hardware designed to do just that. It can be used for legitimate purposes, such as troubleshooting network issues or monitoring network traffic, or it can be used for malicious purposes, such as stealing data or eavesdropping on conversations. In this blog post, we'll take a look at what network sniffing is, how it works.
+
+## Introduction
 
 In hub-based networks, sniffing is simple since traffic on a segment flows through all of the hosts linked with that segment. However, most modern networks rely on switches. A switch is a smart component of computer networking equipment.
 

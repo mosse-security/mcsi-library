@@ -3,7 +3,7 @@
 
 # A General Overview of Nuclei Command Line
 
-In this blog post, we are going to make a quick introduction to Nuclei and it's powerful components. First let's start with explaining why we need automated tools in scanning.
+Nuclei is a fast and flexible tool for scanning for vulnerabilities in infrastructure. It's easy to use and can be run against any target. In this post, we'll introduce you to the Nuclei command line interface and show you how to use it to scan for vulnerabilities.
 
 ## How do automated vulnerability scanners work?
 

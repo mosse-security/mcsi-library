@@ -3,8 +3,7 @@
 
 # MAC flooding attack
 
-Sniffing techniques like MAC attacks, DHCP attacks, ARP poisoning, and DNS poisoning are used by attackers to collect and modify sensitive data. These techniques are used by attackers to obtain control of a target network by reading captured data packets and then exploiting that information to break into the network.
-
+A MAC flooding attack is a type of denial-of-service attack in which an attacker sends a large number of spoofed MAC addresses to fill the CAM table of a switch. This prevents the switch from learning the correct MAC address of legitimate devices, resulting in a denial-of-service for those devices. In this blog post, we'll take a look at what MAC flooding is, how it works, and how to protect your network from this type of attack.
 ## Media access control (MAC address)
 
 A MAC address is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. MAC addresses are 48 bits long and are typically represented as 12 hexadecimal digits (0-9, A-F). The first six digits represent the manufacturer's identifier, and the last six digits represent the device's identifier.

@@ -1,7 +1,6 @@
 :orphan:
 (the-basics-of-securing-workstations-physical)=
-# The Basics of Securing Workstations: Physical
- 
+# The Basics of Securing Workstations: Physical 
 
 In this blog page, we are going to take a look at what is an endpoint device, what are three levels of security, the areas cybercriminals are most likely to target, and lastly how to harden our workstations.
 

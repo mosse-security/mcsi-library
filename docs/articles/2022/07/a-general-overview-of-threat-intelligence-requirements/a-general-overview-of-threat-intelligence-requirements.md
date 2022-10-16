@@ -2,7 +2,7 @@
 (a-general-overview-of-threat-intelligence-requirements)=
 # A General Overview of Threat Intelligence Requirements
  
-In this blog post, we are going to discover what are intelligence requirement characteristics, and the importance of establishing intelligence requirements.
+Threat intelligence is the process of gathering, analyzing, and making sense of information about potential threats to an organization. An effective threat intelligence program requires both technology and human expertise. The right technology will help you collect and organize data from a variety of sources. But it takes human expertise to turn that data into actionable intelligence. In this blog series, we'll explore the requirements for an effective threat intelligence program.
 
 ## What is a threat intelligence requirement?
 
