@@ -2,7 +2,7 @@
 (what-is-social-media-osint)=
 # What is Social Media OSINT
  
-In this blog post, we will make an introduction to social networks OSINT, and define what is SOCMINT. We will also discuss whether social media content is OSINT or not, and how social networks OSINT is valuable.
+Most people are familiar with the term "OSINT" (Open Source Intelligence), but what about "Social Media OSINT"? Social Media OSINT is the process of using public social media platforms to gather information about a person, place, or thing. In this blog post, we'll introduce you to the basics of Social Media OSINT and some of the best ways to benefit from social media contents.
 
 ## Introduction
 

@@ -2,7 +2,7 @@
 (understanding-threat-intelligence-feed-evaluation)=
 # Understanding Threat Intelligence: Feed Evaluation
  
-In this blog post we are going to learn how we can evaluate threat intelligence feeds more effectively with specific considerations.
+Cybersecurity threats are constantly evolving, and it can be difficult to keep up with the latest information. This is where threat intelligence feeds come in. A threat intelligence feed is a real-time stream of data that includes information about the latest threats. This information can be used to help organizations protect themselves from attacks. However, not all threat intelligence feeds are created equal. In this blog post, we will discuss how to evaluate threat intelligence feeds more effectively.
 
 ## Analysing threat intelligence feeds
 

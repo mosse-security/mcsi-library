@@ -2,7 +2,7 @@
 (the-advantages-of-performing-osint-for-threat-intelligence)=
 # The Advantages of Performing OSINT for Threat Intelligence
  
-In this blog post, we will learn the various benefits of Open-Source Intelligence.
+As the world of threat intelligence continues to grow, so does the need for open-source intelligence, or OSINT. OSINT is the process of collecting data from publicly available sources to be used in an intelligence analysis. This type of intelligence gathering can be used to supplement other intelligence sources or to stand alone as the primary source of intelligence. There are many advantages to using OSINT for threat intelligence, which we will explore in this blog post.
 
 ## Benefits of OSINT
 

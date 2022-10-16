@@ -2,7 +2,7 @@
 (osint-information-gathering-types)=
 # OSINT Information Gathering Types
  
-This blog page provides you with different types of OSINT collecting methods and emphasizes the importance of privacy during the open intelligence collection process.
+There are a variety of sources that can be used for OSINT information gathering, including but not limited to social media, search engines, and public databases. While each source has its own strengths and weaknesses, they can all be used to collect valuable data. In this blog post, we will take a look at some of the most popular OSINT information gathering methods and the importance of privacy during the open intelligence collection process.
 
 ## Information Gathering Types
 

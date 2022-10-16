@@ -3,7 +3,7 @@
 
 # Hands-on with Google Maps Performing Geospatial OSINT
 
-This blog article will go through how to utilize Google Maps in detail with performing geolocating tasks.
+Google Maps is a powerful tool that can be used for more than just finding directions from one place to another. It can also be used for performing Geospatial OSINT (Open Source Intelligence). This type of intelligence gathering is the process of collecting data from public sources to be used in an intelligence analysis. In this blog post, we will show you how to use Google Maps for performing Geospatial OSINT.
 
 **Task 1-)** Review the satellite imagery of the Louvre Museum on google maps.
 
