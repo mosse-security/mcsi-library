@@ -3,7 +3,7 @@
 
 # A Brief Introduction to Wordlists and how to Generate them with CeWL
 
-In this blog post, we will make an introduction to wordlists and make a quick custom word generation exercise with CeWL.
+If you've ever wondered how to create a wordlist, or what a wordlist is used for, then this blog post is for you. A wordlist is simply a list of words, usually used for cracking passwords or other security purposes. In this post, we'll introduce you to the concept of wordlists, show you how to generate them with the CeWL tool. So let's get started! 
 
 ## Introduction
 

@@ -3,7 +3,7 @@
 
 # Enumerating SMTP with Metasploit
 
-In this blog post we are going to take a quick look at what is SMTP, and how we can get information about the target system utilizing Metasploit modules.
+SMTP, or Simple Mail Transfer Protocol, is a protocol used for sending and receiving email. It's a key part of how email works, and it's what allows you to send and receive messages from your email account. Metasploit is a powerful tool for exploit development and testing. It includes a wide range of features, including a comprehensive database of exploits and payloads, as well as a robust framework for developing and testing exploits. In this blog post, we'll take a look at how Metasploit can be used to gather information about a target system via SMTP.
 
 ## What is The Simple Mail Transfer Protocol (SMTP)
 

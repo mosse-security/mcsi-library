@@ -3,7 +3,7 @@
 # Root Login vs. Sudo
  
 
-This blog will explain why you should quit logging in as root at all times and provide the best security alternative to doing so.
+One of the most basic security measures you can take when working with Linux is to avoid logging in as the root user whenever possible. The root user is the administrator of the system with full privileges, which means that any malicious code that runs with root privileges can wreak havoc on the system. By logging in as a regular user and only using sudo when necessary, you can limit the damage that can be done if your account is compromised. In this blog post, we'll discuss why you should avoid logging in as root, how to create a sudo user, and provide you with best security alternative to it.
 
 ## The risks associated with signing in as the root user
 

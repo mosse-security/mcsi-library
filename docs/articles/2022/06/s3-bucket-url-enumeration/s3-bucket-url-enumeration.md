@@ -3,7 +3,7 @@
 
 # S3 Bucket URL Enumeration
 
-A storage service is a standard facility that cloud service providers often give to clients. And Simple Storage Service is the name of AWS's storage facility (which is also abbreviated as S3).
+Amazon S3 is a cloud-based file storage service offered by Amazon Web Services (AWS). It is designed to provide high-speed data access and is often used to store and distribute static files such as website images, videos, and documents. In this blog post, we will cover the basics of the Amazon S3 service and how to enumerate S3 Bucket URLs with `flaws.cloud`.
 
 ## What is an S3 bucket?
 
@@ -33,7 +33,7 @@ The WebGUI provides access to S3 bucket objects. Alternatively, the AWS s3 cmdle
 
 Now that we have learned some basics let’s make a quick exercise to decide if a website is hosted on the AWS cloud.
 
-Hands-on with flaws.cloud: Obtaining the URL of an S3 bucket
+### Hands-on with flaws.cloud: Obtaining the URL of an S3 bucket
 For this quick exercise, open your Kali and run the following command. This command will install S3Scanner to perform AWS S3 bucket enumeration:
 
 `sudo pip3 install s3scanner`

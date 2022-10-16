@@ -3,7 +3,7 @@
 # Improving DevOps Pipeline Security
 
 
-DevOps is more than tools. It is also securing our environment from the very start. In this blog article, we will discuss how we can secure our DevOps pipeline.
+The world of DevOps is constantly evolving, and with that comes new challenges in securing our pipelines. In this blog post, we'll explore some of the ways we can keep our DevOps pipelines secure, automation to access control. By the end, you should have a good understanding of the steps you can take to secure your own DevOps pipeline.
 
 ## How to create a safe DevOps infrastructure?
 
