@@ -2,6 +2,8 @@
 (introduction-to-suid)=
 # Introduction to SUID
  
+SUID is a special type of file permissions given to a file. It stands for set user ID. When a file has SUID permission set, the user executing the file becomes the owner of the process. This is normally used for system binaries that require elevated privileges. In this blog post, we will discuss what SUID is and how it works.
+
 The level of access that users and system processes have to files in Linux is governed by file permissions, attributes, and ownership. This is done to make sure that only legitimate users and programs are able to access particular files and directories. 
 
 In Linux os, everything is a file, including devices and directories which can enable or prohibit three tasks, namely `read/write/execute;` if something is not, then it must be running a process on the machine. In every Linux system, there are three types of owners ie user, group, and, other. 

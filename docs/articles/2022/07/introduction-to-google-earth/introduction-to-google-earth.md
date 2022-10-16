@@ -3,7 +3,7 @@
 
 # Introduction to Google Earth
 
-In this blog page, we will make an introduction to Google Earth Pro which is a great free online tool for conducting OSINT studies, especially when looking at time-series data.
+Google Earth is a powerful tool for conducting OSINT (open-source intelligence) investigations. The platform enables users to view satellite imagery, terrain, street maps, and even 3D buildings in any location around the world. Google Earth also offers a time-lapse feature that allows users to see how a particular location has changed over time. This can be an invaluable tool for investigators looking to track down leads or piece together a timeline of events. In this blog post, we'll introduce you to the basics of using Google Earth for OSINT investigations.
 
 ## Introduction
 

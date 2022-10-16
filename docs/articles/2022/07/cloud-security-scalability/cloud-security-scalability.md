@@ -1,8 +1,8 @@
 :orphan:
 (cloud-security-scalability)=
-# Cloud security scalability
+# Cloud Security Scalability
  
-Scalability is the property of a system or service that results in better performance proportionate to the additional quantity of resources added.
+Cloud scalability is a key advantage of cloud computing that allows businesses to scale their IT resources up or down as needed. This flexibility can help businesses save money by only paying for the resources they need, when they need them. In this blog post, we'll take a closer look at cloud scalability and how it can benefit your business.
 
 Scaling is possible in both centralized and distributed systems. Vertical scaling, or scaling up, is performed in centralized systems by expanding the size or capabilities of current or fewer resources. Horizontal scaling in distributed systems, such as those used in cloud computing, involves the addition of more individual resource pieces, such as servers. Horizontal scaling is used to establish redundancy and dependability in weakly linked systems, in addition to improving performance. As a result, distributed systems are more robust and can suffer resource unit failures. This capacity to consistently accomplish horizontal scalability is critical to the success of cloud computing.
 

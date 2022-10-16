@@ -3,7 +3,7 @@
 
 # Google Earth Historical Imagery
 
-In this blog post, we will explore Google Earth Pro’s Historical Imagery feature.
+Google Earth Pro is a free mapping tool available for download from Google. It offers a number of features not available in the standard version. One of its most interesting features is the Historical Imagery tool, which allows users to view past satellite imagery of any location on Earth. This can be a valuable resource for open-source intelligence (OSINT) analysts, who use publically-available information to gather intelligence. In this blog post, we'll take a look at how to use the Historical Imagery tool to conduct OSINT analysis.
 
 ## What is Google Earth Historical Imagery?
 

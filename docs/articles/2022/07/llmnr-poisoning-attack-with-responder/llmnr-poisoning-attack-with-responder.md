@@ -1,8 +1,9 @@
 :orphan:
 (llmnr-poisoning-attack-with-responder)=
 # LLMNR Poisoning attack with Responder
- 
-In the article we will discuss the basics of LLMNR and explain how a tool can be used to conduct a poising attack against it.
+
+
+LLMNR is a protocol that allows hosts on a local network to resolve NetBIOS names without the need for a WINS server. This can be useful in situations where a WINS server is not available, but it also introduces the possibility of poisoning attacks. In this blog post, we'll take a look at the basics of LLMNR and explain how a tool can be used to conduct a poisoning attack against it.
 
 ## What is LLMNR (Link-Local Multicast Name resolution) and NBT-NS?
 

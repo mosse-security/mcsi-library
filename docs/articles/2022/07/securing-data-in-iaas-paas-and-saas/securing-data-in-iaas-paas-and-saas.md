@@ -2,7 +2,7 @@
 (securing-data-in-iaas-paas-and-saas)=
 # Securing Data in IaaS, PaaS and SaaS
  
-In this blog post, we will take a look at the best practices for securing your 3 states of data in the cloud which are data at rest, data in transit, and data in use.
+As more and more businesses move to the cloud, data security is becoming an increasingly important concern. With the cloud, data is stored in three states: at rest, in transit, and in use. Each state presents its own security challenges, and it's important to take steps to secure your data in all three states. In this blog post, we'll share some best practices for securing your data in the cloud.
 
 ## How to secure data at rest?
 

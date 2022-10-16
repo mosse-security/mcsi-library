@@ -2,10 +2,7 @@
 (metasploit-working-with-http-auxiliaries)=
 
 # Metasploit Working with HTTP Auxiliaries
-
-In this blog post, we’ll explore HTTP auxiliary modules within the Metasploit Framework that you can utilize for information gathering and enumeration purposes.
-
-Let’s start with `http_version` and the required variables.
+The HTTP Auxiliaries module in Metasploit Framework contains a number of tools for interacting with HTTP servers. These tools can be used to enumerate a target system to find information such as the server type, software versions, and open ports. In this post, we will introduce the HTTP Auxiliaries module and show how it can be used to gather information about a target system.
 
 ## HTTP auxiliaries in Metasploit Framework:
 
