@@ -3,7 +3,7 @@
 
 # Metasploit Introduction to Databases and Workspaces
 
-It is critical to keep all data secure and organized so that you can reuse your findings effectively and easily when you need them. In this blog post, we are going to take a look at how we can achieve this with msfconsole databases and workspaces.
+Metasploit databases and workspaces are tools used by penetration testers for various purposes such as storing data, tracking progress, storing information about previous attacks and sharing information between team members. In this blog post, we will introduce you to the concept of metasploit databases and workspaces and show you how to create and use them.
 
 ## Introduction
 

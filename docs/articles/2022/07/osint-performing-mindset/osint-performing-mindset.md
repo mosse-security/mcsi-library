@@ -3,7 +3,7 @@
 
 # OSINT Performing Mindset
 
-In this blog article, we will go through the fundamental phases of OSINT research.
+As the world of online information continues to grow, it's becoming more and more important for businesses to be able to find and use the data they need. This is where OSINT comes in. OSINT, or Open Source Intelligence, is the process of collecting and using information that is publicly available. While it may seem like a simple process, OSINT research is actually a very methodical process that demands the deployment of an effective roadmap. In this blog post, we'll introduce you to the OSINT process and show you how you can benefit from the OSINT framework for your own OSINT research roadmap.
 
 ## Getting started with your research: What do you have?
 
