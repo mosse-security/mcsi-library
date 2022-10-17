@@ -38,6 +38,7 @@ This video course provides an introduction to digital forensics. It covers the b
 - [A simple process for performing a digital forensics investigation on Windows](https://www.youtube.com/watch?v=ENTxnawFQ5g)
 - [How to investigate Windows Event Logs](https://youtu.be/XGt0pQfMGN0)
 - [How to investigate Windows Prefetch Files](https://youtu.be/y-dW7ObNoGQ)
+- [How to investigate the Windows Registry](https://youtu.be/7ahrlzz9XvM)
 
 ### Chapter 5: Linux Forensics
 
