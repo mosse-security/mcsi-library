@@ -2,7 +2,7 @@
 (a-very-short-introduction-to-threat-intelligence)=
 # A Very Short Introduction to Threat Intelligence
  
-In this blog post, we are going to answer what is threat intelligence, and why it is essential, what are differences between data, information and intelligence to help you better understand the importance of threat intelligence in enhancing your defensive skills
+Threat intelligence is critical for any organization that wants to stay ahead of the curve when it comes to cybersecurity. But what is it, exactly? And why is it so important? In this blog post, we'll take a closer look at what threat intelligence is, what are differences between data, information and intelligence, and why threat intelligence so important.
 
 ## What is threat intelligence?
 

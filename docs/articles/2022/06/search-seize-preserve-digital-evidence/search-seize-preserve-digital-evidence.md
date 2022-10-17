@@ -2,6 +2,9 @@
 (search-seize-preserve-digital-evidence)=
 # Search, Seize, Preserve!: Digital Evidence
   
+As the world increasingly moves online, so too does the realm of criminal activity. Just as traditional investigators would search a physical location for clues and evidence, digital investigators must now know how to search, seize, and preserve digital evidence. But where do you even start? This blog will provide tips and tricks for digital investigators on how to search, seize, and preserve digital evidence.
+
+## Introduction
 
 As a Criminalist, which of the following actions would you take to preserve computer-based evidence? 
 

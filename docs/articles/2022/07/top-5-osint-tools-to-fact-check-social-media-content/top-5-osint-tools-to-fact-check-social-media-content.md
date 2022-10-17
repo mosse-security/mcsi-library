@@ -3,7 +3,7 @@
 
 # Top 5 OSINT Tools to Fact-check Social Media Content
 
-This blog post will provide you with what is fact-checking and what are some tools that you can utilize in fact-checking social media content.
+In this day and age, it's important to be able to fact-check social media content. With the spread of fake news, it's more important than ever to be able to verify the accuracy of what you're seeing online. That's where OSINT comes in. OSINT, or open-source intelligence, is the practice of using publically available information to verify facts. There are a number of different OSINT tools available, and in this blog post, we'll be taking a look at the top five tools to fact check social media content.
 
 ## Introduction
 

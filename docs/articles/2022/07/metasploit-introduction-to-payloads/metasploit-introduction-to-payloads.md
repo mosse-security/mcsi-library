@@ -3,7 +3,7 @@
 
 # Metasploit: Introduction to Payloads
 
-What do you want to accomplish on the target machine with your initial payload? This blog page will give you a general understanding of Metasploit Framework’s payloads.
+A payload is a piece of code that is used to execute a specific task, such as opening a reverse shell or creating a persistent backdoor.  In this blog post, we'll give you a brief introduction to payloads. By the end of this blog post, you will have a better understanding of Metasploit payloads and how they are used to deliver payloads to target systems.
 
 ## What are payloads?
 

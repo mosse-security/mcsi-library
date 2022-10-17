@@ -1,7 +1,11 @@
 :orphan:
 (web-application-username-enumeration-and-defense-techniques)=
 # Web Application Username Enumeration and Defense Techniques
- 
+
+Username enumeration is a type of attack where an attacker is able to determine valid usernames on a web application. This can be done in a number of ways, the most common being through error messages and login pages. In this blog post, we will take a look at how to perform a username enumeration attack using Burp Suite, as well as some defense techniques that can be used to prevent these attacks.
+
+## Username Enumeration
+
 The `Burp Intruder` tab will be the target of our enumeration attack. Let's navigate to the `Target` tab and select `Send to Intruder` by right-clicking one of the POST requests.
 
 We will be able to fuzz the application from the `Intruder` using wordlists or brute force methods.

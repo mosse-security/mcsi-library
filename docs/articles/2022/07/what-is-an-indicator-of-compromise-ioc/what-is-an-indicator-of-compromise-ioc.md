@@ -2,7 +2,7 @@
 (what-is-an-indicator-of-compromise-ioc)=
 # What is an Indicator of Compromise (IOC)
  
-This blog post will provide you with what is indicators of compromise (IOC), the lifecycle of an indicator, and Traffic Light Protocol (TLP).
+In cybersecurity, an indicator of compromise (IOC) is a piece of forensic data that identifies suspicious or malicious activity. This could be anything from a file or registry key associated with malware to network traffic related to an attack. IOCs are used by security analysts to detect and investigate potential incidents, as well as to track down the source of an attack. The Traffic Light Protocol (TLP) is a set of guidelines for sharing IOCs and other sensitive information. The TLP is designed to help organizations handle and share information in a way that minimizes the risk of data loss or misuse. In this blog post, we'll introduce you typical examples of IOC, lifecycle of an indicator and explain how TLP can be used to share IOCs safely and effectively.
 
 ## Indicators of compromise (IOC)
 

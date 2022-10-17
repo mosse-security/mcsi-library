@@ -3,7 +3,7 @@
 
 # Analyzing ICMP traffic with Wireshark
 
-In today’s blog post we are going to take a look at what an internet control message protocol request and replies can be identified using Wireshark.
+Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. In this blog, we will be discussing how to use Wireshark to analyze Internet Control Message Protocol (ICMP) traffic. 
 
 ## Analyzing ICMP traffic in Wireshark
 

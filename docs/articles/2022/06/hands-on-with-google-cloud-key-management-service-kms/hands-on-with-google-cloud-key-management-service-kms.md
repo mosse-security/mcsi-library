@@ -3,7 +3,7 @@
 
 # Hands-on with Google Cloud Key Management Service (KMS)
 
-In this blog post we will learn what a KMS, how we can secure our application keys with it and finally create our first keys.
+Google Cloud Key Management Service (KMS) is a cloud-based key management system that enables you to manage encryption keys for your cloud services. It is a fully managed service that provides a central repository for your keys and enables you to control their access and use. In this blog post, we will take a hands-on look at KMS and show you how to use it to manage your keys.
 
 ## What is KMS?
 

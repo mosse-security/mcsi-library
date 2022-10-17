@@ -2,7 +2,7 @@
 (threat-modeling-basics-system-modeling)=
 # Threat Modeling Basics: System Modeling
  
-In this blog post, we are going to explain what is system modeling and why it is an essential part of threat modeling. Let’s start by defining what is threat modeling.
+System modeling is a powerful tool that can be used in threat modeling to help identify potential threats and vulnerabilities. By creating a model of the system, analysts can more easily identify potential points of attack and develop mitigation strategies. In this blog post, we will introduce the concept of system modeling and show how it can be used in threat modeling.
 
 ## What is system modeling?
 

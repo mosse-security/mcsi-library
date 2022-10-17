@@ -1,9 +1,8 @@
 :orphan:
 (a-brief-overview-into-containers-and-the-challenges-they-address)=
-# A Brief Overview into Containers and the Challenges they Address
- 
+# A Brief Overview into Containers and the Challenges they Address 
 
-This blog article will provide you with an overview of containers and how they affect the overall information technology environment.
+Containerization is a type of virtualization that allows you to run an application or service in its own isolated environment. This environment is known as a container. Containers are similar to virtual machines (VMs), but they are more portable, more resource-efficient, and can be used more effectively in distributed and cloud-based environments. Containerization has become a popular approach to application development and deployment in recent years, due to the many advantages it offers. In this blog post, we will explore the advantages of containerization and which problems it address.
 
 ## Introduction
 

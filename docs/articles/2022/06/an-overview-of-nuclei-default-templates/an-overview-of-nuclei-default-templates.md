@@ -3,7 +3,7 @@
 
 # An Overview of Nuclei Default Templates
 
-You can model various security checks with Nuclei. In today’s blog post we are going to take a quick look at default templates in Nuclei.
+Nuclei ships with a number of default templates that can be used to scan for common vulnerabilities, and users can also create their own custom templates. In this blog post, we'll give an overview of the default templates that are included with Nuclei, and how they can be used to find vulnerabilities in your environment.
 
 ## Displaying Nuclei templates
 

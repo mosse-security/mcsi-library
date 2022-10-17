@@ -3,8 +3,10 @@
 
 # Intro to Hunting Webshells
 
-A **web shell** is a script that can be uploaded to a web server to facilitate remote machine administration. Internal or Internet-facing web servers can be infected, and the web shell is used to pivot to internal hosts.
+A **web shell** is a script that can be uploaded to a web server to facilitate remote machine administration. They can be used to do anything from stealing data to planting malware. In this blog post, we are going to introduce you to hunting webshells. We'll cover what they are, how they work, how we can we search web servers for web shells and what are some hunting tools.
 
+
+## Webshells
 The [US-CERT Alert (TA15-314A)](https://www.us-cert.gov/ncas/alerts/TA15-314A) states that APTs and online criminal groups have routinely used web shells as an attack vector to gain a foothold that could grant them unauthorized access to the target network.
 
 Web shells can be written in any language, as long as the target web server supports the language it's written in. The most common web shell languages are `PHP` and `ASP`.

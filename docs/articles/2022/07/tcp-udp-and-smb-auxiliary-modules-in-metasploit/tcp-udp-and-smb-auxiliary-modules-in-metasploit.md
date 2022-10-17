@@ -3,7 +3,7 @@
 
 # TCP, UDP, and SMB Auxiliary Modules in Metasploit
 
-In this blog post, we'll explore TCP, UDP, and SMB protocols auxiliary modules within the Metasploit Framework that you can utilize for information gathering and enumeration. Let's start with TCP auxiliary modules and required variable settings...
+Metasploit is a powerful exploitation tool used by security professionals all over the world. In this blog post, we'll be taking a look at three of the Metasploit auxiliary modules: TCP, UDP, and SMB. We'll go over what each of these modules does and how they can be used in your next penetration test. Let's start with TCP auxiliary modules and required variable settings.
 
 **TCP: auxiliary/scanner/portscan/tcp**
 

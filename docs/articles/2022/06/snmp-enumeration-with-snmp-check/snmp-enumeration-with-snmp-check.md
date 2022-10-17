@@ -3,7 +3,7 @@
 
 # SNMP Enumeration with snmp check
 
-Enumeration occurs after scanning and is the process of gathering and compiling usernames, machine names, network resources, shares, and services.
+SNMP enumeration is the process of gathering information from a remote SNMP-enabled device. The information gathered can include system information, device information, and even sensitive information such as usernames and passwords. SNMP enumeration can be used to gain a foothold on a network by an attacker. In this blog post, we'll introduce you to the basics of SNMP enumeration with the snmp check tool.
 
 ## SNMP
 

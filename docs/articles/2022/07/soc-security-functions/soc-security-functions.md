@@ -2,7 +2,7 @@
 (soc-security-functions)=
 # SOC Security Functions
  
-In this article we will discuss the security functions a SOC is responsible for.
+SOC security functions are critical for businesses of all sizes. They help protect against cyber attacks, data breaches, and other online threats. But what exactly is a SOC security function? And what do they do? In this blog post, we'll answer those questions and more. We'll also provide an overview of the different types of SOC security functions and how they can benefit your business. So if you're looking to improve your cyber security posture, this blog post is for you.
 
 ## Creating an inventory of resources
 

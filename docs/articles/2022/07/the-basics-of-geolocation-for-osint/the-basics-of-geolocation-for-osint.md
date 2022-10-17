@@ -2,7 +2,7 @@
 (the-basics-of-geolocation-for-osint)=
 # The Basics of Geolocation for OSINT
  
-In this blog post, we are going to discuss the fundamentals of geospatial analysis so that you can have a better awareness while geolocating a target in OSINT research.
+Geolocation is the process of identifying the real-world geographic location of an object, such as a person, place, or thing. Geolocation is a powerful tool for OSINT (Open Source Intelligence) analysts, as it can provide valuable insights into the physical location of a target. In this blog post, we will introduce the basics of geolocation and how it can be used for OSINT purposes.
 
 ## The rise of geolocation data
 

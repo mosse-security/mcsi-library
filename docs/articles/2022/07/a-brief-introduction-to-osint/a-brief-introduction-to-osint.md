@@ -2,7 +2,7 @@
 (a-brief-introduction-to-osint)=
 # A Brief Introduction to OSINT
  
-In this blog article, we will provide a brief overview of Open Source Intelligence (OSINT). Although we will explore thoroughly each section in future blog posts, upon completion of this blog page your questions will be answered such as:
+OSINT is a process of gathering information from publicly available sources to be used in an intelligence context. In the digital age, there is a wealth of data that is readily available online, and OSINT is the process of collecting and analyzing this data. In this blog article, we will provide a brief overview of Open Source Intelligence (OSINT). Although we will explore thoroughly each section in future blog posts, upon completion of this blog page your questions will be answered such as:
 
 - What is open-source information,
 - What is OSINT,

@@ -3,7 +3,7 @@
 
 # Metasploit Working with Sessions
 
-In this blog post, we are going to cover sessions in the Metasploit Framework.
+Metasploit is a free and open-source exploitation framework that helps security professionals in the penetration testing process. In this blog post, we will introduce the concept of sessions in the Metasploit Framework and show how to create and use sessions in Metasploit.
 
 ## What are sessions?
 

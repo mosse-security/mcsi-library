@@ -3,7 +3,8 @@
 
 # Improving Search Results with Google Keywords
 
-In this blog article, we will learn how to improve a basic search using Google keywords for improved results.
+We all use Google every day, but how many of us know how to use it to its full potential? Google is much more than a simple search engine - it has a wide range of features and tools that can be extremely useful. In this blog post, we're going to discuss Google advanced search and how to utilize Google keywords for improved results.
+
 
 Let's look at how various Google keywords may be used for result optimization.
 

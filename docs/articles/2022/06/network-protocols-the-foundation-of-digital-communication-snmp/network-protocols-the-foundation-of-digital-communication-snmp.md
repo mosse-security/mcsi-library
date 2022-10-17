@@ -2,7 +2,7 @@
 (network-protocols-the-foundation-of-digital-communication-snmp)=
 # Network Protocols: SNMP
  
-If a business has 1000 devices, checking each one individually every day to see if they are operating correctly or not is a time-consuming operation. Simple Network Management Protocol (SNMP) is used to help with this.
+SNMP, or Simple Network Management Protocol, is a network protocol that's been around since the late 1980s. It's used for monitoring and managing network devices like routers, switches, and servers. SNMP is a key part of any network administrator's toolkit, and it's an important protocol to know if you're planning on taking any network certification exams. In this blog post, we'll give you a high-level overview of SNMP and how it works.
 
 ## Simple Network Management Protocol (SNMP)
 

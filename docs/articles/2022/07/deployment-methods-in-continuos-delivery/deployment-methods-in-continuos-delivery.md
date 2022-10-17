@@ -2,7 +2,7 @@
 (deployment-methods-in-continuos-delivery)=
 # Deployment Methods in Continuos Delivery
  
-In this blog post, we are going to learn some CD strategies that are employed in DevOps frameworks.
+Continuous Delivery (CD) is a software development methodology in which code changes are automatically built, tested and deployed to production environments. This allows for faster feedback and more frequent releases. There are many different ways to set up a CD pipeline, and the choice of deployment method will depend on a number of factors, including the size and complexity of the application, the team's preferences and the company's development process. In this blog post, we'll take a look at some of the most popular deployment methods used in CD.
 
 ## Deployment Methods in DevOps environments
 

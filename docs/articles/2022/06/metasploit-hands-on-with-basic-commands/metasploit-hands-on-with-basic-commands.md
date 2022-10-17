@@ -3,7 +3,7 @@
 
 # Metasploit: Hands-on with Basic Commands
 
-In this blog post, we are going to get started with the essential utilities of Metasploit by performing tasks.
+Metasploit is a powerful exploitation tool used by security professionals all over the world. In this blog post, we'll be taking a hands-on approach with basic Metasploit commands. Let's get started with the essential utilities of Metasploit by performing tasks.
 
 ## Hands-on with `msfconsole`
 

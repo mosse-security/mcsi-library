@@ -1,9 +1,8 @@
 :orphan:
 (aws-elastic-load-balancing-elb-improving-your-security)=
-# AWS Elastic Load Balancing (ELB) - Improving Your Security
- 
+# AWS Elastic Load Balancing (ELB) - Improving Your Security 
 
-This blog post will provide you with the security perks of an Elastic Load Balancing (ELB) service.
+AWS Elastic Load Balancing (ELB) is a popular choice for load balancing in the cloud. It is a cost-effective and scalable solution that can be used to distribute traffic across multiple servers. ELB can also provide high availability and fault tolerance by automatically routing traffic around failed servers. In this blog post, we will discuss the benefits of using AWS ELB for load balancing.
 
 ## What are benefits on an ELB?
 

@@ -2,7 +2,7 @@
 (understanding-linux-timestamps-for-dfir)=
 # Understanding Linux Timestamps for DFIR
  
-Every file on a Linux computer has four timestamps associated with it. In this blog post, we will explore how those timestamps exist, some interesting facts surrounding the timestamps and their implications in DFIR.
+One of the most important pieces of data that can be collected during a digital forensics and incident response investigation is timestamps. Timestamps can be used to help determine when files were created, accessed, and modified and can also provide insight into the behavior of an attacker. Linux systems store timestamps in a variety of different formats and it is important for DFIR practitioners to understand how to interpret these timestamps. In this blog post, we will explore how those timestamps exist, some interesting facts surrounding the timestamps and their implications in DFIR.
 
 ## Linux Timestamps
 
