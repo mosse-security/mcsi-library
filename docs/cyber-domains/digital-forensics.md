@@ -48,6 +48,7 @@ This video course provides an introduction to digital forensics. It covers the b
 - [The Linux Forensics tools you need to learn and master](https://youtu.be/XL5GAjJt3nU)
 - [How to investigate Linux System Logs](https://youtu.be/oVed8I9VhEE)
 - [How to investigate Linux Systemd Journal](https://youtu.be/ByBs5hxSWFk)
+- [How to investigate Linux User Artefacts](https://youtu.be/Z9pzR6WQgGI)
 
 ### Chapter 6: Memory Forensics
 
