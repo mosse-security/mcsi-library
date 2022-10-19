@@ -2,7 +2,7 @@
 (an-overview-into-website-mechanisms-and-vulnerabilities)=
 # An Overview into Website Mechanisms and Vulnerabilities
  
-For cyber security professionals, it is important to gain an understanding of the various web technologies. Many cyber-attacks are carried out on websites and web servers for various reasons. It may be to retrieve credentials to get access to systems, to gain Personal Identifiable Information (PII). Or it may be to simply use a website to have users click on links that execute malicious code or that link to another, malicious, website. Cyber security professionals need to know how to protect systems and businesses against these kinds of attacks.
+For cyber security professionals, it is important to gain an understanding of the various web technologies. Many cyber-attacks are carried out on websites and web servers for various reasons. It may be to retrieve credentials to get access to systems, to gain Personal Identifiable Information (PII). Or it may be to simply use a website to have users click on links that execute malicious code or that link to another, malicious, website. In this blog post, we'll give you an overview of how websites work and some of the most common vulnerabilities and attacks. By the end of this blog, you'll learn how to protect your systems and businesses against these kinds of vulnerabilities and attacks.
 
 ## What exactly are websites?
 
