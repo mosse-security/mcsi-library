@@ -3,7 +3,14 @@
 
 # Hunting Webshells: Tools
 
-In this article we are going to discuss tools that can be use to discover Webshells.
+Webshells are malicious scripts that can be used to gain unauthorised access to a server. They are often used by attackers to inject malicious code into webpages or to upload and download files without the permission of the server administrator. There are many different tools that can be used to discover webshells, and in this blog post we will focus on the following tools and methods:
+
+* LOKI Simple IOC Scanner
+* NeoPI
+* BackdoorMan
+* File Stacking
+* Baselines
+
 
 ## LOKI Simple IOC Scanner
 

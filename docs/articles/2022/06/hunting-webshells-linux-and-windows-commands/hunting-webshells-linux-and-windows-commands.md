@@ -3,6 +3,9 @@
 
 # Hunting Webshells: Linux and Windows Commands
 
+Webshells are malicious scripts used by attackers to gain remote access to a server. They can be used to execute arbitrary commands, upload and download files, or even to establish a reverse shell connection. In this blog post, we'll show you how to use Linux and Windows commands to locate webshells on your server.
+
+## Introduction
 Log analysis is one of the techniques used to hunt for web shells (Apache, IIS, etc.). We will not devote a great deal of time to analyzing web shell logs.
 
 Instead, we will use the Log Parser Studio tool to analyze IIS web logs, including the tools mentioned in the previous section as well as native built-in OS commands and/or scripting languages, in order to locate hidden web shells in the web server's directories.

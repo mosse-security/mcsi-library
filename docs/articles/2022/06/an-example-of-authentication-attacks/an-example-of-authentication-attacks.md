@@ -2,7 +2,9 @@
 (an-example-of-authentication-attacks)=
 # An Example of Authentication Attacks
 
+Authentication attacks are a type of cyberattack that targets the authentication process in order to gain access to sensitive information or systems. These attacks can be carried out in a number of ways, but they all aim to bypass the authentication process in order to gain unauthorized access. There are a few different types of authentication attacks such as brute force attacks, dictionary attacks, password spraying attacks and credential stuffing attacks. Let's take a closer look at each of these.
 
+## Authentication attacks
 Authentication attacks try to guess the correct username and password. Brute Force attacks, the most basic type of authentication attack, aim to acquire access to an account by attempting random passwords. Threat actors utilize algorithms to automate this process, which can result in millions of passwords guesses every day.
 
 Unfortunately, not every system is well protected against authentication threats. However, here are some frequent symptoms that might assist you in determining whether your account is in jeopardy.

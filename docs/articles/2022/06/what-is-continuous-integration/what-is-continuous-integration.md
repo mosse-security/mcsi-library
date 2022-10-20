@@ -2,8 +2,7 @@
 (what-is-continuous-integration)=
 # What is Continuous Integration?
  
-
-In this blog page, we will make a quick introduction to what is continuous integration pipeline.
+A continuous integration pipeline is a set of automated processes that allow developers to integrate code changes into a shared code repository several times a day. By integrating code changes regularly, developers can detect and fix errors quickly, avoid code conflicts, and reduce the time needed to release new features or products. In this blog post, we'll take a look at what a continuous integration pipeline is, how it works, and why it's important for software development teams.
 
 ## Continuous Integration and code changes
 

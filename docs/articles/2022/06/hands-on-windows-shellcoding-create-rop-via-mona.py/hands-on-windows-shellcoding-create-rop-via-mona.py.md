@@ -3,6 +3,8 @@
 
 # Hands on Windows Shellcoding: Create ROP via mona.py
 
+Windows Shellcoding is a process of creating malicious code that can be used to exploit vulnerabilities in Windows operating systems. This code can be used to execute arbitrary code, which can lead to a complete compromise of the system. In this blog post, we will be discussing how to create a ROP (Return-Oriented Programming) chain using mona.py, which is a Python script that is used to automate the process of creating shellcode.
+
 Let's see the procedure in action by attempting to exploit some susceptible software on Windows 7 32-bit with the security settings left as they were originally installed.
 
 We will attack the VUPlayer 2.49 software vulnerability.
