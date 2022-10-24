@@ -55,6 +55,7 @@ This video course provides an introduction to digital forensics. It covers the b
 - [Introduction to Memory Forensics](https://youtu.be/Xe6p0b98viw)
 - [Setting up a lab to practice Memory Forensics](https://youtu.be/10Fo7J4rRXM)
 - [The Memory Forensics tools you need to learn and master](https://youtu.be/W9gQjZ9EeIg)
+- [Memory Dump Formats and Memory Acquisition Types](https://youtu.be/i69vFzxlDMw)
 - [A simple process to analyze malware samples using Memory Forensics](https://www.youtube.com/watch?v=2Yxnt9vJ01o)
 - [Analyzing a malware sample with Memory Forensics](https://youtu.be/mHhQ63juojg)
 
