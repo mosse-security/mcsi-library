@@ -57,7 +57,7 @@ When the build succeeds, the HTML pages will be in _build/html.
 
 **Step-7** We will use sphinx-autobuild to run this project on our localhost by running the following command:
 
-`sphinx-autobuild . _build/html`
+`sphinx-autobuild . _build/`
 
 The output will be similar to this:
 
