@@ -3,6 +3,10 @@
 # How Practical is Homomorphic Encryption?
  
 
+Homomorphic encryption is a form of encryption that allows for computation on ciphertexts, generating an encrypted result which, when decrypted, matches the result of the operations as if they had been performed on the plaintext. This type of encryption is useful for cases where it is desirable to be able to compute on data without decrypting it first, such as in cloud computing or database management. However, homomorphic encryption schemes are often slower and more resource-intensive than other schemes, and can be less secure in some cases.In this blog post, we will take a look at homomorphic encryption, what it is, and some of the benefits and drawbacks of this type of encryption.
+
+## Introduction
+
 Homomorphic encryption is a cybersecurity technique where data can be encrypted and then run through a mathematical transformation without being decrypted. This means that only the owner of the encryption key has access to the data. 
 
 Homomorphic encryption can be used for a variety of things, including cloud security and digital signatures. It's also employed in data recovery and mathematical cryptology.

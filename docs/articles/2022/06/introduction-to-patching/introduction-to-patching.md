@@ -3,7 +3,7 @@
 # Introduction to Patching
  
 
-Security patches and software upgrades are the first locations cybercriminals seek for weaknesses in previous versions that they may target. When an attacker notices that an issue has been resolved, anyone who has not applied the solution becomes a target. Having all of your applications up-to-date can minimize the vast majority of known online threats. In this blog post, we age going to learn what is patching, and what is a patch management lifecycle.
+Patching is a process of applying updates to software or computer systems. These updates can be small, such as fixing a bug, or they can be large, such as adding new features or security enhancements. In either case, patching is an important part of keeping systems up-to-date and secure. The patch management life cycle is the process of planning, testing and deploying patches in a controlled and consistent manner. By keeping systems up-to-date, patching and effective patch management can help reduce the risk of attacks and make systems more resistant to exploitation. In this blog post, we age going to learn what is patching, and what are some key aspects to consider in a patch management plan.
 
 ## What is patching?
 

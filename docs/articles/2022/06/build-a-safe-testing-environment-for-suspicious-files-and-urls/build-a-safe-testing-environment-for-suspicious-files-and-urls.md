@@ -1,9 +1,8 @@
 :orphan:
 (build-a-safe-testing-environment-for-suspicious-files-and-urls)=
-# Build a Safe Testing Environment for Suspicious Files and URL's
- 
+# Build a Safe Testing Environment for Suspicious Files and URL's 
 
-Sandboxing is a technique in which you build an isolated test environment, or "sandbox," in which you execute or "detonate" a suspicious file or URL attached to an email. The sandbox should be a safe, virtual environment that closely mimics the CPU of your production servers. 
+As a business, you are likely handling sensitive data on a daily basis. Whether it's customer data, financial information, or company secrets, it's important to keep this data safe from malicious actors. One way to do this is by building a safe testing environment for suspicious files and URL's. This process, known as sandboxing, can help you to safely analyze files and URL's without putting your data at risk. In this blog post, we will discuss how to build a safe testing environment for suspicious files and URL's using sandboxing.
 
 Sandboxing is very good at protecting against zero-day attacks. Emails are scanned for known dangerous senders, URLs, and file types using traditional inbound email filters. Unfortunately, thousands of new (or "zero-day") dangers emerge every day that email filters have yet to detect. Sandboxing, a fundamental component of advanced threat prevention, adds an extra layer of safety by allowing any email that comes through the email filter but still contains unknown URL links, file kinds, or senders to be evaluated before reaching your network or mail server.
 

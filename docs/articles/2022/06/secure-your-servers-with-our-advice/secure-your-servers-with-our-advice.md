@@ -2,7 +2,7 @@
 (secure-your-servers-with-our-advice)=
 # Secure Your Servers With Our Advice
 
-Servers need particular security implementations, because obtaining the information stored on the servers is the most profitable objective for an attacker. This blog post will help you secure your servers with simple and clear guidelines.
+Servers are a vital part of any business, handling everything from website hosting to email to file storage. Servers need particular security implementations, because obtaining the information stored on the servers is the most profitable objective for an attacker. In order to protect your servers (and your business), you need to take steps to secure them. Here are a few tips to get you started.
 
 ## How can I secure my servers?
 

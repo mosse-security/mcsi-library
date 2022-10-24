@@ -2,7 +2,7 @@
 (basic-steps-to-network-baselining)=
 # Basic Steps to Network Baselining
  
-Baselining is the practice of analysing the network on a regular basis to ensure that it is functioning properly. It generates a number of reports that provide extensive information on the network.
+When it comes to network performance, one size does not fit all. The needs of your organization will be unique, as will the network infrastructure you have in place. This is why it’s so important to baseline your network before making any changes. Network baselining is the process of measuring and recording your network’s current state so that you can compare it to future states. This will give you a clear picture of what’s working and what isn’t, and will help you make informed decisions about changes to your network. In this blog post, we’ll give you a step-by-step guide to network baselining.
 
 The following information may be obtained using this process:
 

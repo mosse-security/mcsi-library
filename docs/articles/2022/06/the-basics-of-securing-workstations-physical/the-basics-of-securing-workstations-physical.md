@@ -2,7 +2,7 @@
 (the-basics-of-securing-workstations-physical)=
 # The Basics of Securing Workstations: Physical 
 
-In this blog page, we are going to take a look at what is an endpoint device, what are three levels of security, the areas cybercriminals are most likely to target, and lastly how to harden our workstations.
+Endpoint security is more important than ever as the world moves more and more towards a mobile workforce. With the BYOD, businesses need to be able to trust that their data is safe when employees are working from any device, whether it’s a company-issued laptop or a personal smartphone. But how can businesses be sure that their data is safe on these endpoint devices? In this blog post, we’ll take a look at some of the best practices for endpoint security.
 
 ## What is an endpoint?
 

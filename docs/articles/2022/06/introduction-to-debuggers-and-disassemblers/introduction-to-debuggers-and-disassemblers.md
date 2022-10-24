@@ -3,7 +3,9 @@
 
 # Introduction to Debuggers and Disassemblers
 
-Reverse Engineering (RE) has been the leading technique for understanding the structure and operation of malicious programs and what they're programmed to do for a very long time.
+Reverse Engineering (RE) has been the leading technique for understanding the structure and operation of malicious programs and what they're programmed to do for a very long time. Debugger and disassembler tools are used to examine the code of a program so that you can understand how it works and what it does. By understanding the code, you can make changes to it to improve its functionality or fix bugs. In this blog post, we will introduce you to debuggers and disassemblers and show you how they can be used in reverse engineering.
+
+## Introduction
 
 As sophisticated malware is developed, reverse engineering tools mature and become more accessible.
 
