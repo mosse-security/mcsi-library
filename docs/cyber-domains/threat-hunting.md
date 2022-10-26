@@ -49,6 +49,10 @@ Threat hunting on Windows is the process of proactively searching for signs of m
 
 * [](threat-hunting-windows-event-logs)
 
+## Practice Datasets
+
+* [](generating-logs-of-analysis-using-soc-faker-part-1)
+
 ## Tools
 
 * [](malware-hunting-detection-tools)
