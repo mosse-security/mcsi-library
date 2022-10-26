@@ -59,6 +59,10 @@ This video course provides an introduction to digital forensics. It covers the b
 - [A simple process to analyze malware samples using Memory Forensics](https://www.youtube.com/watch?v=2Yxnt9vJ01o)
 - [Analyzing a malware sample with Memory Forensics](https://youtu.be/mHhQ63juojg)
 
+### Chapter 7: File Forensics
+
+- [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
+
 ## Procedures
 
 ```{admonition} What is a procedure and a workflow and why are they important?
