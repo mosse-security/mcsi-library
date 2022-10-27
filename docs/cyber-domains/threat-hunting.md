@@ -70,6 +70,21 @@ Threat hunting on Windows is the process of proactively searching for signs of m
 
 YARA is a powerful tool for reverse engineering malware. It can be used to identify and classify malware, and to find and extract specific features from malware samples. YARA can also be used to create signatures that can be used to detect and block malware.
 
+**Procedure:**
+
+The image below explains the process to follow when writing YARA rules:
+
+```{thumbnail} ../images/procedures/yara-rules.svg
+:align: center
+:alt: Writing YARA rules procedure
+:class: block max-width-400 mb-5 mx-auto
+:width: 400px
+```
+
+**Articles:**
+
+Read the following articles to learn how to write YARA rules:
+
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
 * [](using-yara-for-threat-hunting-in-enterprise-environments)

@@ -29,6 +29,10 @@ h3 {
   box-shadow: 2px 2px 3px #14100fb4, 0px 0px 0px #e6e6e6, 0px 0px 0px #e6e6e6;
 }
 
+.max-width-400 {
+  max-width: 400px !important;
+}
+
 .max-width-500 {
   max-width: 500px !important;
 }
