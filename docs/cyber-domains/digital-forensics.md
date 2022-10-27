@@ -136,6 +136,8 @@ Browser forensics is the process of using forensic tools and techniques to exami
 
 ## Miscellaneous Articles
 
+There are a number of articles that don't fit into any specific category. These are known as miscellaneous articles.
+
 - [](endian-systems-explained-little-endian-vs-big-endian)
 - [](file-magic-numbers-the-easy-way-to-identify-file-extensions)
 - [](application-of-scripting-in-digital-forensics)
