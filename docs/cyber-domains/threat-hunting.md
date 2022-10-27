@@ -20,6 +20,13 @@ A procedure is a set of instructions that detail how to carry out a task. It is 
 A workflow is a series of steps that are followed in order to complete an engagement or a mission. In Threat Hunting, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, Threat Hunters can ensure that they are thorough in their tests and that they do not miss any important steps. 
 ```
 
+The image below proposes a workflow you can use to learn threat hunting:
+
+```{thumbnail} ../images/procedures/threat-hunting.svg
+:alt: Threat hunting procedure and workflow
+:class: block grey-border mb-5
+```
+
 **Articles:**
 
 * [](a-general-overview-of-threat-modeling-workflow)
