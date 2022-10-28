@@ -58,9 +58,19 @@ Threat hunting on Windows is the process of proactively searching for signs of m
 
 ## Practice Datasets
 
+When hunting for threats, analysts typically start with some sort of dataset that contains information about the activity that has taken place within a system or network. This dataset can come from a variety of sources, including system logs, network traffic data, and application data. Once a dataset has been collected, the next step is to look for IOCs that may indicate the presence of a threat.
+
+The following articles teach tools to generate practice datasets:
+
 * [](generating-logs-of-analysis-using-soc-faker-part-1)
 
+MCSI also offers free threat hunting datasets to practice your skills:
+
+* [MCSI Threat Hunting Samples](https://github.com/mosse-security/threat-hunting-samples)
+
 ## Tools
+
+There are many different tools that can be used for threat hunting. Some of these tools are designed specifically for threat hunting, while others are more general-purpose tools that can be used for a variety of security tasks.
 
 * [](malware-hunting-detection-tools)
 * [](threat-hunting-siem-elk-stack-splunk)
