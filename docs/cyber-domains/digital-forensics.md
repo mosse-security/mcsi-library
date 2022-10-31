@@ -59,6 +59,11 @@ This video course provides an introduction to digital forensics. It covers the b
 - [A simple process to analyze malware samples using Memory Forensics](https://www.youtube.com/watch?v=2Yxnt9vJ01o)
 - [Analyzing a malware sample with Memory Forensics](https://youtu.be/mHhQ63juojg)
 
+### Chapter 7: File Forensics
+
+- [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
+- [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
+
 ## Procedures
 
 ```{admonition} What is a procedure and a workflow and why are they important?
@@ -130,6 +135,8 @@ Browser forensics is the process of using forensic tools and techniques to exami
 - [](web-browser-forensics-uncovering-the-hidden-evidence-in-your-browser) 
 
 ## Miscellaneous Articles
+
+There are a number of articles that don't fit into any specific category. These are known as miscellaneous articles.
 
 - [](endian-systems-explained-little-endian-vs-big-endian)
 - [](file-magic-numbers-the-easy-way-to-identify-file-extensions)

@@ -20,6 +20,13 @@ A procedure is a set of instructions that detail how to carry out a task. It is 
 A workflow is a series of steps that are followed in order to complete an engagement or a mission. In Threat Hunting, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, Threat Hunters can ensure that they are thorough in their tests and that they do not miss any important steps. 
 ```
 
+The image below proposes a workflow you can use to learn threat hunting:
+
+```{thumbnail} ../images/procedures/threat-hunting.svg
+:alt: Threat hunting procedure and workflow
+:class: block grey-border mb-5
+```
+
 **Articles:**
 
 * [](a-general-overview-of-threat-modeling-workflow)
@@ -51,9 +58,19 @@ Threat hunting on Windows is the process of proactively searching for signs of m
 
 ## Practice Datasets
 
+When hunting for threats, analysts typically start with some sort of dataset that contains information about the activity that has taken place within a system or network. This dataset can come from a variety of sources, including system logs, network traffic data, and application data. Once a dataset has been collected, the next step is to look for IOCs that may indicate the presence of a threat.
+
+The following articles teach tools to generate practice datasets:
+
 * [](generating-logs-of-analysis-using-soc-faker-part-1)
 
+MCSI also offers free threat hunting datasets to practice your skills:
+
+* [MCSI Threat Hunting Samples](https://github.com/mosse-security/threat-hunting-samples)
+
 ## Tools
+
+There are many different tools that can be used for threat hunting. Some of these tools are designed specifically for threat hunting, while others are more general-purpose tools that can be used for a variety of security tasks.
 
 * [](malware-hunting-detection-tools)
 * [](threat-hunting-siem-elk-stack-splunk)
@@ -62,6 +79,21 @@ Threat hunting on Windows is the process of proactively searching for signs of m
 ### YARA
 
 YARA is a powerful tool for reverse engineering malware. It can be used to identify and classify malware, and to find and extract specific features from malware samples. YARA can also be used to create signatures that can be used to detect and block malware.
+
+**Procedure:**
+
+The image below explains the process to follow when writing YARA rules:
+
+```{thumbnail} ../images/procedures/yara-rules.svg
+:align: center
+:alt: Writing YARA rules procedure
+:class: block max-width-400 mb-5 mx-auto
+:width: 400px
+```
+
+**Articles:**
+
+Read the following articles to learn how to write YARA rules:
 
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
