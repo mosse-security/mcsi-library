@@ -3,14 +3,14 @@
 
 # Powershell Shellcoding: Part 2
 
-### Keep PowerShell in Memory
+## Keep PowerShell in Memory
 
 Since our PowerShell shellcode runner does not write to disk, it is likely that it executes entirely in memory.
 However, PowerShell and the `.NET` framework produce artifacts on the hard disk that can be identified by antivirus software.   
 
 In this article, we will examine these artifacts and use the `.NET` framework reflection mechanism to prevent their creation. However, let's first explore how these objects are formed.    
 
-### Add-Type Compilation
+## Add-Type Compilation
 
 The *Add-Type* keyword enables us to utilize the `.NET` framework to build and then call C# code containing Win32 API declarations. The Visual C# Command-Line Compiler, abbreviated `csc`, does this compilation.
 During this procedure, both the C# source code and the C# assembly are written temporarily to disk.   
@@ -44,7 +44,7 @@ According to our analysis, PowerShell writes a C# source code file (`.cs`) to th
 The `Add-Type` code will likely be recognized by endpoint antivirus software, so preventing our assault.
 To avoid this, we will need to rewrite our PowerShell shellcode runner.     
 
-### Leveraging UnsafeNativeMethods
+## Leveraging UnsafeNativeMethods
 
 Let us endeavor to enhance our shellcode runner. It conducted three key Win32 API-related operations. It found the function, defined the data types for function arguments, and executed the function.
 
@@ -225,7 +225,7 @@ The function's execution exposes a decimal number that, when converted to hexade
 
 With the techniques developed in this article, we have managed to implement a function that can resolve any Win32 API without using the Add-Type keyword. This completely avoids writing to the hard disk.
 
-### References
+## References
 
 [Foreach-Object](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/foreach-object?view=powershell-6)     
 [GetTypes](https://docs.microsoft.com/en-us/dotnet/api/systemreflection.assembly.gettypes?view=netframework-4.8)    
