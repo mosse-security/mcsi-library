@@ -3,11 +3,24 @@
 
 Penetration testing, also known as pen testing or ethical hacking, is the process of testing a computer system, network or web application to find security vulnerabilities that an attacker could exploit. Penetration tests can be used to test both internal and external systems and can be conducted using a variety of methods, including manual testing, automated tools, or a combination of both. Penetration testing is an important part of any security program as it can help identify weaknesses in systems before attackers do. By conducting regular penetration tests, organizations can keep their systems secure and reduce the risk of being breached.
 
+## Video Course
+
+If you're looking to get into penetration testing, this is the course for you! MCSI's videos will give you the foundation you need to get started in this exciting and important field. You'll learn about the tools and techniques used by penetration testers, and how to apply them in real-world scenarios.
+
+### Chapter 1: Introduction to Penetration Testing
+
+- [How to learn penetration testing by yourself](https://youtu.be/i1c-JIJkc60)
+- [The different types of penetration tests](https://youtu.be/vMMzSSSxjvo)
+- [Setting up your own penetration testing lab](https://youtu.be/3isNo8kskUo)
+
+### Chapter 2: Fundamental Concepts
+
+- [The top penetration testing tools every beginner should master](https://youtu.be/psXn-_5500o)
+
 ## Procedures
 
-```{admonition} What is a procedure and a workflow and why are they important?
-:class: tip
-A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
+```{admonition} What is a workflow and why is it important?
+:class: dropdown
 
 A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
 ```
