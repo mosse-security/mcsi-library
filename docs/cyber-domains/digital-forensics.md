@@ -62,6 +62,7 @@ This video course provides an introduction to digital forensics. It covers the b
 ### Chapter 7: File Forensics
 
 - [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
+- [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
 - [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
 
 ## Procedures
