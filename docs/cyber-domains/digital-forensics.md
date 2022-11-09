@@ -9,7 +9,7 @@ Digital forensics is a rapidly growing field, as more and more crimes are commit
 - [](a-day-in-the-life-of-a-digital-forensic-investigator)
 - [](build-your-own-digital-forensics-lab-at-home)
 
-## Video Course
+## Free Video Course
 
 This video course provides an introduction to digital forensics. It covers the basics of what digital forensics is and how it can be used to investigate crimes. The course also covers the different types of evidence that can be found in digital forensic investigations.
 
@@ -67,11 +67,10 @@ This video course provides an introduction to digital forensics. It covers the b
 
 ## Procedures
 
-```{admonition} What is a procedure and a workflow and why are they important?
-:class: tip
-A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
+```{admonition} What is a workflow and why is it important?
+:class: dropdown
 
-A workflow is a series of steps that are followed in order to complete an engagement. In reverse engineering, a workflow is important in order to ensure that all steps are followed in order to complete the reverse engineering process. By following a workflow, reverse engineers can ensure that they are thorough in their analysis and that they do not miss any important steps. 
+A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
 ```
 
 **Articles:**

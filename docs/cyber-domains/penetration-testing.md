@@ -3,7 +3,7 @@
 
 Penetration testing, also known as pen testing or ethical hacking, is the process of testing a computer system, network or web application to find security vulnerabilities that an attacker could exploit. Penetration tests can be used to test both internal and external systems and can be conducted using a variety of methods, including manual testing, automated tools, or a combination of both. Penetration testing is an important part of any security program as it can help identify weaknesses in systems before attackers do. By conducting regular penetration tests, organizations can keep their systems secure and reduce the risk of being breached.
 
-## Video Course
+## Free Video Course
 
 If you're looking to get into penetration testing, this is the course for you! MCSI's videos will give you the foundation you need to get started in this exciting and important field. You'll learn about the tools and techniques used by penetration testers, and how to apply them in real-world scenarios.
 

@@ -8,13 +8,23 @@ myst:
 
 Reverse engineering is the process of taking something apart and figuring out how it works. In the context of cyber security, reverse engineering can be used to figure out how a piece of malware works, or to find vulnerabilities in a piece of software. Reverse engineering is an important tool for security researchers, as it allows them to better understand how systems work and identify potential weaknesses.
 
+## Free Video Course
+
+If you're looking to get into reverse engineering, this is the course for you! MCSI's videos will give you the foundation you need to get started in this exciting and important field. You'll learn about the tools and techniques used by reverse engineers, and how to apply them in real-world scenarios.
+
+### Chapter 1: Introduction to Reverse Engineering
+
+- [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
+- [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
+- [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
+- [What is Software Packing and Code Obfuscation?](https://youtu.be/9GrMRXFkIHQ)
+
 ## Procedures
 
-```{admonition} What is a procedure and a workflow and why are they important?
-:class: tip
-A procedure is a set of instructions that detail how to carry out a task. It is important to have procedures in place so that tasks can be carried out efficiently and consistently. Having a procedure ensures that everyone knows what needs to be done and how to do it. This can help to avoid confusion and mistakes.
+```{admonition} What is a workflow and why is it important?
+:class: dropdown
 
-A workflow is a series of steps that are followed in order to complete an engagement. In reverse engineering, a workflow is important in order to ensure that all steps are followed in order to complete the reverse engineering process. By following a workflow, reverse engineers can ensure that they are thorough in their analysis and that they do not miss any important steps. 
+A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
 ```
 
 The image below proposes a workflow you can use to learn malware analysis:
