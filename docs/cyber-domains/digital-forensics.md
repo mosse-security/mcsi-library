@@ -65,6 +65,10 @@ This video course provides an introduction to digital forensics. It covers the b
 - [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
 - [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
 
+### Chapter 8: Email Forensics
+
+- [Introduction to Email Forensics](https://youtu.be/qjyikF-khLs)
+
 ## Procedures
 
 ```{admonition} What is a workflow and why is it important?
