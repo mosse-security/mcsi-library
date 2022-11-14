@@ -19,6 +19,10 @@ If you're looking to get into reverse engineering, this is the course for you! M
 - [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
 - [What is Software Packing and Code Obfuscation?](https://youtu.be/9GrMRXFkIHQ)
 
+### Chapter 2: File Analysis
+
+- [How to investigate malicious Office documents](https://youtu.be/PSSulYstYzo)
+
 ## Procedures
 
 ```{admonition} What is a workflow and why is it important?
