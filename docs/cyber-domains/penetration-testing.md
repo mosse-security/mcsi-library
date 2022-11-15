@@ -18,6 +18,7 @@ If you're looking to get into penetration testing, this is the course for you! M
 - [Working with Command Line Interfaces](https://youtu.be/LFOEDOcAVUY)
 - [The top penetration testing tools every beginner should master](https://youtu.be/psXn-_5500o)
 - [The top programming languages to learn as a penetration tester](https://www.youtube.com/watch?v=nW2BjtoGZqM)
+- [The most common activities in any penetration test](https://youtu.be/j1Hp0R-Og7o)
 
 ## Procedures
 
