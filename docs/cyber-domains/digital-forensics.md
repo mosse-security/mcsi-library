@@ -65,6 +65,7 @@ This video course provides an introduction to digital forensics. It covers the b
 - [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
 - [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
 - [How to investigate malicious Office documents](https://youtu.be/PSSulYstYzo)
+- [How to investigate a malicious disk image file](https://youtu.be/yhiu3DRMqYI)
 
 ### Chapter 8: Email Forensics
 
