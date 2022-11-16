@@ -15,6 +15,8 @@ This video course provides an introduction to digital forensics. It covers the b
 
 ### Chapter 1: Introduction to Digital Forensics
 
+This chapter provides an introduction to digital forensics. It covers the basics of what digital forensics is and why it is important. It also introduces some of the basic concepts and terminology that are used in digital forensics. If you are new to digital forensics, this is a good place to start.
+
 - [Introduction to the field of Digital Forensics](https://www.youtube.com/watch?v=jEJYXu59ecQ)
 - [How to learn Digital Forensics by yourself](https://www.youtube.com/watch?v=mBFP8zkYxz8)
 - [What are the top skills you must learn in Digital Forensics?](https://youtu.be/O4-DIrGG95Q)
@@ -22,14 +24,20 @@ This video course provides an introduction to digital forensics. It covers the b
 
 ### Chapter 2: Fundamental Concepts
 
+This chapter of the video course teaches fundamental digital forensics concepts. These concepts are important for understanding how digital forensics works and how it can be used to investigate crimes.
+
 - [Kill Chain and the MITRE Matrix](https://youtu.be/4riC6YiLfSs)
 - [The Rootkit Paradox](https://youtu.be/9Z4s3r4hbmg)
 
 ### Chapter 3: Investigating an Incident
 
+This chapter provides a detailed, step-by-step approach to investigating a cyber incident. This approach is designed to help organizations quickly and effectively determine the scope, severity, and cause of a cyber incident. Additionally, this approach can help organizations to develop an appropriate response plan and to take steps to prevent future incidents.
+
 - [What is a structured investigation process?](https://youtu.be/to1ibcnM97g)
 
 ### Chapter 4: Windows Forensics
+
+This chapter provides an introduction to digital forensics on the Windows platform. It discusses the features of the Windows operating system that make it attractive to attackers, and the tools and techniques that can be used to conduct a forensic investigation on a Windows system.
 
 - [Introduction to Windows Forensics](https://youtu.be/13rb6gGJYYs)
 - [Setting up a lab to practice Windows Digital Forensics](https://youtu.be/t4q8i2WrZtM)
@@ -42,6 +50,8 @@ This video course provides an introduction to digital forensics. It covers the b
 
 ### Chapter 5: Linux Forensics
 
+This chapter provides an overview of digital forensics for Linux systems. It discusses the need for forensics on Linux systems, the types of data that can be recovered, and the tools and techniques used to perform forensics. The chapter also provides case studies that demonstrates the use of digital forensics on a Linux system.
+
 - [Introduction to Linux Forensics](https://youtu.be/rkj9K8tvQgg)
 - [Setting up a lab to practice Linux Forensics](https://youtu.be/Icf2P3xGb7U)
 - [Top 10 forensics artefacts and data sources on Linux](https://www.youtube.com/watch?v=HLVA52gGJM8)
@@ -52,6 +62,8 @@ This video course provides an introduction to digital forensics. It covers the b
 
 ### Chapter 6: Memory Forensics
 
+This chapter will explore the exciting field of memory forensics. Memory forensics is the art of extracting digital evidence from a computer's memory dump. A memory dump is a snapshot of a computer's memory at a given point in time. A memory forensics analyst can use a memory dump to reconstruct what a computer was doing at the time the dump was taken.
+
 - [Introduction to Memory Forensics](https://youtu.be/Xe6p0b98viw)
 - [Setting up a lab to practice Memory Forensics](https://youtu.be/10Fo7J4rRXM)
 - [The Memory Forensics tools you need to learn and master](https://youtu.be/W9gQjZ9EeIg)
@@ -61,6 +73,8 @@ This video course provides an introduction to digital forensics. It covers the b
 
 ### Chapter 7: File Forensics
 
+This chapter provides an introduction to file forensics. File forensics is the process of analyzing a file to determine its origins, purpose, and structure. File forensics can be used to recover deleted files, reconstruct damaged files, and extract hidden data.
+
 - [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
 - [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
 - [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
@@ -69,6 +83,8 @@ This video course provides an introduction to digital forensics. It covers the b
 - [How to investigate a malicious batch script](https://youtu.be/J-gfE0Yt0s4)
 
 ### Chapter 8: Email Forensics
+
+Email forensics is the process of investigating and analyzing email messages in order to determine their origin, purpose, and contents. Email forensics can be used to uncover evidence of criminal activity, track down the source of malicious or unwanted emails, or simply to retrieve lost or deleted messages.
 
 - [Introduction to Email Forensics](https://youtu.be/qjyikF-khLs)
 
