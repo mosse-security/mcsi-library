@@ -24,6 +24,7 @@ If you're looking to get into reverse engineering, this is the course for you! M
 - [How to investigate malicious Office documents](https://youtu.be/PSSulYstYzo)
 - [How to investigate a malicious disk image file](https://youtu.be/yhiu3DRMqYI)
 - [How to investigate a malicious batch script](https://youtu.be/J-gfE0Yt0s4)
+- [How to investigate a malicious DLL](https://youtu.be/Im2Tx4hdWWg)
 
 ## Procedures
 

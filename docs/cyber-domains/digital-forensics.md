@@ -81,6 +81,7 @@ This chapter provides an introduction to file forensics. File forensics is the p
 - [How to investigate malicious Office documents](https://youtu.be/PSSulYstYzo)
 - [How to investigate a malicious disk image file](https://youtu.be/yhiu3DRMqYI)
 - [How to investigate a malicious batch script](https://youtu.be/J-gfE0Yt0s4)
+- [How to investigate a malicious DLL](https://youtu.be/Im2Tx4hdWWg)
 
 ### Chapter 8: Email Forensics
 
