@@ -78,6 +78,7 @@ This chapter provides an introduction to file forensics. File forensics is the p
 - [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
 - [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
 - [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
+- [How to create a good collection of malware samples](https://youtu.be/OTW2y1GomHE)
 - [How to investigate malicious Office documents](https://youtu.be/PSSulYstYzo)
 - [How to investigate a malicious disk image file](https://youtu.be/yhiu3DRMqYI)
 - [How to investigate a malicious batch script](https://youtu.be/J-gfE0Yt0s4)
