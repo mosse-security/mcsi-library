@@ -95,6 +95,7 @@ Email forensics is the process of investigating and analyzing email messages in 
 This chapter discusses browser forensics, which is the process of using digital forensic techniques to examine web browsers. In particular, this chapter covers the use of browser forensics to investigate web-based crimes.
 
 - [How to investigate Firefox browser artefacts](https://youtu.be/RKgGa6Rc2N8)
+- [How to investigate Chrome browser artefacts on Linux](https://youtu.be/nK6ZRZ8hjTc)
 
 ## Procedures
 
