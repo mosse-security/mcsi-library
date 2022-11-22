@@ -61,7 +61,7 @@ The architecture is depicted in figure in a form that is simplified from the ori
 Bear in mind that this is just a rudimentary schematic, and that it does not depict everything.
 (For instance, the components that are responsible for networking and the many different kinds of device driver stacking are not represented.) 
 
-![1](Windows-System-Architecture-Introduction/2022-11-21_05-57.png)    
+![1](windows-system-architecture-introduction/2022-11-21_05-57.png)    
 
 Take note of the line that separates the user-mode components of Windows from the kernel-mode components of the operating system. The components that can be found below the line are user-mode operating system services, whereas the boxes that can be found above the line are user-mode processes.     
 
