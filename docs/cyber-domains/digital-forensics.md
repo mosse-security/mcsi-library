@@ -71,6 +71,12 @@ This chapter will explore the exciting field of memory forensics. Memory forensi
 - [A simple process to analyze malware samples using Memory Forensics](https://www.youtube.com/watch?v=2Yxnt9vJ01o)
 - [Analyzing a malware sample with Memory Forensics](https://youtu.be/mHhQ63juojg)
 
+**Learning how to use the Volatility Framework:**
+
+The Volatility Framework is a powerful tool for memory forensics. It can be used to extract all sorts of information from a memory dump, including data about processes, threads, modules, and more. In this section, we'll take a look at how to use the Volatility Framework to extract this information.
+
+- [Getting started with the Volatility Framework](https://youtu.be/ypjbB9BQvL0)
+
 ### Chapter 7: File Forensics
 
 This chapter provides an introduction to file forensics. File forensics is the process of analyzing a file to determine its origins, purpose, and structure. File forensics can be used to recover deleted files, reconstruct damaged files, and extract hidden data.
