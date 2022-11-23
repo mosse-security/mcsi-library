@@ -1,7 +1,11 @@
 (penetration-testing-main-page)=
 # Penetration Testing
 
+```{admonition} What is Penetration Testing?
+:class: dropdown
+
 Penetration testing, also known as pen testing or ethical hacking, is the process of testing a computer system, network or web application to find security vulnerabilities that an attacker could exploit. Penetration tests can be used to test both internal and external systems and can be conducted using a variety of methods, including manual testing, automated tools, or a combination of both. Penetration testing is an important part of any security program as it can help identify weaknesses in systems before attackers do. By conducting regular penetration tests, organizations can keep their systems secure and reduce the risk of being breached.
+```
 
 ## Free Video Course
 
@@ -20,9 +24,9 @@ If you're looking to get into penetration testing, this is the course for you! M
 - [The top programming languages to learn as a penetration tester](https://www.youtube.com/watch?v=nW2BjtoGZqM)
 - [The most common activities in any penetration test](https://youtu.be/j1Hp0R-Og7o)
 
-## Procedures
+## Workflow
 
-```{admonition} What is a workflow and why is it important?
+```{admonition} What is a workflow?
 :class: dropdown
 
 A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
@@ -44,7 +48,7 @@ The image below proposes a workflow you can use to learn penetration testing:
 * [](example-of-a-penetration-testing-report-executive-summary)
 * [](performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider)
 
-## Techniques
+## Articles
 
 There are several types of penetration testing techniques that can be used in order to assess the security of a system. One type of penetration testing is known as black box testing, which is where the tester has no knowledge of the system beforehand and attempts to find vulnerabilities through trial and error. Another type of penetration testing is known as white box testing, which is where the tester has full knowledge of the system and attempts to find vulnerabilities by looking for weaknesses in the system's design. One of the most common penetration testing techniques is known as social engineering, which is where the tester tries to trick users into revealing sensitive information or granting access to the system.
 

@@ -2,12 +2,11 @@
 
 # Digital Forensics
 
+```{admonition} What is Digital Forensics?
+:class: dropdown
+
 Digital forensics is the science of acquiring, analyzing and reporting on digital evidence. It can be used to investigate crimes such as child pornography, terrorism, and fraud. It can also be used to recover data from damaged or corrupted devices.
-
-Digital forensics is a rapidly growing field, as more and more crimes are committed using digital devices. The field requires a strong understanding of computer science and investigation techniques.
-
-- [](a-day-in-the-life-of-a-digital-forensic-investigator)
-- [](build-your-own-digital-forensics-lab-at-home)
+```
 
 ## Free Video Course
 
@@ -71,7 +70,7 @@ This chapter will explore the exciting field of memory forensics. Memory forensi
 - [A simple process to analyze malware samples using Memory Forensics](https://www.youtube.com/watch?v=2Yxnt9vJ01o)
 - [Analyzing a malware sample with Memory Forensics](https://youtu.be/mHhQ63juojg)
 
-**Learning how to use the Volatility Framework:**
+**Learn how to use the Volatility Framework:**
 
 The Volatility Framework is a powerful tool for memory forensics. It can be used to extract all sorts of information from a memory dump, including data about processes, threads, modules, and more. In this section, we'll take a look at how to use the Volatility Framework to extract this information.
 
@@ -103,21 +102,14 @@ This chapter discusses browser forensics, which is the process of using digital 
 - [How to investigate Firefox browser artefacts](https://youtu.be/RKgGa6Rc2N8)
 - [How to investigate Chrome browser artefacts on Linux](https://youtu.be/nK6ZRZ8hjTc)
 
-## Procedures
+## Articles
 
-```{admonition} What is a workflow and why is it important?
-:class: dropdown
+Digital forensics is a rapidly growing field, as more and more crimes are committed using digital devices. The field requires a strong understanding of computer science and investigation techniques.
 
-A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
-```
+- [](a-day-in-the-life-of-a-digital-forensic-investigator)
+- [](build-your-own-digital-forensics-lab-at-home)
 
-**Articles:**
-
-- [](importance-of-timelines-in-a-forensic-investigation)
-- [](digital-forensics-hashing-for-data-integrity)
-- [](search-seize-preserve-digital-evidence)
-
-## Windows Forensics
+### Windows Forensics
 
 Windows forensics is the process of using investigative techniques to collect, analyze, and report data about a digital event that occurred on a computing device running the Microsoft Windows operating system. The data collected can be used to answer questions about what happened, when it happened, how it happened, and who was involved. Windows forensics is a specialized form of digital forensics that is designed to take advantage of the unique features and capabilities of the Windows operating system. Because of the way that Windows stores data and tracks activity, forensics investigators can use Windows forensics techniques to gain a more complete understanding of a digital event. 
 
@@ -136,7 +128,7 @@ Windows forensics is the process of using investigative techniques to collect, a
 - [](windows-recycle-bin-forensics-dumpster-diving-for-evidence)
 - [](get-the-most-out-of-the-windows-registry-in-your-digital-forensic-investigations)
 
-## Linux Forensics
+### Linux Forensics
 
 Linux forensics is the process of using investigative techniques to collect, analyze, and report on evidence from a Linux system. Linux forensics is a critical tool for investigating incidents on Linux systems. When an incident occurs, forensics can be used to identify the cause, confirm the identity of the attacker, and gather evidence for prosecution. Linux forensics is a complex process, and there are many tools and techniques that can be used to collect and analyze evidence. In order to be effective, Linux forensics must be tailored to the specific needs of the investigation.
 
@@ -158,7 +150,7 @@ Linux forensics is the process of using investigative techniques to collect, ana
 - [](linux-forensics-network-artifacts)
 - [](linux-forensics-enumerating-users-and-groups)
 
-## Memory Forensics
+### Memory Forensics
 
 In computer security, memory forensics is the art of acquiring and analyzing digital evidence from a computer's memory dump. Memory forensics is a critical component of incident response, as it can provide insight into what a malicious actor was doing on a system prior to being detected. Memory forensics is a relatively new field, and as such, there are a limited number of tools and techniques available to practitioners. However, memory forensics is a critical tool in the arsenal of any security professional, as it can provide insights that would otherwise be unavailable.
 
@@ -166,13 +158,13 @@ In computer security, memory forensics is the art of acquiring and analyzing dig
 - [](discover-the-truth-with-memory-forensics)
 - [](make-memory-forensics-easier-with-volatility-profiles)
 
-## Browser Forensics
+### Browser Forensics
 
 Browser forensics is the process of using forensic tools and techniques to examine web browsers and collect evidence of web-based activity. This process can be used to investigate a wide variety of crimes, including cybercrime, fraud, and child exploitation. There are a number of different ways to collect evidence from a web browser, including examining web browser history, cookies, and cached files.
 
 - [](web-browser-forensics-uncovering-the-hidden-evidence-in-your-browser) 
 
-## Miscellaneous Articles
+### Miscellaneous Articles
 
 There are a number of articles that don't fit into any specific category. These are known as miscellaneous articles.
 
@@ -180,8 +172,22 @@ There are a number of articles that don't fit into any specific category. These 
 - [](file-magic-numbers-the-easy-way-to-identify-file-extensions)
 - [](application-of-scripting-in-digital-forensics)
 
-## Other Tools
+### Other Tools
 
 - [](get-the-evidence-you-need-with-forensic-images)
 - [](the-strings-tool-extracting-text-for-digital-forensics)
 - [](providing-clarity-in-the-face-of-adversity-digital-forensics-reports)
+
+## Workflow
+
+```{admonition} What is a workflow?
+:class: dropdown
+
+A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
+```
+
+**Articles:**
+
+- [](importance-of-timelines-in-a-forensic-investigation)
+- [](digital-forensics-hashing-for-data-integrity)
+- [](search-seize-preserve-digital-evidence)

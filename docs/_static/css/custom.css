@@ -37,6 +37,48 @@ h3 {
   max-width: 500px !important;
 }
 
+section#articles h2::before {
+  content: "📚";
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+section#articles h3::before {
+  content: "📓";
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+section#free-video-course h2::before {
+  content: "🔥";
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+section#free-video-course h3::before {
+  content: "➡️";
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+section#tools h2::before {
+  content: "🧰";
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+section#tools h3::before {
+  content: "🔨";
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+section#workflow h2::before {
+  content: "🗺️";
+  font-size: 25px;
+  margin-right: 10px;
+}
+
 #main-content {
   padding-bottom: 20px;
 }

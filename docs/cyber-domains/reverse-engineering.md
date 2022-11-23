@@ -4,9 +4,14 @@ myst:
     "property=og:image": "https://library.mosse-institute.com/_images/reverse-engineering.png"      
 ---
 (reverse-engineering-landing-page)=
+
 # Reverse Engineering
 
+```{admonition} What is Reverse Engineering?
+:class: dropdown
+
 Reverse engineering is the process of taking something apart and figuring out how it works. In the context of cyber security, reverse engineering can be used to figure out how a piece of malware works, or to find vulnerabilities in a piece of software. Reverse engineering is an important tool for security researchers, as it allows them to better understand how systems work and identify potential weaknesses.
+```
 
 ## Free Video Course
 
@@ -27,22 +32,7 @@ If you're looking to get into reverse engineering, this is the course for you! M
 - [How to investigate a malicious batch script](https://youtu.be/J-gfE0Yt0s4)
 - [How to investigate a malicious DLL](https://youtu.be/Im2Tx4hdWWg)
 
-## Procedures
-
-```{admonition} What is a workflow and why is it important?
-:class: dropdown
-
-A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
-```
-
-The image below proposes a workflow you can use to learn malware analysis:
-
-```{thumbnail} ../images/procedures/malware-analysis.svg
-:alt: Reverse engineering procedure and workflow
-:class: block grey-border mb-5
-```
-
-## Techniques
+## Articles
 
 Reverse engineering techniques can be applied to any system, but are commonly used on software and hardware. There are a variety of reverse engineering techniques, each with its own strengths and weaknesses.
 
@@ -97,3 +87,18 @@ YARA is a powerful tool for reverse engineering malware. It can be used to ident
 
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-1)
 * [](yara-a-powerful-malware-analysis-tool-for-detecting-ioc-s-part-2)
+
+## Workflow
+
+```{admonition} What is a workflow?
+:class: dropdown
+
+A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
+```
+
+The image below proposes a workflow you can use to learn malware analysis:
+
+```{thumbnail} ../images/procedures/malware-analysis.svg
+:alt: Reverse engineering procedure and workflow
+:class: block grey-border mb-5
+```
