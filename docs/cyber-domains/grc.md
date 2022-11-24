@@ -12,6 +12,7 @@ Governance, risk and compliance (GRC) is a term that refers to the integrated ap
 ### Chapter 1: Introduction to GRC
 
 - [The CIA Triad](https://youtu.be/7Bg7P2zgQss)
+- [What is a GRC Framework?](https://youtu.be/Tmjiqss4jzw)
 
 ## Articles
 

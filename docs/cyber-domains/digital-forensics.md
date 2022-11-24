@@ -12,7 +12,7 @@ Digital forensics is the science of acquiring, analyzing and reporting on digita
 
 This video course provides an introduction to digital forensics. It covers the basics of what digital forensics is and how it can be used to investigate crimes. The course also covers the different types of evidence that can be found in digital forensic investigations.
 
-### Chapter 1: Introduction to Digital Forensics
+### Chapter 1: Introduction
 
 This chapter provides an introduction to digital forensics. It covers the basics of what digital forensics is and why it is important. It also introduces some of the basic concepts and terminology that are used in digital forensics. If you are new to digital forensics, this is a good place to start.
 
