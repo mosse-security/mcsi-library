@@ -24,6 +24,10 @@ If you're looking to get into penetration testing, this is the course for you! M
 - [The top programming languages to learn as a penetration tester](https://www.youtube.com/watch?v=nW2BjtoGZqM)
 - [The most common activities in any penetration test](https://youtu.be/j1Hp0R-Og7o)
 
+### Chapter 3: The Testing Process
+
+- [How to rate the risk of security vulnerabilities](https://youtu.be/5CCPTxTBl3k)
+
 ## Workflow
 
 ```{admonition} What is a workflow?
