@@ -28,30 +28,6 @@ If you're looking to get into penetration testing, this is the course for you! M
 
 - [How to rate the risk of security vulnerabilities](https://youtu.be/5CCPTxTBl3k)
 
-## Workflow
-
-```{admonition} What is a workflow?
-:class: dropdown
-
-A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
-```
-
-The image below proposes a workflow you can use to learn penetration testing:
-
-```{thumbnail} ../images/procedures/penetration-testing.svg
-:alt: Penetration testing procedure and workflow
-:class: block grey-border mb-5
-```
-
-**Articles:**
-
-* [](a-general-overview-of-penetration-testing-methodologies)
-* [](introduction-to-the-penetration-testing-workflow)
-* [](mastering-the-preparation-phase-in-penetration-testing-engagements)
-* [](reconnaissance-phase-in-penetration-testing-engagements)
-* [](example-of-a-penetration-testing-report-executive-summary)
-* [](performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider)
-
 ## Articles
 
 There are several types of penetration testing techniques that can be used in order to assess the security of a system. One type of penetration testing is known as black box testing, which is where the tester has no knowledge of the system beforehand and attempts to find vulnerabilities through trial and error. Another type of penetration testing is known as white box testing, which is where the tester has full knowledge of the system and attempts to find vulnerabilities by looking for weaknesses in the system's design. One of the most common penetration testing techniques is known as social engineering, which is where the tester tries to trick users into revealing sensitive information or granting access to the system.
@@ -169,3 +145,27 @@ Metasploit is a free and open source penetration testing platform that enables y
 * [](enumerating-smtp-with-metasploit)
 * [](tcp-udp-and-smb-auxiliary-modules-in-metasploit)
 * [](exploiting-eternalblue-with-metasploit)
+
+## Workflow
+
+```{admonition} What is a workflow?
+:class: dropdown
+
+A workflow is a series of steps that are followed in order to complete an engagement. In penetration testing, a workflow is important in order to ensure that all steps are followed in order to complete the testing process. By following a workflow, penetration testers can ensure that they are thorough in their testing and that they do not miss any important steps. 
+```
+
+The image below proposes a workflow you can use to learn penetration testing:
+
+```{thumbnail} ../images/procedures/penetration-testing.svg
+:alt: Penetration testing procedure and workflow
+:class: block grey-border mb-5
+```
+
+**Articles:**
+
+* [](a-general-overview-of-penetration-testing-methodologies)
+* [](introduction-to-the-penetration-testing-workflow)
+* [](mastering-the-preparation-phase-in-penetration-testing-engagements)
+* [](reconnaissance-phase-in-penetration-testing-engagements)
+* [](example-of-a-penetration-testing-report-executive-summary)
+* [](performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider)
