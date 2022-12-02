@@ -77,6 +77,7 @@ The Volatility Framework is a powerful tool for memory forensics. It can be used
 - [Getting started with the Volatility Framework](https://youtu.be/ypjbB9BQvL0)
 - [Investigating processes with Volatility - Part 1](https://youtu.be/EiETpyPgloQ)
 - [Investigating processes with Volatility - Part 2](https://www.youtube.com/watch?v=g1niQ3rp3-s)
+- [Using Community Plugins with Volatility](https://youtu.be/FT3Jx8LmexI)
 
 ### Chapter 7: File Forensics
 
