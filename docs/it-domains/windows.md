@@ -13,10 +13,10 @@ Windows software refers to a type of computer program that is designed to run on
 
 The Windows Internals refers to the inner workings of the Microsoft Windows operating system. It includes the kernel, device drivers, memory management, file systems, networking, and security. The Windows Internals is a complex and constantly evolving area, and is critical to the stability and performance of the Windows platform.
 
-* [](windows-system-architecture-introduction)
 * [](windows-internals-processes)
 * [](get-a-handle-on-windows-processes-and-services-for-better-anomaly-identification)
 * [](run-32-bit-windows-based-applications-on-64-bit-windows-with-wow64)
 * [](windows-internals-symmetric-multiprocessing)
 * [](windows-internals-client-and-server-whats-the-difference)
 * [](windows-internals-subsystems)
+* [](windows-internals-windows-kernel)
