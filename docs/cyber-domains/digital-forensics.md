@@ -197,3 +197,21 @@ A workflow is a series of steps that are followed in order to complete an engage
 - [](importance-of-timelines-in-a-forensic-investigation)
 - [](digital-forensics-hashing-for-data-integrity)
 - [](search-seize-preserve-digital-evidence)
+
+## Certifications
+
+Do you want to become a leader in digital forensics? Then the MCSI certifications are a must-have for your toolkit. With two certifications, you can prove your expertise in the field and demonstrate to employers that you have the knowledge and skills to tackle any digital forensic challenge. You'll be able to solve complex problems, work across multiple platforms, and gain the trust of your peers. Not only will you be well-equipped to tackle any digital forensic task, but you'll also have the confidence to take on more challenging roles. Invest in your future today and get your MCSI certifications in digital forensics.
+
+### Certified DFIR Specialist
+
+```{image} /images/certifications/mdfir-certified-dfir-specialist.png
+:class: grey-border width-100-per
+:target: https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html
+```
+
+### Certified Blue Teamer
+
+```{image} /images/certifications/mbt-certified-blue-teamer.png
+:class: grey-border width-100-per
+:target: https://www.mosse-institute.com/certifications/mbt-certified-blue-teamer.html
+```
