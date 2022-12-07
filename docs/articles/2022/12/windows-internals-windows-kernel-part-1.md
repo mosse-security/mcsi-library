@@ -1,7 +1,7 @@
 :orphan:
-(windows-internals-windows-kernel)=
+(windows-internals-windows-kernel-part-1)=
 
-# Windows Internals: Windows Kernel
+# Windows Internals: Windows Kernel - Part 1
 
 The Windows Kernel is the core component of the Windows operating system, responsible for managing the system's resources and providing the interface for user programs to access the hardware. It is the most essential part of the system, and its stability and performance are critical for the overall operation of the computer.
 

@@ -19,4 +19,6 @@ The Windows Internals refers to the inner workings of the Microsoft Windows oper
 * [](windows-internals-symmetric-multiprocessing)
 * [](windows-internals-client-and-server-whats-the-difference)
 * [](windows-internals-subsystems)
-* [](windows-internals-windows-kernel)
+* [](windows-internals-windows-kernel-part-1)
+* [](windows-internals-windows-kernel-part-2)
+* [](windows-internals-hal)
