@@ -37,6 +37,10 @@ h3 {
   max-width: 500px !important;
 }
 
+.width-100-per {
+  width: 100%;
+}
+
 section#articles h2::before {
   content: "📚";
   font-size: 25px;
