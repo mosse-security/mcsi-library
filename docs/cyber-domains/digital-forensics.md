@@ -81,6 +81,8 @@ The Volatility Framework is a powerful tool for memory forensics. It can be used
 - [Investigating Network Artefacts with Volatility](https://youtu.be/UjJRGJ5OhmE)
 - [Investigating Registry Artefacts with Volatility](https://youtu.be/-PCmiMHlM-Q)
 - [Recovering Windows Event Logs from a Memory Dump](https://youtu.be/8fykZocCRqo)
+- [Investigating Disk Artefacts with Volatility](https://youtu.be/miT6AOE2knI)
+- [Using YARA Rules with Volatility](https://youtu.be/1XCaTtLfgkQ)
 
 ### Chapter 7: File Forensics
 
