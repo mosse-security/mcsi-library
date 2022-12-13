@@ -102,6 +102,7 @@ This chapter provides an introduction to file forensics. File forensics is the p
 Email forensics is the process of investigating and analyzing email messages in order to determine their origin, purpose, and contents. Email forensics can be used to uncover evidence of criminal activity, track down the source of malicious or unwanted emails, or simply to retrieve lost or deleted messages.
 
 - [Introduction to Email Forensics](https://youtu.be/qjyikF-khLs)
+- [How to perform Email Forensics on a Gmail account](https://youtu.be/l4HjkIdll_M)
 
 ### Chapter 9: Browser Forensics
 
