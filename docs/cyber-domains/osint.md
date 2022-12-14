@@ -16,6 +16,7 @@ Are you looking for a comprehensive and free course on open-source intelligence?
 This chapter provides an introduction to OSINT. It covers the basics of what OSINT is and why it is important. It also introduces some of the basic concepts and terminology that are used in OSINT. If you are new to OSINT, this is a good place to start.
 
 - [Introduction to Open Source Intelligence (OSINT)](https://www.youtube.com/watch?v=G8x7WVe3za4)
+- [How is Open Source Intelligence used in Cybersecurity?](https://youtu.be/nlqXEZ4YvhM)
 
 ## Articles
 
