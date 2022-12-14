@@ -9,11 +9,21 @@ Governance, risk and compliance (GRC) is a term that refers to the integrated ap
 
 ## Free Video Course
 
+Welcome to the Governance, Risk, and Compliance (GRC) for Information Security course. This course provides an in-depth look into how to assess and manage the risks associated with information security. You will learn the importance of GRC, the different components of GRC, and how to implement them in your organization. We will also discuss the different types of risk, the best practices for managing risk, and how to develop an effective GRC program. By the end of this course, you will have the knowledge and skills to effectively manage information security risks and ensure compliance with applicable laws and regulations. So let's get started!
+
 ### Chapter 1: Introduction to GRC
+
+In this introduction chapter, we will define key terms, such as governance, risk, compliance, and information security. We will also provide an overview of GRC and its importance in the context of information security. By the end of this chapter, you will have a clear understanding of the basics of GRC for information security. So let's get started!
 
 - [The CIA Triad](https://youtu.be/7Bg7P2zgQss)
 - [What is a GRC Framework?](https://youtu.be/Tmjiqss4jzw)
 - [The importance of a GRC framework in an organization](https://youtu.be/kV2R8cO1glU)
+
+### Chapter 2: Governance and Management
+
+In this chapter of our video course, we'll be discussing the importance of governance and management within the context of information security. We'll start by going over the basic principles of governance, including how it relates to information security and why it is necessary.
+
+- [The relationship between Governance and Management](https://youtu.be/upmnGSledJM)
 
 ## Articles
 
