@@ -24,6 +24,7 @@ In this introduction chapter, we will define key terms, such as governance, risk
 In this chapter of our video course, we'll be discussing the importance of governance and management within the context of information security. We'll start by going over the basic principles of governance, including how it relates to information security and why it is necessary.
 
 - [The relationship between Governance and Management](https://youtu.be/upmnGSledJM)
+- [What is Corporate Governance and its Core Principles?](https://youtu.be/MuvsK00h4Y0)
 
 ## Articles
 
