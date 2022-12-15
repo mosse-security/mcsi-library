@@ -26,6 +26,7 @@ In this chapter of our video course, we'll be discussing the importance of gover
 - [The relationship between Governance and Management](https://youtu.be/upmnGSledJM)
 - [What is Corporate Governance and its Core Principles?](https://youtu.be/MuvsK00h4Y0)
 - [What is IT Governance?](https://youtu.be/-bACcb6cWY0)
+- [IT Governance Frameworks and Standards](https://youtu.be/8pLsQ9dZFds)
 
 ## Articles
 
