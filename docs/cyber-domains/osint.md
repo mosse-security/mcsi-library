@@ -20,6 +20,7 @@ This chapter provides an introduction to OSINT. It covers the basics of what OSI
 - [Data Sources for Open Source Intelligence](https://youtu.be/iDNflM4oHJs)
 - [Legal and Ethical Considerations of Open Source Intelligence](https://youtu.be/CqUT3KUSp1I)
 - [Setting up a lab to perform OSINT](https://youtu.be/86OflDCFfvk)
+- [Methodology to perform Open Source Intelligence](https://youtu.be/sSlDRCbRcmo)
 
 ### Chapter 6: Reporting in OSINT
 
