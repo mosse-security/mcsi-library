@@ -18,6 +18,8 @@ This chapter provides an introduction to OSINT. It covers the basics of what OSI
 - [Introduction to Open Source Intelligence (OSINT)](https://www.youtube.com/watch?v=G8x7WVe3za4)
 - [How is Open Source Intelligence used in Cybersecurity?](https://youtu.be/nlqXEZ4YvhM)
 - [Data Sources for Open Source Intelligence](https://youtu.be/iDNflM4oHJs)
+- [Legal and Ethical Considerations of Open Source Intelligence](https://youtu.be/CqUT3KUSp1I)
+- [Setting up a lab to perform OSINT](https://youtu.be/86OflDCFfvk)
 
 ## Articles
 
