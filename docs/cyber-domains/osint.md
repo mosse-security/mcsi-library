@@ -21,6 +21,12 @@ This chapter provides an introduction to OSINT. It covers the basics of what OSI
 - [Legal and Ethical Considerations of Open Source Intelligence](https://youtu.be/CqUT3KUSp1I)
 - [Setting up a lab to perform OSINT](https://youtu.be/86OflDCFfvk)
 
+### Chapter 6: Reporting in OSINT
+
+In this module, you will learn the basics of writing effective OSINT reports, including how to gather the necessary data, organize it, and present it in a clear, concise manner.
+
+- [Writing Open Source Intelligence Reports](https://youtu.be/lDe8_z-UCZ4)
+
 ## Articles
 
 Welcome to MCSI's library of articles on OSINT! Our library of articles covers a wide range of topics related to this form of intelligence and provides valuable insights into how it is used in the real world. Whether you are a security professional, an intelligence officer, or just someone with a curiosity about OSINT, this library of articles has something for everyone.
