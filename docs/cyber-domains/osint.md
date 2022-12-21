@@ -22,6 +22,12 @@ This chapter provides an introduction to OSINT. It covers the basics of what OSI
 - [Setting up a lab to perform OSINT](https://youtu.be/86OflDCFfvk)
 - [Methodology to perform Open Source Intelligence](https://youtu.be/sSlDRCbRcmo)
 
+### Chapter 2: Search Engines OSINT
+
+In this chapter, you will learn how to use search engines to find information that can help you with your investigations. You will learn how to use advanced search queries, search engine features, and other techniques to uncover hidden information. This module will provide you with the skills and knowledge to leverage search engines as a powerful tool in your research.
+
+- [Introduction to Search Engine OSINT](https://youtu.be/Hi2jrJH1zZs)
+
 ### Chapter 6: Reporting in OSINT
 
 In this module, you will learn the basics of writing effective OSINT reports, including how to gather the necessary data, organize it, and present it in a clear, concise manner.
