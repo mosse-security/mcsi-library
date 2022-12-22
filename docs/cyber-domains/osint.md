@@ -27,6 +27,7 @@ This chapter provides an introduction to OSINT. It covers the basics of what OSI
 In this chapter, you will learn how to use search engines to find information that can help you with your investigations. You will learn how to use advanced search queries, search engine features, and other techniques to uncover hidden information. This module will provide you with the skills and knowledge to leverage search engines as a powerful tool in your research.
 
 - [Introduction to Search Engine OSINT](https://youtu.be/Hi2jrJH1zZs)
+- [Using Google's Advanced Features for OSINT](https://youtu.be/JFJzdSy3dHg)
 
 ### Chapter 6: Reporting
 
