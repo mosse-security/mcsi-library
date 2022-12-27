@@ -29,6 +29,13 @@ In this chapter, you will learn how to use search engines to find information th
 - [Introduction to Search Engine OSINT](https://youtu.be/Hi2jrJH1zZs)
 - [Fundamentals of using Google for OSINT](https://www.youtube.com/watch?v=61WnPi7k6Yk)
 - [Using Google's Advanced Features for OSINT](https://youtu.be/JFJzdSy3dHg)
+- [Using Bing for OSINT](https://youtu.be/rt55gv-eJZc)
+
+### Chapter 3: Social Media
+
+This module is designed to help you gain a better understanding of the various techniques and tools available for gathering data from social media platforms. This module will teach you how to create effective search strategies and use the right tools to find and analyze relevant information from public social media channels.
+
+- [Introduction to Social Media OSINT](https://youtu.be/MIxabWiNAmw)
 
 ### Chapter 6: Reporting
 
