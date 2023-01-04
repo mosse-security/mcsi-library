@@ -32,6 +32,7 @@ In this chapter of our video course, we'll be discussing the importance of gover
 - [Understanding Enterprise Architecture](https://youtu.be/GbSOnOuao84)
 - [IT Resource Management](https://youtu.be/ukkQbiwHz5M)
 - [IT Service Provider Management](https://youtu.be/St8j0k6YXo0)
+- [Performance Optimization](https://youtu.be/ban-kiLchiY)
 
 ## Articles
 
