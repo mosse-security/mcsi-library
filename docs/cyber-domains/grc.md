@@ -31,6 +31,7 @@ In this chapter of our video course, we'll be discussing the importance of gover
 - [What is IT Organizational Structure?](https://youtu.be/dH66x-_3Jyw)
 - [Understanding Enterprise Architecture](https://youtu.be/GbSOnOuao84)
 - [IT Resource Management](https://youtu.be/ukkQbiwHz5M)
+- [IT Service Provider Management](https://youtu.be/St8j0k6YXo0)
 
 ## Articles
 
