@@ -38,6 +38,7 @@ This module is designed to help you gain a better understanding of the various t
 - [Introduction to Social Media OSINT](https://youtu.be/MIxabWiNAmw)
 - [Collecting open source data from Twitter for OSINT](https://youtu.be/-bQE2sY86S0)
 - [Collecting open source data from Instagram for OSINT](https://youtu.be/b7n-zg24gQ0)
+- [Collecting open source data from Facebook for OSINT](https://youtu.be/SKkMwnHoFew)
 
 ### Chapter 6: Reporting
 
