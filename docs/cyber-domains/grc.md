@@ -33,6 +33,7 @@ In this chapter of our video course, we'll be discussing the importance of gover
 - [IT Resource Management](https://youtu.be/ukkQbiwHz5M)
 - [IT Service Provider Management](https://youtu.be/St8j0k6YXo0)
 - [Performance Optimization](https://youtu.be/ban-kiLchiY)
+- [Quality Assurance, Quality Control and Quality Management of IT](https://youtu.be/wBrwnj49Ss4)
 
 ## Articles
 
