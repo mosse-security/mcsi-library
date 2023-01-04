@@ -30,6 +30,7 @@ In this chapter of our video course, we'll be discussing the importance of gover
 - [What is Information Security Governance?](https://youtu.be/-843Jc7_B_8)
 - [What is IT Organizational Structure?](https://youtu.be/dH66x-_3Jyw)
 - [Understanding Enterprise Architecture](https://youtu.be/GbSOnOuao84)
+- [IT Resource Management](https://youtu.be/ukkQbiwHz5M)
 
 ## Articles
 
