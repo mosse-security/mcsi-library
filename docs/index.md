@@ -170,6 +170,7 @@ platform/formidable-work
 platform/cognitive-science
 platform/minimum-requirements
 platform/asking-for-help
+platform/newsletter
 ```
 
 ```{toctree}
