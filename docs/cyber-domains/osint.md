@@ -40,6 +40,7 @@ This module is designed to help you gain a better understanding of the various t
 - [Collecting open source data from Instagram](https://youtu.be/b7n-zg24gQ0)
 - [Collecting open source data from Facebook](https://youtu.be/SKkMwnHoFew)
 - [Collecting open source data from LinkedIn](https://youtu.be/343phF1UiEE)
+- [Collecting open source data from Pinterest](https://youtu.be/JbwMseix8Ew)
 
 ### Chapter 6: Reporting
 
