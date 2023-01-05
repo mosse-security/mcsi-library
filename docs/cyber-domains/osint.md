@@ -36,9 +36,10 @@ In this chapter, you will learn how to use search engines to find information th
 This module is designed to help you gain a better understanding of the various techniques and tools available for gathering data from social media platforms. This module will teach you how to create effective search strategies and use the right tools to find and analyze relevant information from public social media channels.
 
 - [Introduction to Social Media OSINT](https://youtu.be/MIxabWiNAmw)
-- [Collecting open source data from Twitter for OSINT](https://youtu.be/-bQE2sY86S0)
-- [Collecting open source data from Instagram for OSINT](https://youtu.be/b7n-zg24gQ0)
-- [Collecting open source data from Facebook for OSINT](https://youtu.be/SKkMwnHoFew)
+- [Collecting open source data from Twitter](https://youtu.be/-bQE2sY86S0)
+- [Collecting open source data from Instagram](https://youtu.be/b7n-zg24gQ0)
+- [Collecting open source data from Facebook](https://youtu.be/SKkMwnHoFew)
+- [Collecting open source data from LinkedIn](https://youtu.be/343phF1UiEE)
 
 ### Chapter 6: Reporting
 
