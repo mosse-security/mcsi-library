@@ -65,6 +65,8 @@ Companies pay people to solve problems, not to have certificates.
 
 ## How can I help you?
 
+### Get trained
+
 MCSI is committed to equipping students with the skills and knowledge needed to secure high-paying jobs in the field of cybersecurity.
 
 Through our [MSAF](https://www.mosse-institute.com/certifications/msaf-system-administration-fundamentals.html) and [MOIS](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html) courses, you can master the fundamentals, while our platform helps you build a portfolio that you can use to demonstrate your expertise to potential employers.
@@ -72,3 +74,9 @@ Through our [MSAF](https://www.mosse-institute.com/certifications/msaf-system-ad
 If you wish to gain advanced skills and be ready for penetration testing, our [MPT](https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html) certification is perfect for you. Every exercise simulates real-world tasks, allowing you to develop a portfolio of completed projects to demonstrate your capabilities in finding vulnerabilities in applications and networks.
 
 *Benjamin Mossé*
+
+### Subscribe to our newsletter
+
+Are you looking to learn cyber security, land a job, or improve your current skills? MCSI's newsletter is the perfect resource for you. Our newsletter is dedicated to helping students stay up to date on the latest news and trends in the cyber security industry. We provide helpful tips and tricks on how to land jobs, as well as insights into how to improve your skills. Don't miss out - subscribe to our newsletter today and start taking advantage of all the benefits it has to offer!
+
+<iframe src="https://newsletter.mosse-institute.com/embed" style="background:white;" frameborder="0" scrolling="no"></iframe>
