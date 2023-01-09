@@ -1,7 +1,7 @@
 :orphan:
 (learn-how-to-become-an-ethical-hacker)=
 
-# Learn how to become an ethical hacker and get paid to hack
+# MCSI #001: Learn how to become an ethical hacker and get paid to hack
 
 Many of you may be aspiring to become an ethical hacker - a job that is both fun, rewarding, and challenging. With the increasing popularity of Bug Bounty Programs, there is an unparalleled amount of work in this field.
 
