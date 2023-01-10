@@ -42,6 +42,13 @@ This module is designed to help you gain a better understanding of the various t
 - [Collecting open source data from LinkedIn](https://youtu.be/343phF1UiEE)
 - [Collecting open source data from Pinterest](https://youtu.be/JbwMseix8Ew)
 
+### Chapter 4: Multimedia Content
+
+Multimedia content open source intelligence (OSINT) is a powerful tool for collecting data, analyzing information, and understanding the context of images and audio. By using a variety of techniques, such as keyword searches, image recognition, and audio analysis, multimedia content OSINT can help you uncover hidden insights and gain valuable intelligence. With the right tools and processes in place, you can reveal information that would have otherwise been difficult or impossible to find. By leveraging the right OSINT tools and techniques, you can uncover meaning and context, allowing you to develop a deeper understanding of the content and create more impactful multimedia content.
+
+- [Introduction to analyzing images for OSINT](https://youtu.be/rv6B7hjcTSk)
+- [How to perform Reverse Image Searching](https://youtu.be/-xyuWWY-Ziw)
+
 ### Chapter 6: Reporting
 
 In this module, you will learn the basics of writing effective OSINT reports, including how to gather the necessary data, organize it, and present it in a clear, concise manner.
