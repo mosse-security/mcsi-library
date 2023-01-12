@@ -49,6 +49,7 @@ Multimedia content open source intelligence (OSINT) is a powerful tool for colle
 - [Introduction to analyzing images for OSINT](https://youtu.be/rv6B7hjcTSk)
 - [How to perform Reverse Image Searching](https://youtu.be/-xyuWWY-Ziw)
 - [Working with Image Metadata for OSINT](https://youtu.be/DI_himkZShQ)
+- [Identifying Tampered Images](https://youtu.be/TOHgzBgTEg8)
 
 ### Chapter 6: Reporting
 
