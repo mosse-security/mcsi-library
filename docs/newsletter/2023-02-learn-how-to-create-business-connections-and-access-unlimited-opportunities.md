@@ -73,7 +73,7 @@ Once you have a strong grasp of the job market, the next step is to make yoursel
 
 Check out this LinkedIn post from Gabrielle Botbol as an illustration:
 
-```{image} /images/newsletter/2023-01-gabrielle-botbol.png
+```{image} /images/newsletter/2023-002-gabrielle-botbol.png
 :class: block mb-2 max-width-500 mx-auto
 :target: https://www.linkedin.com/feed/update/urn:li:activity:7016010470960582656/
 ```
@@ -138,7 +138,7 @@ There are many strategies you can use to get in touch with hiring managers and r
 
 Ron Sharon provided this helpful tactic:
 
-```{image} /images/newsletter/2023-01-ron-sharon.png
+```{image} /images/newsletter/2023-002-ron-sharon.png
 :class: block mb-2 max-width-500 mx-auto
 ```
 

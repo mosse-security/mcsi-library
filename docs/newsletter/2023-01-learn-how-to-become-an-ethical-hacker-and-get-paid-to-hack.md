@@ -31,7 +31,7 @@ To be a successful hacker, it is essential to cultivate a mindset of continuous 
 
 One key piece of advice that every penetration tester I know gives beginners is to stay focused and go deep. This is what Nathan Wakelam answered when asked what advice he would give himself if he could go back in time:
 
-```{image} /images/newsletter/2023-01-nathan-wakelam-quote.png
+```{image} /images/newsletter/2023-001-nathan-wakelam-quote.png
 :class: block mb-2 max-width-500 mx-auto
 :target: https://twitter.com/nnwakelam/status/1605594388951756800?s=20&t=rfuEYOjHlrPKLyRn0saI5g
 ```
@@ -50,7 +50,7 @@ If you want to improve your cyber skills and be successful in the field of penet
 
 Certifications do not help unemployed people obtain jobs, according to 61% of them.
 
-```{image} /images/newsletter/2023-01-NIST-NICE.png
+```{image} /images/newsletter/2023-001-NIST-NICE.png
 :class: block mb-2 max-width-500 mx-auto
 :target: https://drive.google.com/file/d/1DgogVD_nDIlifWHOsL7Y2ZjREeBJVncK/view
 ```
