@@ -4,6 +4,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 
 - [](learn-how-to-become-an-ethical-hacker)
 - [](learn-how-to-create-business-connections-and-access-unlimited-opportunities)
+- [](how-to-impress-hiring-managers-and-win-first-place-in-the-job-race)
 
 ## Subscribe
 
