@@ -44,4 +44,8 @@ Allan Hedegaard is the IT Operations Manager at GPV. He manages a large team of 
 
 ### [Lukasz Wierzbicki](review-and-testimonial-lukasz-wierzbicki)
 
-Łukasz is an application security engineer, penetration tester and vulnerability researcher. His main responsibility is to find vulnerabilities and software bugs. He took the course [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html).
+Łukasz is an application security engineer, penetration tester and vulnerability researcher. His main responsibility is to find vulnerabilities and software bugs. He took the course 'MVRE - Certified Vulnerability Researcher and Exploitation Specialist'.
+
+### [Mark Vickers](mark-vickers)
+
+Mark is a Director for Talent Acquisition at a Fortune 200 US company. He took the course 'MOIS - Certified OSINT Expert' to commence his knowledge journey about Cybersecurity and to also increase his capability in sourcing hard to find talent globally.
