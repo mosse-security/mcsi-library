@@ -50,6 +50,14 @@ Multimedia content open source intelligence (OSINT) is a powerful tool for colle
 - [How to perform Reverse Image Searching](https://youtu.be/-xyuWWY-Ziw)
 - [Working with Image Metadata for OSINT](https://youtu.be/DI_himkZShQ)
 - [Identifying Tampered Images](https://youtu.be/TOHgzBgTEg8)
+- [Geo Locating an Image](https://youtu.be/pjED9GyULCI)
+- [Working with videos for OSINT](https://youtu.be/QsZ_wOca6I0)
+
+### Chapter 5: People and Businesses
+
+In this module, you will learn how to efficiently use open source intelligence (OSINT) to research people and businesses. You will gain an understanding of the various tools available, as well as how to apply them to gain the most relevant and accurate data. You will also learn best practices for conducting OSINT research in a professional, ethical, and responsible manner.
+
+- [Introduction to Investigating People for OSINT](https://youtu.be/EycIpkQ9-yk)
 
 ### Chapter 6: Reporting
 
