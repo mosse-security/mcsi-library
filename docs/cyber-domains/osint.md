@@ -57,8 +57,9 @@ Multimedia content open source intelligence (OSINT) is a powerful tool for colle
 
 In this module, you will learn how to efficiently use open source intelligence (OSINT) to research people and businesses. You will gain an understanding of the various tools available, as well as how to apply them to gain the most relevant and accurate data. You will also learn best practices for conducting OSINT research in a professional, ethical, and responsible manner.
 
-- [Introduction to Investigating People for OSINT](https://youtu.be/EycIpkQ9-yk)
+- [Introduction to Investigating People](https://youtu.be/EycIpkQ9-yk)
 - [How to investigate people using OSINT][https://www.youtube.com/watch?v=bW2mjseayoQ]
+- [Introduction to Investigating Businesses](https://youtu.be/3HxzF4GdNO0)
 
 ### Chapter 6: Reporting
 
