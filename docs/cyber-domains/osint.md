@@ -61,7 +61,13 @@ In this module, you will learn how to efficiently use open source intelligence (
 - [How to investigate people using OSINT][https://www.youtube.com/watch?v=bW2mjseayoQ]
 - [Introduction to Investigating Businesses](https://youtu.be/3HxzF4GdNO0)
 
-### Chapter 6: Reporting
+### Chapter 6: Archived and Leaked Data
+
+In this module, you will learn how to find and access leaked and archived data, how to analyze it, and how to use it to support your OSINT efforts. By the end of this module, you will have a comprehensive understanding of how to use archived and leaked data for open source intelligence.
+
+- [Working with archived data for OSINT](https://youtu.be/L7x55DEUJS4)
+
+### Chapter 10: Reporting
 
 In this module, you will learn the basics of writing effective OSINT reports, including how to gather the necessary data, organize it, and present it in a clear, concise manner.
 
