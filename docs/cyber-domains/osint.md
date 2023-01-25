@@ -60,6 +60,7 @@ In this module, you will learn how to efficiently use open source intelligence (
 - [Introduction to Investigating People](https://youtu.be/EycIpkQ9-yk)
 - [How to investigate people using OSINT][https://www.youtube.com/watch?v=bW2mjseayoQ]
 - [Introduction to Investigating Businesses](https://youtu.be/3HxzF4GdNO0)
+- [How to investigate businesses using OSINT](https://youtu.be/dRLTo2fxzXM)
 
 ### Chapter 6: Archived and Leaked Data
 
