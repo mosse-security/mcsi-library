@@ -1390,48 +1390,6 @@
       "categories": [
         "digital-forensics"
       ],
-      "href": "/articles/2022/04/endian-systems-explained-little-endian-vs-big-endian/endian-systems-explained-little-endian-vs-big-endian.html",
-      "title": "Endian systems explained: Little-endian vs Big-endian"
-    },
-    {
-      "categories": [
-        "digital-forensics"
-      ],
-      "href": "/articles/2022/04/file-magic-numbers-the-easy-way-to-identify-file-extensions/file-magic-numbers-the-easy-way-to-identify-file-extensions.html",
-      "title": "File Magic Numbers: The Easy way to Identify File Extensions"
-    },
-    {
-      "categories": [
-        "digital-forensics"
-      ],
-      "href": "/articles/2022/04/importance-of-timelines-in-a-forensic-investigation/importance-of-timelines-in-a-forensic-investigation.html",
-      "title": "Importance of Timelines in a Forensic Investigation"
-    },
-    {
-      "categories": [
-        "digital-forensics"
-      ],
-      "href": "/articles/2022/05/digital-forensics-hashing-for-data-integrity/digital-forensics-hashing-for-data-integrity.html",
-      "title": "Digital Forensics: Hashing for Data Integrity"
-    },
-    {
-      "categories": [
-        "digital-forensics"
-      ],
-      "href": "/articles/2022/06/search-seize-preserve-digital-evidence/search-seize-preserve-digital-evidence.html",
-      "title": "Search, Seize, Preserve!: Digital Evidence"
-    },
-    {
-      "categories": [
-        "digital-forensics"
-      ],
-      "href": "/articles/2022/07/application-of-scripting-in-digital-forensics/application-of-scripting-in-digital-forensics.html",
-      "title": "Application of Scripting in Digital Forensics"
-    },
-    {
-      "categories": [
-        "digital-forensics"
-      ],
       "href": "/articles/2022/04/performing-digital-forensics-on-a-windows-machine/performing-digital-forensics-on-a-windows-machine.html",
       "title": "Performing digital forensics on a windows machine - where do I start?"
     },
@@ -1677,6 +1635,27 @@
       "categories": [
         "digital-forensics"
       ],
+      "href": "/articles/2022/04/endian-systems-explained-little-endian-vs-big-endian/endian-systems-explained-little-endian-vs-big-endian.html",
+      "title": "Endian systems explained: Little-endian vs Big-endian"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "/articles/2022/04/file-magic-numbers-the-easy-way-to-identify-file-extensions/file-magic-numbers-the-easy-way-to-identify-file-extensions.html",
+      "title": "File Magic Numbers: The Easy way to Identify File Extensions"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "/articles/2022/07/application-of-scripting-in-digital-forensics/application-of-scripting-in-digital-forensics.html",
+      "title": "Application of Scripting in Digital Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
       "href": "/articles/2022/04/get-the-evidence-you-need-with-forensic-images/get-the-evidence-you-need-with-forensic-images.html",
       "title": "Get the Evidence you need with Forensic Images"
     },
@@ -1693,6 +1672,27 @@
       ],
       "href": "/articles/2022/04/providing-clarity-in-the-face-of-adversity-digital-forensics-reports/providing-clarity-in-the-face-of-adversity-digital-forensics-reports.html",
       "title": "Providing Clarity in the Face of Adversity - Digital Forensics Reports"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "/articles/2022/04/importance-of-timelines-in-a-forensic-investigation/importance-of-timelines-in-a-forensic-investigation.html",
+      "title": "Importance of Timelines in a Forensic Investigation"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "/articles/2022/05/digital-forensics-hashing-for-data-integrity/digital-forensics-hashing-for-data-integrity.html",
+      "title": "Digital Forensics: Hashing for Data Integrity"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "/articles/2022/06/search-seize-preserve-digital-evidence/search-seize-preserve-digital-evidence.html",
+      "title": "Search, Seize, Preserve!: Digital Evidence"
     },
     {
       "categories": [
@@ -1873,13 +1873,6 @@
       "categories": [
         "incident-response"
       ],
-      "href": "/articles/2022/04/pre-incident-preparation-for-a-smoother-incident-response-process/pre-incident-preparation-for-a-smoother-incident-response-process.html",
-      "title": "Pre-Incident Preparation: For a Smoother Incident Response Process"
-    },
-    {
-      "categories": [
-        "incident-response"
-      ],
       "href": "/articles/2022/05/what-will-i-do-as-an-incident-responder/what-will-i-do-as-an-incident-responder.html",
       "title": "What will I do as an Incident Responder?"
     },
@@ -1887,15 +1880,15 @@
       "categories": [
         "incident-response"
       ],
-      "href": "/articles/2022/04/what-is-an-incident-response-toolkit/what-is-an-incident-response-toolkit.html",
-      "title": "What is an Incident Response Toolkit?"
+      "href": "/articles/2022/07/agentless-log-collection-microsoft-wec-and-wef/agentless-log-collection-microsoft-wec-and-wef.html",
+      "title": "Agentless Log Collection Microsoft WEC and WEF"
     },
     {
       "categories": [
         "incident-response"
       ],
-      "href": "/articles/2022/07/agentless-log-collection-microsoft-wec-and-wef/agentless-log-collection-microsoft-wec-and-wef.html",
-      "title": "Agentless Log Collection Microsoft WEC and WEF"
+      "href": "/articles/2022/07/pros-and-cons-of-agent-based-and-agentless-log-collection/pros-and-cons-of-agent-based-and-agentless-log-collection.html",
+      "title": "Pros and Cons of Agent-based and Agentless Log Collection"
     },
     {
       "categories": [
@@ -1915,8 +1908,8 @@
       "categories": [
         "incident-response"
       ],
-      "href": "/articles/2022/07/pros-and-cons-of-agent-based-and-agentless-log-collection/pros-and-cons-of-agent-based-and-agentless-log-collection.html",
-      "title": "Pros and Cons of Agent-based and Agentless Log Collection"
+      "href": "/articles/2022/04/pre-incident-preparation-for-a-smoother-incident-response-process/pre-incident-preparation-for-a-smoother-incident-response-process.html",
+      "title": "Pre-Incident Preparation: For a Smoother Incident Response Process"
     },
     {
       "categories": [
@@ -1931,6 +1924,13 @@
       ],
       "href": "/articles/2022/07/cyber-incident-checklists/cyber-incident-checklists.html",
       "title": "Cyber Incident Checklists"
+    },
+    {
+      "categories": [
+        "incident-response"
+      ],
+      "href": "/articles/2022/04/what-is-an-incident-response-toolkit/what-is-an-incident-response-toolkit.html",
+      "title": "What is an Incident Response Toolkit?"
     },
     {
       "categories": [
@@ -2155,48 +2155,6 @@
       ],
       "href": "/articles/2022/06/investigating-crypto-crimes-an-introduction/investigating-crypto-crimes-an-introduction.html",
       "title": "Investigating Crypto Crimes: An Introduction"
-    },
-    {
-      "categories": [
-        "penetration-testing"
-      ],
-      "href": "/articles/2022/05/a-general-overview-of-penetration-testing-methodologies/a-general-overview-of-penetration-testing-methodologies.html",
-      "title": "A General Overview of Penetration Testing Methodologies"
-    },
-    {
-      "categories": [
-        "penetration-testing"
-      ],
-      "href": "/articles/2022/03/introduction-to-the-penetration-testing-workflow/introduction-to-the-penetration-testing-workflow.html",
-      "title": "Introduction to the Penetration Testing Workflow"
-    },
-    {
-      "categories": [
-        "penetration-testing"
-      ],
-      "href": "/articles/2022/03/mastering-the-preparation-phase-in-penetration-testing-engagements/mastering-the-preparation-phase-in-penetration-testing-engagements.html",
-      "title": "Mastering the Preparation Phase in penetration testing engagements"
-    },
-    {
-      "categories": [
-        "penetration-testing"
-      ],
-      "href": "/articles/2022/03/reconnaissance-phase-in-penetration-testing-engagements/reconnaissance-phase-in-penetration-testing-engagements.html",
-      "title": "The Reconnaissance Phase in Penetration Testing Engagements"
-    },
-    {
-      "categories": [
-        "penetration-testing"
-      ],
-      "href": "/articles/2022/02/example-of-a-penetration-testing-report-executive-summary/example-of-a-penetration-testing-report-executive-summary.html",
-      "title": "Example of a penetration testing report executive summary"
-    },
-    {
-      "categories": [
-        "penetration-testing"
-      ],
-      "href": "/articles/2022/06/performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider/performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider.html",
-      "title": "Performing Regular Penetration Tests is Essential, but There Are Some Limitations to Consider"
     },
     {
       "categories": [
@@ -2690,6 +2648,48 @@
     },
     {
       "categories": [
+        "penetration-testing"
+      ],
+      "href": "/articles/2022/05/a-general-overview-of-penetration-testing-methodologies/a-general-overview-of-penetration-testing-methodologies.html",
+      "title": "A General Overview of Penetration Testing Methodologies"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "/articles/2022/03/introduction-to-the-penetration-testing-workflow/introduction-to-the-penetration-testing-workflow.html",
+      "title": "Introduction to the Penetration Testing Workflow"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "/articles/2022/03/mastering-the-preparation-phase-in-penetration-testing-engagements/mastering-the-preparation-phase-in-penetration-testing-engagements.html",
+      "title": "Mastering the Preparation Phase in penetration testing engagements"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "/articles/2022/03/reconnaissance-phase-in-penetration-testing-engagements/reconnaissance-phase-in-penetration-testing-engagements.html",
+      "title": "The Reconnaissance Phase in Penetration Testing Engagements"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "/articles/2022/02/example-of-a-penetration-testing-report-executive-summary/example-of-a-penetration-testing-report-executive-summary.html",
+      "title": "Example of a penetration testing report executive summary"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "/articles/2022/06/performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider/performing-regular-penetration-tests-is-essential-but-there-are-some-limitations-to-consider.html",
+      "title": "Performing Regular Penetration Tests is Essential, but There Are Some Limitations to Consider"
+    },
+    {
+      "categories": [
         "red-teaming"
       ],
       "href": "/articles/2022/02/why-do-we-red-team/why-do-we-red-team.html",
@@ -2790,20 +2790,6 @@
       "categories": [
         "red-teaming"
       ],
-      "href": "/articles/2022/02/designing-realistic-cyber-threat-emulations/designing-realistic-cyber-threat-emulations.html",
-      "title": "Designing realistic cyber threat emulations"
-    },
-    {
-      "categories": [
-        "red-teaming"
-      ],
-      "href": "/articles/2022/02/key-metrics-to-measure-the-success-of-a-red-team-exercise/key-metrics-to-measure-the-success-of-a-red-team-exercise.html",
-      "title": "Key metrics to measure the success of a Red Team Exercise"
-    },
-    {
-      "categories": [
-        "red-teaming"
-      ],
       "href": "/articles/2022/05/ntfs-data-stream-manipulation/ntfs-data-stream-manipulation.html",
       "title": "NTFS data stream manipulation"
     },
@@ -2827,6 +2813,20 @@
       ],
       "href": "/articles/2022/07/password-grabbing-dump-and-crack-sam-hashes/password-grabbing-dump-and-crack-sam-hashes.html",
       "title": "Password Grabbing Dump and Crack SAM Hashes"
+    },
+    {
+      "categories": [
+        "red-teaming"
+      ],
+      "href": "/articles/2022/02/designing-realistic-cyber-threat-emulations/designing-realistic-cyber-threat-emulations.html",
+      "title": "Designing realistic cyber threat emulations"
+    },
+    {
+      "categories": [
+        "red-teaming"
+      ],
+      "href": "/articles/2022/02/key-metrics-to-measure-the-success-of-a-red-team-exercise/key-metrics-to-measure-the-success-of-a-red-team-exercise.html",
+      "title": "Key metrics to measure the success of a Red Team Exercise"
     },
     {
       "categories": [
@@ -3189,48 +3189,6 @@
       "categories": [
         "threat-hunting"
       ],
-      "href": "/articles/2022/06/a-general-overview-of-threat-modeling-workflow/a-general-overview-of-threat-modeling-workflow.html",
-      "title": "A General Overview of Threat Modeling Workflow"
-    },
-    {
-      "categories": [
-        "threat-hunting"
-      ],
-      "href": "/articles/2022/04/understanding-the-threat-hunting-process-step-by-step/understanding-the-threat-hunting-process-step-by-step.html",
-      "title": "Understanding the Threat Hunting Process Step-by-Step"
-    },
-    {
-      "categories": [
-        "threat-hunting"
-      ],
-      "href": "/articles/2022/04/proactive-cyber-security-with-approaches-to-threat-hunting/proactive-cyber-security-with-approaches-to-threat-hunting.html",
-      "title": "Proactive Cyber Security with Approaches to Threat Hunting"
-    },
-    {
-      "categories": [
-        "threat-hunting"
-      ],
-      "href": "/articles/2022/04/threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable/threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable.html",
-      "title": "Threat Hunting in Distributed Organizations: The Challenges are not Insurmountable"
-    },
-    {
-      "categories": [
-        "threat-hunting"
-      ],
-      "href": "/articles/2022/04/improve-efficiency-by-generating-a-hypothesis-before-beginning-a-threat-hunt/improve-efficiency-by-generating-a-hypothesis-before-beginning-a-threat-hunt.html",
-      "title": "Improve Efficiency by Generating a Hypothesis Before Beginning a Threat Hunt"
-    },
-    {
-      "categories": [
-        "threat-hunting"
-      ],
-      "href": "/articles/2022/04/train-threat-hunters-and-develop-your-threat-hunting-program-with-threat-emulation/train-threat-hunters-and-develop-your-threat-hunting-program-with-threat-emulation.html",
-      "title": "Train Threat Hunters and Develop your Threat Hunting Program with Threat Emulation"
-    },
-    {
-      "categories": [
-        "threat-hunting"
-      ],
       "href": "/articles/2022/05/detecting-exfiltration-over-network-protocols/detecting-exfiltration-over-network-protocols.html",
       "title": "Detecting exfiltration over network protocols"
     },
@@ -3301,8 +3259,57 @@
       "categories": [
         "threat-hunting"
       ],
+      "href": "/articles/2022/10/generating-logs-of-analysis-using-soc-faker-part-1.html",
+      "title": "Generating Logs for Analysis Using SOC-Faker: Part I"
+    },
+    {
+      "categories": [
+        "threat-hunting"
+      ],
       "href": "/articles/2022/05/using-yara-for-threat-hunting-in-enterprise-environments/using-yara-for-threat-hunting-in-enterprise-environments.html",
       "title": "Using YARA for Threat Hunting in Enterprise Environments"
+    },
+    {
+      "categories": [
+        "threat-hunting"
+      ],
+      "href": "/articles/2022/06/a-general-overview-of-threat-modeling-workflow/a-general-overview-of-threat-modeling-workflow.html",
+      "title": "A General Overview of Threat Modeling Workflow"
+    },
+    {
+      "categories": [
+        "threat-hunting"
+      ],
+      "href": "/articles/2022/04/understanding-the-threat-hunting-process-step-by-step/understanding-the-threat-hunting-process-step-by-step.html",
+      "title": "Understanding the Threat Hunting Process Step-by-Step"
+    },
+    {
+      "categories": [
+        "threat-hunting"
+      ],
+      "href": "/articles/2022/04/proactive-cyber-security-with-approaches-to-threat-hunting/proactive-cyber-security-with-approaches-to-threat-hunting.html",
+      "title": "Proactive Cyber Security with Approaches to Threat Hunting"
+    },
+    {
+      "categories": [
+        "threat-hunting"
+      ],
+      "href": "/articles/2022/04/threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable/threat-hunting-in-distributed-organizations-the-challenges-are-not-insurmountable.html",
+      "title": "Threat Hunting in Distributed Organizations: The Challenges are not Insurmountable"
+    },
+    {
+      "categories": [
+        "threat-hunting"
+      ],
+      "href": "/articles/2022/04/improve-efficiency-by-generating-a-hypothesis-before-beginning-a-threat-hunt/improve-efficiency-by-generating-a-hypothesis-before-beginning-a-threat-hunt.html",
+      "title": "Improve Efficiency by Generating a Hypothesis Before Beginning a Threat Hunt"
+    },
+    {
+      "categories": [
+        "threat-hunting"
+      ],
+      "href": "/articles/2022/04/train-threat-hunters-and-develop-your-threat-hunting-program-with-threat-emulation/train-threat-hunters-and-develop-your-threat-hunting-program-with-threat-emulation.html",
+      "title": "Train Threat Hunters and Develop your Threat Hunting Program with Threat Emulation"
     },
     {
       "categories": [
@@ -3338,20 +3345,6 @@
       ],
       "href": "/articles/2022/06/structured-threat-information-expression-stix/structured-threat-information-expression-stix.html",
       "title": "Structured Threat Information Expression STIX"
-    },
-    {
-      "categories": [
-        "vulnerability-research"
-      ],
-      "href": "/articles/2022/02/introduction-to-the-vulnerability-research-and-exploitation-workflow/introduction-to-the-vulnerability-research-and-exploitation-workflow.html",
-      "title": "Introduction to the Vulnerability Research and Exploitation Workflow"
-    },
-    {
-      "categories": [
-        "vulnerability-research"
-      ],
-      "href": "/articles/2022/02/using-contextual-analysis-to-decide-on-a-target-software-for-vulnerability-research/using-contextual-analysis-to-decide-on-a-target-software-for-vulnerability-research.html",
-      "title": "Using Contextual Analysis to decide on a target software for vulnerability research"
     },
     {
       "categories": [
@@ -3399,6 +3392,34 @@
       "categories": [
         "vulnerability-research"
       ],
+      "href": "/articles/2022/05/windows-exploitation-stack-overflow-part-1/windows-exploitation-stack-overflow-part-1.html",
+      "title": "Windows Exploitation: Stack Overflow Part 1"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "/articles/2022/05/windows-exploitation-stack-overflow-part-2/windows-exploitation-stack-overflow-part-2.html",
+      "title": "Windows Exploitation: Stack Overflow Part 2"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "/articles/2022/10/powershell-shellcode-part-1.html",
+      "title": "Powershell Shellcoding: Part 1"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "/articles/2022/10/powershell-shellcode-part-2.html",
+      "title": "Powershell Shellcoding: Part 2"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
       "href": "/articles/2022/05/introduction-to-linux-binary-exploitation-part-1/introduction-to-linux-binary-exploitation-part-1.html",
       "title": "Introduction to Linux binary exploitation - Part 1"
     },
@@ -3415,20 +3436,6 @@
       ],
       "href": "/articles/2022/05/linux-exploitation-abusing-eip/linux-exploitation-abusing-eip.html",
       "title": "Linux Exploitation: Abusing EIP"
-    },
-    {
-      "categories": [
-        "vulnerability-research"
-      ],
-      "href": "/articles/2022/05/windows-exploitation-stack-overflow-part-1/windows-exploitation-stack-overflow-part-1.html",
-      "title": "Windows Exploitation: Stack Overflow Part 1"
-    },
-    {
-      "categories": [
-        "vulnerability-research"
-      ],
-      "href": "/articles/2022/05/windows-exploitation-stack-overflow-part-2/windows-exploitation-stack-overflow-part-2.html",
-      "title": "Windows Exploitation: Stack Overflow Part 2"
     },
     {
       "categories": [
@@ -3478,6 +3485,20 @@
       ],
       "href": "/articles/2022/07/linux-exploitation-advanced-exploit-protection-evasion/linux-exploitation-advanced-exploit-protection-evasion.html",
       "title": "Linux Exploitation: Advanced Exploit Protection Evasion"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "/articles/2022/02/introduction-to-the-vulnerability-research-and-exploitation-workflow/introduction-to-the-vulnerability-research-and-exploitation-workflow.html",
+      "title": "Introduction to the Vulnerability Research and Exploitation Workflow"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "/articles/2022/02/using-contextual-analysis-to-decide-on-a-target-software-for-vulnerability-research/using-contextual-analysis-to-decide-on-a-target-software-for-vulnerability-research.html",
+      "title": "Using Contextual Analysis to decide on a target software for vulnerability research"
     },
     {
       "categories": [
@@ -3582,7 +3603,7 @@
         "cloud-services"
       ],
       "href": "/articles/2022/07/cloud-security-scalability/cloud-security-scalability.html",
-      "title": "Cloud security scalability"
+      "title": "Cloud Security Scalability"
     },
     {
       "categories": [
@@ -3938,6 +3959,13 @@
       "categories": [
         "windows"
       ],
+      "href": "/articles/2022/12/windows-system-architecture-introduction.html",
+      "title": "Windows Internals: Introduction to the Windows System Architecture"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
       "href": "/articles/2022/05/windows-internals-processes/windows-internals-processes.html",
       "title": "Windows Internals: Processes"
     },
@@ -3954,6 +3982,76 @@
       ],
       "href": "/articles/2022/05/run-32-bit-windows-based-applications-on-64-bit-windows-with-wow64/run-32-bit-windows-based-applications-on-64-bit-windows-with-wow64.html",
       "title": "Run 32-Bit Windows-Based Applications on 64-Bit Windows with WOW64"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-symmetric-multiprocessing.html",
+      "title": "Windows Internals: Symmetric Multiprocessing"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-client-and-server-whats-the-difference.html",
+      "title": "Windows Internals: Client and Server. What's the difference?"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-subsystems.html",
+      "title": "Windows Internals: Subsystems"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-windows-kernel-part-1.html",
+      "title": "Windows Internals: Windows Kernel - Part 1"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-windows-kernel-part-2.html",
+      "title": "Windows Internals: Windows Kernel - Part 2"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-hal.html",
+      "title": "Windows Internals: Hardware Abstraction Layer"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-and-real-time-processing.html",
+      "title": "Windows Internals: Real Time Processing"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-software-interrupt-request-levels.html",
+      "title": "Windows Internals: Software Interrupt Request Levels"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-processor-logic-part-1.html",
+      "title": "Windows Internals: Processor logic - Part 1"
+    },
+    {
+      "categories": [
+        "windows"
+      ],
+      "href": "/articles/2022/12/windows-internals-processor-logic-part-2.html",
+      "title": "Windows Internals: Processor logic - Part 2"
     }
   ]
 }

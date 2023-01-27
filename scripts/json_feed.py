@@ -9,7 +9,8 @@ currentPath = os.path.dirname(os.path.abspath(__file__))
 docsPath = os.path.join(currentPath, '../docs/')
 
 # global variable where we store the results
-items = []
+articles = []
+videos = []
 
 #
 # Parses a HTML page and updates the `results` variable
@@ -33,28 +34,33 @@ def parseHTML(filePath):
     if not href or not title:
       continue
 
-    # validation
-    if not '../articles' in href:
-      continue
+    # process articles
+    if '../articles' in href:
+      # formatting
+      if '#' in href:
+        href = href.split('#')[0]
+        href = href.replace('../', '/')
 
-    # formatting
-    if '#' in href:
-      href = href.split('#')[0]
-      href = href.replace('../', '/')
+      # update the results
+      updateResults(title, href, category, 'article')
 
-    # update the results
-    updateResults(title, href, category)
+    # process youtube videos
+    if ('youtu.be' in href) or ('youtube.com' in href):
+      updateResults(title, href, category, 'video')
 
 #
 #
 #
-def updateResults(title, href, category):
+def updateResults(title, href, category, _type):
   # search for duplicates
-  duplicates = [item for item in items if item.get('href') == href]
+  if _type == 'article':
+    duplicates = [item for item in articles if item.get('href') == href]
+  else:
+    duplicates = [item for item in videos if item.get('href') == href]
 
   # print a warning and skip
   if len(duplicates):
-    print("[x] duplicate found for %s in category %s" % (href, category))
+    print("[x] %s duplicate found for %s in category %s" % (_type, href, category))
     return
 
   # dealing with pesky unicode characters
@@ -62,12 +68,18 @@ def updateResults(title, href, category):
   title = title.replace("\u2018", "'")
   title = title.replace("\u2019", "'")
 
-  # add the new link to the results
-  items.append({
+  # create object
+  item = {
     'title': title,
     'href': href,
     'categories': [category]
-  })
+  }
+
+  # add the new link to the results
+  if _type == 'article':
+    articles.append(item)
+  else:
+    videos.append(item)
 
 #
 # Main function
@@ -93,21 +105,51 @@ def main ():
       # parse the HTML and retrieve all the links
       parseHTML(f)
 
-    # convert the items to JSON
-    json_string = json.dumps({
-      'posts': items
-    }, sort_keys=True, indent = 2, separators = (',', ': '))
-    
-    # open the file where the results are stored
-    outfile = os.path.join(docsPath, '_static/feed.json')
-    outfile = os.path.abspath(outfile)
-    outfile = open(outfile, 'w')
+    # write articles to disk
+    writeArticles()
 
-    # write the results to disk
-    outfile.write(json_string)
+    # write videos to disk
+    writeVideos()
 
-    # debug message
-    print("\n[v] Success! Wrote %d articles to feed.json" % len(items))
+#
+# Write all the articles in JSON format to disk
+#
+def writeArticles():
+  # convert the articles to JSON
+  json_string = json.dumps({
+    'posts': articles
+  }, sort_keys=True, indent = 2, separators = (',', ': '))
+  
+  # open the file where the results are stored
+  outfile = os.path.join(docsPath, '_static/feed.json')
+  outfile = os.path.abspath(outfile)
+  outfile = open(outfile, 'w')
+
+  # write the results to disk
+  outfile.write(json_string)
+
+  # debug message
+  print("\n[v] Success! Wrote %d articles to feed.json" % len(articles))
+
+#
+# Write all the videos in JSON format to disk
+#
+def writeVideos():
+  # convert the articles to JSON
+  json_string = json.dumps({
+    'posts': videos
+  }, sort_keys=True, indent = 2, separators = (',', ': '))
+  
+  # open the file where the results are stored
+  outfile = os.path.join(docsPath, '_static/videos.json')
+  outfile = os.path.abspath(outfile)
+  outfile = open(outfile, 'w')
+
+  # write the results to disk
+  outfile.write(json_string)
+
+  # debug message
+  print("\n[v] Success! Wrote %d videos to videos.json" % len(videos))
 
 #
 #

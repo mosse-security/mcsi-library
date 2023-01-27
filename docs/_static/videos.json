@@ -1,0 +1,704 @@
+{
+  "posts": [
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://www.youtube.com/watch?v=jEJYXu59ecQ",
+      "title": "Introduction to the field of Digital Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://www.youtube.com/watch?v=mBFP8zkYxz8",
+      "title": "How to learn Digital Forensics by yourself"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/O4-DIrGG95Q",
+      "title": "What are the top skills you must learn in Digital Forensics?"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/bhOsKMHtJy4",
+      "title": "How do Digital Forensics skill augment other cyber domains?"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/4riC6YiLfSs",
+      "title": "Kill Chain and the MITRE Matrix"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/9Z4s3r4hbmg",
+      "title": "The Rootkit Paradox"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/to1ibcnM97g",
+      "title": "What is a structured investigation process?"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/13rb6gGJYYs",
+      "title": "Introduction to Windows Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/t4q8i2WrZtM",
+      "title": "Setting up a lab to practice Windows Digital Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/8D0e36gyEYw",
+      "title": "Top 10 forensics artefacts and data sources on Windows"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/EfAhZMb4pnQ",
+      "title": "The Windows Forensics tools you need to learn and master"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://www.youtube.com/watch?v=ENTxnawFQ5g",
+      "title": "A simple process for performing a digital forensics investigation on Windows"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/XGt0pQfMGN0",
+      "title": "How to investigate Windows Event Logs"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/y-dW7ObNoGQ",
+      "title": "How to investigate Windows Prefetch Files"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/7ahrlzz9XvM",
+      "title": "How to investigate the Windows Registry"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/rkj9K8tvQgg",
+      "title": "Introduction to Linux Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/Icf2P3xGb7U",
+      "title": "Setting up a lab to practice Linux Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://www.youtube.com/watch?v=HLVA52gGJM8",
+      "title": "Top 10 forensics artefacts and data sources on Linux"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/XL5GAjJt3nU",
+      "title": "The Linux Forensics tools you need to learn and master"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/oVed8I9VhEE",
+      "title": "How to investigate Linux System Logs"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/ByBs5hxSWFk",
+      "title": "How to investigate Linux Systemd Journal"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/Z9pzR6WQgGI",
+      "title": "How to investigate Linux User Artefacts"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/Xe6p0b98viw",
+      "title": "Introduction to Memory Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/10Fo7J4rRXM",
+      "title": "Setting up a lab to practice Memory Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/W9gQjZ9EeIg",
+      "title": "The Memory Forensics tools you need to learn and master"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/i69vFzxlDMw",
+      "title": "Memory Dump Formats and Memory Acquisition Types"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://www.youtube.com/watch?v=2Yxnt9vJ01o",
+      "title": "A simple process to analyze malware samples using Memory Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/mHhQ63juojg",
+      "title": "Analyzing a malware sample with Memory Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/ypjbB9BQvL0",
+      "title": "Getting started with the Volatility Framework"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/EiETpyPgloQ",
+      "title": "Investigating processes with Volatility - Part 1"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://www.youtube.com/watch?v=g1niQ3rp3-s",
+      "title": "Investigating processes with Volatility - Part 2"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/FT3Jx8LmexI",
+      "title": "Using Community Plugins with Volatility"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/UjJRGJ5OhmE",
+      "title": "Investigating Network Artefacts with Volatility"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/-PCmiMHlM-Q",
+      "title": "Investigating Registry Artefacts with Volatility"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/8fykZocCRqo",
+      "title": "Recovering Windows Event Logs from a Memory Dump"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/miT6AOE2knI",
+      "title": "Investigating Disk Artefacts with Volatility"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/1XCaTtLfgkQ",
+      "title": "Using YARA Rules with Volatility"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/qm33nCV1nkA",
+      "title": "Understanding file formats and magic numbers"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/8Vbw3G1ogCo",
+      "title": "Executable File Types in Windows and Linux"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/m4f6FERPa2U",
+      "title": "Lab Setup for Analyzing Malicious Files and Executables"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/OTW2y1GomHE",
+      "title": "How to create a good collection of malware samples"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/PSSulYstYzo",
+      "title": "How to investigate malicious Office documents"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/yhiu3DRMqYI",
+      "title": "How to investigate a malicious disk image file"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/J-gfE0Yt0s4",
+      "title": "How to investigate a malicious batch script"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/Im2Tx4hdWWg",
+      "title": "How to investigate a malicious DLL"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/qjyikF-khLs",
+      "title": "Introduction to Email Forensics"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/l4HjkIdll_M",
+      "title": "How to perform Email Forensics on a Gmail account"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/RKgGa6Rc2N8",
+      "title": "How to investigate Firefox browser artefacts"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
+      "href": "https://youtu.be/nK6ZRZ8hjTc",
+      "title": "How to investigate Chrome browser artefacts on Linux"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/7Bg7P2zgQss",
+      "title": "The CIA Triad"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/Tmjiqss4jzw",
+      "title": "What is a GRC Framework?"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/kV2R8cO1glU",
+      "title": "The importance of a GRC framework in an organization"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/upmnGSledJM",
+      "title": "The relationship between Governance and Management"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/MuvsK00h4Y0",
+      "title": "What is Corporate Governance and its Core Principles?"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/-bACcb6cWY0",
+      "title": "What is IT Governance?"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/8pLsQ9dZFds",
+      "title": "IT Governance Frameworks and Standards"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/-843Jc7_B_8",
+      "title": "What is Information Security Governance?"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/dH66x-_3Jyw",
+      "title": "What is IT Organizational Structure?"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/GbSOnOuao84",
+      "title": "Understanding Enterprise Architecture"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/ukkQbiwHz5M",
+      "title": "IT Resource Management"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/St8j0k6YXo0",
+      "title": "IT Service Provider Management"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/ban-kiLchiY",
+      "title": "Performance Optimization"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/wBrwnj49Ss4",
+      "title": "Quality Assurance, Quality Control and Quality Management of IT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://www.youtube.com/watch?v=G8x7WVe3za4",
+      "title": "Introduction to Open Source Intelligence (OSINT)"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/nlqXEZ4YvhM",
+      "title": "How is Open Source Intelligence used in Cybersecurity?"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/iDNflM4oHJs",
+      "title": "Data Sources for Open Source Intelligence"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/CqUT3KUSp1I",
+      "title": "Legal and Ethical Considerations of Open Source Intelligence"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/86OflDCFfvk",
+      "title": "Setting up a lab to perform OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/sSlDRCbRcmo",
+      "title": "Methodology to perform Open Source Intelligence"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/Hi2jrJH1zZs",
+      "title": "Introduction to Search Engine OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://www.youtube.com/watch?v=61WnPi7k6Yk",
+      "title": "Fundamentals of using Google for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/JFJzdSy3dHg",
+      "title": "Using Google's Advanced Features for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/rt55gv-eJZc",
+      "title": "Using Bing for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/MIxabWiNAmw",
+      "title": "Introduction to Social Media OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/-bQE2sY86S0",
+      "title": "Collecting open source data from Twitter"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/b7n-zg24gQ0",
+      "title": "Collecting open source data from Instagram"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/SKkMwnHoFew",
+      "title": "Collecting open source data from Facebook"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/343phF1UiEE",
+      "title": "Collecting open source data from LinkedIn"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/JbwMseix8Ew",
+      "title": "Collecting open source data from Pinterest"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/rv6B7hjcTSk",
+      "title": "Introduction to analyzing images for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/-xyuWWY-Ziw",
+      "title": "How to perform Reverse Image Searching"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/DI_himkZShQ",
+      "title": "Working with Image Metadata for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/TOHgzBgTEg8",
+      "title": "Identifying Tampered Images"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/pjED9GyULCI",
+      "title": "Geo Locating an Image"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/QsZ_wOca6I0",
+      "title": "Working with videos for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/EycIpkQ9-yk",
+      "title": "Introduction to Investigating People"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://www.youtube.com/watch?v=bW2mjseayoQ",
+      "title": "How to investigate people using OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/3HxzF4GdNO0",
+      "title": "Introduction to Investigating Businesses"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/dRLTo2fxzXM",
+      "title": "How to investigate businesses using OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/L7x55DEUJS4",
+      "title": "Working with archived data for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/lDe8_z-UCZ4",
+      "title": "Writing Open Source Intelligence Reports"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://youtu.be/i1c-JIJkc60",
+      "title": "How to learn penetration testing by yourself"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://youtu.be/vMMzSSSxjvo",
+      "title": "The different types of penetration tests"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://youtu.be/3isNo8kskUo",
+      "title": "Setting up your own penetration testing lab"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://youtu.be/LFOEDOcAVUY",
+      "title": "Working with Command Line Interfaces"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://youtu.be/psXn-_5500o",
+      "title": "The top penetration testing tools every beginner should master"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://www.youtube.com/watch?v=nW2BjtoGZqM",
+      "title": "The top programming languages to learn as a penetration tester"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://youtu.be/j1Hp0R-Og7o",
+      "title": "The most common activities in any penetration test"
+    },
+    {
+      "categories": [
+        "penetration-testing"
+      ],
+      "href": "https://youtu.be/5CCPTxTBl3k",
+      "title": "How to rate the risk of security vulnerabilities"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/9GrMRXFkIHQ",
+      "title": "What is Software Packing and Code Obfuscation?"
+    }
+  ]
+}
