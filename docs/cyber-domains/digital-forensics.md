@@ -81,6 +81,8 @@ The Volatility Framework is a powerful tool for memory forensics. It can be used
 - [Investigating Network Artefacts with Volatility](https://youtu.be/UjJRGJ5OhmE)
 - [Investigating Registry Artefacts with Volatility](https://youtu.be/-PCmiMHlM-Q)
 - [Recovering Windows Event Logs from a Memory Dump](https://youtu.be/8fykZocCRqo)
+- [Investigating Disk Artefacts with Volatility](https://youtu.be/miT6AOE2knI)
+- [Using YARA Rules with Volatility](https://youtu.be/1XCaTtLfgkQ)
 
 ### Chapter 7: File Forensics
 
@@ -100,6 +102,7 @@ This chapter provides an introduction to file forensics. File forensics is the p
 Email forensics is the process of investigating and analyzing email messages in order to determine their origin, purpose, and contents. Email forensics can be used to uncover evidence of criminal activity, track down the source of malicious or unwanted emails, or simply to retrieve lost or deleted messages.
 
 - [Introduction to Email Forensics](https://youtu.be/qjyikF-khLs)
+- [How to perform Email Forensics on a Gmail account](https://youtu.be/l4HjkIdll_M)
 
 ### Chapter 9: Browser Forensics
 
