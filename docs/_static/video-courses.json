@@ -4,243 +4,243 @@
       "category": "digital-forensics",
       "modules": [
         {
-          "title": "Chapter 1: Introduction",
+          "module": "Chapter 1: Introduction",
           "videos": [
             {
               "title": "Introduction to the field of Digital Forensics",
-              "url": "https://www.youtube.com/watch?v=jEJYXu59ecQ"
+              "url": "https://www.youtube.com/embed/jEJYXu59ecQ"
             },
             {
               "title": "How to learn Digital Forensics by yourself",
-              "url": "https://www.youtube.com/watch?v=mBFP8zkYxz8"
+              "url": "https://www.youtube.com/embed/mBFP8zkYxz8"
             },
             {
               "title": "What are the top skills you must learn in Digital Forensics?",
-              "url": "https://youtu.be/O4-DIrGG95Q"
+              "url": "https://www.youtube.com/embed/O4-DIrGG95Q"
             },
             {
               "title": "How do Digital Forensics skill augment other cyber domains?",
-              "url": "https://youtu.be/bhOsKMHtJy4"
+              "url": "https://www.youtube.com/embed/bhOsKMHtJy4"
             }
           ]
         },
         {
-          "title": "Chapter 2: Fundamental Concepts",
+          "module": "Chapter 2: Fundamental Concepts",
           "videos": [
             {
               "title": "Kill Chain and the MITRE Matrix",
-              "url": "https://youtu.be/4riC6YiLfSs"
+              "url": "https://www.youtube.com/embed/4riC6YiLfSs"
             },
             {
               "title": "The Rootkit Paradox",
-              "url": "https://youtu.be/9Z4s3r4hbmg"
+              "url": "https://www.youtube.com/embed/9Z4s3r4hbmg"
             }
           ]
         },
         {
-          "title": "Chapter 3: Investigating an Incident",
+          "module": "Chapter 3: Investigating an Incident",
           "videos": [
             {
               "title": "What is a structured investigation process?",
-              "url": "https://youtu.be/to1ibcnM97g"
+              "url": "https://www.youtube.com/embed/to1ibcnM97g"
             }
           ]
         },
         {
-          "title": "Chapter 4: Windows Forensics",
+          "module": "Chapter 4: Windows Forensics",
           "videos": [
             {
               "title": "Introduction to Windows Forensics",
-              "url": "https://youtu.be/13rb6gGJYYs"
+              "url": "https://www.youtube.com/embed/13rb6gGJYYs"
             },
             {
               "title": "Setting up a lab to practice Windows Digital Forensics",
-              "url": "https://youtu.be/t4q8i2WrZtM"
+              "url": "https://www.youtube.com/embed/t4q8i2WrZtM"
             },
             {
               "title": "Top 10 forensics artefacts and data sources on Windows",
-              "url": "https://youtu.be/8D0e36gyEYw"
+              "url": "https://www.youtube.com/embed/8D0e36gyEYw"
             },
             {
               "title": "The Windows Forensics tools you need to learn and master",
-              "url": "https://youtu.be/EfAhZMb4pnQ"
+              "url": "https://www.youtube.com/embed/EfAhZMb4pnQ"
             },
             {
               "title": "A simple process for performing a digital forensics investigation on Windows",
-              "url": "https://www.youtube.com/watch?v=ENTxnawFQ5g"
+              "url": "https://www.youtube.com/embed/ENTxnawFQ5g"
             },
             {
               "title": "How to investigate Windows Event Logs",
-              "url": "https://youtu.be/XGt0pQfMGN0"
+              "url": "https://www.youtube.com/embed/XGt0pQfMGN0"
             },
             {
               "title": "How to investigate Windows Prefetch Files",
-              "url": "https://youtu.be/y-dW7ObNoGQ"
+              "url": "https://www.youtube.com/embed/y-dW7ObNoGQ"
             },
             {
               "title": "How to investigate the Windows Registry",
-              "url": "https://youtu.be/7ahrlzz9XvM"
+              "url": "https://www.youtube.com/embed/7ahrlzz9XvM"
             }
           ]
         },
         {
-          "title": "Chapter 5: Linux Forensics",
+          "module": "Chapter 5: Linux Forensics",
           "videos": [
             {
               "title": "Introduction to Linux Forensics",
-              "url": "https://youtu.be/rkj9K8tvQgg"
+              "url": "https://www.youtube.com/embed/rkj9K8tvQgg"
             },
             {
               "title": "Setting up a lab to practice Linux Forensics",
-              "url": "https://youtu.be/Icf2P3xGb7U"
+              "url": "https://www.youtube.com/embed/Icf2P3xGb7U"
             },
             {
               "title": "Top 10 forensics artefacts and data sources on Linux",
-              "url": "https://www.youtube.com/watch?v=HLVA52gGJM8"
+              "url": "https://www.youtube.com/embed/HLVA52gGJM8"
             },
             {
               "title": "The Linux Forensics tools you need to learn and master",
-              "url": "https://youtu.be/XL5GAjJt3nU"
+              "url": "https://www.youtube.com/embed/XL5GAjJt3nU"
             },
             {
               "title": "How to investigate Linux System Logs",
-              "url": "https://youtu.be/oVed8I9VhEE"
+              "url": "https://www.youtube.com/embed/oVed8I9VhEE"
             },
             {
               "title": "How to investigate Linux Systemd Journal",
-              "url": "https://youtu.be/ByBs5hxSWFk"
+              "url": "https://www.youtube.com/embed/ByBs5hxSWFk"
             },
             {
               "title": "How to investigate Linux User Artefacts",
-              "url": "https://youtu.be/Z9pzR6WQgGI"
+              "url": "https://www.youtube.com/embed/Z9pzR6WQgGI"
             }
           ]
         },
         {
-          "title": "Chapter 6: Memory Forensics",
+          "module": "Chapter 6: Memory Forensics",
           "videos": [
             {
               "title": "Introduction to Memory Forensics",
-              "url": "https://youtu.be/Xe6p0b98viw"
+              "url": "https://www.youtube.com/embed/Xe6p0b98viw"
             },
             {
               "title": "Setting up a lab to practice Memory Forensics",
-              "url": "https://youtu.be/10Fo7J4rRXM"
+              "url": "https://www.youtube.com/embed/10Fo7J4rRXM"
             },
             {
               "title": "The Memory Forensics tools you need to learn and master",
-              "url": "https://youtu.be/W9gQjZ9EeIg"
+              "url": "https://www.youtube.com/embed/W9gQjZ9EeIg"
             },
             {
               "title": "Memory Dump Formats and Memory Acquisition Types",
-              "url": "https://youtu.be/i69vFzxlDMw"
+              "url": "https://www.youtube.com/embed/i69vFzxlDMw"
             },
             {
               "title": "A simple process to analyze malware samples using Memory Forensics",
-              "url": "https://www.youtube.com/watch?v=2Yxnt9vJ01o"
+              "url": "https://www.youtube.com/embed/2Yxnt9vJ01o"
             },
             {
               "title": "Analyzing a malware sample with Memory Forensics",
-              "url": "https://youtu.be/mHhQ63juojg"
+              "url": "https://www.youtube.com/embed/mHhQ63juojg"
             },
             {
               "title": "Getting started with the Volatility Framework",
-              "url": "https://youtu.be/ypjbB9BQvL0"
+              "url": "https://www.youtube.com/embed/ypjbB9BQvL0"
             },
             {
               "title": "Investigating processes with Volatility - Part 1",
-              "url": "https://youtu.be/EiETpyPgloQ"
+              "url": "https://www.youtube.com/embed/EiETpyPgloQ"
             },
             {
               "title": "Investigating processes with Volatility - Part 2",
-              "url": "https://www.youtube.com/watch?v=g1niQ3rp3-s"
+              "url": "https://www.youtube.com/embed/g1niQ3rp3-s"
             },
             {
               "title": "Using Community Plugins with Volatility",
-              "url": "https://youtu.be/FT3Jx8LmexI"
+              "url": "https://www.youtube.com/embed/FT3Jx8LmexI"
             },
             {
               "title": "Investigating Network Artefacts with Volatility",
-              "url": "https://youtu.be/UjJRGJ5OhmE"
+              "url": "https://www.youtube.com/embed/UjJRGJ5OhmE"
             },
             {
               "title": "Investigating Registry Artefacts with Volatility",
-              "url": "https://youtu.be/-PCmiMHlM-Q"
+              "url": "https://www.youtube.com/embed/-PCmiMHlM-Q"
             },
             {
               "title": "Recovering Windows Event Logs from a Memory Dump",
-              "url": "https://youtu.be/8fykZocCRqo"
+              "url": "https://www.youtube.com/embed/8fykZocCRqo"
             },
             {
               "title": "Investigating Disk Artefacts with Volatility",
-              "url": "https://youtu.be/miT6AOE2knI"
+              "url": "https://www.youtube.com/embed/miT6AOE2knI"
             },
             {
               "title": "Using YARA Rules with Volatility",
-              "url": "https://youtu.be/1XCaTtLfgkQ"
+              "url": "https://www.youtube.com/embed/1XCaTtLfgkQ"
             }
           ]
         },
         {
-          "title": "Chapter 7: File Forensics",
+          "module": "Chapter 7: File Forensics",
           "videos": [
             {
               "title": "Understanding file formats and magic numbers",
-              "url": "https://youtu.be/qm33nCV1nkA"
+              "url": "https://www.youtube.com/embed/qm33nCV1nkA"
             },
             {
               "title": "Executable File Types in Windows and Linux",
-              "url": "https://youtu.be/8Vbw3G1ogCo"
+              "url": "https://www.youtube.com/embed/8Vbw3G1ogCo"
             },
             {
               "title": "Lab Setup for Analyzing Malicious Files and Executables",
-              "url": "https://youtu.be/m4f6FERPa2U"
+              "url": "https://www.youtube.com/embed/m4f6FERPa2U"
             },
             {
               "title": "How to create a good collection of malware samples",
-              "url": "https://youtu.be/OTW2y1GomHE"
+              "url": "https://www.youtube.com/embed/OTW2y1GomHE"
             },
             {
               "title": "How to investigate malicious Office documents",
-              "url": "https://youtu.be/PSSulYstYzo"
+              "url": "https://www.youtube.com/embed/PSSulYstYzo"
             },
             {
               "title": "How to investigate a malicious disk image file",
-              "url": "https://youtu.be/yhiu3DRMqYI"
+              "url": "https://www.youtube.com/embed/yhiu3DRMqYI"
             },
             {
               "title": "How to investigate a malicious batch script",
-              "url": "https://youtu.be/J-gfE0Yt0s4"
+              "url": "https://www.youtube.com/embed/J-gfE0Yt0s4"
             },
             {
               "title": "How to investigate a malicious DLL",
-              "url": "https://youtu.be/Im2Tx4hdWWg"
+              "url": "https://www.youtube.com/embed/Im2Tx4hdWWg"
             }
           ]
         },
         {
-          "title": "Chapter 8: Email Forensics",
+          "module": "Chapter 8: Email Forensics",
           "videos": [
             {
               "title": "Introduction to Email Forensics",
-              "url": "https://youtu.be/qjyikF-khLs"
+              "url": "https://www.youtube.com/embed/qjyikF-khLs"
             },
             {
               "title": "How to perform Email Forensics on a Gmail account",
-              "url": "https://youtu.be/l4HjkIdll_M"
+              "url": "https://www.youtube.com/embed/l4HjkIdll_M"
             }
           ]
         },
         {
-          "title": "Chapter 9: Browser Forensics",
+          "module": "Chapter 9: Browser Forensics",
           "videos": [
             {
               "title": "How to investigate Firefox browser artefacts",
-              "url": "https://youtu.be/RKgGa6Rc2N8"
+              "url": "https://www.youtube.com/embed/RKgGa6Rc2N8"
             },
             {
               "title": "How to investigate Chrome browser artefacts on Linux",
-              "url": "https://youtu.be/nK6ZRZ8hjTc"
+              "url": "https://www.youtube.com/embed/nK6ZRZ8hjTc"
             }
           ]
         }
@@ -250,68 +250,68 @@
       "category": "grc",
       "modules": [
         {
-          "title": "Chapter 1: Introduction to GRC",
+          "module": "Chapter 1: Introduction to GRC",
           "videos": [
             {
               "title": "The CIA Triad",
-              "url": "https://youtu.be/7Bg7P2zgQss"
+              "url": "https://www.youtube.com/embed/7Bg7P2zgQss"
             },
             {
               "title": "What is a GRC Framework?",
-              "url": "https://youtu.be/Tmjiqss4jzw"
+              "url": "https://www.youtube.com/embed/Tmjiqss4jzw"
             },
             {
               "title": "The importance of a GRC framework in an organization",
-              "url": "https://youtu.be/kV2R8cO1glU"
+              "url": "https://www.youtube.com/embed/kV2R8cO1glU"
             }
           ]
         },
         {
-          "title": "Chapter 2: Governance and Management",
+          "module": "Chapter 2: Governance and Management",
           "videos": [
             {
               "title": "The relationship between Governance and Management",
-              "url": "https://youtu.be/upmnGSledJM"
+              "url": "https://www.youtube.com/embed/upmnGSledJM"
             },
             {
               "title": "What is Corporate Governance and its Core Principles?",
-              "url": "https://youtu.be/MuvsK00h4Y0"
+              "url": "https://www.youtube.com/embed/MuvsK00h4Y0"
             },
             {
               "title": "What is IT Governance?",
-              "url": "https://youtu.be/-bACcb6cWY0"
+              "url": "https://www.youtube.com/embed/-bACcb6cWY0"
             },
             {
               "title": "IT Governance Frameworks and Standards",
-              "url": "https://youtu.be/8pLsQ9dZFds"
+              "url": "https://www.youtube.com/embed/8pLsQ9dZFds"
             },
             {
               "title": "What is Information Security Governance?",
-              "url": "https://youtu.be/-843Jc7_B_8"
+              "url": "https://www.youtube.com/embed/-843Jc7_B_8"
             },
             {
               "title": "What is IT Organizational Structure?",
-              "url": "https://youtu.be/dH66x-_3Jyw"
+              "url": "https://www.youtube.com/embed/dH66x-_3Jyw"
             },
             {
               "title": "Understanding Enterprise Architecture",
-              "url": "https://youtu.be/GbSOnOuao84"
+              "url": "https://www.youtube.com/embed/GbSOnOuao84"
             },
             {
               "title": "IT Resource Management",
-              "url": "https://youtu.be/ukkQbiwHz5M"
+              "url": "https://www.youtube.com/embed/ukkQbiwHz5M"
             },
             {
               "title": "IT Service Provider Management",
-              "url": "https://youtu.be/St8j0k6YXo0"
+              "url": "https://www.youtube.com/embed/St8j0k6YXo0"
             },
             {
               "title": "Performance Optimization",
-              "url": "https://youtu.be/ban-kiLchiY"
+              "url": "https://www.youtube.com/embed/ban-kiLchiY"
             },
             {
               "title": "Quality Assurance, Quality Control and Quality Management of IT",
-              "url": "https://youtu.be/wBrwnj49Ss4"
+              "url": "https://www.youtube.com/embed/wBrwnj49Ss4"
             }
           ]
         }
@@ -321,149 +321,149 @@
       "category": "osint",
       "modules": [
         {
-          "title": "Chapter 1: Introduction",
+          "module": "Chapter 1: Introduction",
           "videos": [
             {
               "title": "Introduction to Open Source Intelligence (OSINT)",
-              "url": "https://www.youtube.com/watch?v=G8x7WVe3za4"
+              "url": "https://www.youtube.com/embed/G8x7WVe3za4"
             },
             {
               "title": "How is Open Source Intelligence used in Cybersecurity?",
-              "url": "https://youtu.be/nlqXEZ4YvhM"
+              "url": "https://www.youtube.com/embed/nlqXEZ4YvhM"
             },
             {
               "title": "Data Sources for Open Source Intelligence",
-              "url": "https://youtu.be/iDNflM4oHJs"
+              "url": "https://www.youtube.com/embed/iDNflM4oHJs"
             },
             {
               "title": "Legal and Ethical Considerations of Open Source Intelligence",
-              "url": "https://youtu.be/CqUT3KUSp1I"
+              "url": "https://www.youtube.com/embed/CqUT3KUSp1I"
             },
             {
               "title": "Setting up a lab to perform OSINT",
-              "url": "https://youtu.be/86OflDCFfvk"
+              "url": "https://www.youtube.com/embed/86OflDCFfvk"
             },
             {
               "title": "Methodology to perform Open Source Intelligence",
-              "url": "https://youtu.be/sSlDRCbRcmo"
+              "url": "https://www.youtube.com/embed/sSlDRCbRcmo"
             }
           ]
         },
         {
-          "title": "Chapter 2: Search Engines",
+          "module": "Chapter 2: Search Engines",
           "videos": [
             {
               "title": "Introduction to Search Engine OSINT",
-              "url": "https://youtu.be/Hi2jrJH1zZs"
+              "url": "https://www.youtube.com/embed/Hi2jrJH1zZs"
             },
             {
               "title": "Fundamentals of using Google for OSINT",
-              "url": "https://www.youtube.com/watch?v=61WnPi7k6Yk"
+              "url": "https://www.youtube.com/embed/61WnPi7k6Yk"
             },
             {
               "title": "Using Google's Advanced Features for OSINT",
-              "url": "https://youtu.be/JFJzdSy3dHg"
+              "url": "https://www.youtube.com/embed/JFJzdSy3dHg"
             },
             {
               "title": "Using Bing for OSINT",
-              "url": "https://youtu.be/rt55gv-eJZc"
+              "url": "https://www.youtube.com/embed/rt55gv-eJZc"
             }
           ]
         },
         {
-          "title": "Chapter 3: Social Media",
+          "module": "Chapter 3: Social Media",
           "videos": [
             {
               "title": "Introduction to Social Media OSINT",
-              "url": "https://youtu.be/MIxabWiNAmw"
+              "url": "https://www.youtube.com/embed/MIxabWiNAmw"
             },
             {
               "title": "Collecting open source data from Twitter",
-              "url": "https://youtu.be/-bQE2sY86S0"
+              "url": "https://www.youtube.com/embed/-bQE2sY86S0"
             },
             {
               "title": "Collecting open source data from Instagram",
-              "url": "https://youtu.be/b7n-zg24gQ0"
+              "url": "https://www.youtube.com/embed/b7n-zg24gQ0"
             },
             {
               "title": "Collecting open source data from Facebook",
-              "url": "https://youtu.be/SKkMwnHoFew"
+              "url": "https://www.youtube.com/embed/SKkMwnHoFew"
             },
             {
               "title": "Collecting open source data from LinkedIn",
-              "url": "https://youtu.be/343phF1UiEE"
+              "url": "https://www.youtube.com/embed/343phF1UiEE"
             },
             {
               "title": "Collecting open source data from Pinterest",
-              "url": "https://youtu.be/JbwMseix8Ew"
+              "url": "https://www.youtube.com/embed/JbwMseix8Ew"
             }
           ]
         },
         {
-          "title": "Chapter 4: Multimedia Content",
+          "module": "Chapter 4: Multimedia Content",
           "videos": [
             {
               "title": "Introduction to analyzing images for OSINT",
-              "url": "https://youtu.be/rv6B7hjcTSk"
+              "url": "https://www.youtube.com/embed/rv6B7hjcTSk"
             },
             {
               "title": "How to perform Reverse Image Searching",
-              "url": "https://youtu.be/-xyuWWY-Ziw"
+              "url": "https://www.youtube.com/embed/-xyuWWY-Ziw"
             },
             {
               "title": "Working with Image Metadata for OSINT",
-              "url": "https://youtu.be/DI_himkZShQ"
+              "url": "https://www.youtube.com/embed/DI_himkZShQ"
             },
             {
               "title": "Identifying Tampered Images",
-              "url": "https://youtu.be/TOHgzBgTEg8"
+              "url": "https://www.youtube.com/embed/TOHgzBgTEg8"
             },
             {
               "title": "Geo Locating an Image",
-              "url": "https://youtu.be/pjED9GyULCI"
+              "url": "https://www.youtube.com/embed/pjED9GyULCI"
             },
             {
               "title": "Working with videos for OSINT",
-              "url": "https://youtu.be/QsZ_wOca6I0"
+              "url": "https://www.youtube.com/embed/QsZ_wOca6I0"
             }
           ]
         },
         {
-          "title": "Chapter 5: People and Businesses",
+          "module": "Chapter 5: People and Businesses",
           "videos": [
             {
               "title": "Introduction to Investigating People",
-              "url": "https://youtu.be/EycIpkQ9-yk"
+              "url": "https://www.youtube.com/embed/EycIpkQ9-yk"
             },
             {
               "title": "How to investigate people using OSINT",
-              "url": "https://www.youtube.com/watch?v=bW2mjseayoQ"
+              "url": "https://www.youtube.com/embed/bW2mjseayoQ"
             },
             {
               "title": "Introduction to Investigating Businesses",
-              "url": "https://youtu.be/3HxzF4GdNO0"
+              "url": "https://www.youtube.com/embed/3HxzF4GdNO0"
             },
             {
               "title": "How to investigate businesses using OSINT",
-              "url": "https://youtu.be/dRLTo2fxzXM"
+              "url": "https://www.youtube.com/embed/dRLTo2fxzXM"
             }
           ]
         },
         {
-          "title": "Chapter 6: Archived and Leaked Data",
+          "module": "Chapter 6: Archived and Leaked Data",
           "videos": [
             {
               "title": "Working with archived data for OSINT",
-              "url": "https://youtu.be/L7x55DEUJS4"
+              "url": "https://www.youtube.com/embed/L7x55DEUJS4"
             }
           ]
         },
         {
-          "title": "Chapter 10: Reporting",
+          "module": "Chapter 10: Reporting",
           "videos": [
             {
               "title": "Writing Open Source Intelligence Reports",
-              "url": "https://youtu.be/lDe8_z-UCZ4"
+              "url": "https://www.youtube.com/embed/lDe8_z-UCZ4"
             }
           ]
         }
@@ -473,49 +473,49 @@
       "category": "penetration-testing",
       "modules": [
         {
-          "title": "Chapter 1: Introduction to Penetration Testing",
+          "module": "Chapter 1: Introduction to Penetration Testing",
           "videos": [
             {
               "title": "How to learn penetration testing by yourself",
-              "url": "https://youtu.be/i1c-JIJkc60"
+              "url": "https://www.youtube.com/embed/i1c-JIJkc60"
             },
             {
               "title": "The different types of penetration tests",
-              "url": "https://youtu.be/vMMzSSSxjvo"
+              "url": "https://www.youtube.com/embed/vMMzSSSxjvo"
             },
             {
               "title": "Setting up your own penetration testing lab",
-              "url": "https://youtu.be/3isNo8kskUo"
+              "url": "https://www.youtube.com/embed/3isNo8kskUo"
             }
           ]
         },
         {
-          "title": "Chapter 2: Fundamental Concepts",
+          "module": "Chapter 2: Fundamental Concepts",
           "videos": [
             {
               "title": "Working with Command Line Interfaces",
-              "url": "https://youtu.be/LFOEDOcAVUY"
+              "url": "https://www.youtube.com/embed/LFOEDOcAVUY"
             },
             {
               "title": "The top penetration testing tools every beginner should master",
-              "url": "https://youtu.be/psXn-_5500o"
+              "url": "https://www.youtube.com/embed/psXn-_5500o"
             },
             {
               "title": "The top programming languages to learn as a penetration tester",
-              "url": "https://www.youtube.com/watch?v=nW2BjtoGZqM"
+              "url": "https://www.youtube.com/embed/nW2BjtoGZqM"
             },
             {
               "title": "The most common activities in any penetration test",
-              "url": "https://youtu.be/j1Hp0R-Og7o"
+              "url": "https://www.youtube.com/embed/j1Hp0R-Og7o"
             }
           ]
         },
         {
-          "title": "Chapter 3: The Testing Process",
+          "module": "Chapter 3: The Testing Process",
           "videos": [
             {
               "title": "How to rate the risk of security vulnerabilities",
-              "url": "https://youtu.be/5CCPTxTBl3k"
+              "url": "https://www.youtube.com/embed/5CCPTxTBl3k"
             }
           ]
         }
@@ -525,48 +525,48 @@
       "category": "reverse-engineering",
       "modules": [
         {
-          "title": "Chapter 1: Introduction to Reverse Engineering",
+          "module": "Chapter 1: Introduction to Reverse Engineering",
           "videos": [
             {
               "title": "Understanding file formats and magic numbers",
-              "url": "https://youtu.be/qm33nCV1nkA"
+              "url": "https://www.youtube.com/embed/qm33nCV1nkA"
             },
             {
               "title": "Executable File Types in Windows and Linux",
-              "url": "https://youtu.be/8Vbw3G1ogCo"
+              "url": "https://www.youtube.com/embed/8Vbw3G1ogCo"
             },
             {
               "title": "Lab Setup for Analyzing Malicious Files and Executables",
-              "url": "https://youtu.be/m4f6FERPa2U"
+              "url": "https://www.youtube.com/embed/m4f6FERPa2U"
             },
             {
               "title": "What is Software Packing and Code Obfuscation?",
-              "url": "https://youtu.be/9GrMRXFkIHQ"
+              "url": "https://www.youtube.com/embed/9GrMRXFkIHQ"
             }
           ]
         },
         {
-          "title": "Chapter 2: File Analysis",
+          "module": "Chapter 2: File Analysis",
           "videos": [
             {
               "title": "How to create a good collection of malware samples",
-              "url": "https://youtu.be/OTW2y1GomHE"
+              "url": "https://www.youtube.com/embed/OTW2y1GomHE"
             },
             {
               "title": "How to investigate malicious Office documents",
-              "url": "https://youtu.be/PSSulYstYzo"
+              "url": "https://www.youtube.com/embed/PSSulYstYzo"
             },
             {
               "title": "How to investigate a malicious disk image file",
-              "url": "https://youtu.be/yhiu3DRMqYI"
+              "url": "https://www.youtube.com/embed/yhiu3DRMqYI"
             },
             {
               "title": "How to investigate a malicious batch script",
-              "url": "https://youtu.be/J-gfE0Yt0s4"
+              "url": "https://www.youtube.com/embed/J-gfE0Yt0s4"
             },
             {
               "title": "How to investigate a malicious DLL",
-              "url": "https://youtu.be/Im2Tx4hdWWg"
+              "url": "https://www.youtube.com/embed/Im2Tx4hdWWg"
             }
           ]
         }
