@@ -1,3 +1,5 @@
+(cognitive-sience-page)=
+
 # Cognitive Science
 
 Cognitive science is the study of the mind and how it works. It covers a wide range of topics, from how we learn and remember things, to how we think and make decisions. Cognitive science draws on a number of disciplines, including psychology, neuroscience and anthropology.
