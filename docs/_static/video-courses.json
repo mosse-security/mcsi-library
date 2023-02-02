@@ -588,6 +588,24 @@
           ]
         }
       ]
+    },
+    {
+      "category": "vulnerability-research",
+      "modules": [
+        {
+          "module": "Chapter 1: Introduction",
+          "videos": [
+            {
+              "title": "Why do researchers perform vulnerability research?",
+              "url": "https://www.youtube.com/embed/lD34wkOcCRE"
+            },
+            {
+              "title": "Understanding the key terms in vulnerability research",
+              "url": "https://www.youtube.com/embed/9ndLyvn4byg"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
