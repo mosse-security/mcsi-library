@@ -35,6 +35,14 @@ In this chapter of our video course, we'll be discussing the importance of gover
 - [Performance Optimization](https://youtu.be/ban-kiLchiY)
 - [Quality Assurance, Quality Control and Quality Management of IT](https://youtu.be/wBrwnj49Ss4)
 
+### Chapter 3: Establishing an Effective IS Governance Framework
+
+This section of the video course provides an overview of the essential elements of an effective information security governance framework. It covers the strategies for developing a strong security strategy, gaining the support of upper management, and creating the metrics to measure the performance of the framework. It also provides insight on how to effectively manage the framework to ensure it meets the security goals and objectives of the organization.
+
+- [Developing an Information Security Strategy](https://youtu.be/ZnBxYWrpBtI)
+- [Gaining the Support of Higher Management](https://youtu.be/gv4m5GumgMg)
+- [Developing Metrics to Track the Performance of Information Security Program](https://youtu.be/70kVmBxan2I)
+
 ## Articles
 
 ### Information Security Management

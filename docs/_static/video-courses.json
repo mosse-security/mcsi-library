@@ -314,6 +314,23 @@
               "url": "https://www.youtube.com/embed/wBrwnj49Ss4"
             }
           ]
+        },
+        {
+          "module": "Chapter 3: Establishing an Effective IS Governance Framework",
+          "videos": [
+            {
+              "title": "Developing an Information Security Strategy",
+              "url": "https://www.youtube.com/embed/ZnBxYWrpBtI"
+            },
+            {
+              "title": "Gaining the Support of Higher Management",
+              "url": "https://www.youtube.com/embed/gv4m5GumgMg"
+            },
+            {
+              "title": "Developing Metrics to Track the Performance of Information Security Program",
+              "url": "https://www.youtube.com/embed/70kVmBxan2I"
+            }
+          ]
         }
       ]
     },
