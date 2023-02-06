@@ -43,6 +43,12 @@ This section of the video course provides an overview of the essential elements 
 - [Gaining the Support of Higher Management](https://youtu.be/gv4m5GumgMg)
 - [Developing Metrics to Track the Performance of Information Security Program](https://youtu.be/70kVmBxan2I)
 
+### Chapter 4: Risk Management
+
+In this section, we will explore the ways in which organizations can identify, assess, and manage risks associated with their information systems and networks. We will discuss the importance of developing an effective risk management strategy and the various security controls that can be implemented to protect an organization's digital assets.
+
+- [What is Enterprise Risk Management?](https://youtu.be/3G1c2MmOxKI)
+
 ## Articles
 
 ### Information Security Management

@@ -67,6 +67,13 @@ In this module, you will learn how to efficiently use open source intelligence (
 In this module, you will learn how to find and access leaked and archived data, how to analyze it, and how to use it to support your OSINT efforts. By the end of this module, you will have a comprehensive understanding of how to use archived and leaked data for open source intelligence.
 
 - [Working with archived data for OSINT](https://youtu.be/L7x55DEUJS4)
+- [Working with leaked data for OSINT](https://youtu.be/DqZJ3BPrr-Q)
+
+### Chapter 7: Geo-Spatial
+
+Geo-spatial open source intelligence (OSINT) is an increasingly important tool for gathering and analyzing data. With its ability to capture a range of data from both physical and digital sources, geo-spatial OSINT can provide valuable insights into the physical world. In this section of the course, we’ll explore how geo-spatial OSINT is used to track and analyze physical and digital sources, from social media posts to satellite images.
+
+- [Introduction to Geospatial OSINT](https://youtu.be/7McPr2o61hE)
 
 ### Chapter 10: Reporting
 
