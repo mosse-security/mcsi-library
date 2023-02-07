@@ -7,6 +7,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](how-to-impress-hiring-managers-and-win-first-place-in-the-job-race)
 - [](the-value-of-certifications-in-2023-and-beyond)
 - [](learn-how-to-conquer-the-complexities-of-cyber-security-with-an-audacious-mindset)
+- [](how-do-i-stay-motivated-and-passionate-about-cyber-security)
 
 ## Subscribe
 
