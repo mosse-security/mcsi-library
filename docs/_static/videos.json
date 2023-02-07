@@ -443,6 +443,41 @@
     },
     {
       "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/ZnBxYWrpBtI",
+      "title": "Developing an Information Security Strategy"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/gv4m5GumgMg",
+      "title": "Gaining the Support of Higher Management"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/70kVmBxan2I",
+      "title": "Developing Metrics to Track the Performance of Information Security Program"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/3G1c2MmOxKI",
+      "title": "What is Enterprise Risk Management?"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/8revgW1tC00",
+      "title": "Defining the Risk Appetite and Risk Tolerance"
+    },
+    {
+      "categories": [
         "osint"
       ],
       "href": "https://www.youtube.com/watch?v=G8x7WVe3za4",
@@ -634,6 +669,20 @@
       "categories": [
         "osint"
       ],
+      "href": "https://youtu.be/DqZJ3BPrr-Q",
+      "title": "Working with leaked data for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/7McPr2o61hE",
+      "title": "Introduction to Geospatial OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
       "href": "https://youtu.be/lDe8_z-UCZ4",
       "title": "Writing Open Source Intelligence Reports"
     },
@@ -699,6 +748,20 @@
       ],
       "href": "https://youtu.be/9GrMRXFkIHQ",
       "title": "What is Software Packing and Code Obfuscation?"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/lD34wkOcCRE",
+      "title": "Why do researchers perform vulnerability research?"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/9ndLyvn4byg",
+      "title": "Understanding the key terms in vulnerability research"
     }
   ]
 }

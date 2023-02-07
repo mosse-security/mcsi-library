@@ -331,6 +331,19 @@
               "url": "https://www.youtube.com/embed/70kVmBxan2I"
             }
           ]
+        },
+        {
+          "module": "Chapter 4: Risk Management",
+          "videos": [
+            {
+              "title": "What is Enterprise Risk Management?",
+              "url": "https://www.youtube.com/embed/3G1c2MmOxKI"
+            },
+            {
+              "title": "Defining the Risk Appetite and Risk Tolerance",
+              "url": "https://www.youtube.com/embed/8revgW1tC00"
+            }
+          ]
         }
       ]
     },
@@ -472,6 +485,19 @@
             {
               "title": "Working with archived data for OSINT",
               "url": "https://www.youtube.com/embed/L7x55DEUJS4"
+            },
+            {
+              "title": "Working with leaked data for OSINT",
+              "url": "https://www.youtube.com/embed/DqZJ3BPrr-Q"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 7: Geo-Spatial",
+          "videos": [
+            {
+              "title": "Introduction to Geospatial OSINT",
+              "url": "https://www.youtube.com/embed/7McPr2o61hE"
             }
           ]
         },

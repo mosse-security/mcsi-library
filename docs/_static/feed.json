@@ -3420,6 +3420,13 @@
       "categories": [
         "vulnerability-research"
       ],
+      "href": "/articles/2023/01/dll-injection.html",
+      "title": "DLL Injection"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
       "href": "/articles/2022/05/introduction-to-linux-binary-exploitation-part-1/introduction-to-linux-binary-exploitation-part-1.html",
       "title": "Introduction to Linux binary exploitation - Part 1"
     },
