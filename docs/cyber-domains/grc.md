@@ -48,6 +48,7 @@ This section of the video course provides an overview of the essential elements 
 In this section, we will explore the ways in which organizations can identify, assess, and manage risks associated with their information systems and networks. We will discuss the importance of developing an effective risk management strategy and the various security controls that can be implemented to protect an organization's digital assets.
 
 - [What is Enterprise Risk Management?](https://youtu.be/3G1c2MmOxKI)
+- [Defining the Risk Appetite and Risk Tolerance](https://youtu.be/8revgW1tC00)
 
 ## Articles
 
