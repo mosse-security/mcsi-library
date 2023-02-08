@@ -75,6 +75,7 @@ Geo-spatial open source intelligence (OSINT) is an increasingly important tool f
 
 - [Introduction to Geospatial OSINT](https://youtu.be/7McPr2o61hE)
 - [Working with Google Maps for Geospatial OSINT](https://youtu.be/iaHlqmufO0s)
+- [Hands on with geospatial OSINT tools](https://youtu.be/hAnmwd6_ypU)
 
 ### Chapter 10: Reporting
 
