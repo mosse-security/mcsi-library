@@ -74,6 +74,7 @@ In this module, you will learn how to find and access leaked and archived data, 
 Geo-spatial open source intelligence (OSINT) is an increasingly important tool for gathering and analyzing data. With its ability to capture a range of data from both physical and digital sources, geo-spatial OSINT can provide valuable insights into the physical world. In this section of the course, we’ll explore how geo-spatial OSINT is used to track and analyze physical and digital sources, from social media posts to satellite images.
 
 - [Introduction to Geospatial OSINT](https://youtu.be/7McPr2o61hE)
+- [Working with Google Maps for Geospatial OSINT](https://youtu.be/iaHlqmufO0s)
 
 ### Chapter 10: Reporting
 
