@@ -498,6 +498,14 @@
             {
               "title": "Introduction to Geospatial OSINT",
               "url": "https://www.youtube.com/embed/7McPr2o61hE"
+            },
+            {
+              "title": "Working with Google Maps for Geospatial OSINT",
+              "url": "https://www.youtube.com/embed/iaHlqmufO0s"
+            },
+            {
+              "title": "Hands on with geospatial OSINT tools",
+              "url": "https://www.youtube.com/embed/hAnmwd6_ypU"
             }
           ]
         },
@@ -628,6 +636,14 @@
             {
               "title": "Understanding the key terms in vulnerability research",
               "url": "https://www.youtube.com/embed/9ndLyvn4byg"
+            },
+            {
+              "title": "How do researchers perform vulnerability research?",
+              "url": "https://www.youtube.com/embed/zzHZ3is-zbA"
+            },
+            {
+              "title": "Setting up a vulnerability research lab",
+              "url": "https://www.youtube.com/embed/PRXXGSKvcAI"
             }
           ]
         }

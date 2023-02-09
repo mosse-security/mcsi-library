@@ -683,6 +683,20 @@
       "categories": [
         "osint"
       ],
+      "href": "https://youtu.be/iaHlqmufO0s",
+      "title": "Working with Google Maps for Geospatial OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/hAnmwd6_ypU",
+      "title": "Hands on with geospatial OSINT tools"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
       "href": "https://youtu.be/lDe8_z-UCZ4",
       "title": "Writing Open Source Intelligence Reports"
     },
@@ -762,6 +776,20 @@
       ],
       "href": "https://youtu.be/9ndLyvn4byg",
       "title": "Understanding the key terms in vulnerability research"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/zzHZ3is-zbA",
+      "title": "How do researchers perform vulnerability research?"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/PRXXGSKvcAI",
+      "title": "Setting up a vulnerability research lab"
     }
   ]
 }
