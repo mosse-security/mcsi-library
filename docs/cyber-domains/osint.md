@@ -77,6 +77,12 @@ Geo-spatial open source intelligence (OSINT) is an increasingly important tool f
 - [Working with Google Maps for Geospatial OSINT](https://youtu.be/iaHlqmufO0s)
 - [Hands on with geospatial OSINT tools](https://youtu.be/hAnmwd6_ypU)
 
+## Chapter 8: Online Communities
+
+Open source intelligence can be used to investigate online communities, such as discussion forums, chat rooms, and social media networks. Some of the popular platforms used by online communities include Telegram and Discord. By using OSINT, investigators can search for posts, photos, and other information that can be used as evidence in a case. Investigators can also use OSINT to monitor the activity of online communities, such as tracking the number of users joining or leaving the platform, and the topics being discussed. With the right tools and techniques, investigators can gain valuable insights into the activities and dynamics of online communities.
+
+- [Introduction to OSINT on Online Communities](https://youtu.be/s5CevHv33gc)
+
 ### Chapter 10: Reporting
 
 In this module, you will learn the basics of writing effective OSINT reports, including how to gather the necessary data, organize it, and present it in a clear, concise manner.

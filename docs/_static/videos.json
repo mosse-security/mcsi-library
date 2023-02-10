@@ -478,6 +478,20 @@
     },
     {
       "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/5JsgU26sp38",
+      "title": "Understanding Risk Terminology"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/iV-FjzwIY34",
+      "title": "How to Identify Assets, Threats and Vulnerabilities"
+    },
+    {
+      "categories": [
         "osint"
       ],
       "href": "https://www.youtube.com/watch?v=G8x7WVe3za4",
@@ -692,6 +706,13 @@
       ],
       "href": "https://youtu.be/hAnmwd6_ypU",
       "title": "Hands on with geospatial OSINT tools"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/s5CevHv33gc",
+      "title": "Introduction to OSINT on Online Communities"
     },
     {
       "categories": [
