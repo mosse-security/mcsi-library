@@ -51,6 +51,7 @@ In this section, we will explore the ways in which organizations can identify, a
 - [Defining the Risk Appetite and Risk Tolerance](https://youtu.be/8revgW1tC00)
 - [Understanding Risk Terminology](https://youtu.be/5JsgU26sp38)
 - [How to Identify Assets, Threats and Vulnerabilities](https://youtu.be/iV-FjzwIY34)
+- [The Risk Identification Process](https://youtu.be/2q82Y26zI5o)
 
 ## Articles
 
