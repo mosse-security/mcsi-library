@@ -82,6 +82,7 @@ Geo-spatial open source intelligence (OSINT) is an increasingly important tool f
 Open source intelligence can be used to investigate online communities, such as discussion forums, chat rooms, and social media networks. Some of the popular platforms used by online communities include Telegram and Discord. By using OSINT, investigators can search for posts, photos, and other information that can be used as evidence in a case. Investigators can also use OSINT to monitor the activity of online communities, such as tracking the number of users joining or leaving the platform, and the topics being discussed. With the right tools and techniques, investigators can gain valuable insights into the activities and dynamics of online communities.
 
 - [Introduction to OSINT on Online Communities](https://youtu.be/s5CevHv33gc)
+- [Collecting open source data from Discord](https://youtu.be/G5Cu3dpUy9o)
 
 ### Chapter 10: Reporting
 
