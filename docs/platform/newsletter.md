@@ -8,6 +8,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](the-value-of-certifications-in-2023-and-beyond)
 - [](learn-how-to-conquer-the-complexities-of-cyber-security-with-an-audacious-mindset)
 - [](how-do-i-stay-motivated-and-passionate-about-cyber-security)
+- [](what-skills-must-you-master-if-you-want-to-excel-as-a-soc-analyst)
 
 ## Subscribe
 
