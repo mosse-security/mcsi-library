@@ -839,6 +839,13 @@
       ],
       "href": "https://youtu.be/PRXXGSKvcAI",
       "title": "Setting up a vulnerability research lab"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/9jkIAblT4xg",
+      "title": "What are the main tools we use in vulnerability research?"
     }
   ]
 }
