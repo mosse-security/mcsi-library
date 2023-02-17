@@ -520,6 +520,40 @@
               "url": "https://www.youtube.com/embed/hAnmwd6_ypU"
             }
           ]
+        },
+        {
+          "module": "Chapter 8: Online Communities",
+          "videos": [
+            {
+              "title": "Introduction to OSINT on Online Communities",
+              "url": "https://www.youtube.com/embed/s5CevHv33gc"
+            },
+            {
+              "title": "Collecting open source data from Discord",
+              "url": "https://www.youtube.com/embed/G5Cu3dpUy9o"
+            },
+            {
+              "title": "Collecting open source data from Reddit",
+              "url": "https://www.youtube.com/embed/0TY2ajnmivA"
+            },
+            {
+              "title": "Collecting open source data from Telegram",
+              "url": "https://www.youtube.com/embed/QU3s5DDkbSY"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 9: Deep Web and Dark Web",
+          "videos": []
+        },
+        {
+          "module": "Chapter 10: Reporting",
+          "videos": [
+            {
+              "title": "Writing Open Source Intelligence Reports",
+              "url": "https://www.youtube.com/embed/lDe8_z-UCZ4"
+            }
+          ]
         }
       ]
     },

@@ -77,12 +77,18 @@ Geo-spatial open source intelligence (OSINT) is an increasingly important tool f
 - [Working with Google Maps for Geospatial OSINT](https://youtu.be/iaHlqmufO0s)
 - [Hands on with geospatial OSINT tools](https://youtu.be/hAnmwd6_ypU)
 
-## Chapter 8: Online Communities
+### Chapter 8: Online Communities
 
 Open source intelligence can be used to investigate online communities, such as discussion forums, chat rooms, and social media networks. Some of the popular platforms used by online communities include Telegram and Discord. By using OSINT, investigators can search for posts, photos, and other information that can be used as evidence in a case. Investigators can also use OSINT to monitor the activity of online communities, such as tracking the number of users joining or leaving the platform, and the topics being discussed. With the right tools and techniques, investigators can gain valuable insights into the activities and dynamics of online communities.
 
 - [Introduction to OSINT on Online Communities](https://youtu.be/s5CevHv33gc)
 - [Collecting open source data from Discord](https://youtu.be/G5Cu3dpUy9o)
+- [Collecting open source data from Reddit](https://youtu.be/0TY2ajnmivA)
+- [Collecting open source data from Telegram](https://youtu.be/QU3s5DDkbSY)
+
+### Chapter 9: Deep Web and Dark Web
+
+The Deep Web and Dark Web are parts of the internet that are not indexed by traditional search engines, and as such can be difficult to access. However, these parts of the internet can contain valuable information that can be used for Open Source Intelligence (OSINT). To access these parts of the web, specialized search engines and software tools are needed. It is important to note that the Deep Web and Dark Web can contain illegal activity, so it is important to use OSINT methods to collect information responsibly and ethically.
 
 ### Chapter 10: Reporting
 

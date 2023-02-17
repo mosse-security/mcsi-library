@@ -725,6 +725,27 @@
       "categories": [
         "osint"
       ],
+      "href": "https://youtu.be/G5Cu3dpUy9o",
+      "title": "Collecting open source data from Discord"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/0TY2ajnmivA",
+      "title": "Collecting open source data from Reddit"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/QU3s5DDkbSY",
+      "title": "Collecting open source data from Telegram"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
       "href": "https://youtu.be/lDe8_z-UCZ4",
       "title": "Writing Open Source Intelligence Reports"
     },
