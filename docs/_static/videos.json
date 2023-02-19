@@ -487,6 +487,13 @@
       "categories": [
         "grc"
       ],
+      "href": "https://youtu.be/2q82Y26zI5o",
+      "title": "The Risk Identification Process"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
       "href": "https://youtu.be/iV-FjzwIY34",
       "title": "How to Identify Assets, Threats and Vulnerabilities"
     },
@@ -494,8 +501,15 @@
       "categories": [
         "grc"
       ],
-      "href": "https://youtu.be/2q82Y26zI5o",
-      "title": "The Risk Identification Process"
+      "href": "https://youtu.be/dOsVhrztaLw",
+      "title": "Developing Risk Scenarios"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/5t24Vqd3B38",
+      "title": "Performing Data Analysis"
     },
     {
       "categories": [
@@ -741,6 +755,20 @@
       ],
       "href": "https://youtu.be/QU3s5DDkbSY",
       "title": "Collecting open source data from Telegram"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/8wI38W-PTxY",
+      "title": "Introduction to Deep Web and Dark Web OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/x1QaDejQjVE",
+      "title": "Performing Deep Web OSINT"
     },
     {
       "categories": [

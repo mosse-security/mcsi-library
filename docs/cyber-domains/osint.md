@@ -90,6 +90,9 @@ Open source intelligence can be used to investigate online communities, such as 
 
 The Deep Web and Dark Web are parts of the internet that are not indexed by traditional search engines, and as such can be difficult to access. However, these parts of the internet can contain valuable information that can be used for Open Source Intelligence (OSINT). To access these parts of the web, specialized search engines and software tools are needed. It is important to note that the Deep Web and Dark Web can contain illegal activity, so it is important to use OSINT methods to collect information responsibly and ethically.
 
+- [Introduction to Deep Web and Dark Web OSINT](https://youtu.be/8wI38W-PTxY)
+- [Performing Deep Web OSINT](https://youtu.be/x1QaDejQjVE)
+
 ### Chapter 10: Reporting
 
 In this module, you will learn the basics of writing effective OSINT reports, including how to gather the necessary data, organize it, and present it in a clear, concise manner.

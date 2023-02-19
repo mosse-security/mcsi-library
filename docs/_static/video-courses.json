@@ -348,12 +348,20 @@
               "url": "https://www.youtube.com/embed/5JsgU26sp38"
             },
             {
+              "title": "The Risk Identification Process",
+              "url": "https://www.youtube.com/embed/2q82Y26zI5o"
+            },
+            {
               "title": "How to Identify Assets, Threats and Vulnerabilities",
               "url": "https://www.youtube.com/embed/iV-FjzwIY34"
             },
             {
-              "title": "The Risk Identification Process",
-              "url": "https://www.youtube.com/embed/2q82Y26zI5o"
+              "title": "Developing Risk Scenarios",
+              "url": "https://www.youtube.com/embed/dOsVhrztaLw"
+            },
+            {
+              "title": "Performing Data Analysis",
+              "url": "https://www.youtube.com/embed/5t24Vqd3B38"
             }
           ]
         }
@@ -544,7 +552,16 @@
         },
         {
           "module": "Chapter 9: Deep Web and Dark Web",
-          "videos": []
+          "videos": [
+            {
+              "title": "Introduction to Deep Web and Dark Web OSINT",
+              "url": "https://www.youtube.com/embed/8wI38W-PTxY"
+            },
+            {
+              "title": "Performing Deep Web OSINT",
+              "url": "https://www.youtube.com/embed/x1QaDejQjVE"
+            }
+          ]
         },
         {
           "module": "Chapter 10: Reporting",
