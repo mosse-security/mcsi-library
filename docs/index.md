@@ -175,19 +175,6 @@ platform/newsletter
 
 ```{toctree}
 :maxdepth: 1
-:caption: "Ways of Working:"
-:hidden:
-
-ways-of-working/analytics-techniques
-ways-of-working/charts-and-graphics
-ways-of-working/operational-planning
-ways-of-working/problem-solving
-ways-of-working/rca
-ways-of-working/study-plan
-```
-
-```{toctree}
-:maxdepth: 1
 :caption: "IT Domains:"
 :hidden:
 
@@ -220,6 +207,19 @@ cyber-domains/secure-coding
 cyber-domains/threat-hunting
 cyber-domains/threat-intelligence
 cyber-domains/vulnerability-research
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: "Ways of Working:"
+:hidden:
+
+ways-of-working/analytics-techniques
+ways-of-working/charts-and-graphics
+ways-of-working/operational-planning
+ways-of-working/problem-solving
+ways-of-working/rca
+ways-of-working/study-plan
 ```
 
 ```{admonition} Keep up with MCSI's articles and videos!
