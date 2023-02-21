@@ -14,6 +14,15 @@ courses = []
 #
 #
 #
+def normalizeURL(url):
+  key = url.split('/')[-1]
+  key = key.replace('watch?v=', '')
+
+  return 'https://www.youtube.com/embed/' + key
+
+#
+#
+#
 def parseHTML(filePath):
   # store retrieved course sections
   sections = []
@@ -60,7 +69,9 @@ def parseHTML(filePath):
       video = video.replace("\u2019", "'")
       
       # validation
-      if ('youtu.be' in href) or ('youtube.com' in href): 
+      if ('youtu.be' in href) or ('youtube.com' in href):
+        href = normalizeURL(href)
+
         videos.append({
           'title': video,
           'url': href
@@ -68,7 +79,7 @@ def parseHTML(filePath):
 
     # save the section
     sections.append({
-      'title': section_title,
+      'module': section_title,
       'videos': videos
     })
 

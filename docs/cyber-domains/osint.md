@@ -67,6 +67,32 @@ In this module, you will learn how to efficiently use open source intelligence (
 In this module, you will learn how to find and access leaked and archived data, how to analyze it, and how to use it to support your OSINT efforts. By the end of this module, you will have a comprehensive understanding of how to use archived and leaked data for open source intelligence.
 
 - [Working with archived data for OSINT](https://youtu.be/L7x55DEUJS4)
+- [Working with leaked data for OSINT](https://youtu.be/DqZJ3BPrr-Q)
+
+### Chapter 7: Geo-Spatial
+
+Geo-spatial open source intelligence (OSINT) is an increasingly important tool for gathering and analyzing data. With its ability to capture a range of data from both physical and digital sources, geo-spatial OSINT can provide valuable insights into the physical world. In this section of the course, we’ll explore how geo-spatial OSINT is used to track and analyze physical and digital sources, from social media posts to satellite images.
+
+- [Introduction to Geospatial OSINT](https://youtu.be/7McPr2o61hE)
+- [Working with Google Maps for Geospatial OSINT](https://youtu.be/iaHlqmufO0s)
+- [Hands on with geospatial OSINT tools](https://youtu.be/hAnmwd6_ypU)
+
+### Chapter 8: Online Communities
+
+Open source intelligence can be used to investigate online communities, such as discussion forums, chat rooms, and social media networks. Some of the popular platforms used by online communities include Telegram and Discord. By using OSINT, investigators can search for posts, photos, and other information that can be used as evidence in a case. Investigators can also use OSINT to monitor the activity of online communities, such as tracking the number of users joining or leaving the platform, and the topics being discussed. With the right tools and techniques, investigators can gain valuable insights into the activities and dynamics of online communities.
+
+- [Introduction to OSINT on Online Communities](https://youtu.be/s5CevHv33gc)
+- [Collecting open source data from Discord](https://youtu.be/G5Cu3dpUy9o)
+- [Collecting open source data from Reddit](https://youtu.be/0TY2ajnmivA)
+- [Collecting open source data from Telegram](https://youtu.be/QU3s5DDkbSY)
+
+### Chapter 9: Deep Web and Dark Web
+
+The Deep Web and Dark Web are parts of the internet that are not indexed by traditional search engines, and as such can be difficult to access. However, these parts of the internet can contain valuable information that can be used for Open Source Intelligence (OSINT). To access these parts of the web, specialized search engines and software tools are needed. It is important to note that the Deep Web and Dark Web can contain illegal activity, so it is important to use OSINT methods to collect information responsibly and ethically.
+
+- [Introduction to Deep Web and Dark Web OSINT](https://youtu.be/8wI38W-PTxY)
+- [Performing Deep Web OSINT](https://youtu.be/x1QaDejQjVE)
+- [Setting up a lab for Dark Web OSINT](https://youtu.be/R8p_J8hdWy4)
 
 ### Chapter 10: Reporting
 

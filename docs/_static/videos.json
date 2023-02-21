@@ -443,6 +443,76 @@
     },
     {
       "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/ZnBxYWrpBtI",
+      "title": "Developing an Information Security Strategy"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/gv4m5GumgMg",
+      "title": "Gaining the Support of Higher Management"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/70kVmBxan2I",
+      "title": "Developing Metrics to Track the Performance of Information Security Program"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/3G1c2MmOxKI",
+      "title": "What is Enterprise Risk Management?"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/8revgW1tC00",
+      "title": "Defining the Risk Appetite and Risk Tolerance"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/5JsgU26sp38",
+      "title": "Understanding Risk Terminology"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/2q82Y26zI5o",
+      "title": "The Risk Identification Process"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/iV-FjzwIY34",
+      "title": "How to Identify Assets, Threats and Vulnerabilities"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/dOsVhrztaLw",
+      "title": "Developing Risk Scenarios"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/5t24Vqd3B38",
+      "title": "Performing Data Analysis"
+    },
+    {
+      "categories": [
         "osint"
       ],
       "href": "https://www.youtube.com/watch?v=G8x7WVe3za4",
@@ -634,6 +704,83 @@
       "categories": [
         "osint"
       ],
+      "href": "https://youtu.be/DqZJ3BPrr-Q",
+      "title": "Working with leaked data for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/7McPr2o61hE",
+      "title": "Introduction to Geospatial OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/iaHlqmufO0s",
+      "title": "Working with Google Maps for Geospatial OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/hAnmwd6_ypU",
+      "title": "Hands on with geospatial OSINT tools"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/s5CevHv33gc",
+      "title": "Introduction to OSINT on Online Communities"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/G5Cu3dpUy9o",
+      "title": "Collecting open source data from Discord"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/0TY2ajnmivA",
+      "title": "Collecting open source data from Reddit"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/QU3s5DDkbSY",
+      "title": "Collecting open source data from Telegram"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/8wI38W-PTxY",
+      "title": "Introduction to Deep Web and Dark Web OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/x1QaDejQjVE",
+      "title": "Performing Deep Web OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/R8p_J8hdWy4",
+      "title": "Setting up a lab for Dark Web OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
       "href": "https://youtu.be/lDe8_z-UCZ4",
       "title": "Writing Open Source Intelligence Reports"
     },
@@ -699,6 +846,41 @@
       ],
       "href": "https://youtu.be/9GrMRXFkIHQ",
       "title": "What is Software Packing and Code Obfuscation?"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/lD34wkOcCRE",
+      "title": "Why do researchers perform vulnerability research?"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/9ndLyvn4byg",
+      "title": "Understanding the key terms in vulnerability research"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/zzHZ3is-zbA",
+      "title": "How do researchers perform vulnerability research?"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/PRXXGSKvcAI",
+      "title": "Setting up a vulnerability research lab"
+    },
+    {
+      "categories": [
+        "vulnerability-research"
+      ],
+      "href": "https://youtu.be/9jkIAblT4xg",
+      "title": "What are the main tools we use in vulnerability research?"
     }
   ]
 }
