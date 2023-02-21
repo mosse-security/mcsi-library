@@ -29,7 +29,7 @@ Additionally, the performance of the system can be limited by the number of proc
 
 In order to take full advantage of SMP, an understanding of the underlying architecture is required. Additionally, the Windows operating system provides support for a variety of different types of SMP architectures, such as NUMA and Symmetric Multi-Processing (SMP).
 
-### Using Powershell 
+## Using Powershell 
 
 How to use Windows Symmetric multiprocessing?    
 
@@ -76,7 +76,7 @@ With this, you are now able to use Windows Symmetric multiprocessing in your sys
 
 Note that you may also need to configure specific applications to use the processor group for SMP.      
 
-### Practical cases in C++
+## Practical cases in C++
 
 The following code sample demonstrates how to use Symmetric Multiprocessing (SMP) in Microsoft Windows. This sample is written in C++ and requires the Windows SDK.
 
@@ -160,7 +160,7 @@ int main()
 }
 ```
 
-### .NET API
+## .NET API
 
 What about `.NET`? The `System.Threading.Tasks.Parallel` library in `.NET` provides a set of APIs that allow you to use symmetric multiprocessing in your applications. The following example code uses this library to run a code block in parallel on multiple threads.     
 

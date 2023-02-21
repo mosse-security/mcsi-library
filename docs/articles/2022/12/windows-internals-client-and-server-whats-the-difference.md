@@ -37,7 +37,7 @@ Server-Side Features
 
 5. Windows Server Manager: Windows Server Manager is a graphical user interface that allows administrators to manage servers, roles, and features.
 
-### Practical experiment: Identifying the Functionality Made Available by the Licensing Policy      
+## Practical experiment: Identifying the Functionality Made Available by the Licensing Policy      
 
 As was just said, Windows is capable of supporting more than one hundred distinct features, each of which may be activated through the software licensing process.      
 
@@ -67,7 +67,7 @@ Similarly, the following command can be used to disable the use of a license key
 Set-CimInstance -ClassName Win32_LicenseAuthenticationPolicy -Property @{UseLicenseKey="False"}
 ```
 
-### Practical experiments. How to use Client and Server features
+## Practical experiments. How to use Client and Server features
 
 ```cpp
 #include <windows.h>
@@ -144,7 +144,7 @@ int main() {
 }
 ```
 
-### Windows versions vulnerabilities. Eternal Blue
+## Windows versions vulnerabilities. Eternal Blue
 
 Eternal Blue is a vulnerability in the Server Message Block (SMB) protocol of Microsoft Windows first discovered and made public by the Shadow Brokers hacker group in April 2017. It is an exploit that takes advantage of a buffer overflow within the protocol, allowing an attacker to remotely execute code on vulnerable systems.        
 
@@ -156,7 +156,7 @@ Eternal Blue is a serious threat to organizations, both large and small. It is i
 
 As the threat posed by Eternal Blue continues to grow, security professionals must remain vigilant in their efforts to protect systems and networks from exploitation. By staying up to date on the latest security patches and monitoring networks for suspicious activity, organizations can reduce their risk of becoming victims of malicious attacks.       
  
-### BlueKeep
+## BlueKeep
 
 BlueKeep is a critical vulnerability in Microsoft’s Remote Desktop Protocol (RDP) that was discovered in May 2019. The vulnerability affects all versions of Windows from XP to Windows Server 2008 R2, and allows an attacker to gain remote access to a vulnerable system without authentication.
 
@@ -170,7 +170,7 @@ There are a few ways to protect against BlueKeep. The most important thing is to
 
 BlueKeep is a serious vulnerability that should not be taken lightly. It is important to take the necessary steps to protect against this vulnerability and to ensure that all systems are running the latest version of Windows and have all security patches applied. Doing so will help to reduce the risk of exploitation and keep your systems secure.
 
-### References 
+## References 
 
 [Windows Internals (Developer Reference) 7th Edition](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189)      
 [MSDN documentation](https://learn.microsoft.com/en-us/)     
