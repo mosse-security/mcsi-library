@@ -2,6 +2,8 @@
 
 Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students learn cyber security and land jobs in the industry. We provide up-to-date information about cyber security topics, career advice, and tips for improving your skills. Our goal is to help you become a successful cyber security professional. Thanks for reading!
 
+## 2023
+
 - [](learn-how-to-become-an-ethical-hacker)
 - [](learn-how-to-create-business-connections-and-access-unlimited-opportunities)
 - [](how-to-impress-hiring-managers-and-win-first-place-in-the-job-race)
@@ -9,6 +11,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](learn-how-to-conquer-the-complexities-of-cyber-security-with-an-audacious-mindset)
 - [](how-do-i-stay-motivated-and-passionate-about-cyber-security)
 - [](what-skills-must-you-master-if-you-want-to-excel-as-a-soc-analyst)
+- [](three-master-level-methods-to-unlock-the-most-difficult-areas-of-cyber-security)
 
 ## Subscribe
 
