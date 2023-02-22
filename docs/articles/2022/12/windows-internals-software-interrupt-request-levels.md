@@ -29,7 +29,7 @@ The Windows Software Interrupt Request Levels (IRQLs) are the following:
 
 - `IRQL 7` – Lowest Priority: This is the lowest level of interrupts and is used for system maintenance.     
 
-### How Can Powershell be Used to Manage IRQLs?
+## How Can Powershell be Used to Manage IRQLs?
 
 Powershell can be used to manage IRQLs in several ways. The most common way is to use the `Get-Irql` command. This command will list all of the tasks that are running on the system and their associated IRQLs. It can also be used to change the IRQL of a certain task by using the `Set-Irql` command.    
 
@@ -80,7 +80,7 @@ $win32_process.SetIRQL($irql)
 $win32_process.Put()
 ```
 
-### C++ practical example
+## C++ practical example
 
 To change IRQL of the process we can do something like this code snippet:
 
@@ -139,7 +139,7 @@ Get-Processor | Select-Object -ExpandProperty Irql
 
 The command will output the IRQL code for each processor in the system.    
 
-### Practical examples. WinDbg
+## Practical examples. WinDbg
 
 To use Windows IRQL, you can use the `WinDbg` command-line debugger. With `WinDbg`, you can view, set, and reset the IRQL on your system. You can also use WinDbg to view information about the current IRQL and view the IRQLs of other processes.
 
@@ -169,7 +169,7 @@ To reset the IRQL of your system, use the command `!irql -reset`.
 
 For more information about the WinDbg commands for managing IRQLs, refer to the WinDbg documentation.
 
-### Kernrate
+## Kernrate
 
 In its most basic form, Kernrate provides a sampling of the locations in each kernel module (such as Ntoskrnl, drivers, and so on) where time has been spent during a specified amount of time. 
 
@@ -218,6 +218,6 @@ void KiInterruptDispatchNoLock(uint8_t vector) {
 }
 ```
 
-### Conclusion
+## Conclusion
 
 In conclusion, IRQLs are an important component of Windows OS that are used to determine which tasks are assigned priority. They work by assigning each task a numerical level, with the higher levels receiving more resources and attention from the OS. Powershell can be used to manage IRQLs by using the `Get-Irql` and `Set-Irql` commands, as well as the `Get-Process` and `Set-Process` commands.

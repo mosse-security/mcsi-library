@@ -3,7 +3,7 @@
 
 # Powershell Shellcoding: Part 1
 
-### Calling Win32 APIs from Powershell
+## Calling Win32 APIs from Powershell
 
 PowerShell cannot interface natively with the Win32 APIs, but the `.NET framework` allows us to use C# in our PowerShell session.
 Using the `DllImportAttribute` class, we can import and declare Win32 APIs in C#.
@@ -67,7 +67,7 @@ When the code is executed, a message box is displayed:
 
 This illustrates that while PowerShell cannot utilize Win32 APIs natively, `Add-Type` can invoke them via *P/Invoke*. 
 
-### Shellcode runner in Powershell
+## Shellcode runner in Powershell
 
 The concept of running shellcode on PowerShell is not that complicated. As classical shellcode running technique, we already know the three steps to perform. First, we allocate memory space for executable using `VirtualAlloc`. Next, our shellcode is copied to the newly created memory space. Finally, create a thread using `CreateThread`.    
 
@@ -134,7 +134,7 @@ We can also observe the PowerShell process running as a child process of Word:
 In this step, we constructed a PowerShell shellcode runner. We downloaded and executed the script from our Kali web server using the VBA code in our Word macro.
 This essentially removed our payload from the Word document, making it look as though the code is running entirely in memory, which should help with evasion. 
 
-### References
+## References
 
 [VirtualAlloc](https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualalloc)     
 [CreateThread](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread)    

@@ -28,7 +28,7 @@ The HAL provides an API to access SMM. This API is used by drivers to access the
 5. Interrupt routing:
 The HAL provides an API to route interrupts. This API is used by drivers to route interrupts to the appropriate device.
 
-### Practical examples.
+## Practical examples.
 
 Here are some examples of how to use the Windows Hardware Abstraction Layer (HAL) in Windows PowerShell:
 
@@ -98,7 +98,7 @@ SystemType : <Type>
 HAL      : <HAL>
 ```
 
-### Practical examples: .NET and C++
+## Practical examples: .NET and C++
 
 To use the Windows Hardware Abstraction Layer API in `.NET`, you will need to use an interop library such as the Windows Device Driver Kit (DDK). This library provides access to the HAL API functions from within `.NET` applications.
 
@@ -195,7 +195,7 @@ if (bResult == FALSE) {
 CloseHandle(hDevice);
 ```
 
-### Using WinDbg
+## Using WinDbg
 
 To determine the version of the Hardware Abstraction Layer (HAL) you are running with WinDbg, use the `!hal` command. This will display the HAL version information.    
 
@@ -257,7 +257,7 @@ Start             End                 Module Name
     LegalCopyright:   © Microsoft Corporation. All rights reserved.
 ```
 
-### What about WDK?
+## What about WDK?
 
 1. Download and Install the Windows Driver Kit (WDK): First, you need to download and install the Windows Driver Kit (WDK) on your system. The WDK is a set of tools, libraries, and header files that are used to develop, test, and deploy Windows drivers.
 
@@ -273,6 +273,6 @@ Start             End                 Module Name
 
 7. Deploy the Driver: Finally, you need to deploy the driver. This can be done in a variety of ways, such as through Windows Update or through a device manufacturer’s website.
 
-### References
+## References
 
 [https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/windows-kernel-mode-hal-library](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/windows-kernel-mode-hal-library)   
