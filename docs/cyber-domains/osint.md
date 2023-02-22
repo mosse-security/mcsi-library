@@ -93,6 +93,8 @@ The Deep Web and Dark Web are parts of the internet that are not indexed by trad
 - [Introduction to Deep Web and Dark Web OSINT](https://youtu.be/8wI38W-PTxY)
 - [Performing Deep Web OSINT](https://youtu.be/x1QaDejQjVE)
 - [Setting up a lab for Dark Web OSINT](https://youtu.be/R8p_J8hdWy4)
+- [Performing Dark Web OSINT](https://youtu.be/wOBi2MuhjVY)
+- [Tips for staying safe on the Dark Web](https://youtu.be/0anHUo7zDQg)
 
 ### Chapter 10: Reporting
 
