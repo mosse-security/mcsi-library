@@ -102,6 +102,12 @@ In this module, you will learn the basics of writing effective OSINT reports, in
 
 - [Writing Open Source Intelligence Reports](https://youtu.be/lDe8_z-UCZ4)
 
+### Chapter 11: Tools
+
+This section of the video course focuses on open source intelligence (OSINT) tools. It covers how to use these tools to monitor and analyze online conversations, identify key influencers and trends, and extract valuable insights from online data. It also provides step-by-step guidance on how to use these tools, from setting up accounts and filters to interpreting the results. This section will give viewers the ability to quickly and easily gather data from web sources and social media platforms, allowing them to make informed decisions and uncover valuable information.
+
+- [Using Maltego for OSINT](https://youtu.be/5o0GOkFs6Lw)
+
 ## Articles
 
 Welcome to MCSI's library of articles on OSINT! Our library of articles covers a wide range of topics related to this form of intelligence and provides valuable insights into how it is used in the real world. Whether you are a security professional, an intelligence officer, or just someone with a curiosity about OSINT, this library of articles has something for everyone.

@@ -800,6 +800,13 @@
     },
     {
       "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/5o0GOkFs6Lw",
+      "title": "Using Maltego for OSINT"
+    },
+    {
+      "categories": [
         "penetration-testing"
       ],
       "href": "https://youtu.be/i1c-JIJkc60",

@@ -583,6 +583,15 @@
               "url": "https://www.youtube.com/embed/lDe8_z-UCZ4"
             }
           ]
+        },
+        {
+          "module": "Chapter 11: Tools",
+          "videos": [
+            {
+              "title": "Using Maltego for OSINT",
+              "url": "https://www.youtube.com/embed/5o0GOkFs6Lw"
+            }
+          ]
         }
       ]
     },
