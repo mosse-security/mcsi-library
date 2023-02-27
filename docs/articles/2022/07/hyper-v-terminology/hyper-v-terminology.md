@@ -2,7 +2,7 @@
 (hyper-v-terminology)=
 # Hyper V terminology
  
-Before discussing how to secure Hyper-V, below is the terminology of Hyper-V and related technologies. This article will give a comprehensive explanation for these terms, not only in the context of this book but also in the context of how they are typically used in legal documents and by professionals.
+Before discussing how to secure Hyper-V, below is the terminology of Hyper-V and related technologies. This article will give a comprehensive explanation for these terms.
 
 ## Hyper-V
 
