@@ -65,7 +65,7 @@ This occurs due to the application's usability—displaying faults to end users 
 
 The practice of providing security through secrecy in design, implementation, or configuration is known as **security through obscurity**. 
 
-You'll see in the following slides why this method is ineffective at protecting a weak application from **SQL injection attacks**.
+You'll see why this method is ineffective at protecting a weak application from **SQL injection attacks**.
 
 **A Boolean-based detection method** can be used to test for SQL injection even if a web application does not show faults on its output. 
 
