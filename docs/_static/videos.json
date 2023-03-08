@@ -807,6 +807,27 @@
     },
     {
       "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/NgOgkDdhUMo",
+      "title": "Using Spiderfoot for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/7hW51H6Cd0o",
+      "title": "More tools for OSINT"
+    },
+    {
+      "categories": [
+        "osint"
+      ],
+      "href": "https://youtu.be/posA4P1i5gI",
+      "title": "Monitoring tools for OSINT"
+    },
+    {
+      "categories": [
         "penetration-testing"
       ],
       "href": "https://youtu.be/i1c-JIJkc60",
@@ -902,6 +923,27 @@
       ],
       "href": "https://youtu.be/9jkIAblT4xg",
       "title": "What are the main tools we use in vulnerability research?"
+    },
+    {
+      "categories": [
+        "platform-tutorials"
+      ],
+      "href": "https://youtu.be/cKchVnHh4vs",
+      "title": "Getting started with the MCSI Platform"
+    },
+    {
+      "categories": [
+        "platform-tutorials"
+      ],
+      "href": "https://youtu.be/BGVbZ1bcpSI",
+      "title": "How to complete your first exercise on MCSI"
+    },
+    {
+      "categories": [
+        "platform-tutorials"
+      ],
+      "href": "https://youtu.be/7Lm9UUSfAMk",
+      "title": "What should I do if I fail an exercise?"
     }
   ]
 }

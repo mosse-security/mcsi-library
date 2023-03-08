@@ -164,6 +164,7 @@ The library is organized by cyber domains in order to more easily facilitate res
 :hidden:
 
 platform/how-does-it-work
+tutorials/platform-tutorials
 platform/testimonials
 platform/student-portfolio
 platform/formidable-work

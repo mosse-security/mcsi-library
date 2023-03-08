@@ -88,7 +88,8 @@ def main ():
   # list of sub folders to process
   subFolders = [
     'cyber-domains',
-    'it-domains'
+    'it-domains',
+    'tutorials'
   ]
 
   # iterate through the folders and process them

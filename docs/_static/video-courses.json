@@ -590,6 +590,18 @@
             {
               "title": "Using Maltego for OSINT",
               "url": "https://www.youtube.com/embed/5o0GOkFs6Lw"
+            },
+            {
+              "title": "Using Spiderfoot for OSINT",
+              "url": "https://www.youtube.com/embed/NgOgkDdhUMo"
+            },
+            {
+              "title": "More tools for OSINT",
+              "url": "https://www.youtube.com/embed/7hW51H6Cd0o"
+            },
+            {
+              "title": "Monitoring tools for OSINT",
+              "url": "https://www.youtube.com/embed/posA4P1i5gI"
             }
           ]
         }

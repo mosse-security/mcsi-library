@@ -107,6 +107,9 @@ In this module, you will learn the basics of writing effective OSINT reports, in
 This section of the video course focuses on open source intelligence (OSINT) tools. It covers how to use these tools to monitor and analyze online conversations, identify key influencers and trends, and extract valuable insights from online data. It also provides step-by-step guidance on how to use these tools, from setting up accounts and filters to interpreting the results. This section will give viewers the ability to quickly and easily gather data from web sources and social media platforms, allowing them to make informed decisions and uncover valuable information.
 
 - [Using Maltego for OSINT](https://youtu.be/5o0GOkFs6Lw)
+- [Using Spiderfoot for OSINT](https://youtu.be/NgOgkDdhUMo)
+- [More tools for OSINT](https://youtu.be/7hW51H6Cd0o)
+- [Monitoring tools for OSINT](https://youtu.be/posA4P1i5gI)
 
 ## Articles
 
