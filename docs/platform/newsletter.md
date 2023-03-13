@@ -13,6 +13,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](what-skills-must-you-master-if-you-want-to-excel-as-a-soc-analyst)
 - [](three-master-level-methods-to-unlock-the-most-difficult-areas-of-cyber-security)
 - [](learn-how-to-secure-your-personal-devices-and-improve-your-cyber-skills)
+- [](five-bad-habits-that-are-sabotaging-your-cyber-security-progress)
 
 ## Subscribe
 
