@@ -6,6 +6,7 @@ Welcome to our collection of videos that will teach you how to use the MCSI Onli
 - [How to complete your first exercise on MCSI](https://youtu.be/BGVbZ1bcpSI)
 - [What should I do if I fail an exercise?](https://youtu.be/7Lm9UUSfAMk)
 - [How can I show off my progress?](https://www.youtube.com/watch?v=r_aoihAPIV0)
+- [How to use Discord and ask good IT questions](https://youtu.be/YGsZUIyYh9c)
 
 ## Compliance Training
 
