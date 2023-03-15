@@ -53,7 +53,10 @@ In this section, we will explore the ways in which organizations can identify, a
 - [The Risk Identification Process](https://youtu.be/2q82Y26zI5o)
 - [How to Identify Assets, Threats and Vulnerabilities](https://youtu.be/iV-FjzwIY34)
 - [Developing Risk Scenarios](https://youtu.be/dOsVhrztaLw)
+- [The Risk Assessment Process](https://youtu.be/qZeYzOJ0wqU)
 - [Performing Data Analysis](https://youtu.be/5t24Vqd3B38)
+- [Performing a Gap Analysis](https://youtu.be/qq5pbTLpnb8)
+- [Methods for Risk Analysis](https://youtu.be/5KWhNxGQ3ZQ)
 
 ## Articles
 
