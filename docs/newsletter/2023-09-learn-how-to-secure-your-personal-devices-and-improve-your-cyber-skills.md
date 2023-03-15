@@ -66,3 +66,9 @@ Are you looking to gain skills in how to protect computer networks? If so, we of
 - [Network Security Essentials:](https://www.mosse-institute.com/certifications/mnse-network-security-essentials.html) This certification in network and endpoint security will give you the skillset needed to safeguard small and medium size organizations from cybercrime. You will learn how to prevent cyber adversaries from gaining access to systems, through implemented prevention techniques.
 
 - [SIEM Tactics Bootcamp:](https://www.mosse-institute.com/bootcamps/siem-tactics.html) The SIEM Tactics bootcamp is ideal for individuals who want to learn threat detection and hunting. This intensive, 20-hour course provides participants with the knowledge and skills necessary to defend their organization against sophisticated cyber threats. You will learn how to identify, investigate, and respond to incidents using a SIEM platform.
+
+### Subscribe to our newsletter
+
+Are you looking to learn cyber security, land a job, or improve your current skills? MCSI's newsletter is the perfect resource for you. Our newsletter is dedicated to helping students stay up to date on the latest news and trends in the cyber security industry. We provide helpful tips and tricks on how to land jobs, as well as insights into how to improve your skills. Don't miss out - subscribe to our newsletter today and start taking advantage of all the benefits it has to offer!
+
+<iframe src="https://newsletter.mosse-institute.com/embed" style="background:white;" frameborder="0" scrolling="no"></iframe>

@@ -32,3 +32,9 @@ This is what Professor Dunston says about our method:
 ```{thumbnail} ../images/newsletter/2023-010-duane-dunston.png
 :class: block max-width-500 mb-4 mt-4 mx-auto
 ```
+
+### Subscribe to our newsletter
+
+Are you looking to learn cyber security, land a job, or improve your current skills? MCSI's newsletter is the perfect resource for you. Our newsletter is dedicated to helping students stay up to date on the latest news and trends in the cyber security industry. We provide helpful tips and tricks on how to land jobs, as well as insights into how to improve your skills. Don't miss out - subscribe to our newsletter today and start taking advantage of all the benefits it has to offer!
+
+<iframe src="https://newsletter.mosse-institute.com/embed" style="background:white;" frameborder="0" scrolling="no"></iframe>

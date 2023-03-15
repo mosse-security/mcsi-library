@@ -14,6 +14,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](three-master-level-methods-to-unlock-the-most-difficult-areas-of-cyber-security)
 - [](learn-how-to-secure-your-personal-devices-and-improve-your-cyber-skills)
 - [](five-bad-habits-that-are-sabotaging-your-cyber-security-progress)
+- [](five-ways-to-build-a-portfolio-that-attracts-recruiters-and-wins-jobs)
 
 ## Subscribe
 
