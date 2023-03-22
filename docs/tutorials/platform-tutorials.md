@@ -13,3 +13,4 @@ Welcome to our collection of videos that will teach you how to use the MCSI Onli
 - [Tips for creating a professional document](https://youtu.be/Po2nTZrjCSM)
 - [Presentation tips for a professional video submission](https://youtu.be/ekizOW4OjsE)
 - [The importance of creating personalized content](https://youtu.be/t2n4MADm1t4)
+- [Plagiarism detected](https://youtu.be/V3qr_DIdHJo)

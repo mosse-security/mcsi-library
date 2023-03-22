@@ -22,6 +22,7 @@ If you're looking to get into reverse engineering, this is the course for you! M
 Welcome to the world of malware reverse engineering! If you're here, you likely already have a strong interest in understanding how malicious programs work and how to analyze them. In this course, we will explore the fundamentals of malware reverse engineering, including techniques to identify, analyze, and respond to threats. We'll learn common tools and strategies used by security professionals to detect and defeat the latest malicious code. Get ready to expand your knowledge and take your security skills to the next level!
 
 - [Introduction to Reverse Engineering](https://youtu.be/2ivjSOW9i_0)
+- [Why do we reverse engineer software?](https://youtu.be/uaLpHA5gvfE)
 - [What is Software Packing and Code Obfuscation?](https://youtu.be/9GrMRXFkIHQ)
 
 ### Chapter 2: File Analysis

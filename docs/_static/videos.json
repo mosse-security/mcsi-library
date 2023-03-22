@@ -928,6 +928,13 @@
       "categories": [
         "reverse-engineering"
       ],
+      "href": "https://youtu.be/uaLpHA5gvfE",
+      "title": "Why do we reverse engineer software?"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
       "href": "https://youtu.be/9GrMRXFkIHQ",
       "title": "What is Software Packing and Code Obfuscation?"
     },
@@ -1021,6 +1028,13 @@
       ],
       "href": "https://youtu.be/t2n4MADm1t4",
       "title": "The importance of creating personalized content"
+    },
+    {
+      "categories": [
+        "platform-tutorials"
+      ],
+      "href": "https://youtu.be/V3qr_DIdHJo",
+      "title": "Plagiarism detected"
     }
   ]
 }
