@@ -534,6 +534,20 @@
     },
     {
       "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/PTkArOTSg70",
+      "title": "Specialized Techniques for Risk Analysis"
+    },
+    {
+      "categories": [
+        "grc"
+      ],
+      "href": "https://youtu.be/SNTOFulrQ0g",
+      "title": "Risk Criteria and Risk Evaluation"
+    },
+    {
+      "categories": [
         "osint"
       ],
       "href": "https://www.youtube.com/watch?v=G8x7WVe3za4",
@@ -907,6 +921,13 @@
       "categories": [
         "reverse-engineering"
       ],
+      "href": "https://youtu.be/2ivjSOW9i_0",
+      "title": "Introduction to Reverse Engineering"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
       "href": "https://youtu.be/9GrMRXFkIHQ",
       "title": "What is Software Packing and Code Obfuscation?"
     },
@@ -972,6 +993,13 @@
       ],
       "href": "https://www.youtube.com/watch?v=r_aoihAPIV0",
       "title": "How can I show off my progress?"
+    },
+    {
+      "categories": [
+        "platform-tutorials"
+      ],
+      "href": "https://youtu.be/YGsZUIyYh9c",
+      "title": "How to use Discord and ask good IT questions"
     },
     {
       "categories": [

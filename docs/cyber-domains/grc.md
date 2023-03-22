@@ -57,6 +57,8 @@ In this section, we will explore the ways in which organizations can identify, a
 - [Performing Data Analysis](https://youtu.be/5t24Vqd3B38)
 - [Performing a Gap Analysis](https://youtu.be/qq5pbTLpnb8)
 - [Methods for Risk Analysis](https://youtu.be/5KWhNxGQ3ZQ)
+- [Specialized Techniques for Risk Analysis](https://youtu.be/PTkArOTSg70)
+- [Risk Criteria and Risk Evaluation](https://youtu.be/SNTOFulrQ0g)
 
 ## Articles
 

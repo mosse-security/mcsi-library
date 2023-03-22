@@ -374,6 +374,14 @@
             {
               "title": "Methods for Risk Analysis",
               "url": "https://www.youtube.com/embed/5KWhNxGQ3ZQ"
+            },
+            {
+              "title": "Specialized Techniques for Risk Analysis",
+              "url": "https://www.youtube.com/embed/PTkArOTSg70"
+            },
+            {
+              "title": "Risk Criteria and Risk Evaluation",
+              "url": "https://www.youtube.com/embed/SNTOFulrQ0g"
             }
           ]
         }
@@ -675,7 +683,20 @@
       "category": "reverse-engineering",
       "modules": [
         {
-          "module": "Chapter 1: Introduction to Reverse Engineering",
+          "module": "Chapter 1: Introduction",
+          "videos": [
+            {
+              "title": "Introduction to Reverse Engineering",
+              "url": "https://www.youtube.com/embed/2ivjSOW9i_0"
+            },
+            {
+              "title": "What is Software Packing and Code Obfuscation?",
+              "url": "https://www.youtube.com/embed/9GrMRXFkIHQ"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 2: File Analysis",
           "videos": [
             {
               "title": "Understanding file formats and magic numbers",
@@ -689,15 +710,6 @@
               "title": "Lab Setup for Analyzing Malicious Files and Executables",
               "url": "https://www.youtube.com/embed/m4f6FERPa2U"
             },
-            {
-              "title": "What is Software Packing and Code Obfuscation?",
-              "url": "https://www.youtube.com/embed/9GrMRXFkIHQ"
-            }
-          ]
-        },
-        {
-          "module": "Chapter 2: File Analysis",
-          "videos": [
             {
               "title": "How to create a good collection of malware samples",
               "url": "https://www.youtube.com/embed/OTW2y1GomHE"

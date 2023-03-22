@@ -17,15 +17,20 @@ Reverse engineering is the process of taking something apart and figuring out ho
 
 If you're looking to get into reverse engineering, this is the course for you! MCSI's videos will give you the foundation you need to get started in this exciting and important field. You'll learn about the tools and techniques used by reverse engineers, and how to apply them in real-world scenarios.
 
-### Chapter 1: Introduction to Reverse Engineering
+### Chapter 1: Introduction
 
-- [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
-- [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
-- [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
+Welcome to the world of malware reverse engineering! If you're here, you likely already have a strong interest in understanding how malicious programs work and how to analyze them. In this course, we will explore the fundamentals of malware reverse engineering, including techniques to identify, analyze, and respond to threats. We'll learn common tools and strategies used by security professionals to detect and defeat the latest malicious code. Get ready to expand your knowledge and take your security skills to the next level!
+
+- [Introduction to Reverse Engineering](https://youtu.be/2ivjSOW9i_0)
 - [What is Software Packing and Code Obfuscation?](https://youtu.be/9GrMRXFkIHQ)
 
 ### Chapter 2: File Analysis
 
+File analysis is an important step in malware reverse engineering. It involves the examination of a malicious executable file to determine the purpose of the file and how it works. This analysis typically involves looking at the file's structure, the code and data contained in the file, and any strings that may be present. The analysis may also include looking at the functionality of the file and any other files or processes that it may interact with.
+
+- [Understanding file formats and magic numbers](https://youtu.be/qm33nCV1nkA)
+- [Executable File Types in Windows and Linux](https://youtu.be/8Vbw3G1ogCo)
+- [Lab Setup for Analyzing Malicious Files and Executables](https://youtu.be/m4f6FERPa2U)
 - [How to create a good collection of malware samples](https://youtu.be/OTW2y1GomHE)
 - [How to investigate malicious Office documents](https://youtu.be/PSSulYstYzo)
 - [How to investigate a malicious disk image file](https://youtu.be/yhiu3DRMqYI)
