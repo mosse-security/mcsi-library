@@ -23,6 +23,7 @@ Welcome to the world of malware reverse engineering! If you're here, you likely 
 
 - [Introduction to Reverse Engineering](https://youtu.be/2ivjSOW9i_0)
 - [Why do we reverse engineer software?](https://youtu.be/uaLpHA5gvfE)
+- [What are the main categories of tools we use for SRE?](https://youtu.be/BV4Su1wcwZM)
 - [What is Software Packing and Code Obfuscation?](https://youtu.be/9GrMRXFkIHQ)
 
 ### Chapter 2: File Analysis

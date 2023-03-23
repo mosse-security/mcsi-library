@@ -956,6 +956,13 @@
       "categories": [
         "reverse-engineering"
       ],
+      "href": "https://youtu.be/BV4Su1wcwZM",
+      "title": "What are the main categories of tools we use for SRE?"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
       "href": "https://youtu.be/9GrMRXFkIHQ",
       "title": "What is Software Packing and Code Obfuscation?"
     },
