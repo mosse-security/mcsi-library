@@ -59,6 +59,9 @@ In this section, we will explore the ways in which organizations can identify, a
 - [Methods for Risk Analysis](https://youtu.be/5KWhNxGQ3ZQ)
 - [Specialized Techniques for Risk Analysis](https://youtu.be/PTkArOTSg70)
 - [Risk Criteria and Risk Evaluation](https://youtu.be/SNTOFulrQ0g)
+- [The Risk Treatment Process](https://youtu.be/LxcAQmsGkng)
+- [Different Ways of Treating Risk](https://youtu.be/PIJVZETovK4)
+- [Establishing Ownership and Accountability](https://youtu.be/YmmdjKHR5nQ)
 
 ## Articles
 
