@@ -956,6 +956,13 @@
       "categories": [
         "reverse-engineering"
       ],
+      "href": "https://youtu.be/RMbq1RVInOU",
+      "title": "What knowledge do I need to have to be a reverse engineer?"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
       "href": "https://youtu.be/BV4Su1wcwZM",
       "title": "What are the main categories of tools we use for SRE?"
     },
