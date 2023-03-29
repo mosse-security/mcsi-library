@@ -15,6 +15,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](learn-how-to-secure-your-personal-devices-and-improve-your-cyber-skills)
 - [](five-bad-habits-that-are-sabotaging-your-cyber-security-progress)
 - [](five-ways-to-build-a-portfolio-that-attracts-recruiters-and-wins-jobs)
+- [](a-proven-method-for-finding-a-cyber-mentor-and-accelerating-your-career)
 
 ## Subscribe
 
