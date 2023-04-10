@@ -17,6 +17,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](five-ways-to-build-a-portfolio-that-attracts-recruiters-and-wins-jobs)
 - [](a-proven-method-for-finding-a-cyber-mentor-and-accelerating-your-career)
 - [](how-in-the-world-do-cyber-experts-master-I.T-abilities)
+- [](do-you-want-to-grow-into-an-excellent-student-Master-this-approach)
 
 ## Subscribe
 
