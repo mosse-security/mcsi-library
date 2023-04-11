@@ -787,6 +787,57 @@
           ]
         }
       ]
+    },
+    {
+      "category": "platform-tutorials",
+      "modules": [
+        {
+          "module": "Chapter 1: How to use the MCSI Platform",
+          "videos": [
+            {
+              "title": "Getting started with the MCSI Platform",
+              "url": "https://www.youtube.com/embed/cKchVnHh4vs"
+            },
+            {
+              "title": "How to complete your first exercise on MCSI",
+              "url": "https://www.youtube.com/embed/BGVbZ1bcpSI"
+            },
+            {
+              "title": "What should I do if I fail an exercise?",
+              "url": "https://www.youtube.com/embed/7Lm9UUSfAMk"
+            },
+            {
+              "title": "How can I show off my progress?",
+              "url": "https://www.youtube.com/embed/r_aoihAPIV0"
+            },
+            {
+              "title": "How to use Discord and ask good IT questions",
+              "url": "https://www.youtube.com/embed/YGsZUIyYh9c"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 2: Compliance Training",
+          "videos": [
+            {
+              "title": "Tips for creating a professional document",
+              "url": "https://www.youtube.com/embed/Po2nTZrjCSM"
+            },
+            {
+              "title": "Presentation tips for a professional video submission",
+              "url": "https://www.youtube.com/embed/ekizOW4OjsE"
+            },
+            {
+              "title": "The importance of creating personalized content",
+              "url": "https://www.youtube.com/embed/t2n4MADm1t4"
+            },
+            {
+              "title": "Plagiarism detected",
+              "url": "https://www.youtube.com/embed/V3qr_DIdHJo"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
