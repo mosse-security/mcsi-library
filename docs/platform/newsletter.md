@@ -18,6 +18,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](a-proven-method-for-finding-a-cyber-mentor-and-accelerating-your-career)
 - [](how-in-the-world-do-cyber-experts-master-I.T-abilities)
 - [](do-you-want-to-grow-into-an-excellent-student-Master-this-approach)
+- [](not-receiving-good-feedback-from-your-work-here-s-how-to-become-exceptional)
 
 ## Subscribe
 
