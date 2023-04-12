@@ -35,7 +35,7 @@ def parseHTML(filePath):
       continue
 
     # process articles
-    if '../articles' in href:
+    if ('../articles' in href) or ('../newsletter' in href):
       # formatting
       if '#' in href:
         href = href.split('#')[0]
