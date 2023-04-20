@@ -19,6 +19,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](how-in-the-world-do-cyber-experts-master-I.T-abilities)
 - [](do-you-want-to-grow-into-an-excellent-student-Master-this-approach)
 - [](not-receiving-good-feedback-from-your-work-here-s-how-to-become-exceptional)
+- [](how-can-you-build-helpful-and-rewarding-relationships-with-people-in-the-field)
 
 ## Subscribe
 
