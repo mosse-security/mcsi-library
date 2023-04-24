@@ -319,6 +319,13 @@
       "categories": [
         "digital-forensics"
       ],
+      "href": "https://youtu.be/Bj56T84n2hU",
+      "title": "Use Resource Hacker to retrieve a malware's resources"
+    },
+    {
+      "categories": [
+        "digital-forensics"
+      ],
       "href": "https://youtu.be/qjyikF-khLs",
       "title": "Introduction to Email Forensics"
     },
@@ -963,6 +970,13 @@
       "categories": [
         "reverse-engineering"
       ],
+      "href": "https://www.youtube.com/watch?v=l09Y_P2Nd9M",
+      "title": "How does malware work?"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
       "href": "https://youtu.be/BV4Su1wcwZM",
       "title": "What are the main categories of tools we use for SRE?"
     },
@@ -972,6 +986,104 @@
       ],
       "href": "https://youtu.be/9GrMRXFkIHQ",
       "title": "What is Software Packing and Code Obfuscation?"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/r2qSO25wJBo",
+      "title": "What is Systematic Approach to Malware Analysis (SAMA)?"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/uuEynyfZxUo",
+      "title": "Setting up a lab for Malware Reverse Engineering"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/G5L-Gdjm8ns",
+      "title": "Protocol for safely handling and sharing malware samples"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/vV8q7IvwoHs",
+      "title": "Common IOCs to retrieve from Malware Reverse Engineering"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/2_HkFx_FpMg",
+      "title": "Use the Linux 'file' utility to recover file types"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/7yKLn27i72E",
+      "title": "Use PEStudio to analyze malware"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/NjSuZJc9tUU",
+      "title": "Use file hashes to identify and classify malware samples"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/CJSdSd6IAnA",
+      "title": "Use YARA to identify and classify malware samples"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/m6L-Cfj8nt4",
+      "title": "Introduction to Dynamic Analysis"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/TbB0my32DOE",
+      "title": "Automated malware analysis with Cuckoo Sandbox"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/GpUIcYbOigg",
+      "title": "Analyzing malware samples with ProcMon"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://www.youtube.com/watch?v=tUGtlFqZCUg",
+      "title": "Use Sysmon to analyze a malware sample"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/Ig-JvkkSQBY",
+      "title": "Extracting and analyzing strings from a malware sample"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/RKfbdIqi0tw",
+      "title": "Decompiling .NET code using ILSpy"
     },
     {
       "categories": [

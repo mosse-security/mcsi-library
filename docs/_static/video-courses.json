@@ -215,6 +215,10 @@
             {
               "title": "How to investigate a malicious DLL",
               "url": "https://www.youtube.com/embed/Im2Tx4hdWWg"
+            },
+            {
+              "title": "Use Resource Hacker to retrieve a malware's resources",
+              "url": "https://www.youtube.com/embed/Bj56T84n2hU"
             }
           ]
         },
@@ -710,12 +714,32 @@
               "url": "https://www.youtube.com/embed/RMbq1RVInOU"
             },
             {
+              "title": "How does malware work?",
+              "url": "https://www.youtube.com/embed/l09Y_P2Nd9M"
+            },
+            {
               "title": "What are the main categories of tools we use for SRE?",
               "url": "https://www.youtube.com/embed/BV4Su1wcwZM"
             },
             {
               "title": "What is Software Packing and Code Obfuscation?",
               "url": "https://www.youtube.com/embed/9GrMRXFkIHQ"
+            },
+            {
+              "title": "What is Systematic Approach to Malware Analysis (SAMA)?",
+              "url": "https://www.youtube.com/embed/r2qSO25wJBo"
+            },
+            {
+              "title": "Setting up a lab for Malware Reverse Engineering",
+              "url": "https://www.youtube.com/embed/uuEynyfZxUo"
+            },
+            {
+              "title": "Protocol for safely handling and sharing malware samples",
+              "url": "https://www.youtube.com/embed/G5L-Gdjm8ns"
+            },
+            {
+              "title": "Common IOCs to retrieve from Malware Reverse Engineering",
+              "url": "https://www.youtube.com/embed/vV8q7IvwoHs"
             }
           ]
         },
@@ -753,6 +777,65 @@
             {
               "title": "How to investigate a malicious DLL",
               "url": "https://www.youtube.com/embed/Im2Tx4hdWWg"
+            },
+            {
+              "title": "Use Resource Hacker to retrieve a malware's resources",
+              "url": "https://www.youtube.com/embed/Bj56T84n2hU"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 3: Classification Analysis",
+          "videos": [
+            {
+              "title": "Use the Linux 'file' utility to recover file types",
+              "url": "https://www.youtube.com/embed/2_HkFx_FpMg"
+            },
+            {
+              "title": "Use PEStudio to analyze malware",
+              "url": "https://www.youtube.com/embed/7yKLn27i72E"
+            },
+            {
+              "title": "Use file hashes to identify and classify malware samples",
+              "url": "https://www.youtube.com/embed/NjSuZJc9tUU"
+            },
+            {
+              "title": "Use YARA to identify and classify malware samples",
+              "url": "https://www.youtube.com/embed/CJSdSd6IAnA"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 4: Dynamic Analysis",
+          "videos": [
+            {
+              "title": "Introduction to Dynamic Analysis",
+              "url": "https://www.youtube.com/embed/m6L-Cfj8nt4"
+            },
+            {
+              "title": "Automated malware analysis with Cuckoo Sandbox",
+              "url": "https://www.youtube.com/embed/TbB0my32DOE"
+            },
+            {
+              "title": "Analyzing malware samples with ProcMon",
+              "url": "https://www.youtube.com/embed/GpUIcYbOigg"
+            },
+            {
+              "title": "Use Sysmon to analyze a malware sample",
+              "url": "https://www.youtube.com/embed/tUGtlFqZCUg"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 5: Static Analysis",
+          "videos": [
+            {
+              "title": "Extracting and analyzing strings from a malware sample",
+              "url": "https://www.youtube.com/embed/Ig-JvkkSQBY"
+            },
+            {
+              "title": "Decompiling .NET code using ILSpy",
+              "url": "https://www.youtube.com/embed/RKfbdIqi0tw"
             }
           ]
         }
@@ -792,7 +875,7 @@
       "category": "platform-tutorials",
       "modules": [
         {
-          "module": "Chapter 1: How to use the MCSI Platform",
+          "module": "Chapter 1: How to use the MCSI platform",
           "videos": [
             {
               "title": "Getting started with the MCSI Platform",
