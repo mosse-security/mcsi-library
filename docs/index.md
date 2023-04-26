@@ -167,6 +167,7 @@ platform/how-does-it-work
 tutorials/platform-tutorials
 platform/testimonials
 platform/student-portfolio
+platform/quality-expectations
 platform/formidable-work
 platform/cognitive-science
 platform/minimum-requirements
