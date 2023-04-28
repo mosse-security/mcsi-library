@@ -164,15 +164,15 @@ The library is organized by cyber domains in order to more easily facilitate res
 :hidden:
 
 platform/how-does-it-work
+platform/minimum-requirements
 tutorials/platform-tutorials
 platform/testimonials
 platform/student-portfolio
+platform/solving-exercises
 platform/quality-expectations
-platform/formidable-work
-platform/cognitive-science
-platform/minimum-requirements
 platform/asking-for-help
 platform/newsletter
+platform/cognitive-science
 ```
 
 ```{toctree}
