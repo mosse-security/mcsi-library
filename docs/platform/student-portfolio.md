@@ -1,6 +1,6 @@
 # Student Portfolio
 
-MCSI is special because it provides students with an opportunity to develop a portfolio of competencies. This portfolio can be used to demonstrate their abilities to potential employers and to help them advance in their careers. The portfolio can also be used to assess their own progress and identify areas in which they need to continue to develop their skills.
+At MCSI, you have the opportunity to develop a portfolio of competencies that can help you demonstrate your abilities to potential employers and advance in your career. This portfolio can also serve as a tool to assess your progress and identify areas in which you need to continue to develop your skills.
 
 The following image is an [example](https://students.mosse-institute.com/student/9arEjhf18Wdej3PFcVKAaQBWK322) of a portfolio:
 
@@ -11,15 +11,15 @@ The following image is an [example](https://students.mosse-institute.com/student
 
 A portfolio contains the following information:
 
-- **Name and online profiles:** The student's name, the city and country where they are from, and any online profile they may have (e.g., Twitter, LinkedIn, Github etc.)
+- **Name and online profiles:** Your name, the city and country you are from, and any online profiles you have (e.g., Twitter, LinkedIn, Github, etc.)
 
-- **Points and trophies:** How many exercises, points and trophies the student has accumulated.
+- **Points and trophies:** How many exercises, points and trophies you have accumulated.
 
-- **Certifications and Career Development Milestones:** Which certification course(s) the student is enrolled in and the career development milestones they have reached.
+- **Certifications and Career Development Milestones:** Which certification course(s) you are enrolled in and the career development milestones you have reached.
 
-- **Cybersecurity Domains:** This is a completion bar that shows you how many exercises they have completed in a given cyber domain.
+- **Cybersecurity Domains:** This is a completion bar that shows how many exercises you have completed in a given cyber domain.
 
-- **Techniques and Tools:** This is a completion bar that shows you how many exercises they have completed to master a particular cybersecurity tool or technique.
+- **Techniques and Tools:** This is a completion bar that shows how many exercises you have completed to master a particular cybersecurity tool or technique.
 
 ## Career Development Milestones
 
@@ -53,7 +53,7 @@ From level 2 onwards, every time you reach a milestone, you will receive an indu
 
 ## Demonstrable Artefacts
 
-When students solve MCSI exercises, they produce tangible evidence of their skills and abilities. This allows instructors to gauge each student's progress and identify areas where they need improvement. The artefacts produced by students also provide a valuable resource for future learning and assessment.
+When you solve MCSI exercises, you produce tangible evidence of your skills and abilities. This allows your instructors to gauge your progress and identify areas where you need improvement. The artefacts you produce also provide a valuable resource for your future learning and assessment.
 
 Below is an example of a formidable submission by Jeremy that earned him a Platinum Trophy:
 
@@ -65,15 +65,19 @@ Below is an example of a formidable submission by Jeremy that earned him a Plati
 The portfolio is a great way to show off your skills and work to potential employers. It is also a great way to get your foot in the door with a company. Many students have been able to get jobs without spending thousands of dollars on certifications. The portfolio is a great tool for students to use to get jobs.
 ```
 
+A well-crafted solution for MCSI exercises can become a valuable addition to your cybersecurity portfolio, showcasing your skills and knowledge to potential employers and clients. To create a solution that demonstrates your expertise and competence, follow the guidelines and advice outlined below. By doing so, you'll not only improve your chances of earning higher-tier trophies but also create a solid foundation for building a remarkable professional portfolio.
+
 ## Trophies
 
-MCSI rewards students with Gold and Platinum trophies to encourage them to produce formidable work. These trophies are a great way to motivate students to do their best and to show off their accomplishments.
+You will have the opportunity to receive Gold and Platinum trophies as a reward for your hard work and exceptional performance. These trophies serve as an incentive for you to strive for excellence and showcase your achievements.
 
 - **Silver Trophy:** The student has done a great job. Their work complies with the specifications and objectives of the exercise.
 
 - **Gold Trophy:** The student produced one of the best solutions we've seen. They went above and beyond than what was expected.
 
 - **Platinum Trophy:** The solution is formidable and extraordinary. This is the expert level!
+
+[Click here for more information about trophies](https://library.mosse-institute.com/platform/solving-exercises.html#how-to-win-trophies)
 
 ## Certificates of Completion
 
