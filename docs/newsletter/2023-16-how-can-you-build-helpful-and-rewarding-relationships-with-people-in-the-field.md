@@ -62,7 +62,7 @@ Here's what Rogers recommended:
 - **Empathetic understanding:** Demonstrating genuine empathy and grasping others' feelings
 - **Congruence:** Aligning one's thoughts, feelings, and actions to maintain consistency
 
-# When you’re ready, this is how we can help you
+## When you’re ready, this is how we can help you
 
 At MCSI, we are committed to creating positive relationships with all our students. We believe that fostering a culture of open and respectful communication is crucial to achieving this goal. We pledge to apply the principles outlined in this week's newsletter, which emphasize the importance of active listening, empathy, and non-judgmental communication, in all of our interactions with students. We encourage our readers to consider adopting these principles as well, if they believe them to be beneficial in their own personal and professional relationships. Together, we can create a more empathetic and connected community.
 
