@@ -21,6 +21,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](not-receiving-good-feedback-from-your-work-here-s-how-to-become-exceptional)
 - [](how-can-you-build-helpful-and-rewarding-relationships-with-people-in-the-field)
 - [](stakeholder-analysis-a-powerful-method-to-understand-what-people-want-and-need)
+- [](learn-how-to-create-trust-and-collaboration-in-cyber-security-with-active-listening)
 
 ## Subscribe
 
