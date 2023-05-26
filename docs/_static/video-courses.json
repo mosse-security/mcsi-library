@@ -398,6 +398,85 @@
             {
               "title": "Establishing Ownership and Accountability",
               "url": "https://www.youtube.com/embed/YmmdjKHR5nQ"
+            },
+            {
+              "title": "What is a Risk Register?",
+              "url": "https://www.youtube.com/embed/k_9vt3OFaqs"
+            },
+            {
+              "title": "Updating the Risk Register",
+              "url": "https://www.youtube.com/embed/P1ZGN2W5_AM"
+            },
+            {
+              "title": "Developing KRIs for Risk Monitoring",
+              "url": "https://www.youtube.com/embed/oeoPtmkO-6M"
+            },
+            {
+              "title": "Monitoring and Analyzing KRIs",
+              "url": "https://www.youtube.com/embed/iHaJ_mlOwlA"
+            },
+            {
+              "title": "Performing Risk Reporting",
+              "url": "https://www.youtube.com/embed/DYGbu9ONgIM"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 5: Disaster Recover and Business Continuity",
+          "videos": [
+            {
+              "title": "What is Business Continuity Planning?",
+              "url": "https://www.youtube.com/embed/zdAc2KGramQ"
+            },
+            {
+              "title": "What is Disaster Recovery Planning?",
+              "url": "https://www.youtube.com/embed/fFz3lsT05Fw"
+            },
+            {
+              "title": "Steps Involved in Business Continuity Planning",
+              "url": "https://www.youtube.com/embed/E5dFMa6UNuM"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 6: Internal Controls",
+          "videos": [
+            {
+              "title": "What are Internal Controls?",
+              "url": "https://www.youtube.com/embed/_vHnUbRUE7I"
+            },
+            {
+              "title": "What is a Control Objective and Control Measure?",
+              "url": "https://www.youtube.com/embed/BG8BVdluqpk"
+            },
+            {
+              "title": "Types of Internal Controls",
+              "url": "https://www.youtube.com/embed/R-cF-JJOR5M"
+            },
+            {
+              "title": "Control Implementation Methods",
+              "url": "https://www.youtube.com/embed/_Ju3iNjW9qc"
+            },
+            {
+              "title": "Selecting Security Controls",
+              "url": "https://www.youtube.com/embed/y3s1dwkv3nE"
+            },
+            {
+              "title": "Validating and Monitoring Security Controls",
+              "url": "https://www.youtube.com/embed/ljLeVE0SAXQ"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 7: Compliance Management",
+          "videos": [
+            {
+              "title": "What is Compliance Management and Why is it Important?",
+              "url": "https://www.youtube.com/embed/rp2cpoF3nkk"
+            },
+            {
+              "title": "How to Perform Compliance Management in an Organization",
+              "url": "https://www.youtube.com/embed/WrpuRJpoyko"
             }
           ]
         }

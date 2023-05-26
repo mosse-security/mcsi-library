@@ -62,6 +62,37 @@ In this section, we will explore the ways in which organizations can identify, a
 - [The Risk Treatment Process](https://youtu.be/LxcAQmsGkng)
 - [Different Ways of Treating Risk](https://youtu.be/PIJVZETovK4)
 - [Establishing Ownership and Accountability](https://youtu.be/YmmdjKHR5nQ)
+- [What is a Risk Register?](https://youtu.be/k_9vt3OFaqs)
+- [Updating the Risk Register](https://youtu.be/P1ZGN2W5_AM)
+- [Developing KRIs for Risk Monitoring](https://youtu.be/oeoPtmkO-6M)
+- [Monitoring and Analyzing KRIs](https://youtu.be/iHaJ_mlOwlA)
+- [Performing Risk Reporting](https://youtu.be/DYGbu9ONgIM)
+
+### Chapter 5: Disaster Recover and Business Continuity
+
+In this section, we explore disaster recovery and business continuity planning. Learn how to prepare for unforeseen events, develop recovery strategies, and ensure minimal downtime. By the end, you'll understand the key components and best practices for robust plans that safeguard your organization's resilience.
+
+- [What is Business Continuity Planning?](https://youtu.be/zdAc2KGramQ)
+- [What is Disaster Recovery Planning?](https://youtu.be/fFz3lsT05Fw)
+- [Steps Involved in Business Continuity Planning](https://youtu.be/E5dFMa6UNuM)
+
+### Chapter 6: Internal Controls
+
+In this section, we delve into the importance of internal controls within an organization. Discover how internal controls help mitigate risks, ensure compliance with regulations, and safeguard assets. Explore different types of internal controls, such as segregation of duties, authorization procedures, and monitoring mechanisms. Gain insights into designing and implementing effective internal control systems to protect against fraud, errors, and inefficiencies. By the end of this section, you'll have a solid understanding of how internal controls contribute to the overall governance and operational efficiency of an organization.
+
+- [What are Internal Controls?](https://youtu.be/_vHnUbRUE7I)
+- [What is a Control Objective and Control Measure?](https://youtu.be/BG8BVdluqpk)
+- [Types of Internal Controls](https://youtu.be/R-cF-JJOR5M)
+- [Control Implementation Methods](https://youtu.be/_Ju3iNjW9qc)
+- [Selecting Security Controls](https://youtu.be/y3s1dwkv3nE)
+- [Validating and Monitoring Security Controls](https://www.youtube.com/watch?v=ljLeVE0SAXQ)
+
+### Chapter 7: Compliance Management
+
+In this section, we explore compliance management, including its importance in today's regulatory landscape, key frameworks and standards, program development, and the role of compliance officers. Gain a comprehensive understanding of compliance's significance in promoting ethics and mitigating risks.
+
+- [What is Compliance Management and Why is it Important?](https://youtu.be/rp2cpoF3nkk)
+- [How to Perform Compliance Management in an Organization](https://youtu.be/WrpuRJpoyko)
 
 ## Articles
 
