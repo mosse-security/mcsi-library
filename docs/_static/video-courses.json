@@ -917,6 +917,27 @@
               "url": "https://www.youtube.com/embed/RKfbdIqi0tw"
             }
           ]
+        },
+        {
+          "module": "Chapter 6: Windows Internals",
+          "videos": [
+            {
+              "title": "Kernel mode vs. user mode",
+              "url": "https://www.youtube.com/embed/r440y3cICRA"
+            },
+            {
+              "title": "Windows Processes",
+              "url": "https://www.youtube.com/embed/y35pdF4RgFM"
+            },
+            {
+              "title": "Windows Threads",
+              "url": "https://www.youtube.com/embed/eKJY7ywSMtQ"
+            },
+            {
+              "title": "Windows Services",
+              "url": "https://www.youtube.com/embed/G2v-dEagPxQ"
+            }
+          ]
         }
       ]
     },
@@ -945,6 +966,53 @@
             {
               "title": "What are the main tools we use in vulnerability research?",
               "url": "https://www.youtube.com/embed/9jkIAblT4xg"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 2: Windows Internals",
+          "videos": [
+            {
+              "title": "Kernel mode vs. user mode",
+              "url": "https://www.youtube.com/embed/r440y3cICRA"
+            },
+            {
+              "title": "Windows Processes",
+              "url": "https://www.youtube.com/embed/y35pdF4RgFM"
+            },
+            {
+              "title": "Windows Threads",
+              "url": "https://www.youtube.com/embed/eKJY7ywSMtQ"
+            },
+            {
+              "title": "Windows Services",
+              "url": "https://www.youtube.com/embed/G2v-dEagPxQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "windows",
+      "modules": [
+        {
+          "module": "Chapter 1: Fundamental Concepts",
+          "videos": [
+            {
+              "title": "Kernel mode vs. user mode",
+              "url": "https://www.youtube.com/embed/r440y3cICRA"
+            },
+            {
+              "title": "Windows Processes",
+              "url": "https://www.youtube.com/embed/y35pdF4RgFM"
+            },
+            {
+              "title": "Windows Threads",
+              "url": "https://www.youtube.com/embed/eKJY7ywSMtQ"
+            },
+            {
+              "title": "Windows Services",
+              "url": "https://www.youtube.com/embed/G2v-dEagPxQ"
             }
           ]
         }

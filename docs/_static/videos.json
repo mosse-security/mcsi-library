@@ -1199,6 +1199,34 @@
     },
     {
       "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/r440y3cICRA",
+      "title": "Kernel mode vs. user mode"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/y35pdF4RgFM",
+      "title": "Windows Processes"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/eKJY7ywSMtQ",
+      "title": "Windows Threads"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/G2v-dEagPxQ",
+      "title": "Windows Services"
+    },
+    {
+      "categories": [
         "vulnerability-research"
       ],
       "href": "https://youtu.be/lD34wkOcCRE",

@@ -71,6 +71,15 @@ In this section of the video course, you will learn about the various tools and 
 - [Extracting and analyzing strings from a malware sample](https://youtu.be/Ig-JvkkSQBY)
 - [Decompiling .NET code using ILSpy](https://youtu.be/RKfbdIqi0tw)
 
+### Chapter 6: Windows Internals
+
+In this section, we delve into Windows Internals from the perspective of reverse engineering. Gain a deep understanding of the internal mechanisms and structures of the Windows operating system, focusing specifically on how they can be leveraged for reverse engineering purposes. Explore key concepts such as process and thread management, memory allocation, DLL injection, hooking, and more. By uncovering the inner workings of Windows, you'll develop the knowledge and skills necessary to analyze and manipulate software at a low-level, opening up a whole new world of possibilities for reverse engineering and vulnerability research.
+
+- [Kernel mode vs. user mode](https://youtu.be/r440y3cICRA)
+- [Windows Processes](https://youtu.be/y35pdF4RgFM)
+- [Windows Threads](https://youtu.be/eKJY7ywSMtQ)
+- [Windows Services](https://youtu.be/G2v-dEagPxQ)
+
 ## Articles
 
 Reverse engineering techniques can be applied to any system, but are commonly used on software and hardware. There are a variety of reverse engineering techniques, each with its own strengths and weaknesses.
