@@ -49,3 +49,7 @@ Allan Hedegaard is the IT Operations Manager at GPV. He manages a large team of 
 ### [Mark Vickers](mark-vickers)
 
 Mark is a Director for Talent Acquisition at a Fortune 200 US company. He took the course 'MOIS - Certified OSINT Expert' to commence his knowledge journey about Cybersecurity and to also increase his capability in sourcing hard to find talent globally.
+
+### [Scott Fenn](scott-fenn)
+
+Scott Fenn, CISSP has been working in various fields within technology for approximately 15 years. He currently runs his own company providing IT consultancy and security services, as well as working for organizations such as the Synack Red Team. He has specialist experience and interest in the Education, Aviation and Healthcare sectors. A constant learner, he holds over 60 certifications from vendors including ISC2, Cisco, Juniper, CompTIA, LPI, Oracle, AWS, eLearnSecurity and EC-Council. Scott frequently serves as a subject matter expert for both course and exam development.
