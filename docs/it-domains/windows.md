@@ -14,6 +14,7 @@ In the first section, we will explore the core principles of Windows Internals f
 - [Windows Processes](https://youtu.be/y35pdF4RgFM)
 - [Windows Threads](https://youtu.be/eKJY7ywSMtQ)
 - [Windows Services](https://youtu.be/G2v-dEagPxQ)
+- [Access Control Lists](https://youtu.be/94hUPK0VzIc)
 
 ## Articles
 
