@@ -11,6 +11,8 @@
 * [](impersonation)
 * [](physical-attacks-of-social-engineering)
 * [](social-engineering-principles)
+* [](dumpster-diving)
+* [](spam)
 
 ### Potential Indicators for Different Attack Types
 
