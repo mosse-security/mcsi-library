@@ -14,8 +14,16 @@
 * [](dumpster-diving)
 * [](spam)
 * [](pharming)
+* [](credential-harvesting)
+* [](eliciting-information)
+* [](hoax)
+* [](prepending)
+* [](reconnaissance)
 
 ### Potential Indicators for Different Attack Types
+
+* [](computer-viruses-and-worms)
+* [](physical-attacks)
 
 ### Application Attacks
 
