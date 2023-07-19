@@ -24,6 +24,8 @@
 
 * [](computer-viruses-and-worms)
 * [](physical-attacks)
+* [](adversarial-artificial-intelligence)
+* [](backdoors-and-remote-access-trojans)
 
 ### Application Attacks
 
