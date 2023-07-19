@@ -31,5 +31,3 @@ Various tools and techniques are employed during reconnaissance, including netwo
 It's important to note that reconnaissance activities should only be conducted ethically and within the boundaries of the law. Engaging in unauthorized reconnaissance or using malicious techniques is illegal and unethical. It's crucial to obtain proper authorization and adhere to legal and ethical guidelines when performing reconnaissance, ensuring it is done for legitimate purposes, such as security assessments or penetration testing.
 
 Reconnaissance provides attackers with a solid foundation of information that can be leveraged in subsequent phases of an attack, such as gaining unauthorized access, exploiting vulnerabilities, or launching targeted social engineering campaigns. Organizations should be aware of the reconnaissance techniques used by adversaries and implement robust security measures to mitigate the risks associated with data exposure and potential vulnerabilities.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

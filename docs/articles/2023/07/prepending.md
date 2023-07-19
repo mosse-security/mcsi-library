@@ -27,5 +27,3 @@ In this example, the attacker prepends "RE:" to make the email seem like a respo
 These examples highlight how prepending specific phrases or indicators can be used to manipulate recipients into believing that the emails are legitimate, urgent, or secure. It's essential to remain vigilant and apply critical thinking when encountering such emails, verifying the authenticity of the sender and the information provided before taking any actions.
 
 It's crucial to remain cautious and exercise good email security practices, such as verifying the authenticity of emails, double-checking sender addresses, avoiding clicking on suspicious links or attachments, and reporting suspicious emails to the appropriate authorities or IT departments.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

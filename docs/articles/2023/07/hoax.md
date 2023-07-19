@@ -48,5 +48,3 @@ Eventually, the company's IT department becomes aware of the hoax after investig
 This scenario demonstrates how a hoax can exploit people's trust, create panic, and disrupt normal operations within an organization. It highlights the importance of maintaining a calm and cautious approach, validating information from trusted sources, and promptly reporting any suspicious incidents to mitigate the impact of such hoaxes.
 
 By staying vigilant, practicing critical thinking, and relying on trusted sources, individuals and organizations can minimize the risks associated with cybersecurity hoaxes.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

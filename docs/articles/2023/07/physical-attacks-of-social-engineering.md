@@ -29,5 +29,3 @@ Attackers may use physical manipulation techniques to bypass or turn off securit
 Attackers may use social pressure or distractions to manipulate individuals into compliance. This can involve creating a sense of urgency, posing as an authority figure, or causing a commotion to divert attention. These tactics exploit people's natural responses to social cues, making it easier for the attacker to gain access or distract security personnel.
 
 To mitigate physical attacks in social engineering, raising awareness, training on physical security protocols, and implementing robust security measures are neccessary. This includes promoting a culture of vigilance, encouraging employees to report suspicious activities, and regularly updating security protocols to address emerging threats. Physical security measures such as access control systems, video surveillance, and employee identification can help deter and detect physical attacks.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

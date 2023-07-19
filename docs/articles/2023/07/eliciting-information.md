@@ -17,5 +17,3 @@ Here are some key points to keep in mind when eliciting information:
 6.	Adapting to the situation: Tailor your approach and questioning style based on the context and the individual's personality. Adapt to different communication styles and preferences to facilitate effective information sharing.
 7.	Ethical considerations: Respect privacy and confidentiality. Be transparent about the purpose of gathering information and obtain consent when necessary. Follow ethical guidelines and legal requirements specific to your field or profession.
 By skillfully eliciting information, you can gather accurate and relevant data, gain insights, and foster better understanding and communication between individuals or within a given context.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

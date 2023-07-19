@@ -61,5 +61,3 @@ Here's how the principles of scarcity and urgency can be used in social engineer
 - Creating a sense of competition: Social engineers may suggest that others are already taking advantage of the opportunity or resource, creating a competitive atmosphere. By portraying the situation as a race against others, individuals may feel pressured to act quickly to stay ahead or secure their share.
 
 To protect yourself from the social engineering principles of scarcity and urgency, it's crucial to remain calm and evaluate the situation objectively. Take the time to assess the legitimacy of the claims and verify information independently. Avoid making impulsive decisions based solely on scarcity or time pressure. Seek multiple perspectives, consult trusted sources, and be cautious of any attempts to rush or manipulate you into immediate action.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

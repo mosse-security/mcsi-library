@@ -55,5 +55,3 @@ In both cases, the objective is to deceive users into revealing their login cred
 5.	Educate users and employees: Raise awareness among users and employees about the risks of malvertising and injected scripts. Train them to recognize suspicious advertisements, avoid clicking on unknown links, and be cautious when entering login credentials on unfamiliar websites.
 6.	Implement strong authentication mechanisms: Use multi-factor authentication (MFA) to provide an additional layer of security. This ensures that even if login credentials are compromised, an extra verification step is required to gain access.
 By taking proactive measures and maintaining awareness of common attack techniques, individuals and organizations can mitigate the risk of falling victim to credential harvesting and protect their sensitive information.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

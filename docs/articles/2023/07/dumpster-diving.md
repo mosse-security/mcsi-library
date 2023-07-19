@@ -29,5 +29,3 @@ In order to prevent this form of attack, consider implementing the following mea
 
 ## Conclusion:
 Dumpster diving poses a significant threat to individuals and organizations as it provides malicious actors with access to sensitive information. In order to mitigate this risk, it is important to apply the preventive measures listed in this article.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

@@ -58,5 +58,3 @@ This section presents some of the ways you can use to spot spam and protect your
 ## Conclusion:
 
 In order to avoid spam it is important to employ robust security measures as well as staying vigilant and reporting any spam you encounter.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*

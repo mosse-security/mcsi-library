@@ -43,5 +43,3 @@ To protect against identity fraud and compromise of computer accounts within cor
 - Least privilege principle: Follow the principle of granting employees the minimum level of access necessary to perform their tasks, reducing the potential impact of compromised accounts.
 
 - Regular security updates: Keep systems and software up to date to patch known vulnerabilities that attackers may exploit.
-
-*Are you interested in learning hundreds of important information security concepts? Enrol in MCSI's [Concepts Bundle](https://www.mosse-institute.com/cyber-security-concepts-specialist-bundle.html)!*
