@@ -18,7 +18,10 @@
 * [](eliciting-information)
 * [](hoax)
 * [](prepending)
-* [](reconnaissance)
+* [](reconnaissance) 
+* [](influence-campaigns)
+* [](shoulder-surfing)
+* [](watering-hole-attack)
 
 ### Potential Indicators for Different Attack Types
 
@@ -26,6 +29,7 @@
 * [](physical-attacks)
 * [](adversarial-artificial-intelligence)
 * [](backdoors-and-remote-access-trojans)
+* [](malware-indicators)
 
 ### Application Attacks
 
