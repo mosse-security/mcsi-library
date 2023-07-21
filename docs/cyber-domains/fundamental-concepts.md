@@ -30,6 +30,8 @@
 * [](adversarial-artificial-intelligence)
 * [](backdoors-and-remote-access-trojans)
 * [](malware-indicators)
+* [](ransomware-crypto-malware-and-logic-bombs)
+* [](supply-chain-attacks)
 
 ### Application Attacks
 
