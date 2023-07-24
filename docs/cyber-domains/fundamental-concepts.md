@@ -32,6 +32,8 @@
 * [](malware-indicators)
 * [](ransomware-crypto-malware-and-logic-bombs)
 * [](supply-chain-attacks)
+* [](cryptographic-attacks)
+* [](potentially-unwanted-programs)
 
 ### Application Attacks
 
