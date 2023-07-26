@@ -1,7 +1,7 @@
 :orphan:
 (spyware-adware-and-keyloggers)=
 
-# Malware Types: Spyware, Adware, and Keyloggers
+# Spyware, Adware, and Keyloggers
 
 The prevalence of cyber threats and the increase in the sophistication of malware attacks has risen concerns about online security and privacy. Among these threats are spyware, adware, and keyloggers. These malware types can silently infiltrate our devices, monitoring our activities and jeopardizing sensitive information. In this article, we explore the characteristics of spyware, adware, and keyloggers, and the measures users can adopt to protect their sensitive data.
 
