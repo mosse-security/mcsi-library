@@ -34,6 +34,10 @@
 * [](supply-chain-attacks)
 * [](cryptographic-attacks)
 * [](potentially-unwanted-programs)
+* [](cryptography-supporting-authentication-and-non-repudiation)
+* [](cryptography-supporting-confidentiality)
+* [](cryptography-supporting-integrity-and-resiliency)
+* [](cryptographic-performance-and-security-limitations)
 
 ### Application Attacks
 
