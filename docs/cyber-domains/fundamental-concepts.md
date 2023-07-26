@@ -38,6 +38,8 @@
 * [](cryptography-supporting-confidentiality)
 * [](cryptography-supporting-integrity-and-resiliency)
 * [](cryptographic-performance-and-security-limitations)
+* [](spyware-adware-and-keyloggers)
+* [](cloud-based-vs-on-premise-security)
 
 ### Application Attacks
 
