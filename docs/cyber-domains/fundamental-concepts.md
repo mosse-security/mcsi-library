@@ -40,8 +40,17 @@
 * [](cryptographic-performance-and-security-limitations)
 * [](spyware-adware-and-keyloggers)
 * [](cloud-based-vs-on-premise-security)
+* [](key-stretching-and-salting)
 
 ### Application Attacks
+
+* [](api-attacks)
+* [](resource-exhaustion)
+* [](ssl-stripping)
+* [](pass-the-hash)
+* [](null-pointer-dereferencing)
+* [](uniform-resource-locator-analysis)
+* [](rogue-access-point)
 
 ### Network Attacks
 
