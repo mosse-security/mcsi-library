@@ -62,6 +62,7 @@
 * [](wifi-protected-access)
 * [](wifi-protected-setup)
 * [](wireless-network-installation-considerations)
+* [](pointer-dereference-attacks)
 
 ### Threat Actors, Vectors, and Intelligence Sources
 
