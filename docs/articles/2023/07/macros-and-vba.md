@@ -1,7 +1,7 @@
 :orphan:
 (macros-and-vba)=
 
-# MACROS AND VBA
+# Macros and VBA
 
 In the world of modern computing, Macros and Visual Basic for Applications (VBA) play significant roles in automating tasks, enhancing productivity, and streamlining processes within various software applications. While these tools provide immense benefits, they also pose significant cyber security risks. Understanding the potential dangers associated with Macros and VBA is crucial for organizations and individuals to safeguard their digital assets and maintain a secure computing environment.
 
