@@ -63,8 +63,20 @@
 * [](wifi-protected-setup)
 * [](wireless-network-installation-considerations)
 * [](pointer-dereference-attacks)
+* [](load-balancing)
+* [](clustering)
+* [](macros-and-vba)
+* [](mitb-attacks)
+* [](qos-implementation)
 
 ### Threat Actors, Vectors, and Intelligence Sources
+
+* [](vulnerability-vs-threat-vs-risk)
+* [](attributes-of-threat-actors)
+* [](attack-vector-types)
+* [](threat-intelligence-sources)
+* [](threat-data-feed)
+* [](automated-indicator-sharing)
 
 ### Types of Vulnerabilities
 
