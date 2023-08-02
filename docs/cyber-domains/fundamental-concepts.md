@@ -77,10 +77,18 @@
 * [](threat-intelligence-sources)
 * [](threat-data-feed)
 * [](automated-indicator-sharing)
+* [](artificial-intelligence-and-predictive-analysis)
 
 ### Types of Vulnerabilities
 
 ### Security Assessment Techniques
+
+* [](common-vulnerabilities-and-exposures)
+* [](credentialed-vs-non-credentialed-scanning)
+* [](false-positives-false-negatives-and-log-review)
+* [](intrusive-vs-non-intrusive-scanning)
+* [](soar-tool)
+* [](syslog-siem-tools)
 
 ### Penetration Testing Techniques
 
