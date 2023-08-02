@@ -52,6 +52,8 @@
 * [](uniform-resource-locator-analysis)
 * [](rogue-access-point)
 * [](injections)
+* [](error-handling)
+* [](improper-input-handling)
 
 ### Network Attacks
 
