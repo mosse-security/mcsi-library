@@ -54,6 +54,8 @@
 * [](injections)
 * [](error-handling)
 * [](improper-input-handling)
+* [](replay-attacks)
+* [](integer-overflow)
 
 ### Network Attacks
 
