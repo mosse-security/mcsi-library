@@ -118,6 +118,8 @@
 
 ### Implementing Secure Communication Protocols
 
+* [](secure-network-protocols)
+
 ### Implementing Host or Application Security Solutions
 
 ### Implementing Secure Network Designs
@@ -128,7 +130,7 @@
 * [](out-of-band-management)
 * [](route-security)
 * [](vpn)
-
+* [](ipv6-security)
 
 ### Implementing Wireless Security
 
