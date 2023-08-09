@@ -72,6 +72,8 @@
 * [](macros-and-vba)
 * [](mitb-attacks)
 * [](qos-implementation)
+* [](dns-attacks)
+* [](ddos-attacks)
 
 ### Threat Actors, Vectors, and Intelligence Sources
 
