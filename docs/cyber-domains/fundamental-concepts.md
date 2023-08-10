@@ -171,3 +171,4 @@
 ### Data Privacy and Security
 
 * [](organizational-consequences-of-privacy-and-data-breaches)
+* [](breach-notification-strategies)
