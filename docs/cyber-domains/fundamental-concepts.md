@@ -121,8 +121,15 @@
 ### Implementing Secure Communication Protocols
 
 * [](secure-network-protocols)
+* [](secure-network-protocols-use-cases)
 
 ### Implementing Host or Application Security Solutions
+
+* [](boot-security)
+* [](system-hardening)
+* [](drive-encryption)
+* [](hardware-root-of-trust)
+* [](tpms)
 
 ### Implementing Secure Network Designs
 
@@ -133,6 +140,10 @@
 * [](route-security)
 * [](vpn)
 * [](ipv6-security)
+* [](load-balancing-strategies)
+* [](dns-security)
+* [](port-security)
+* [](network-file-service-monitoring)
 
 ### Implementing Wireless Security
 
