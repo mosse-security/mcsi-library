@@ -87,6 +87,9 @@
 
 ### Types of Vulnerabilities
 
+* [](weak-configurations)
+* [](third-party-risks)
+
 ### Security Assessment Techniques
 
 * [](common-vulnerabilities-and-exposures)
