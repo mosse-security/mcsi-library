@@ -189,3 +189,4 @@
 * [](organizational-consequences-of-privacy-and-data-breaches)
 * [](breach-notification-strategies)
 * [](information-lifecycle)
+* [](data-protection-impact-assessment)
