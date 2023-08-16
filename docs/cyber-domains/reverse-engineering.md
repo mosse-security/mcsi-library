@@ -89,6 +89,8 @@ In this section, we delve into Windows Internals from the perspective of reverse
 - [Registry](https://youtu.be/HZP4olITTlc)
 - [Elevation](https://youtu.be/YsoTXPSj3kc)
 - [Access Tokens](https://youtu.be/uOemcVMhj88)
+- [Remote Procedure Calls](https://youtu.be/nw7UCa8ShII)
+- [Windows APIs and System Calls](https://youtu.be/FhQR_oMn2NY)
 
 ## Articles
 

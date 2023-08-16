@@ -24,6 +24,8 @@ In the first section, we will explore the core principles of Windows Internals f
 - [Registry](https://youtu.be/HZP4olITTlc)
 - [Elevation](https://youtu.be/YsoTXPSj3kc)
 - [Access Tokens](https://youtu.be/uOemcVMhj88)
+- [Remote Procedure Calls](https://youtu.be/nw7UCa8ShII)
+- [Windows APIs and System Calls](https://youtu.be/FhQR_oMn2NY)
 
 ## Articles
 

@@ -1297,6 +1297,20 @@
     },
     {
       "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/nw7UCa8ShII",
+      "title": "Remote Procedure Calls"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/FhQR_oMn2NY",
+      "title": "Windows APIs and System Calls"
+    },
+    {
+      "categories": [
         "vulnerability-research"
       ],
       "href": "https://youtu.be/lD34wkOcCRE",
