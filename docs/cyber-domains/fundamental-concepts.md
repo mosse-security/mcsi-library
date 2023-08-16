@@ -89,6 +89,8 @@
 
 * [](weak-configurations)
 * [](third-party-risks)
+* [](improper-or-weak-patch-management)
+* [](legacy-platforms-vulnerabilities)
 
 ### Security Assessment Techniques
 
