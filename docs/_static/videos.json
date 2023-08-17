@@ -1227,6 +1227,90 @@
     },
     {
       "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/94hUPK0VzIc",
+      "title": "Access Control Lists"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/uW8BB7et8AE",
+      "title": "Users and Groups"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/tts-LEAHvxY",
+      "title": "Shared Memory"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/qOTyWFWP8F4",
+      "title": "Drivers"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/k2eLBIMTYZY",
+      "title": "Virtual Memory"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/HDVsCsWHI9A",
+      "title": "Jobs"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/Z0KAVdzgXfE",
+      "title": "Objects and Handles"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/HZP4olITTlc",
+      "title": "Registry"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/YsoTXPSj3kc",
+      "title": "Elevation"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/uOemcVMhj88",
+      "title": "Access Tokens"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/nw7UCa8ShII",
+      "title": "Remote Procedure Calls"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/FhQR_oMn2NY",
+      "title": "Windows APIs and System Calls"
+    },
+    {
+      "categories": [
         "vulnerability-research"
       ],
       "href": "https://youtu.be/lD34wkOcCRE",

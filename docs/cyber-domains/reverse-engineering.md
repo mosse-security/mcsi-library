@@ -80,6 +80,17 @@ In this section, we delve into Windows Internals from the perspective of reverse
 - [Windows Threads](https://youtu.be/eKJY7ywSMtQ)
 - [Windows Services](https://youtu.be/G2v-dEagPxQ)
 - [Access Control Lists](https://youtu.be/94hUPK0VzIc)
+- [Users and Groups](https://youtu.be/uW8BB7et8AE)
+- [Shared Memory](https://youtu.be/tts-LEAHvxY)
+- [Drivers](https://youtu.be/qOTyWFWP8F4)
+- [Virtual Memory](https://youtu.be/k2eLBIMTYZY)
+- [Jobs](https://youtu.be/HDVsCsWHI9A)
+- [Objects and Handles](https://youtu.be/Z0KAVdzgXfE)
+- [Registry](https://youtu.be/HZP4olITTlc)
+- [Elevation](https://youtu.be/YsoTXPSj3kc)
+- [Access Tokens](https://youtu.be/uOemcVMhj88)
+- [Remote Procedure Calls](https://youtu.be/nw7UCa8ShII)
+- [Windows APIs and System Calls](https://youtu.be/FhQR_oMn2NY)
 
 ## Articles
 

@@ -1696,6 +1696,678 @@
     },
     {
       "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/impersonation.html",
+      "title": "Impersonation"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/physical-attacks-of-social-engineering.html",
+      "title": "Physical attacks in social engineering"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/social-engineering-principles.html",
+      "title": "Social engineering principles"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/dumpster-diving.html",
+      "title": "Dumpster Diving"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/spam.html",
+      "title": "Spam"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/pharming.html",
+      "title": "Pharming"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/credential-harvesting.html",
+      "title": "Credential harvesting"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/eliciting-information.html",
+      "title": "Eliciting Information"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/hoax.html",
+      "title": "Hoax"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/prepending.html",
+      "title": "Prepending"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/reconnaissance.html",
+      "title": "Reconnaissance"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/influence-campaigns.html",
+      "title": "Influence Campaigns"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/shoulder-surfing.html",
+      "title": "Shoulder surfing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/watering-hole-attack.html",
+      "title": "Watering Hole Attack"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/computer-viruses-and-worms.html",
+      "title": "Computer Viruses and Worms"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/physical-attacks.html",
+      "title": "Physical Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/adversarial-artificial-intelligence.html",
+      "title": "Adversarial Artificial Intelligence"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/backdoors-and-remote-access-trojans.html",
+      "title": "Backdoors and Remote Access Trojans"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/malware-indicators.html",
+      "title": "Malware indicators"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/ransomware-crypto-malware-and-logic-bombs.html",
+      "title": "Ransomware, Crypto-Malware, and, Logic Bombs"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/supply-chain-attacks.html",
+      "title": "Supply Chain Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/cryptographic-attacks.html",
+      "title": "Cryptographic Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/potentially-unwanted-programs.html",
+      "title": "Potentially Unwanted Programs (PUPs)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/cryptography-supporting-authentication-and-non-repudiation.html",
+      "title": "Cryptography Supporting Authentication and Non-Repudiation"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/cryptography-supporting-confidentiality.html",
+      "title": "Cryptography Supporting Confidentiality"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/cryptography-supporting-integrity-and-resiliency.html",
+      "title": "Cryptography Supporting Integrity and Resiliency"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/cryptographic-performance-and-security-limitations.html",
+      "title": "Cryptographic Performance & Security Limitations"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/spyware-adware-and-keyloggers.html",
+      "title": "Spyware, Adware, and Keyloggers"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/cloud-based-vs-on-premise-security.html",
+      "title": "Cloud Based vs. On-Premises Security"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/key-stretching-and-saltingm.html",
+      "title": "Salting and Key Stretching"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/api-attacks.html",
+      "title": "API Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/resource-exhaustion.html",
+      "title": "Memory Leaks and Resource Exhaustion"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/ssl-stripping.html",
+      "title": "SSL Stripping"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/pass-the-hash.html",
+      "title": "Pass the Hash"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/null-pointer-dereferencing.html",
+      "title": "Null Pointer Dereferencing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/uniform-resource-locator-analysis.html",
+      "title": "Uniform Resource Locator (URL) Analysis"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/rogue-access-point.html",
+      "title": "Rogue Access Points"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/injections.html",
+      "title": "Injection Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/error-handling.html",
+      "title": "Error Handling"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/improper-input-handling.html",
+      "title": "Improper Input Handling"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/replay-attacks.html",
+      "title": "Replay Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/integer-overflow.html",
+      "title": "Integer Overflow"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/network-access-controls.html",
+      "title": "Network Access Controls"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/peap-eap-ttls-eap-fast.html",
+      "title": "PEAP, EAP-TTLS, and EAP-FAST"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/physical-port-security-and-mac-filtering.html",
+      "title": "Physical Port Security and MAC filtering"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/wifi-authentication-methods.html",
+      "title": "Wi-Fi Authentication Methods"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/wifi-protected-access.html",
+      "title": "WI-FI protected access"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/wifi-protected-setup.html",
+      "title": "Wi-Fi Protected Setup"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/wireless-network-installation-considerations.html",
+      "title": "Wireless Network Installation Considerations"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/pointer-dereference-attacks.html",
+      "title": "Pointer Dereference Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/load-balancing.html",
+      "title": "Load Balancing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/clustering.html",
+      "title": "Clustering"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/macros-and-vba.html",
+      "title": "Macros and VBA"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/mitb-attacks.html",
+      "title": "Man-in-the-Browser Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/qos-implementation.html",
+      "title": "QoS Implementation"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/dns-attacks.html",
+      "title": "DNS Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/ddos-attacks.html",
+      "title": "DDoS Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/vulnerability-vs-threat-vs-risk.html",
+      "title": "Vulnerability vs Threat vs Risk"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/attributes-of-threat-actors.html",
+      "title": "Attributes of threat actor"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/attack-vector-types.html",
+      "title": "Attack vector types"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/threat-intelligence-sources.html",
+      "title": "Threat intelligence sources"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/threat-data-feed.html",
+      "title": "Threat data Feeds - TTIX, STIX, TAXII"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/07/automated-indicator-sharing.html",
+      "title": "Automated Indicator Sharing (AIS)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/artificial-intelligence-and-predictive-analysis.html",
+      "title": "Artificial Intelligence and Predictive Analysis"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/weak-configurations.html",
+      "title": "Weak Configurations"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/third-party-risks.html",
+      "title": "Third-Party Risks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/improper-or-weak-patch-management.html",
+      "title": "Improper or Weak Patch Management"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/legacy-platforms-vulnerabilities.html",
+      "title": "Legacy Platform Vulnerabilities"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/common-vulnerabilities-and-exposures.html",
+      "title": "Common Vulnerabilities and Exposures"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/credentialed-vs-non-credentialed-scanning.html",
+      "title": "Credentialed versus Non-Credentialed Scanning"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/false-positives-false-negatives-and-log-review.html",
+      "title": "False Positives, False Negatives, and Log Review"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/intrusive-vs-non-intrusive-scanning.html",
+      "title": "Intrusive versus Non-Intrusive Scanning"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/soar-tool.html",
+      "title": "Security Orchestration, Automation, and Response  (SOAR)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/syslog-siem-tools.html",
+      "title": "Syslog / SIEM (Security Information and Event Management)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/secure-network-protocols.html",
+      "title": "Secure Network Protocols"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/secure-network-protocols-use-cases.html",
+      "title": "Secure Protocols - Use cases"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/boot-security.html",
+      "title": "Boot Integrity and Advanced Boot Security Mechanisms"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/system-hardening.html",
+      "title": "What is System Hardening?"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/drive-encryption.html",
+      "title": "Drive Encryption"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/hardware-root-of-trust.html",
+      "title": "Hardware Root of Trust"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/tpms.html",
+      "title": "Trusted Platform Modules (TPMs)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/acls.html",
+      "title": "Access Control Lists (ACLs)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/network-security-appliances.html",
+      "title": "Network Security Appliances"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/network-segmentation.html",
+      "title": "Network Segmentation"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/out-of-band%20management.html",
+      "title": "Out-of-band management"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/route-security.html",
+      "title": "Route Security"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/vpn.html",
+      "title": "Virtual Private Networks (VPNs)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/ipv6-security.html",
+      "title": "Security Implications of IPv6"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/load-balancing-strategies.html",
+      "title": "Load Balancing Strategies"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/dns-security.html",
+      "title": "DNS (Domain Name System) - Attacks and Defences"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/port-security.html",
+      "title": "Port Security"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/network-file-serice-monitoring.html",
+      "title": "Monitoring Services, Networks and Files"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/organizational-consequences-of-privacy-and-data-breaches.html",
+      "title": "Organizational Consequences of Privacy and Data Breaches"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/data-breach-notification-strategies.html",
+      "title": "Breach Notification Strategies"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/information-lifecycle.html",
+      "title": "Information Lifecycle"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/data-protection-impact-assessment.html",
+      "title": "Data Protection Impact Assessment"
+    },
+    {
+      "categories": [
         "grc"
       ],
       "href": "/articles/2022/05/get-a-grip-on-your-data-with-data-governance/get-a-grip-on-your-data-with-data-governance.html",
