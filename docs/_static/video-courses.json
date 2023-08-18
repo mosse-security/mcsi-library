@@ -986,6 +986,27 @@
               "url": "https://www.youtube.com/embed/FhQR_oMn2NY"
             }
           ]
+        },
+        {
+          "module": "Chapter 7: Windows Programming",
+          "videos": [
+            {
+              "title": "What are Windows APIs?",
+              "url": "https://www.youtube.com/embed/uJ2rNnpsnqA"
+            },
+            {
+              "title": "Categories of Windows APIs",
+              "url": "https://www.youtube.com/embed/iaPpn8OhA1c"
+            },
+            {
+              "title": "Writing a C program that interacts with Windows APIs",
+              "url": "https://www.youtube.com/embed/186DxHxNxoA"
+            },
+            {
+              "title": "Writing a Python program that interacts with Windows APIs",
+              "url": "https://www.youtube.com/embed/BEJ380ucq94"
+            }
+          ]
         }
       ]
     },
@@ -1157,6 +1178,27 @@
             {
               "title": "Windows APIs and System Calls",
               "url": "https://www.youtube.com/embed/FhQR_oMn2NY"
+            }
+          ]
+        },
+        {
+          "module": "Chapter 2: Windows Programming",
+          "videos": [
+            {
+              "title": "What are Windows APIs?",
+              "url": "https://www.youtube.com/embed/uJ2rNnpsnqA"
+            },
+            {
+              "title": "Categories of Windows APIs",
+              "url": "https://www.youtube.com/embed/iaPpn8OhA1c"
+            },
+            {
+              "title": "Writing a C program that interacts with Windows APIs",
+              "url": "https://www.youtube.com/embed/186DxHxNxoA"
+            },
+            {
+              "title": "Writing a Python program that interacts with Windows APIs",
+              "url": "https://www.youtube.com/embed/BEJ380ucq94"
             }
           ]
         }

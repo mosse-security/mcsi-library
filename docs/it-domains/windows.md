@@ -27,6 +27,15 @@ In the first section, we will explore the core principles of Windows Internals f
 - [Remote Procedure Calls](https://youtu.be/nw7UCa8ShII)
 - [Windows APIs and System Calls](https://youtu.be/FhQR_oMn2NY)
 
+### Chapter 2: Windows Programming
+
+In this section of the course, we'll delve into Low-Level Windows Programming, focusing on Win32 APIs. This will help you understand the basics of how Windows works and how to interact with it using these programming tools. It's a foundational step if you're interested in exploring the intricacies of Windows programming.
+
+- [What are Windows APIs?](https://youtu.be/uJ2rNnpsnqA)
+- [Categories of Windows APIs](https://youtu.be/iaPpn8OhA1c)
+- [Writing a C program that interacts with Windows APIs](https://youtu.be/186DxHxNxoA)
+- [Writing a Python program that interacts with Windows APIs](https://youtu.be/BEJ380ucq94)
+
 ## Articles
 
 ### Software
