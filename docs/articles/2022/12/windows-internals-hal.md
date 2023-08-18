@@ -231,7 +231,7 @@ Supported Machines:
 
 For example, the following output is from a system running the ACPI HAL:
 
-```powershell
+```
 lmvm hal
 Start             End                 Module Name
 00000000`00000000 00000000`f9a45000   hal      (deferred)

@@ -19,7 +19,7 @@ Overall, Windows is a powerful and versatile operating system that is well-suite
 
 This script will demonstrate how to use Windows real-time processing. It will check the current CPU usage every 5 seconds and if it exceeds 90%, it will display an alert.
 
-```powershell
+```
 # Create an infinite loop to check CPU usage 
 while($true) {
     # Get the current CPU usage

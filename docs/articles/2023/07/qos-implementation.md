@@ -3,6 +3,8 @@
 
 # QoS Implementation
 
+## What is QoS?
+
 Quality of Service (QoS) is a set of techniques and policies used to prioritize network traffic based on its specific characteristics to ensure a certain level of performance for critical applications. The goal of QoS is to manage and control the flow of data within a network to meet the requirements of specific applications, especially those that are sensitive to factors like bandwidth, latency, and jitter.
 
 ### Latency

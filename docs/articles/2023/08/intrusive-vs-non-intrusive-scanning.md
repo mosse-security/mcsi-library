@@ -47,6 +47,6 @@ Non-intrusive scanning, on the other hand, is more appropriate in situations whe
 
 Organizations can also opt for a hybrid approach, combining elements of both intrusive and non-intrusive scanning. By leveraging the strengths of each method, security professionals can gain a more holistic view of their security landscape and devise appropriate strategies for strengthening their defenses. 
 
-#### Final words
+## Final words
 
 Vulnerability scanning is an indispensable tool for identifying weaknesses in information systems and networks. Both intrusive and non-intrusive scanning approaches have their advantages and challenges. The choice between the two depends on the organization's specific security requirements, risk tolerance, and privacy considerations. Striking the right balance between security and privacy is crucial to ensuring that vulnerability scanning is effective, efficient, and respects the privacy of users and sensitive data. By incorporating the appropriate scanning methods into their cybersecurity practices, organizations can bolster their defenses and proactively protect against potential threats. 

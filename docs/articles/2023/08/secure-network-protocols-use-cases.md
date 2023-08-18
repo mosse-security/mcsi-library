@@ -3,7 +3,7 @@
 
 # Secure Protocols – Use cases
 
-In a [previous article](secure-network-protocols), we learned about the secure protocols which are gradually (probably too gradually!) replacing their older, less secure counterparts. Here, we’ll take a look at some practical examples of how secure protocols can thwart attackers – and how easily information security can be compromised when insecure protocols are in place. 
+In a [previous article](https://library.mosse-institute.com/articles/2023/08/secure-network-protocols.html), we learned about the secure protocols which are gradually (probably too gradually!) replacing their older, less secure counterparts. Here, we’ll take a look at some practical examples of how secure protocols can thwart attackers – and how easily information security can be compromised when insecure protocols are in place. 
 
 
 

@@ -2,7 +2,7 @@
 
 # Fundamental Concepts
 
-### Articles
+## Articles
 
 ## Attacks, Threats, and Vulnerabilities
 
