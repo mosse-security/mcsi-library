@@ -1311,6 +1311,34 @@
     },
     {
       "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/uJ2rNnpsnqA",
+      "title": "What are Windows APIs?"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/iaPpn8OhA1c",
+      "title": "Categories of Windows APIs"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/186DxHxNxoA",
+      "title": "Writing a C program that interacts with Windows APIs"
+    },
+    {
+      "categories": [
+        "reverse-engineering"
+      ],
+      "href": "https://youtu.be/BEJ380ucq94",
+      "title": "Writing a Python program that interacts with Windows APIs"
+    },
+    {
+      "categories": [
         "vulnerability-research"
       ],
       "href": "https://youtu.be/lD34wkOcCRE",
