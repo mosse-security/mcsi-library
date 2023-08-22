@@ -81,3 +81,81 @@
 ### Troubleshoot and Resolve Printer Issues
 
 ### Troubleshoot Problems with Wired and Wireless Networks
+
+## Operating Systems
+
+### Basic Features of Microsoft Windows Editions
+
+### Microsoft Command-Line Tools
+
+### Windows 10 Operating System Features
+
+### Microsoft Windows 10 Control Panel utility
+
+### Windows Settings
+
+### Microsoft Windows Networking Features on a Client/Desktop
+
+### Application Installation and Configuration
+
+### OS types and their Purposes
+
+### OS installations and upgrades 
+
+### Common Features and Tools of the macOS/desktop OS
+
+### Common Features and Tools of the Linux client/desktop OS
+
+## Security
+
+### Security Measures and their Purposes
+
+### Wireless Security Protocols and Authentication Methods
+
+### Tools and Methods to Detect, Remove, and Prevent Malware
+
+### Common Social-Engineering Attacks, Threats, and Vulnerabilities
+
+### Manage and Configure Basic Security Settings in the Microsoft Windows OS
+
+### Workstation Security Best Practices
+
+### Securing Mobile and Embedded Devices
+
+### Data Destruction and Disposal Methods
+
+### Small Office/Home Office (SOHO) Wireless and Wired Networks
+
+### Browser Security Settings
+
+## Software Troubleshooting
+
+### Common Problems in Windows OS
+
+### Troubleshoot Common Personal Computer (PC) Security Issues
+
+### Best Practice Procedures for Malware Removal
+
+### Troubleshoot Common Mobile OS and Application Issues
+
+### Troubleshoot Common Mobile OS and Application Security Issues
+
+## Operational Procedures
+
+### Documentation and Information Management
+
+### Change Management Best Practices
+
+### Workstation Backup and Recovery Methods
+
+### Common Safety Procedures
+
+### Environmental Impacts and Local Environmental Controls
+
+### Prohibited Content/Activity and Privacy, Licensing, and Policy
+
+### Proper Communication Techniques and Professionalism
+
+### Basics of Scripting
+
+### Remote Access Technologies
