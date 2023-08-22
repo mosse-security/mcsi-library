@@ -142,6 +142,7 @@
 * [](ephemeral-keys)
 * [](lightweight-cryptography)
 * [](quantum-cryptography)
+* [](perfect-forward-secrecy)
 
 ## Implementation
 
@@ -175,6 +176,8 @@
 ### Implementing Wireless Security
 
 ### Implementing Secure Mobile Solutions
+
+* [](mobile-device-management)
 
 ### Cybersecurity Solutions for the Cloud
 
