@@ -130,6 +130,11 @@
 * [](signage)
 * [](surveillance-systems)
 * [](usb-data-blockers)
+* [](drones)
+* [](faraday-cages)
+* [](protected-cable-distribution)
+* [](secure-areas)
+* [](secure-data-destruction)
 
 ### Cryptography
 
@@ -158,6 +163,7 @@
 * [](drive-encryption)
 * [](hardware-root-of-trust)
 * [](tpms)
+* [](endpoint-protection)
 
 ### Implementing Secure Network Designs
 
