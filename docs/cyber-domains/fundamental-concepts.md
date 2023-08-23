@@ -215,6 +215,8 @@
 
 ### Risk Management Processes
 
+* [](risk-types)
+
 ### Data Privacy and Security
 
 * [](organizational-consequences-of-privacy-and-data-breaches)
