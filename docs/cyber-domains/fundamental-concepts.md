@@ -91,6 +91,7 @@
 * [](third-party-risks)
 * [](improper-or-weak-patch-management)
 * [](legacy-platforms-vulnerabilities)
+* [](impacts-of-cybersecurity-risks)
 
 ### Security Assessment Techniques
 
