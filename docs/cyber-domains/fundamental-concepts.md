@@ -116,6 +116,8 @@
 
 ### Implementing Cybersecurity Resilience
 
+* [](redundancy-replication-and-diversity)
+
 ### Security Implications of Embedded and Specialized Systems
 
 ### Physical Security Controls
@@ -182,6 +184,9 @@
 
 ### Implementing Wireless Security
 
+* [](wireless-security-cryptographic-protocols)
+* [](wireless-security-authentication-protocols)
+
 ### Implementing Secure Mobile Solutions
 
 * [](mobile-device-management)
@@ -193,6 +198,9 @@
 ### Implementing Authentication and Authorization Controls
 
 ### Implementing Public Key Infrastructure
+
+* [](public-key-infrastructure)
+* [](certificate-types-and-formats)
 
 ## Operations and Incident Response
 
