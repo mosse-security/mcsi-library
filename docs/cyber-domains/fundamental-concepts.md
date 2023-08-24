@@ -225,6 +225,7 @@
 ### Risk Management Processes
 
 * [](risk-types)
+* [](risk-analysis-concepts-and-techniques)
 
 ### Data Privacy and Security
 
