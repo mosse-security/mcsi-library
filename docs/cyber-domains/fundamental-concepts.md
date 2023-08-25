@@ -117,8 +117,14 @@
 ### Implementing Cybersecurity Resilience
 
 * [](redundancy-replication-and-diversity)
+* [](backup-types)
+* [](non-persistence-systems)
+* [](high-availability-implementation)
+* [](restoration-order)
 
 ### Security Implications of Embedded and Specialized Systems
+
+* [](embedded-systems)
 
 ### Physical Security Controls
 
@@ -186,10 +192,16 @@
 
 * [](wireless-security-cryptographic-protocols)
 * [](wireless-security-authentication-protocols)
+* [](wireless-security-techniques)
+* [](wireless-installation-considerations)
 
 ### Implementing Secure Mobile Solutions
 
+* [](mobile-devices)
+* [](connection-types)
 * [](mobile-device-management)
+* [](mobile-security-enforcement-and-monitoring)
+* [](mobile-security-deployment-models)
 
 ### Cybersecurity Solutions for the Cloud
 
