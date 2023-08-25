@@ -2174,6 +2174,13 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/impacts-of-cybersecurity-risks.html",
+      "title": "Impacts of Cybersecurity Risks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/common-vulnerabilities-and-exposures.html",
       "title": "Common Vulnerabilities and Exposures"
     },
@@ -2211,6 +2218,13 @@
       ],
       "href": "/articles/2023/08/syslog-siem-tools.html",
       "title": "Syslog / SIEM (Security Information and Event Management)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/redundancy-replication-and-diversity.html",
+      "title": "Cybersecurity Resiliency: Redundancy, Replication and Diversity"
     },
     {
       "categories": [
@@ -2293,6 +2307,111 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/drones.html",
+      "title": "Drones as Cyber Security Tools"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/faraday-cages.html",
+      "title": "Faraday Cages and EMI Shielding"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/protected-cable-distribution.html",
+      "title": "Protected Cable Distribution"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/secure-areas.html",
+      "title": "Secure Areas"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/secure-data-destruction.html",
+      "title": "Secure Data Destruction"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/blockchain-technology.html",
+      "title": "Blockchain Technology"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/cipher-suites.html",
+      "title": "Cipher Suites"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/cryptography-common-use-cases-and-limitations.html",
+      "title": "Cryptography: Common Use Cases and Limitations"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/digital-signatures.html",
+      "title": "Digital Signatures"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/elliptic-curve-cryptography.html",
+      "title": "Elliptic Curve Cryptography (ECC)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/ensuring-security-of-cryptographic-keys.html",
+      "title": "Ensuring Security of Cryptographic Keys"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/ephemeral-keys.html",
+      "title": "Ephemeral Keys"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/lightweight-cryptography.html",
+      "title": "Lightweight Cryptography"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/quantum-cryptography.html",
+      "title": "Quantum Cryptography"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/perfect-forward-secrecy.html",
+      "title": "Perfect Forward Secrecy: Enhancing Security in Digital Communications"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/secure-network-protocols.html",
       "title": "Secure Network Protocols"
     },
@@ -2337,6 +2456,13 @@
       ],
       "href": "/articles/2023/08/tpms.html",
       "title": "Trusted Platform Modules (TPMs)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/endpoint-protection.html",
+      "title": "Endpoint Protection"
     },
     {
       "categories": [
@@ -2419,6 +2545,55 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/wireless-security-cryptographic-protocols.html",
+      "title": "Wireless Security: Cryptographic Protocols"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/wireless-security-authentication-protocols.html",
+      "title": "Wireless Security: Authentication Protocols"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/mobile-device-management.html",
+      "title": "Mobile Device and Mobile Application Management (MDM/MAM)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/public-key-infrastructure.html",
+      "title": "Public Key Infrastructure (PKI)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/certificate-types-and-formats.html",
+      "title": "Public Key Infrastructure:  Certificate Types and Formats"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/risk-types.html",
+      "title": "Risk Types"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/risk-analysis-concepts-and-techniques.html",
+      "title": "Risk Analysis: Concepts and Techniques"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/organizational-consequences-of-privacy-and-data-breaches.html",
       "title": "Organizational Consequences of Privacy and Data Breaches"
     },
@@ -2449,6 +2624,13 @@
       ],
       "href": "/articles/2023/08/terms-of-agreement-and-privacy-notices.html",
       "title": "Terms of Agreement and Privacy Notices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/privacy-enhancing-technologies.html",
+      "title": "Privacy-enhancing Technologies (PET)"
     },
     {
       "categories": [
@@ -4430,6 +4612,55 @@
       ],
       "href": "/articles/2022/05/deploy-your-first-project-on-terraform-with-basic-hcl/deploy-your-first-project-on-terraform-with-basic-hcl.html",
       "title": "Deploy Your First Project on Terraform with Basic HCL"
+    },
+    {
+      "categories": [
+        "fundamental-concepts-of-information-technology"
+      ],
+      "href": "/articles/2023/08/types-of-hardware-components.html",
+      "title": "Major Types of a Laptop's Hardware Components and Their Replacement"
+    },
+    {
+      "categories": [
+        "fundamental-concepts-of-information-technology"
+      ],
+      "href": "/articles/2023/08/display-components.html",
+      "title": "Display Components of Mobile Devices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts-of-information-technology"
+      ],
+      "href": "/articles/2023/08/connection-types.html",
+      "title": "Connection Types of Mobile Devices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts-of-information-technology"
+      ],
+      "href": "/articles/2023/08/mobile-device-accessories.html",
+      "title": "Mobile Device Accessories"
+    },
+    {
+      "categories": [
+        "fundamental-concepts-of-information-technology"
+      ],
+      "href": "/articles/2023/08/cellular-bluetooth-location-services.html",
+      "title": "Wireless/Cellular Data Networks, Bluetooth, and Location Services"
+    },
+    {
+      "categories": [
+        "fundamental-concepts-of-information-technology"
+      ],
+      "href": "/articles/2023/08/mobile-device-synchronization.html",
+      "title": "Mobile Device Synchronization"
+    },
+    {
+      "categories": [
+        "fundamental-concepts-of-information-technology"
+      ],
+      "href": "/articles/2023/08/frequencies-and-channels.html",
+      "title": "Frequencies and Channels for Wireless Networking"
     },
     {
       "categories": [
