@@ -22,6 +22,7 @@
 * [](influence-campaigns)
 * [](shoulder-surfing)
 * [](watering-hole-attack)
+* [](typosquatting)
 
 ### Potential Indicators for Different Attack Types
 
@@ -41,6 +42,8 @@
 * [](spyware-adware-and-keyloggers)
 * [](cloud-based-vs-on-premise-security)
 * [](key-stretching-and-salting)
+* [](downgrade-attack)
+* [](collision-birthday-attack)
 
 ### Application Attacks
 
@@ -56,6 +59,8 @@
 * [](improper-input-handling)
 * [](replay-attacks)
 * [](integer-overflow)
+* [](injection-attacks)
+* [](driver-manipulation)
 
 ### Network Attacks
 
@@ -74,6 +79,8 @@
 * [](qos-implementation)
 * [](dns-attacks)
 * [](ddos-attacks)
+* [](loop-prevention)
+* [](layer2-attacks)
 
 ### Threat Actors, Vectors, and Intelligence Sources
 
