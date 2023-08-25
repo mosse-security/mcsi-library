@@ -1,5 +1,5 @@
 :orphan:
-(#typosquatting)=
+(typosquatting)=
 
 # Typosquatting
 
