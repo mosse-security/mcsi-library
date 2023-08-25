@@ -81,6 +81,9 @@
 * [](ddos-attacks)
 * [](loop-prevention)
 * [](layer2-attacks)
+* [](scripting)
+* [](malicious-code-indicators)
+* [](execution-control)
 
 ### Threat Actors, Vectors, and Intelligence Sources
 
@@ -91,6 +94,8 @@
 * [](threat-data-feed)
 * [](automated-indicator-sharing)
 * [](artificial-intelligence-and-predictive-analysis)
+* [](state-actors-and-apts)
+* [](hackers-scriptkiddies-hacktivists)
 
 ### Types of Vulnerabilities
 
@@ -132,6 +137,11 @@
 ### Security Implications of Embedded and Specialized Systems
 
 * [](embedded-systems)
+* [](voip)
+* [](rtos)
+* [](system-on-chip)
+* [](hvac)
+* [](multifunctional-printers)
 
 ### Physical Security Controls
 
@@ -224,6 +234,10 @@
 ## Operations and Incident Response
 
 ### Tools for Assessing Organizational Security
+
+* [](packet-capture-tools)
+* [](network-tools)
+* [](file-manipulation-tools)
 
 ### Policies, Processes, and Procedures for Incident Response
 
