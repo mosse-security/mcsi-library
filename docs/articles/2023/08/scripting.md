@@ -1,3 +1,6 @@
+:orphan:
+(scripting)=
+
 # Common Shell and Script Environments
 
 Shell and script environments play a crucial role in the world of programming and system administration, offering an interface to interact with operating systems and execute commands. They provide a means to automate tasks, manage system resources, and streamline workflows. In this article, we will explore and compare the Python, PowerShell, Bash, and SSH environments, highlighting their key features, use cases, and differences.

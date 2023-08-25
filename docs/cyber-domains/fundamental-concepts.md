@@ -122,6 +122,14 @@
 
 ### Virtualization and Cloud Computing
 
+* [](thin-clients)
+* [](serverless-architecture)
+* [](on-premises-off-premises)
+* [](managed-service-providers)
+* [](fog-computing)
+* [](edge-computing)
+* [](cloud-service-providers)
+
 ### Secure Application Development, Deployment, and Automation
 
 ### Authentication and Authorization
