@@ -113,6 +113,8 @@
 * [](intrusive-vs-non-intrusive-scanning)
 * [](soar-tool)
 * [](syslog-siem-tools)
+* [](vulnerability-scans)
+* [](threat-hunting)
 
 ### Penetration Testing Techniques
 
