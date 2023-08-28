@@ -136,6 +136,9 @@
 
 ### Authentication and Authorization
 
+* [](mfa)
+* [](auth-methods)
+
 ### Implementing Cybersecurity Resilience
 
 * [](redundancy-replication-and-diversity)
@@ -262,6 +265,10 @@
 ### Security Controls
 
 ### Applicable Regulations, Standards, and Frameworks for Organizations
+
+* [](regulations-standards-legislation)
+* [](key-security-frameworks)
+* [](benchmarks-for-secure-config)
 
 ### Security Policies for Organizations
 
