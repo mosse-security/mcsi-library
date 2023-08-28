@@ -263,10 +263,14 @@
 
 ### Security Policies for Organizations
 
+* [](third-party-risk-management)
+* [](security-policies-diversity-of-training-techniques)
+
 ### Risk Management Processes
 
 * [](risk-types)
 * [](risk-analysis-concepts-and-techniques)
+* [](threat-assessment-types-of-disasters)
 
 ### Data Privacy and Security
 
