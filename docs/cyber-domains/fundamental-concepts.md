@@ -84,6 +84,7 @@
 * [](scripting)
 * [](malicious-code-indicators)
 * [](execution-control)
+* [](open-auth-captive-portal)
 
 ### Threat Actors, Vectors, and Intelligence Sources
 
@@ -96,6 +97,7 @@
 * [](artificial-intelligence-and-predictive-analysis)
 * [](state-actors-and-apts)
 * [](hackers-scriptkiddies-hacktivists)
+* [](ttps-iocs)
 
 ### Types of Vulnerabilities
 
