@@ -1698,6 +1698,174 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/types-of-hardware-components.html",
+      "title": "Major Types of a Laptop's Hardware Components and Their Replacement"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/display-components.html",
+      "title": "Display Components of Mobile Devices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/connection-types.html",
+      "title": "Connection Types of Mobile Devices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/mobile-device-accessories.html",
+      "title": "Mobile Device Accessories"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/cellular-bluetooth-location-services.html",
+      "title": "Wireless/Cellular Data Networks, Bluetooth, and Location Services"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/mobile-device-synchronization.html",
+      "title": "Mobile Device Synchronization"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/frequencies-and-channels.html",
+      "title": "Frequencies and Channels for Wireless Networking"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/wireless-comm-standards.html",
+      "title": "Wireless Communication Standards"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/bluetooth-comm-protocols.html",
+      "title": "Bluetooth Communication"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/server-types.html",
+      "title": "Common Types of Servers"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/ip-addressing.html",
+      "title": "IP Addressing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/ram.html",
+      "title": "Random Access Memory (RAM): Types, Features, and Channels"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/storage-devices.html",
+      "title": "Storage Devices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/motherboard.html",
+      "title": "Motherboards"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/bios-uefi.html",
+      "title": "BIOS/UEFI"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/cpu-arch.html",
+      "title": "CPU Architecture"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/expansion-cards-cooling.html",
+      "title": "Computer Hardware: Expansion Cards and Cooling"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/power-supply.html",
+      "title": "Power Supply"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/install-replace-printer-consumables.html",
+      "title": "Installing and Replacing Printer Consumables"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/vm-purposes.html",
+      "title": "The Purpose of Virtual Machines"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/problem-solving-process.html",
+      "title": "Problem-Solving Methodology"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/troubleshoot-ram-cpu-power.html",
+      "title": "Troubleshooting Problems Related to Motherboards, RAM, CPU, and Power"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/troubleshoot-storage-raid.html",
+      "title": "Troubleshooting and Diagnosing Problems on Storage Drives and RAID Arrays"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/troubleshoot-display.html",
+      "title": "Troubleshooting Video, Projector, and Display Issues"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/07/impersonation.html",
       "title": "Impersonation"
     },
@@ -1791,6 +1959,13 @@
       ],
       "href": "/articles/2023/07/watering-hole-attack.html",
       "title": "Watering Hole Attack"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/typosquatting.html",
+      "title": "Typosquatting"
     },
     {
       "categories": [
@@ -1908,6 +2083,20 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/downgrade-attack.html",
+      "title": "Downgrade Attack"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/collision-birthday-attack.html",
+      "title": "Collision and Birthday Attack"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/07/api-attacks.html",
       "title": "API Attacks"
     },
@@ -1987,6 +2176,20 @@
       ],
       "href": "/articles/2023/08/integer-overflow.html",
       "title": "Integer Overflow"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/injection-attacks.html",
+      "title": "Additional Injection Attacks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/driver-manipulation.html",
+      "title": "Driver Manipulation"
     },
     {
       "categories": [
@@ -2097,6 +2300,48 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/loop-prevention.html",
+      "title": "Loop Prevention in Computer Networks"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/layer2-attacks.html",
+      "title": "Layer 2 Attacks: ARP Poisoning, MAC Flooding, and MAC Address Cloning"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/scripting.html",
+      "title": "Common Shell and Script Environments"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/malicious-code-indicators.html",
+      "title": "Common Malicious Code Indicators in Python, PowerShell, and Bash"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/execution-control.html",
+      "title": "Execution Control for Applications and Scripts"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/open-auth-captive-portal.html",
+      "title": "Open Authentication and Captive Portals"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/07/vulnerability-vs-threat-vs-risk.html",
       "title": "Vulnerability vs Threat vs Risk"
     },
@@ -2141,6 +2386,27 @@
       ],
       "href": "/articles/2023/08/artificial-intelligence-and-predictive-analysis.html",
       "title": "Artificial Intelligence and Predictive Analysis"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/state-actors-and-apts.html",
+      "title": "State Actors and Advanced Persistent Threats (APTs)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/hackers-scriptkiddies-hacktivists.html",
+      "title": "Hackers, Script Kiddies and Hacktivists"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/ttps-iocs.html",
+      "title": "TTPs and Indicators of Compromise (IoC)"
     },
     {
       "categories": [
@@ -2223,8 +2489,155 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/vulnerability-scans.html",
+      "title": "Vulnerability Scans"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/what-is-threat-hunting.html",
+      "title": "Threat Hunting"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/thin-clients.html",
+      "title": "Thin Clients"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/serverless-architecture.html",
+      "title": "Serverless Architecture"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/on-premises-off-premises.html",
+      "title": "On-Premises vs. Off-Premises"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/managed-service-providers.html",
+      "title": "Managed Service Providers (MSPs) and Managed Security Service Providers (MSSPs)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/fog-computing.html",
+      "title": "Fog Computing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/edge-computing.html",
+      "title": "Edge Computing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/cloud-service-providers.html",
+      "title": "Cloud Service Providers"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/mfa.html",
+      "title": "Multi-Factor Authentication (MFA): Enhancing Digital Security"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/auth-methods.html",
+      "title": "Common Methods of Authentication"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/redundancy-replication-and-diversity.html",
       "title": "Cybersecurity Resiliency: Redundancy, Replication and Diversity"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/backup-types.html",
+      "title": "An In-depth Overview of Backup Methods and Types"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/non-persistence-systems.html",
+      "title": "Ensuring Non-Persistence in Systems"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/high-availability-implementation.html",
+      "title": "Implementing High Availability in Enterprise Systems"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/restoration-order.html",
+      "title": "Establishing Restoration Order"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/embedded-systems.html",
+      "title": "Embedded Systems"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/voip.html",
+      "title": "The Evolution and Functionality of VoIP (Voice over Internet Protocol)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/rtos.html",
+      "title": "Real-Time Operating System (RTOS)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/system-on-chip.html",
+      "title": "System on Chip (SoC)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/hvac.html",
+      "title": "HVAC: Heating, Ventilation, and Air Conditioning Systems Explained"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/multifunctional-printers.html",
+      "title": "Multifunctional Printers"
     },
     {
       "categories": [
@@ -2559,8 +2972,43 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/wireless-security-techniques.html",
+      "title": "Wireless Security Techniques and Configurations"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/wireless-installation-considerations.html",
+      "title": "Wireless Network Installation Considerations"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/mobile-devices.html",
+      "title": "Mobile Devices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/mobile-device-management.html",
       "title": "Mobile Device and Mobile Application Management (MDM/MAM)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/mobile-security-enforcement-and-monitoring.html",
+      "title": "Security Enforcement and Monitoring in Mobile Devices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/mobile-security-deployment-models.html",
+      "title": "Mobile Security: Deployment Models"
     },
     {
       "categories": [
@@ -2580,6 +3028,69 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/packet-capture-tools.html",
+      "title": "Common Packet Capture and Replay Tools"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/network-tools.html",
+      "title": "Common Network Tools"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/file-manipulation-tools.html",
+      "title": "Common File Manipulation Tools"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/regulations-standards-legislation.html",
+      "title": "Regulations, Standards and Legislation"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/key-security-frameworks.html",
+      "title": "Key Security Frameworks in Cybersecurity"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/benchmarks-for-secure-config.html",
+      "title": "Benchmarks and Secure Configuration Guides"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/third-party-risk-management.html",
+      "title": "Third-party Risk Management"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/diversity-of-training-techniques.html",
+      "title": "Security Policies: Diversity of Training Techniques"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/security-policies-data-security-and-privacy.html",
+      "title": "Security Policies: Data Security and Privacy"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/risk-types.html",
       "title": "Risk Types"
     },
@@ -2589,6 +3100,13 @@
       ],
       "href": "/articles/2023/08/risk-analysis-concepts-and-techniques.html",
       "title": "Risk Analysis: Concepts and Techniques"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/threat-assessment-types-of-disasters.html",
+      "title": "Threat Assessment: Types of Disasters"
     },
     {
       "categories": [
@@ -4612,55 +5130,6 @@
       ],
       "href": "/articles/2022/05/deploy-your-first-project-on-terraform-with-basic-hcl/deploy-your-first-project-on-terraform-with-basic-hcl.html",
       "title": "Deploy Your First Project on Terraform with Basic HCL"
-    },
-    {
-      "categories": [
-        "fundamental-concepts-of-information-technology"
-      ],
-      "href": "/articles/2023/08/types-of-hardware-components.html",
-      "title": "Major Types of a Laptop's Hardware Components and Their Replacement"
-    },
-    {
-      "categories": [
-        "fundamental-concepts-of-information-technology"
-      ],
-      "href": "/articles/2023/08/display-components.html",
-      "title": "Display Components of Mobile Devices"
-    },
-    {
-      "categories": [
-        "fundamental-concepts-of-information-technology"
-      ],
-      "href": "/articles/2023/08/connection-types.html",
-      "title": "Connection Types of Mobile Devices"
-    },
-    {
-      "categories": [
-        "fundamental-concepts-of-information-technology"
-      ],
-      "href": "/articles/2023/08/mobile-device-accessories.html",
-      "title": "Mobile Device Accessories"
-    },
-    {
-      "categories": [
-        "fundamental-concepts-of-information-technology"
-      ],
-      "href": "/articles/2023/08/cellular-bluetooth-location-services.html",
-      "title": "Wireless/Cellular Data Networks, Bluetooth, and Location Services"
-    },
-    {
-      "categories": [
-        "fundamental-concepts-of-information-technology"
-      ],
-      "href": "/articles/2023/08/mobile-device-synchronization.html",
-      "title": "Mobile Device Synchronization"
-    },
-    {
-      "categories": [
-        "fundamental-concepts-of-information-technology"
-      ],
-      "href": "/articles/2023/08/frequencies-and-channels.html",
-      "title": "Frequencies and Channels for Wireless Networking"
     },
     {
       "categories": [
