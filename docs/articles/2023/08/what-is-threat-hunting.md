@@ -1,5 +1,5 @@
 :orphan:
-(threat-hunting)=
+(what-is-threat-hunting)=
 
 # Threat Hunting
 
