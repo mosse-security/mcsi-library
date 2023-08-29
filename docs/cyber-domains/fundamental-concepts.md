@@ -1,274 +1,272 @@
 (fundamental-cybersecurity-concepts)=
-# Fundamental Concepts
+# Articles
 
-## Articles
+## I.T Fundamentals
 
-## **Fundamental Concepts of I.T**
+### Mobile Devices
 
-## Mobile Devices
-
-### Installing and Configuring Laptop Hardware
+#### Installing and Configuring Laptop Hardware
 
 * [](types-of-hardware-components)
 
-### Display Components of Mobile Devices
+#### Display Components of Mobile Devices
 
 * [](display-components)
 
-### Mobile Devices Accessories and Ports
+#### Mobile Devices Accessories and Ports
 
 * [](connection-types)
 * [](mobile-device-accessories)
 
-### Mobile Device Network Connectivity and Application Support
+#### Mobile Device Network Connectivity and Application Support
 
 * [](cellular-bluetooth-location-services)
 * [](mobile-device-synchronization)
 
-## Networking
+### Networking
 
-### TCP/UDP Ports, Protocols, and Purposes
+#### TCP/UDP Ports, Protocols, and Purposes
 
-### Common Hardware Networking Devices
+#### Common Hardware Networking Devices
 
-### Wireless Communication Protocols
+#### Wireless Communication Protocols
 
 * [](frequencies-and-channels)
 * [](wireless-comm-standards)
 * [](bluetooth-comm-protocols)
 
-### Services Provided by Networked Hosts
+#### Services Provided by Networked Hosts
 
 * [](server-types)
 
-### Configuring Basic Wired/Wireless/Small Office/Home Office Networks
+#### Configuring Basic Wired/Wireless/Small Office/Home Office Networks
 
 * [](ip-addressing)
 
-### Network Configuraion Concepts
+#### Network Configuraion Concepts
 
-### Internet Connection Types, Network Types, and their Features
+#### Internet Connection Types, Network Types, and their Features
 
-### Networking Tools and their Features
+#### Networking Tools and their Features
 
-## Hardware
+### Hardware
 
-### Cable Types and their Connectors, Features, and Purposes
+#### Cable Types and their Connectors, Features, and Purposes
 
-### RAM Types and Channels
+#### RAM Types and Channels
 
 * [](ram)
 
-### Storage Devices
+#### Storage Devices
 
 * [](storage-devices)
 
-### Motherboards, Central Processing Units (CPUs), and Add-on Cards
+#### Motherboards, Central Processing Units (CPUs), and Add-on Cards
 
 * [](motherboard)
 * [](bios-uefi)
 * [](cpu-arch)
 * [](expansion-cards-cooling)
 
-### Power Supply
+#### Power Supply
 
 * [](power-supply)
 
-### Multifunction Devices/Printers
+#### Multifunction Devices/Printers
 
-### Install and Replace Printer Consumables
+#### Install and Replace Printer Consumables
 
 * [](install-replace-printer-consumables)
 
-## Virtualization and Cloud Computing
+### Virtualization and Cloud Computing
 
-### Cloud Computing Concepts
+#### Cloud Computing Concepts
 
-### Client-side Virtualization
+#### Client-side Virtualization
 
 * [](vm-purposes)
 
-## Hardware and Network Troubleshooting
+### Hardware and Network Troubleshooting
 
-### Best Practice Methodology to Resolve Problems
+#### Best Practice Methodology to Resolve Problems
 
 * [](problem-solving-process)
 
-### Troubleshoot Problems Related to Motherboards, RAM, CPU, and Power
+#### Troubleshoot Problems Related to Motherboards, RAM, CPU, and Power
 
 * [](troubleshoot-ram-cpu-power)
 
-### Troubleshoot and Diagnose Problems with Storage Drives and RAID Arrays
+#### Troubleshoot and Diagnose Problems with Storage Drives and RAID Arrays
 
 * [](troubleshoot-storage-raid)
 
-### Troubleshoot Video, Projector, and Display Issues
+#### Troubleshoot Video, Projector, and Display Issues
 
 * [](troubleshoot-display)
 
-### Troubleshoot Common Issues with Mobile Devices
+#### Troubleshoot Common Issues with Mobile Devices
 
-### Troubleshoot and Resolve Printer Issues
+#### Troubleshoot and Resolve Printer Issues
 
-### Troubleshoot Problems with Wired and Wireless Networks
+#### Troubleshoot Problems with Wired and Wireless Networks
 
-## Operating Systems
+### Operating Systems
 
-### Basic Features of Microsoft Windows Editions
+#### Basic Features of Microsoft Windows Editions
 
-### Microsoft Command-Line Tools
+#### Microsoft Command-Line Tools
 
-### Windows 10 Operating System Features
+#### Windows 10 Operating System Features
 
-### Microsoft Windows 10 Control Panel utility
+#### Microsoft Windows 10 Control Panel utility
 
-### Windows Settings
+#### Windows Settings
 
-### Microsoft Windows Networking Features on a Client/Desktop
+#### Microsoft Windows Networking Features on a Client/Desktop
 
-### Application Installation and Configuration
+#### Application Installation and Configuration
 
-### OS types and their Purposes
+#### OS types and their Purposes
 
-### OS installations and upgrades 
+#### OS installations and upgrades 
 
-### Common Features and Tools of the macOS/desktop OS
+#### Common Features and Tools of the macOS/desktop OS
 
-### Common Features and Tools of the Linux client/desktop OS
+#### Common Features and Tools of the Linux client/desktop OS
 
-## Security
+### Security
 
-### Security Measures and their Purposes
+#### Security Measures and their Purposes
 
-### Wireless Security Protocols and Authentication Methods
+#### Wireless Security Protocols and Authentication Methods
 
-### Tools and Methods to Detect, Remove, and Prevent Malware
+#### Tools and Methods to Detect, Remove, and Prevent Malware
 
-### Common Social-Engineering Attacks, Threats, and Vulnerabilities
+#### Common Social-Engineering Attacks, Threats, and Vulnerabilities
 
-### Manage and Configure Basic Security Settings in the Microsoft Windows OS
+#### Manage and Configure Basic Security Settings in the Microsoft Windows OS
 
-### Workstation Security Best Practices
+#### Workstation Security Best Practices
 
-### Securing Mobile and Embedded Devices
+#### Securing Mobile and Embedded Devices
 
-### Data Destruction and Disposal Methods
+#### Data Destruction and Disposal Methods
 
-### Small Office/Home Office (SOHO) Wireless and Wired Networks
+#### Small Office/Home Office (SOHO) Wireless and Wired Networks
 
-### Browser Security Settings
+#### Browser Security Settings
 
-## Software Troubleshooting
+### Software Troubleshooting
 
-### Common Problems in Windows OS
+#### Common Problems in Windows OS
 
-### Troubleshoot Common Personal Computer (PC) Security Issues
+#### Troubleshoot Common Personal Computer (PC) Security Issues
 
-### Best Practice Procedures for Malware Removal
+#### Best Practice Procedures for Malware Removal
 
-### Troubleshoot Common Mobile OS and Application Issues
+#### Troubleshoot Common Mobile OS and Application Issues
 
-### Troubleshoot Common Mobile OS and Application Security Issues
+#### Troubleshoot Common Mobile OS and Application Security Issues
 
-## Operational Procedures
+### Operational Procedures
 
-### Documentation and Information Management
+#### Documentation and Information Management
 
-### Change Management Best Practices
+#### Change Management Best Practices
 
-### Workstation Backup and Recovery Methods
+#### Workstation Backup and Recovery Methods
 
-### Common Safety Procedures
+#### Common Safety Procedures
 
-### Environmental Impacts and Local Environmental Controls
+#### Environmental Impacts and Local Environmental Controls
 
-### Prohibited Content/Activity and Privacy, Licensing, and Policy
+#### Prohibited Content/Activity and Privacy, Licensing, and Policy
 
-### Proper Communication Techniques and Professionalism
+#### Proper Communication Techniques and Professionalism
 
-### Basics of Scripting
+#### Basics of Scripting
 
-### Remote Access Technologies
+#### Remote Access Technologies
 
 
 
-## **Fundamental Concepts of Networking**
+## Networking
 
-## Networking Concepts
+### Networking Concepts
 
-### Ports and Protocols
+#### Ports and Protocols
 
-### The OSI Model
+#### The OSI Model
 
-### Routing and Switching
+#### Routing and Switching
 
-### IP addressing Schemes
+#### IP addressing Schemes
 
-### Network Topologies, Types and Technologies
+#### Network Topologies, Types and Technologies
 
-### Wireless Technologies and Configurations
+#### Wireless Technologies and Configurations
 
-### Cloud Concepts and their Purposes
+#### Cloud Concepts and their Purposes
 
-### Functions of Network Services
+#### Functions of Network Services
 
-## Infrastructure
+### Infrastructure
 
-### Cabling Solutions
+#### Cabling Solutions
 
-### Networking Devices
+#### Networking Devices
 
-### Advanced Networking Devices
+#### Advanced Networking Devices
 
-### Virtualization and Network Storage Technologies
+#### Virtualization and Network Storage Technologies
 
-### WAN technologies
+#### WAN technologies
 
-## Network Operations
+### Network Operations
 
-### Documentation and Diagrams to Manage the Network
+#### Documentation and Diagrams to Manage the Network
 
-### Business Continuity and Disaster Recovery
+#### Business Continuity and Disaster Recovery
 
-### Scanning, Monitoring and Patching Processes and their Outputs
+#### Scanning, Monitoring and Patching Processes and their Outputs
 
-### Remote Access Methods
+#### Remote Access Methods
 
-### Policies and Best Practices
+#### Policies and Best Practices
 
-## Network Security
+### Network Security
 
-### Physical Security Devices
+#### Physical Security Devices
 
-### Authorization and Access Controls
+#### Authorization and Access Controls
 
-### Securing Wireless Networks
+#### Securing Wireless Networks
 
-### Common Networking Attacks
+#### Common Networking Attacks
 
-### Network Device Hardening 
+#### Network Device Hardening 
 
-### Network Threats Mitigation Techniques
+#### Network Threats Mitigation Techniques
 
-## Network Troubleshooting and Tools
+### Network Troubleshooting and Tools
 
-### Network Troubleshooting Methodology
+#### Network Troubleshooting Methodology
 
-### Network Troubleshooting Tools
+#### Network Troubleshooting Tools
 
-### Wired Connectivity and Performance Issues
+#### Wired Connectivity and Performance Issues
 
-### Wireless Connectivity and Performance Issues
+#### Wireless Connectivity and Performance Issues
 
-### Network Service Issues
+#### Network Service Issues
 
 
 
-## **Fundamental Concepts of Security**
+## Cybersecurity
 
-## Attacks, Threats, and Vulnerabilities
+### Attacks, Threats, and Vulnerabilities
 
-### Social Engineering Techniques
+#### Social Engineering Techniques
 
 * [](impersonation)
 * [](physical-attacks-of-social-engineering)
@@ -286,7 +284,7 @@
 * [](watering-hole-attack)
 * [](typosquatting)
 
-### Potential Indicators for Different Attack Types
+#### Potential Indicators for Different Attack Types
 
 * [](computer-viruses-and-worms)
 * [](physical-attacks)
@@ -307,7 +305,7 @@
 * [](downgrade-attack)
 * [](collision-birthday-attack)
 
-### Application Attacks
+#### Application Attacks
 
 * [](api-attacks)
 * [](resource-exhaustion)
@@ -324,7 +322,7 @@
 * [](injection-attacks)
 * [](driver-manipulation)
 
-### Network Attacks
+#### Network Attacks
 
 * [](network-access-controls)
 * [](peap-eap-ttls-eap-fast)
@@ -348,7 +346,7 @@
 * [](execution-control)
 * [](open-auth-captive-portal)
 
-### Threat Actors, Vectors, and Intelligence Sources
+#### Threat Actors, Vectors, and Intelligence Sources
 
 * [](vulnerability-vs-threat-vs-risk)
 * [](attributes-of-threat-actors)
@@ -361,7 +359,7 @@
 * [](hackers-scriptkiddies-hacktivists)
 * [](ttps-iocs)
 
-### Types of Vulnerabilities
+#### Types of Vulnerabilities
 
 * [](weak-configurations)
 * [](third-party-risks)
@@ -369,7 +367,7 @@
 * [](legacy-platforms-vulnerabilities)
 * [](impacts-of-cybersecurity-risks)
 
-### Security Assessment Techniques
+#### Security Assessment Techniques
 
 * [](common-vulnerabilities-and-exposures)
 * [](credentialed-vs-non-credentialed-scanning)
@@ -380,13 +378,13 @@
 * [](vulnerability-scans)
 * [](what-is-threat-hunting)
 
-### Penetration Testing Techniques
+#### Penetration Testing Techniques
 
-## Architecture and Design
+### Architecture and Design
 
-### Enterprise Environment Security
+#### Enterprise Environment Security
 
-### Virtualization and Cloud Computing
+#### Virtualization and Cloud Computing
 
 * [](thin-clients)
 * [](serverless-architecture)
@@ -396,14 +394,14 @@
 * [](edge-computing)
 * [](cloud-service-providers)
 
-### Secure Application Development, Deployment, and Automation
+#### Secure Application Development, Deployment, and Automation
 
-### Authentication and Authorization
+#### Authentication and Authorization
 
 * [](mfa)
 * [](auth-methods)
 
-### Implementing Cybersecurity Resilience
+#### Implementing Cybersecurity Resilience
 
 * [](redundancy-replication-and-diversity)
 * [](backup-types)
@@ -411,7 +409,7 @@
 * [](high-availability-implementation)
 * [](restoration-order)
 
-### Security Implications of Embedded and Specialized Systems
+#### Security Implications of Embedded and Specialized Systems
 
 * [](embedded-systems)
 * [](voip)
@@ -420,7 +418,7 @@
 * [](hvac)
 * [](multifunctional-printers)
 
-### Physical Security Controls
+#### Physical Security Controls
 
 * [](access-control-vestibules)
 * [](alarms)
@@ -439,7 +437,7 @@
 * [](secure-areas)
 * [](secure-data-destruction)
 
-### Cryptography
+#### Cryptography
 
 * [](blockchain-technology)
 * [](cipher-suites)
@@ -452,14 +450,14 @@
 * [](quantum-cryptography)
 * [](perfect-forward-secrecy)
 
-## Implementation
+### Implementation
 
-### Implementing Secure Communication Protocols
+#### Implementing Secure Communication Protocols
 
 * [](secure-network-protocols)
 * [](secure-network-protocols-use-cases)
 
-### Implementing Host or Application Security Solutions
+#### Implementing Host or Application Security Solutions
 
 * [](boot-security)
 * [](system-hardening)
@@ -468,7 +466,7 @@
 * [](tpms)
 * [](endpoint-protection)
 
-### Implementing Secure Network Designs
+#### Implementing Secure Network Designs
 
 * [](acls)
 * [](network-security-appliances)
@@ -482,14 +480,14 @@
 * [](port-security)
 * [](network-file-service-monitoring)
 
-### Implementing Wireless Security
+#### Implementing Wireless Security
 
 * [](wireless-security-cryptographic-protocols)
 * [](wireless-security-authentication-protocols)
 * [](wireless-security-techniques)
 * [](wireless-installation-considerations)
 
-### Implementing Secure Mobile Solutions
+#### Implementing Secure Mobile Solutions
 
 * [](mobile-devices)
 * [](connection-types)
@@ -497,56 +495,56 @@
 * [](mobile-security-enforcement-and-monitoring)
 * [](mobile-security-deployment-models)
 
-### Cybersecurity Solutions for the Cloud
+#### Cybersecurity Solutions for the Cloud
 
-### Implementing Identity and Access Management Controls
+#### Implementing Identity and Access Management Controls
 
-### Implementing Authentication and Authorization Controls
+#### Implementing Authentication and Authorization Controls
 
-### Implementing Public Key Infrastructure
+#### Implementing Public Key Infrastructure
 
 * [](public-key-infrastructure)
 * [](certificate-types-and-formats)
 
-## Operations and Incident Response
+### Operations and Incident Response
 
-### Tools for Assessing Organizational Security
+#### Tools for Assessing Organizational Security
 
 * [](packet-capture-tools)
 * [](network-tools)
 * [](file-manipulation-tools)
 
-### Policies, Processes, and Procedures for Incident Response
+#### Policies, Processes, and Procedures for Incident Response
 
-### Data Sources for Incident Investigation
+#### Data Sources for Incident Investigation
 
-### Mitigation Techniques to Secure Enterprise Environment
+#### Mitigation Techniques to Secure Enterprise Environment
 
-### Digital Forensics
+#### Digital Forensics
 
-## Governance, Risk, and Compliance
+### Governance, Risk, and Compliance
 
-### Security Controls
+#### Security Controls
 
-### Applicable Regulations, Standards, and Frameworks for Organizations
+#### Applicable Regulations, Standards, and Frameworks for Organizations
 
 * [](regulations-standards-legislation)
 * [](key-security-frameworks)
 * [](benchmarks-for-secure-config)
 
-### Security Policies for Organizations
+#### Security Policies for Organizations
 
 * [](third-party-risk-management)
 * [](security-policies-diversity-of-training-techniques)
 * [](security-policies-data-security-and-privacy)
 
-### Risk Management Processes
+#### Risk Management Processes
 
 * [](risk-types)
 * [](risk-analysis-concepts-and-techniques)
 * [](threat-assessment-types-of-disasters)
 
-### Data Privacy and Security
+#### Data Privacy and Security
 
 * [](organizational-consequences-of-privacy-and-data-breaches)
 * [](breach-notification-strategies)
