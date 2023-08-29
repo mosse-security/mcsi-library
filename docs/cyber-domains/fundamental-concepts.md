@@ -1,9 +1,9 @@
 (fundamental-cybersecurity-concepts)=
 # Fundamental Concepts
 
-## **Fundamental Concepts of I.T**
-
 ## Articles
+
+## **Fundamental Concepts of I.T**
 
 ## Mobile Devices
 
@@ -194,8 +194,6 @@
 
 ## **Fundamental Concepts of Networking**
 
-## Articles
-
 ## Networking Concepts
 
 ### Ports and Protocols
@@ -267,8 +265,6 @@
 
 
 ## **Fundamental Concepts of Security**
-
-## Articles
 
 ## Attacks, Threats, and Vulnerabilities
 
