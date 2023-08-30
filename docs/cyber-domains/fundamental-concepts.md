@@ -384,6 +384,9 @@
 
 #### Enterprise Environment Security
 
+* [](data-protection)
+* [](data-sovereignty)
+
 #### Virtualization and Cloud Computing
 
 * [](thin-clients)
