@@ -526,6 +526,8 @@
 
 #### Digital Forensics
 
+* [](preparing-documentation-and-evidence)
+
 ### Governance, Risk, and Compliance
 
 #### Security Controls
