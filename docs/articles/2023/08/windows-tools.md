@@ -71,25 +71,25 @@ The Task Manager consists of several tabs, each providing unique insights into d
 
 In addition to the basic tabs and functionalities, the Windows Task Manager also offers below features:
 
-- Resource Monitor
+- **Resource Monitor** 
 
     Accessible from the Performance tab, the **Resource Monitor** provides in-depth information about resource usage, including detailed graphs and statistics for CPU, Memory, Disk, and Network.
 
     **Example**: If a user wants to understand which specific files are causing high disk usage, the Resource Monitor can provide detailed insights into file-related operations.
 
-- End Task and End Process
+- **End Task and End Process**
 
     From the Processes tab, users can right-click on a specific process and choose to **End Task** or **End Process**. End Task attempts to gracefully close the application, while End Process forcefully terminates it.
 
     **Example**: If a program becomes unresponsive and is not closing through normal means, users can use the Task Manager to forcefully terminate the application.
 
-- Open File Location
+- **Open File Location**
 
     In the Details tab, users can right-click on a process and select **Open File Location**. This opens the directory where the executable file for that process is located.
 
     **Example**: If a user is unfamiliar with a particular process and wants to investigate its origin, the Open File Location feature can provide insights into its source.
 
-- Creating Dump Files
+- **Creating Dump Files**
 
     Task Manager can generate memory dump files of a running process. These files are valuable for diagnosing application crashes and system errors. This feature is particularly useful for developers and IT professionals who need to analyze the root cause of issues.
 
@@ -101,25 +101,25 @@ The **Microsoft Management Console (MMC)** is a powerful and versatile tool that
 
 ### Key Features and Components 
 
-- Snap-ins
+- **Snap-ins**
 
     At the heart of the Microsoft Management Console are **snap-ins**, which are modular tools or extensions that provide specific management capabilities. Snap-ins offer a way to manage various aspects of the operating system, applications, and network services in a unified interface. Each snap-in focuses on a particular area of administration, such as user accounts, disk management, device configuration, event logs, and more.
 
     For example, the "Computer Management" snap-in combines several sub-snap-ins, including "Device Manager," "Disk Management," "Event Viewer," and "Local Users and Groups." This consolidation of tools within a single interface enhances administrative efficiency by reducing the need to open multiple standalone applications.
 
-- Console Files
+- **Console Files**
 
     MMC allows users to create and save customized **console files** that store the arrangement and configuration of snap-ins. These console files have the extension ".msc" and enable administrators to create specific toolsets tailored to their needs. By creating console files, users can quickly access the necessary snap-ins without having to manually navigate through various menus each time.
 
     For instance, a network administrator could create a custom console file containing snap-ins for "Active Directory Users and Computers," "DNS Manager," and "Group Policy Management," simplifying the process of managing network resources.
 
-- Predefined Consoles
+- **Predefined Consoles**
 
     MMC offers a set of **predefined consoles** that are readily available for specific administrative tasks. These predefined consoles come with a selection of snap-ins already configured to streamline common management activities.
 
     An example of a predefined console is the "Computer Management" console, which provides a consolidated view of various system management tools. Similarly, the "Services" console focuses on managing Windows services, and the "Event Viewer" console is designed for viewing and analyzing system event logs.
 
-- Author Mode and User Mode
+- **Author Mode and User Mode**
 
     MMC operates in two distinct modes: **Author Mode** and **User Mode**.
 
