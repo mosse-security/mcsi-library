@@ -47,6 +47,9 @@
 
 #### Internet Connection Types, Network Types, and their Features
 
+* [](internet-connection-types)
+* [](network-types)
+
 #### Networking Tools and their Features
 
 ### Hardware
@@ -106,23 +109,50 @@
 
 #### Troubleshoot Common Issues with Mobile Devices
 
+* [](troubleshoot-mobile-issues)
+
 #### Troubleshoot and Resolve Printer Issues
 
+* [](troubleshoot-printer-issues)
+
 #### Troubleshoot Problems with Wired and Wireless Networks
+
+* [](troubleshoot-network-issues)
 
 ### Operating Systems
 
 #### Basic Features of Microsoft Windows Editions
 
+* [](windows-edition)
+
 #### Microsoft Command-Line Tools
+
+* [](windows-cli-tools)
 
 #### Windows 10 Operating System Features
 
+* [](windows-tools)
+
 #### Microsoft Windows 10 Control Panel utility
+
+* [](control-panel-defender-admin-tools-ease-of-access)
+* [](control-panel-file-explorer-system-power-options)
+* [](control-panel-internet-options-display-user-accounts)
+* [](control-panel-network-center-device-manager-indexing)
+* [](control-panel-sound-mail-programs)
 
 #### Windows Settings
 
+* [](windows-settings)
+
 #### Microsoft Windows Networking Features on a Client/Desktop
+
+* [](workgroup-vs-domain)
+* [](client-network-config)
+* [](establish-network-connection)
+* [](local-firewall-settings)
+* [](public-vs-private-network)
+* [](windows-proxy-settings)
 
 #### Application Installation and Configuration
 
