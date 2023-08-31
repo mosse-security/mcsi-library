@@ -386,6 +386,7 @@
 
 * [](data-protection)
 * [](data-sovereignty)
+* [](geographical-consideration-of-data-management)
 
 #### Virtualization and Cloud Computing
 
