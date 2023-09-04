@@ -558,6 +558,7 @@
 #### Digital Forensics
 
 * [](preparing-documentation-and-evidence)
+* [](digital-forensics-acquiring-evidence)
 
 ### Governance, Risk, and Compliance
 
