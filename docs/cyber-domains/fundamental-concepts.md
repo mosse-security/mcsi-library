@@ -444,6 +444,8 @@
 * [](data-protection)
 * [](data-sovereignty)
 * [](geographical-consideration-of-data-management)
+* [](response-and-recovery-controls)
+* [](ssl-tls-inspection)
 
 #### Virtualization and Cloud Computing
 
