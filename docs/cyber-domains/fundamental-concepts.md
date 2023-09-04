@@ -257,6 +257,8 @@
 
 #### IP addressing Schemes
 
+* [](public-vs-private-addressing)
+
 #### Network Topologies, Types and Technologies
 
 #### Wireless Technologies and Configurations
@@ -453,6 +455,11 @@
 * [](edge-computing)
 * [](cloud-service-providers)
 * [](containers)
+* [](apis-microservices)
+* [](infrastructure-as-code)
+* [](resource-policies)
+* [](service-integration)
+* [](transit-gateways)
 
 #### Secure Application Development, Deployment, and Automation
 
@@ -496,6 +503,8 @@
 * [](protected-cable-distribution)
 * [](secure-areas)
 * [](secure-data-destruction)
+* [](fencing)
+* [](lighting)
 
 #### Cryptography
 
