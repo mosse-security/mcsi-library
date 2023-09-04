@@ -77,6 +77,8 @@
 
 #### Multifunction Devices/Printers
 
+* [](printer-setup-and-config)
+
 #### Install and Replace Printer Consumables
 
 * [](install-replace-printer-consumables)
@@ -153,16 +155,36 @@
 * [](local-firewall-settings)
 * [](public-vs-private-network)
 * [](windows-proxy-settings)
+* [](file-explorer-network-paths)
+* [](metered-connections)
 
 #### Application Installation and Configuration
 
+* [](app-installation-and-config)
+
 #### OS types and their Purposes
+
+* [](os-workstation)
+* [](file-system-types)
+* [](os-cellphone-table)
+* [](os-vendor-life-cycle)
 
 #### OS installations and upgrades 
 
+* [](drive-partitioning-formatting)
+* [](os-install-upgrade)
+* [](upgrade-considerations-feature-updates)
+
 #### Common Features and Tools of the macOS/desktop OS
 
+* [](mac-install-uninstall)
+* [](appleid-restrictions-bestpractices)
+* [](mac-system-preferences)
+* [](mac-features-tools)
+
 #### Common Features and Tools of the Linux client/desktop OS
+
+* [](linux-best-practices)
 
 ### Security
 
@@ -175,6 +197,9 @@
 #### Common Social-Engineering Attacks, Threats, and Vulnerabilities
 
 #### Manage and Configure Basic Security Settings in the Microsoft Windows OS
+
+* [](configure-windows-defender)
+* [](windows-users-and-groups)
 
 #### Workstation Security Best Practices
 
