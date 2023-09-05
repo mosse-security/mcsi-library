@@ -622,6 +622,7 @@
 
 * [](preparing-documentation-and-evidence)
 * [](digital-forensics-acquiring-evidence)
+* [](preserving-and-maintaining-integrity-of-evidence)
 
 ### Governance, Risk, and Compliance
 
