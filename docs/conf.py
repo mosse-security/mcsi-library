@@ -33,8 +33,8 @@ extensions = [
   'sphinx.ext.viewcode',
   'sphinx_togglebutton',
   'sphinxcontrib.images',
-  "sphinx_design",
-  
+  'sphinx_design',
+  'sphinx_sitemap'
 ]
 
 html_baseurl = "https://library.mosse-institute.com/"
