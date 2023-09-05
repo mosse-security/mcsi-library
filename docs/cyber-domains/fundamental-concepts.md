@@ -290,6 +290,8 @@
 
 #### Cloud Concepts and their Purposes
 
+* [](enhancing-cloud-connectivity-methods-security-implications)
+
 #### Functions of Network Services
 
 ### Infrastructure
