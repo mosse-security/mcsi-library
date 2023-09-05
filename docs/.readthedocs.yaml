@@ -16,8 +16,6 @@ python:
 
 sphinx:
   configuration: docs/conf.py
-  extra_extensions:
-    - sphinx_sitemap
 
 formats:
   - htmlzip
