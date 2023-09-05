@@ -16,8 +16,6 @@ python:
 
 sphinx:
   configuration: docs/conf.py
-  config:
-    html_baseurl: "https://mcsi-library.readthedocs.io/"
   extra_extensions:
     - sphinx_sitemap
 
