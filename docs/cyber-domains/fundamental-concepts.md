@@ -200,7 +200,6 @@
 
 * [](configure-windows-defender)
 * [](windows-users-and-groups)
-* [](admin-vs-standard-user)
 * [](bitlocker)
 * [](login-os-options)
 * [](ntfs-vs-share-permissions)
