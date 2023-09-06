@@ -473,6 +473,8 @@
 * [](geographical-consideration-of-data-management)
 * [](response-and-recovery-controls)
 * [](ssl-tls-inspection)
+* [](api-considerations)
+* [](hashing-enterprise-data)
 
 #### Virtualization and Cloud Computing
 
