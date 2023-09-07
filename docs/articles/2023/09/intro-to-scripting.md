@@ -1,5 +1,5 @@
 :orphan:
-(scripting)=
+(intro-to-scripting)=
 
 # Scripting
 

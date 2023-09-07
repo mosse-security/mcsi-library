@@ -291,7 +291,7 @@
 
 #### Basics of Scripting
 
-* [](scripting)
+* [](intro-to-scripting)
 
 #### Remote Access Technologies
 
