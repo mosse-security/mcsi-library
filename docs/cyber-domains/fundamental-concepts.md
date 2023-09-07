@@ -625,6 +625,8 @@
 * [](preparing-documentation-and-evidence)
 * [](digital-forensics-acquiring-evidence)
 * [](preserving-and-maintaining-integrity-of-evidence)
+* [](ediscovery-data-recovery-and-non-repudiation-controls)
+* [](non-repudiation-controls)
 
 ### Governance, Risk, and Compliance
 
