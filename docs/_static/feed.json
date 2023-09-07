@@ -1775,6 +1775,20 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/internet-connection-types.html",
+      "title": "Internet Connection Types"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/network-types.html",
+      "title": "Network Connection Types"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/ram.html",
       "title": "Random Access Memory (RAM): Types, Features, and Channels"
     },
@@ -1824,6 +1838,13 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/09/printer-setup-and-config.html",
+      "title": "Printers: Setup, Configuration, Sharing, Security and Scanning"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/install-replace-printer-consumables.html",
       "title": "Installing and Replacing Printer Consumables"
     },
@@ -1861,6 +1882,377 @@
       ],
       "href": "/articles/2023/08/troubleshoot-display.html",
       "title": "Troubleshooting Video, Projector, and Display Issues"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/troubleshoot-mobile-issues.html",
+      "title": "Troubleshooting Common Mobile Device Issues"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/troubleshoot-printer-issues.html",
+      "title": "Troubleshooting Common Printer Issues"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/troubleshoot-network-issues.html",
+      "title": "Troubleshooting Common Wired/Wireless Network Issues"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/windows-edition.html",
+      "title": "Microsoft Windows Editions"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/windows-cli-tools.html",
+      "title": "Microsoft Command-Line Tools"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/windows-tools.html",
+      "title": "Windows OS Tools and Features"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/control-panel-defender-admin-tools-ease-of-access.html",
+      "title": "Control Panel: Windows Defender Firewall, Administrative Tools, and Ease of Access"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/control-panel-file-explorer-system-power-options.html",
+      "title": "Control Panel: File Explorer Options, System, and Power Options"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/control-panel-internet-options-display-user-accounts.html",
+      "title": "Control Panel: Internet Options, Display, and User Accounts"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/control-panel-network-center-device-manager-indexing.html",
+      "title": "Control Panel: Network and Sharing Center, Device Manager, and Indexing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/control-panel-sound-mail-programs.html",
+      "title": "Control Panel: Sound, Mail, and Programs and Features"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/windows-settings.html",
+      "title": "Windows Settings"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/workgroup-vs-domain.html",
+      "title": "Workgroup vs. Domain Setup"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/client-network-config.html",
+      "title": "Windows Client Network Configuration"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/establish-network-connection.html",
+      "title": "Establishing Network Connections in Windows"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/local-firewall-settings.html",
+      "title": "Windows Local Firewall Settings"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/public-vs-private-network.html",
+      "title": "Network Profiles in Windows"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/windows-proxy-settings.html",
+      "title": "Proxy Settings in Windows: A Comprehensive Overview"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/file-explorer-network-paths.html",
+      "title": "File Explorer Navigation and Network Paths in Windows"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/metered-connections.html",
+      "title": "Metered Connections in Windows"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/app-installation-and-config.html",
+      "title": "Application Installation and Configuration"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/os-workstation.html",
+      "title": "Workstation Operating Systems"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/file-system-types.html",
+      "title": "Filesystem Types"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/os-cellphone-table.html",
+      "title": "Cellphone/Tablet Operating Systems"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/os-vendor-life-cycle.html",
+      "title": "Vendor Life-Cycle of Operating Systems (OS)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/drive-partitioning-formatting.html",
+      "title": "Partitioning and Formatting Drives"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/os-install-upgrade.html",
+      "title": "Operating System Installation and Upgrade"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/upgrade-considerations-feature-updates.html",
+      "title": "Upgrade Considerations and Feature Updates for Operating Systems"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/mac-install-uninstall.html",
+      "title": "MacOS: Installation and Uninstallation of Applications"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/appleid-restrictions-bestpractices.html",
+      "title": "Apple ID Corporate Restrictions and Best Practices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/mac-system-preferences.html",
+      "title": "MacOS: System Preferences"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/mac-features-tools.html",
+      "title": "MacOS: Features and Tools"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/linux-best-practices.html",
+      "title": "Linux Best Practices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/configure-windows-defender.html",
+      "title": "Windows Defender Antivirus"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/windows-users-and-groups.html",
+      "title": "Managing and Configuring Users and Groups in Windows"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/bitlocker.html",
+      "title": "BitLocker"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/login-os-options.html",
+      "title": "Windows: Login Options"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/ntfs-vs-share-permissions.html",
+      "title": "NTFS vs. Share Permissions in Windows"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/best-practice-account-management.html",
+      "title": "Workstation Security: Account Management"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/best-practice-autorun-autoplay.html",
+      "title": "Workstation Security: AutoRun and AutoPlay Best Practices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/best-practice-enduser.html",
+      "title": "Workstation Security: End-User Best Practices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/best-practice-passwords.html",
+      "title": "Workstation Security: Password Best Practices"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/data-at-rest-encryption.html",
+      "title": "Data-at-Rest Encryption: Securing Your Data Where it Resides"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/data-outsourcing.html",
+      "title": "Data Destruction and Disposal Methods: Outsourcing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/data-physical-destruction.html",
+      "title": "Data Destruction and Disposal Methods: Recycling and Repurposing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/browser-download-install.html",
+      "title": "Browser Security: Browser Download, Installation, Extensions, and Plugins"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/browser-pass-manager-browser-settings.html",
+      "title": "Browser Security: Password Managers and Browser Settings"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/browser-valid-certs.html",
+      "title": "Browser Security: Secure Connections and Valid Certificates"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/windows-troubleshooting.html",
+      "title": "Troubleshooting Common Problems in Windows"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/windows-pc-security-problems.html",
+      "title": "Common Symptoms of PC Security Problems"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/malware-removal-process.html",
+      "title": "Malware Removal Process"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/common-mobile-security-concerns.html",
+      "title": "Common Mobile Security Concerns"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/public-vs-private-addressing.html",
+      "title": "Public vs Private Addressing"
     },
     {
       "categories": [
@@ -2517,6 +2909,27 @@
       "categories": [
         "fundamental-concepts"
       ],
+      "href": "/articles/2023/08/geographical-consideration-of-data-management.html",
+      "title": "Geographical Considerations of Data Management"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/response-and-recovery-controls.html",
+      "title": "Response and Recovery Controls"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/ssl-tls-inspection.html",
+      "title": "SSL/TLS Inspection"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
       "href": "/articles/2023/08/thin-clients.html",
       "title": "Thin Clients"
     },
@@ -2568,6 +2981,41 @@
       ],
       "href": "/articles/2023/08/containers.html",
       "title": "Containers"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/apis-microservices.html",
+      "title": "Microservices and APIs"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/infrastructure-as-code.html",
+      "title": "Infrastructure as Code (IaC)"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/resource-policies.html",
+      "title": "Resource Policies"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/service-integration.html",
+      "title": "Service Integration"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/transit-gateways.html",
+      "title": "Transit Gateways"
     },
     {
       "categories": [
@@ -2771,6 +3219,20 @@
       ],
       "href": "/articles/2023/08/secure-data-destruction.html",
       "title": "Secure Data Destruction"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/fencing.html",
+      "title": "Fencing"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/lighting.html",
+      "title": "Lighting"
     },
     {
       "categories": [
@@ -3065,6 +3527,20 @@
       ],
       "href": "/articles/2023/08/file-manipulation-tools.html",
       "title": "Common File Manipulation Tools"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/08/preparing-documentation-and-evidence.html",
+      "title": "Preparing Documentation and Evidence"
+    },
+    {
+      "categories": [
+        "fundamental-concepts"
+      ],
+      "href": "/articles/2023/09/digital-forensics-acquiring-evidence.html",
+      "title": "Digital Forensics: Acquiring Evidence"
     },
     {
       "categories": [
