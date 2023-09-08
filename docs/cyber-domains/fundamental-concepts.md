@@ -359,6 +359,8 @@
 
 #### Network Device Hardening 
 
+* [](network-device-hardening)
+
 #### Network Threats Mitigation Techniques
 
 ### Network Troubleshooting and Tools
@@ -366,6 +368,8 @@
 #### Network Troubleshooting Methodology
 
 #### Network Troubleshooting Tools
+
+* [](network-troubleshooting-command-line-tools)
 
 #### Wired Connectivity and Performance Issues
 
@@ -454,7 +458,7 @@
 * [](ddos-attacks)
 * [](loop-prevention)
 * [](layer2-attacks)
-* [](scripting)
+* [](scripting-environments)
 * [](malicious-code-indicators)
 * [](execution-control)
 * [](open-auth-captive-portal)
