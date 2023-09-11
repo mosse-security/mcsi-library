@@ -508,6 +508,8 @@
 * [](ssl-tls-inspection)
 * [](api-considerations)
 * [](hashing-enterprise-data)
+* [](site-resiliency)
+* [](deception-and-disruption)
 
 #### Virtualization and Cloud Computing
 
