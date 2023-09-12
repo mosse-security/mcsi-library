@@ -326,6 +326,7 @@
 #### Cloud Concepts and their Purposes
 
 * [](enhancing-cloud-connectivity-methods-security-implications)
+* [](understanding-how-local-and-cloud-resources-work-together)
 
 #### Functions of Network Services
 
