@@ -315,7 +315,13 @@
 
 #### Network Topologies, Types and Technologies
 
+* [](iot-technologies)
+* [](network-topologies)
+
 #### Wireless Technologies and Configurations
+
+* [](802.11)
+* [](cellular-standards)
 
 #### Cloud Concepts and their Purposes
 
@@ -323,9 +329,18 @@
 
 #### Functions of Network Services
 
+* [](dhcp)
+* [](dns)
+* [](ipam)
+* [](ntp)
+
 ### Infrastructure
 
 #### Cabling Solutions
+
+* [](ethernet-deployment-standards)
+* [](network-connector-types)
+* [](network-media-types)
 
 #### Networking Devices
 
@@ -335,9 +350,16 @@
 
 #### WAN technologies
 
+* [](wan-service-types)
+* [](wan-technologies)
+* [](wan-terminations)
+* [](wan-transmission-medium)
+
 ### Network Operations
 
 #### Documentation and Diagrams to Manage the Network
+
+* [](network-documentation)
 
 #### Business Continuity and Disaster Recovery
 
@@ -366,6 +388,8 @@
 ### Network Troubleshooting and Tools
 
 #### Network Troubleshooting Methodology
+
+* [](network-ts-process)
 
 #### Network Troubleshooting Tools
 
