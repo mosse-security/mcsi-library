@@ -687,6 +687,7 @@
 * [](preserving-and-maintaining-integrity-of-evidence)
 * [](ediscovery-data-recovery-and-non-repudiation-controls)
 * [](non-repudiation-controls)
+* [](strategic-intelligence-and-counterintelligence-gathering)
 
 ### Governance, Risk, and Compliance
 
