@@ -366,6 +366,8 @@
 
 #### Scanning, Monitoring and Patching Processes and their Outputs
 
+* [](network-performance-metrics)
+
 #### Remote Access Methods
 
 #### Policies and Best Practices
@@ -378,13 +380,22 @@
 
 #### Securing Wireless Networks
 
+* [](authentication-authorization-geofencing)
+
 #### Common Networking Attacks
+
+* [](dns-arp-poisoning)
+* [](exploits-vs-vuln)
+* [](logic-bomb)
+* [](vlan-hopping)
 
 #### Network Device Hardening 
 
 * [](network-device-hardening)
 
 #### Network Threats Mitigation Techniques
+
+* [](common-network-mitigation)
 
 ### Network Troubleshooting and Tools
 
