@@ -406,6 +406,8 @@
 #### Network Troubleshooting Tools
 
 * [](network-troubleshooting-command-line-tools)
+* [](network-troubleshooting-hardware-tools)
+* [](network-troubleshooting-software-tools)
 
 #### Wired Connectivity and Performance Issues
 
@@ -567,6 +569,10 @@
 
 * [](secure-software-environment)
 * [](provisioning-and-deprovisioning)
+* [](automation-and-scripting-for-security)
+* [](elasticity-scalability)
+* [](open-web-application-security-project)
+* [](software-diversity)
 
 #### Authentication and Authorization
 
