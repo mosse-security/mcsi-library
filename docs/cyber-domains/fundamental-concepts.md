@@ -554,6 +554,9 @@
 
 #### Secure Application Development, Deployment, and Automation
 
+* [](secure-software-environment)
+* [](provisioning-and-deprovisioning)
+
 #### Authentication and Authorization
 
 * [](mfa)
