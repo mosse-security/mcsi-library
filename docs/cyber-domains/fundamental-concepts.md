@@ -708,6 +708,7 @@
 * [](ediscovery-data-recovery-and-non-repudiation-controls)
 * [](non-repudiation-controls)
 * [](strategic-intelligence-and-counterintelligence-gathering)
+* [](navigating-digital-forensics-in-the-on-premises-vs-cloud-landscape)
 
 ### Governance, Risk, and Compliance
 
