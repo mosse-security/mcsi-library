@@ -677,6 +677,10 @@
 
 #### Cybersecurity Solutions for the Cloud
 
+* [](cloud-security-controls)
+* [](cloud-security-solutions)
+* [](cloud-native-controls-vs-third-party-solutions)
+
 #### Implementing Identity and Access Management Controls
 
 #### Implementing Authentication and Authorization Controls
@@ -693,6 +697,7 @@
 * [](packet-capture-tools)
 * [](network-tools)
 * [](file-manipulation-tools)
+* [](exploitation-frameworks)
 
 #### Policies, Processes, and Procedures for Incident Response
 
