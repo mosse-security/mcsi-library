@@ -20,6 +20,8 @@ The primary characteristics of a hash function are as follows:
 
 A collision attack is a cryptographic attack that aims to find two distinct inputs that hash to the same output. In other words, the attacker seeks to identify two different messages that produce identical hash values when processed by the same hash function.
 
+![Collision Attack](collision-attack/collision_attack.jpg)
+
 ### Mechanism
 
 In a collision attack, the attacker generates a large number of different inputs, computes their hash values using the targeted hash function, and stores these pairs of inputs and hash values. The attacker is essentially looking for a collision, which occurs when two distinct inputs produce the same hash value.

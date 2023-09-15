@@ -5,13 +5,11 @@
 
 Edge computing refers to computing performed at the edge of a network, as opposed to the core (usually in the data centre). Edge computing has been driven in large part by network vendors who, thanks to advances in compute power, now have processing power spare on the network (often on network devices which were historically quite tight on resources) which can be made available for tasks which support business goals. Edge computing is different from, but similar to fog computing.
 
- 
-
 ## What is Edge Computing?
 
-Edge computing, in a nutshell, is a computing paradigm that emphasizes data processing at or near the data source, often on devices located at the "edge" of the network. Unlike traditional cloud computing, which centralizes data processing in remote data centers, edge computing aims to bring computation and analytics closer to where data is generated, minimizing latency and enabling real-time decision-making. This might be, for example, on a switch or router. 
+Edge computing, in a nutshell, is a computing paradigm that emphasizes data processing at or near the data source, often on devices located at the "edge" of the network. Unlike traditional cloud computing, which centralizes data processing in remote data centers, edge computing aims to bring computation and analytics closer to where data is generated, minimizing latency and enabling real-time decision-making. This might be, for example, on a switch or router.
 
- 
+![Edge Computing](fog-edge-computing/fog_edge_computing.jpg)
 
 ## Problems Solved by Edge Computing
 

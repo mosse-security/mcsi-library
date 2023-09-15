@@ -23,6 +23,8 @@ Here are some characteristics of hashing algorithms and main concepts:
 
 **no collision**: A solid hashing algorithm will not return identical results from two separate inputs which are also known as a collision. Both outputs should be distinct.
 
+![Hashing](images/hashing.jpg)
+
 ## Application of irreversible cryptographic functions
 
 Message digest algorithms are often used to generate digital signatures, message authentication codes, and encryption keys.

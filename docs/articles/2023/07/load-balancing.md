@@ -5,6 +5,8 @@
 
 A load balancer is a crucial component of modern computer networks and data centers. Its primary function is to distribute incoming client requests across multiple server nodes to ensure efficient resource utilization, optimize performance, and provide high availability and fault tolerance. Load balancers play a vital role in scaling services and applications to handle varying levels of traffic and provide protection against Distributed Denial of Service (DDoS) attacks by distributing and managing incoming traffic effectively.
 
+![Load Balancer](load-balancing/load_balancer.jpg)
+
 Load balancers are often categorized into two main types based on the layers of the OSI (Open Systems Interconnection) model at which they operate: Layer 4 load balancers and Layer 7 load balancers (also known as content switches).
 
 ## Layer 4 Load Balancer

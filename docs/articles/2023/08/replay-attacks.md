@@ -15,6 +15,8 @@ The concept behind a replay attack is relatively simple: if an action or data tr
 
 Replay attacks exploit the inherent statelessness of many digital interactions. Stateless systems do not maintain information about previous events or sessions, making them susceptible to malicious exploitation. When an attacker captures packets during a legitimate transaction, they are essentially obtaining a snapshot of that particular event. By replaying this snapshot later, the attacker can recreate the entire transaction, as the system treats the repeated event as genuine.
 
+![Replay Attacks](replay-attack/replay_attack.jpg)
+
 ## Session Replay
 
 Session replay is the replication of a visitor's experience on a website. Session replay, while conceptually similar to replay attacks, can have legitimate uses in specific scenarios. When a user connects to a web server, a session is formed. This session comprises various interactions between the client and the server. Session replay involves the re-creation of these interactions after they have occurred.
