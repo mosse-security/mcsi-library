@@ -9,6 +9,8 @@ A supply chain refers to the interconnected network of organizations, individual
 
 A supply chain attack refers to a malicious act where an attacker targets a company's supply chain or third-party vendors to compromise the security of the final target. Instead of directly attacking the target organization, the attacker seeks vulnerabilities or weak points in the supply chain to gain unauthorized access, introduce malicious components, or manipulate processes, with the ultimate goal of infiltrating the target's systems or data. This type of attack exploits the trust placed in the interconnected network of suppliers, distributors, and vendors, taking advantage of the dependencies and potential vulnerabilities within the supply chain to carry out the attack.
 
+![Supply Chain Attack](./supply-chain-attacks/supply-chain.jpg)
+
 ## How do Supply Chain Attacks Work?
 
 In the past, these attacks focused on exploiting weaker partners within the supply chain to target their more prominent trading counterparts often by introducing compromised components. However, supply chain attacks have evolved over time to include a range of techniques and vectors. One of the most prevalent methods involves targeting the software supply chain.
