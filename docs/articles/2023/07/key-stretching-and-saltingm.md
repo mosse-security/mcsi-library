@@ -11,6 +11,8 @@ Salting is the process of adding random data (a "salt") to each user's password 
 
 The purpose of salting is to prevent attackers from using precomputed tables like rainbow tables for password cracking. Rainbow tables are large databases of precomputed hashes for common passwords, and they allow attackers to quickly look up the plaintext value of a hashed password. By using a unique salt for each user, even if two users have the same password, their hashed values will be different due to the unique salt, making it much more difficult and time-consuming for attackers to crack the passwords.
 
+![Salting](key-streching-and-salting/salting.png)
+
 ### Salting Example (using SHA-256)
 
 Suppose a user wants to create a password "mySecretPassword." The system generates a random salt, say "abCdeFg," and then concatenates it with the password:
@@ -32,6 +34,8 @@ Stored in Database: Hashed Value + Salt
 Key stretching, also known as password stretching, is a technique used to slow down the hashing process intentionally. It involves applying a cryptographic function repeatedly (thousands or millions of times) on the password and salt to make the hashing process much slower and computationally expensive.
 
 The purpose of key stretching is to increase the time it takes for an attacker to try different password combinations in a brute-force attack. By significantly slowing down the hashing process for legitimate users as well, key stretching ensures that even with modern computing power, it would take an infeasible amount of time to try a large number of password combinations. This helps protect against brute-force attacks and adds an extra layer of security to the password storage mechanism.
+
+![Key Stretching](key-streching-and-salting/key_stretching.png)
 
 ### Key Stretching Example (using PBKDF2)
 

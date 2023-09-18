@@ -15,6 +15,8 @@ Homomorphic encryption is a type of data encryption that enables data manipulati
  
 ## How it works
 When compared to other encryption systems, where the user must first decrypt encrypted data before working on it. This creates vulnerabilities due to the possibility of data manipulation. This encryption methodology is more secure; it addresses this issue by allowing encrypted data to be analysed without being decrypted while remaining in its encrypted state.
+
+![Homomorphic Encryption](images/homomorphic_encryption.png)
  
 ## Benefits of Homomorphic Encryption
 

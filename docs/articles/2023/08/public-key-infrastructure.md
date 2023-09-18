@@ -5,11 +5,9 @@
 
 Public Key Infrastructure (PKI) serves as a foundational framework for secure digital communication and identity verification. By combining cryptographic techniques with digital certificates, PKI enables the establishment of trust and the protection of sensitive data. This comprehensive exploration delves into the technical aspects of each PKI component, offering a detailed understanding of their functions, mechanisms, and significance.
 
-## Introduction to PKI
-
-In the digital age, securing communications and verifying identities are paramount. PKI serves as the framework that underpins these objectives, offering a systematic approach to managing digital certificates and cryptographic keys. PKI involves a set of components that work collaboratively to establish trust in the digital realm.
-
 ## PKI Components
+
+![Public Key Infrastructure](pki/pki.png)
 
 ### Certificate Authority (CA)
 

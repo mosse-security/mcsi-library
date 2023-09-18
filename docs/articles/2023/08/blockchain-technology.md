@@ -5,6 +5,8 @@
 
 Blockchain technology has emerged as a revolutionary concept with the potential to transform various industries, and cybersecurity is no exception. In this article, we will delve into the fundamental concepts of blockchain technology, its applications in cybersecurity, and its potential benefits and challenges.
 
+![Blockchain](blockchain/blockchain.png)
+
 ## Understanding Blockchain Technology
 
 Blockchain is a decentralized and distributed digital ledger technology that enables the secure recording of transactions across a network of computers. Each recorded transaction is called a "block," and these blocks are linked together in a chronological order, forming a "chain." The decentralized nature of blockchain ensures that no single entity has control over the entire chain, making it highly resistant to tampering and unauthorized modifications.
