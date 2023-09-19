@@ -57,6 +57,12 @@
 
 #### Cable Types and their Connectors, Features, and Purposes
 
+* [](connectors)
+* [](hard-drive-cable-types)
+* [](network-cable-types)
+* [](peripheral-cable-types)
+* [](video-cable-types)
+  
 #### RAM Types and Channels
 
 * [](ram)
@@ -264,6 +270,9 @@
 ### Operational Procedures
 
 #### Documentation and Information Management
+
+* [](ticket-systems)
+* [](documentation-knowledgebase)
 
 #### Change Management Best Practices
 
