@@ -573,6 +573,8 @@
 * [](elasticity-scalability)
 * [](open-web-application-security-project)
 * [](software-diversity)
+* [](secure-coding-techniques)
+* [](integrity-measurement)
 
 #### Authentication and Authorization
 
