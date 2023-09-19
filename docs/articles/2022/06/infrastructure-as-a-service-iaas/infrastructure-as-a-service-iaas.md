@@ -2,10 +2,11 @@
 (infrastructure-as-a-service-iaas)=
 # Infrastructure as a Service (IaaS)
  
-
 If your company, like many others, is always searching for methods to enhance efficiency and save expenses. Moving to a cloud-based infrastructure is one approach to do this. Infrastructure as a service (IaaS) is basically cloud computing and allows enterprises to access, manage, and use infrastructure resources in a scalable, pay-as-you-go approach. IaaS is an excellent choice for companies who want to shift to the cloud but don't want to give up the control and flexibility that comes with owning their own infrastructure. You may decide how much or how little of your infrastructure to migrating to the cloud using IaaS.
 
 IaaS (Infrastructure as a Service) is a cloud computing concept that gives consumers access to a virtualized computer environment. Applications and data may be run and stored in this environment. Pay-as-you-go pricing is common among IaaS providers, which can help consumers save money. For organizations that want more control over their IT infrastructure but don't want to manage it themselves, IaaS might be a wonderful alternative. It's also a viable option for companies that need to increase their infrastructure rapidly and easily. If you're thinking about adopting IaaS, do your homework and pick a reliable service.
+
+![Cloud Computing Models](images/cloud_computing_models.jpg)
 
 IaaS includes a wide range of services that may be divided into four categories:
 

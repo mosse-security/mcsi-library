@@ -23,6 +23,8 @@ Based on the cryptographic techniques utilized, there are two basic types of enc
 
 The sender and receiver utilize the same keys for encryption and decryption in Symmetric Encryption. The secret key is another name for the encryption key. The key must be protected by the users on both the sending and receiving ends.
 
+![Symmetric Encryption](images/symmetric_encryption.png)
+
 The strength of the symmetric encryption depends upon the security of the secret key. If the secret key's security is compromised, your information may be exposed to unauthorized entities. The key should be shared between the sender and receiver over secure communication channels.
 
 For the same key length, symmetric encryption is much faster and stronger than asymmetric encryption. It is substantially more difficult to decrypt data encrypted with symmetric encryption. The symmetric encryption's strength grows as the key length increases. In comparison to asymmetric encryption, symmetric encryption can encrypt huge volumes of data very quickly.
@@ -40,6 +42,8 @@ Symmetric encryption only ensures data confidentiality. There is no way to tell 
 The sender and receiver utilize different keys for encryption and decryption in asymmetric encryption. The two keys are related mathematically.
 
 Public-key cryptography is another name for asymmetric encryption. The public and private keys are the two types of keys. The public key is a key that is accessible to everyone. The private key is a key that can only be known by the owner. If an attacker obtains the public key, he should not be able to extract the private key from it. Encryption and decryption are accomplished using both public and private keys. If the data is encrypted with the public key, the only way to decrypt it is to use the private key. In contrast, data encrypted with the private key can only be decrypted using the public key.
+
+![Asymmetric Encryption](images/asymmetric_encryption.png)
 
 In contrast to symmetric encryption, which only provides data confidentiality, asymmetric encryption provides both confidentiality and authentication. If the sender is transmitting sensitive information to a specific person, the data will be encrypted using the receiver's public key. Only the person who received the data, i.e. the receiver, will be able to decrypt it using his private key. This is how asymmetric encryption ensures the confidentiality of data.
 

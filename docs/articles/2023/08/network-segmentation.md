@@ -17,6 +17,8 @@ A VLAN is a virtual network that allows network administrators to logically segm
 
 VLANs are created by assigning specific ports on network devices (usually switches) to a specific VLAN ID. Devices within the same VLAN can communicate with each other directly, while devices in different VLANs act as if they are not connected at Layer 2 – they, therefore, need to go through a router or a Layer 3 switch for communication. This segregation ensures that traffic from one VLAN cannot directly reach devices in another VLAN, providing a level of isolation and security. 
 
+![VLANs](network-segmentation/vlan.png)
+
 VLANs are typically assigned based on factors such as functional department, user groups, or security requirements (perhaps clearance levels, for example). VLANs allow network administrators to control traffic flow between segments and enforce security policies – for example, a host in the marketing department on the marketing VLAN probably never needs to access a sensitive development server in the development VLAN. An administrator can configure an Access Control List on a switch or router to deny the marketing VLAN access to the development VLAN. Now, if an attacker was to compromise the marketing host and attempt to access the development server their traffic would just be dropped!
 
 ```
@@ -39,6 +41,8 @@ VLAN Name                             Status    Ports
 ## Screened Subnet or Demilitarized Zone (DMZ)
 
 A Screened Subnet, or DMZ, is an intermediate network zone situated between the internal trusted network and the untrusted external network, such as the Internet. The purpose of implementing a Screened Subnet is to create a buffer zone that separates public-facing services (e.g., web servers, email servers, and FTP servers) from critical internal resources and data.
+
+![DMZ](network-segmentation/dmz.png)
 
 The security rationale behind the Screened Subnet lies in the idea that public services are often targeted by attackers seeking vulnerabilities. By placing these services in a separate network segment, any successful breach of a public service will be contained within the Screened Subnet, preventing direct access to the sensitive internal network. Consequently, sensitive data, proprietary information, and critical systems remain safeguarded even in the event of a breach.
 

@@ -2,10 +2,11 @@
 (software-as-a-service-saas)=
 # Software as a Service (SaaS)
  
-
 Software as a service (SaaS) is undeniably changing the way we think about and use software. We no longer have to install and maintain software on our own computers or devices; instead, we may get it over the internet, generally for a fee. This move has huge repercussions for organizations as well as individual individuals.
 
 Software as a Service, or SaaS, represents a cloud computing method for delivering software over the internet. SaaS refers to a model of software distribution, in which software is hosted centrally. It's a type of cloud computing service in which a customer gets an application through the internet. SaaS (Software as a Service) is a newer paradigm of software development and delivery that has gained a lot of traction in recent years. Unlike the conventional software development strategy, which involves installing software on a local workstation, SaaS applications are hosted on a distant server and accessed via a web browser. One of the main advantages of SaaS is that it can be accessed from anywhere via a connection over the internet.
+
+![Cloud Computing Models](images/cloud_computing_models.jpg)
 
 ## What are the risks and challenges associated with Software as a Service (SaaS)?
 

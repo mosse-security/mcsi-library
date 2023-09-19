@@ -5,7 +5,7 @@
 
 Load balancing involves distributing network traffic or workload across multiple servers, ensuring that no single server is overwhelmed and that resources are utilized efficiently. Other articles on our library have looked at different types of load balancer, and in this article will explore some of the various load balancing strategies, including active/active and active/passive configurations, scheduling techniques, virtual IP, and the concept of persistence.
 
- 
+ ![Load Balancer](load-balancing-strategies/load_balancer.jpg)
 
 ## Active/Active Load Balancing
 

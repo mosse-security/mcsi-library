@@ -13,7 +13,7 @@ TPMs are a hardware-based security solution that provides a robust foundation fo
 
 At its core, a Trusted Platform Module (TPM) is a dedicated microcontroller integrated into a computer's motherboard or added as a separate hardware component. Its primary purpose is to ensure the security of cryptographic keys, facilitate secure boot processes, and provide a hardware root of trust for various operations. TPMs adhere to the specifications set forth by the Trusted Computing Group (TCG), an industry consortium that establishes open standards for secure computing environments. As many would-be Windows 11 upgraders have recently found, most modern processors have a TPM built in, and many motherboards have a slot for one (which may or may not have come from the factory with a TPM chip installed). Many people were surprised to find that they had a TPM, although it wasn’t actually enabled! 
 
-
+![TPMs](tpms/tpm.png)
 
 ## Key Functions and Features of TPMs
 

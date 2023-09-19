@@ -9,6 +9,8 @@ In an era where data is the backbone of businesses, protecting enterprise data h
 
 Hashing is a process that takes any input data and converts it into a fixed-length string of characters, commonly a hexadecimal number. The resulting string, known as a hash value or hash code, is unique to the input data. This uniqueness ensures that even a minor change in the input data will produce a significantly different hash value. Hash functions are designed to be one-way, meaning it's computationally infeasible to reverse the process and obtain the original data from its hash value. This characteristic is central to its role in data security.
 
+![Hashing](hashing/hashing.jpg)
+
 ## The Significance of Hashing in Enterprise Data Management
 
 This section emphasizes how hashing plays a pivotal role in effectively managing an organization's data.

@@ -15,6 +15,8 @@ Security frameworks typically consist of guidelines, best practices, and control
 
 The **National Institute of Standards and Technology (NIST) Cybersecurity Framework** is a widely recognized and widely adopted framework that offers guidance for organizations to manage and reduce cybersecurity risks. It was developed in response to Executive Order 13636, which aimed to improve the cybersecurity of critical infrastructure in the United States. The framework provides a holistic approach to cybersecurity, emphasizing risk management and continuous improvement.
 
+![NIST Cybersecurity Framework](key-security-frameworks/nist_framework.png)
+
 The NIST Cybersecurity Framework consists of five core functions:
 
 1. **Identify**: This function involves understanding and managing cybersecurity risks by identifying assets, systems, data, and potential vulnerabilities. It forms the foundation for effective risk management.

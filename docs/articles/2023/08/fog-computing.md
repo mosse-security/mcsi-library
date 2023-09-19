@@ -5,18 +5,15 @@
 
 Fog computing is a distributed form of cloud computing – this means that the workload is performed in the cloud, but as part of a distributed, decentralized architecture. In practice, this means that compute is moved towards edge nodes and away from centralised servers. The most popular use case for fog computing is probably IoT, an area which is growing exponentially at present. 
 
- 
-
 ## What is Fog Computing?
 
 Fog computing, also known as edge computing, is a decentralized computing paradigm that extends cloud computing capabilities to the edge of the network. It aims to bring computing resources closer to the data source and end-users, reducing latency and enabling real-time processing and analysis of data. In fog computing, data is processed and stored at various points in the network hierarchy, such as routers, switches, and gateways, rather than solely relying on centralized cloud servers. As compared to the concept of  “the cloud” the idea of “fog” refers to the way that fog is generally more distributed than a cloud – hopefully that helps you visualise what we mean! 
 
- 
+![Fog Computing](fog-edge-computing/fog_edge_computing.jpg)
 
 ## Problems Solved by Fog Computing
 
 Fog computing is mainly of interest because of the way it addresses the challenges posed by the explosive growth of IoT (Internet of Things) devices and the need for rapid data analysis. Traditional cloud computing models struggle with latency issues when processing data from numerous IoT devices, even when using high performance networks and compute. By moving computation closer to the data source, fog computing minimizes data transfer delays and allows faster response times, making it particularly useful for applications that require real-time analytics and decision-making. Of course, edge devices tend to have less compute power than purpose built cloud compute, however if each element in a fog network performs a small amount of compute the lack of processing power can be offset with the volume of nodes.
-
 
 
 ## Advantages of Fog Computing
@@ -33,8 +30,6 @@ The main advantages of a fog computing approach are:
 
 - **Resilience -** Distributed architecture makes fog systems more resilient to failures and outages, as tasks can be rerouted to other nearby devices.
 
-  
-
 ## Disadvantages of Fog Computing
 
 As always, there’s also some downsides with fog computing to be aware of – the most important are:
@@ -44,8 +39,6 @@ As always, there’s also some downsides with fog computing to be aware of – t
 - **Limited Resources -** Edge devices might have limited computing power and memory, which could constrain the complexity of tasks they can handle. If there are not enough other devices to take up the slack there may not be enough power available.
 
 - **Security Concerns -** Distributing data and processing across various devices raises security challenges, potentially increasing the attack surface.
-
-   
 
 ## Security Concerns with Fog Computing
 
@@ -58,8 +51,6 @@ Fundamentally, distributing data over a wider area and more systems serves to in
 - **Data Integrity -** Ensuring data integrity becomes more challenging when data is processed and stored across different devices with varying levels of security.
 
 - **Authentication and Authorization -** Managing user access and authentication across a distributed environment requires robust security protocols to prevent unauthorized access.
-
-  
 
 ## An Example Application of Fog Computing - Industrial Internet of Things (IIoT) in Manufacturing
 

@@ -18,6 +18,8 @@ Digital signatures rely on asymmetric cryptography, also known as public-key cry
 
 Digital signatures involve the use of public key cryptography. The sender uses their private key to sign the document, creating a unique digital signature. The recipient then uses the sender's public key to verify the signature.
 
+![Digital Signatures](digital-signatures/digital_signature.jpg)
+
 ### Creating a Digital Signature
 
 1. **Generate Key Pair**: The signer generates a cryptographic key pair consisting of a private key and a corresponding public key. The private key remains confidential and is known only to the signer, while the public key can be shared openly.

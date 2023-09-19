@@ -15,6 +15,8 @@ Here's how Pass the Hash attack works:
 
 **4.	Elevation of Privileges:** Once authenticated, the attacker can potentially escalate privileges and access sensitive information or perform unauthorized actions on the target system.
 
+![Pass the Hash Attack](pass-the-hash/pass_the_hash.jpg)
+
 ## Examples of Pass the Hash Attack
 
 - An attacker gains access to a Windows system and extracts the hashed password from the Windows Security Account Manager (SAM) or Active Directory (NTDS.dit) database. They use tools like Mimikatz to pass the hashed credentials and authenticate on another system within the same domain.

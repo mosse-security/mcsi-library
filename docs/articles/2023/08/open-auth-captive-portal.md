@@ -33,6 +33,8 @@ When a wireless network is configured with open authentication, the network's ac
 
 A **Captive Portal**, often referred to as a **splash page**, is a web page that users are redirected to when they attempt to access a public network, typically in places like hotels, airports, or cafes. The purpose of a captive portal is to authenticate users, provide terms of use or acceptable use policies, and potentially gather some basic user information before granting access to the internet.
 
+![Sample Captive Portal](open-auth-captive-portal/Captive_Portal.png)
+
 ### How Captive Portals Work
 
 When a user connects to a Wi-Fi network with a captive portal, their web browser is automatically redirected to a specific webpage hosted by the network. This webpage displays information about the network's terms of use, privacy policies, and possibly a login or authentication form. Users must take some action, such as clicking "Agree" or entering a code, before they are allowed full access to the internet.
