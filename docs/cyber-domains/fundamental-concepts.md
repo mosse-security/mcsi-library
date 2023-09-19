@@ -705,6 +705,9 @@
 
 #### Data Sources for Incident Investigation
 
+* [](siem-dashboards)
+* [](vulnerability-scan-output)
+
 #### Mitigation Techniques to Secure Enterprise Environment
 
 #### Digital Forensics
