@@ -17,6 +17,8 @@ Understanding the various types of virtualization is essential for integrating i
 
 Desktop virtualization occurs when the host server can run virtual machines via a hypervisor (a software program). A hypervisor can be installed directly on the host machine or over the operating system (like windows, mac, and linux). Virtualized desktops do not use the hard drive of the host system; instead, they run on a remote central server. This type of virtualization is beneficial to development and testing teams that need to develop or test applications on multiple operating systems.
 
+<img src="images/desktop_virtualization.png" alt="Desktop Virtualization" height="400"/></br>
+
 - **Application virtualization**
 
 Desktop virtualization occurs when a hypervisor allows the host server to run virtual machines (a software program). A hypervisor can be installed on the host machine or on top of the operating system (like windows, mac, and linux). Virtualized desktops run on a remote central server rather than the host system's hard drive. This type of virtualization is advantageous for development and testing teams that must develop or test applications on multiple operating systems.
