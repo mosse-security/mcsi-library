@@ -694,6 +694,9 @@
 
 #### Implementing Identity and Access Management Controls
 
+* [](identity-solutions)
+* [](managing-different-account-types)
+
 #### Implementing Authentication and Authorization Controls
 
 #### Implementing Public Key Infrastructure
