@@ -694,6 +694,9 @@
 
 #### Implementing Identity and Access Management Controls
 
+* [](identity-solutions)
+* [](managing-different-account-types)
+
 #### Implementing Authentication and Authorization Controls
 
 #### Implementing Public Key Infrastructure
@@ -717,6 +720,7 @@
 * [](siem-dashboards)
 * [](vulnerability-scan-output)
 * [](log-files-critical-data-sources-for-incident-investigations)
+* [](log-management-tools-and-protocols)
 
 #### Mitigation Techniques to Secure Enterprise Environment
 
