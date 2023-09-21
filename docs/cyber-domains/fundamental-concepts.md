@@ -720,6 +720,7 @@
 * [](siem-dashboards)
 * [](vulnerability-scan-output)
 * [](log-files-critical-data-sources-for-incident-investigations)
+* [](log-management-tools-and-protocols)
 
 #### Mitigation Techniques to Secure Enterprise Environment
 
