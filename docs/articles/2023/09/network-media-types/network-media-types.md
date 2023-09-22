@@ -15,7 +15,7 @@ Media types in networks can be broadly categorized into two main categories**: w
 
 Twisted pair cable consists of pairs of insulated copper wires twisted together. It is one of the most common types of media used for Ethernet connections in both residential and commercial environments.
 
-<img src="images/twisted_pair.png" alt="Twisted Pair cable" height="300"/></br>
+<img src="images/twisted_pair.png" alt="Twisted Pair cable" height="200"/></br>
 
 **Advantages**
 
@@ -37,7 +37,7 @@ Twisted pair cable consists of pairs of insulated copper wires twisted together.
 
 Coaxial cable consists of a central conductor, an insulating layer, a metallic shield, and an outer insulating layer. It is known for its durability and high bandwidth capabilities.
 
-<img src="images/coaxial.png" alt="Coaxial cable" height="300"/></br>
+<img src="images/coaxial.png" alt="Coaxial cable" height="200"/></br>
 
 **Advantages**
 
@@ -57,9 +57,9 @@ Coaxial cable consists of a central conductor, an insulating layer, a metallic s
 
 ### Fiber Optic Cable
 
-<img src="images/fiber_optic.png" alt="Fiber optic cable" height="300"/></br>
-
 Fiber optic cable uses thin strands of glass or plastic fibers to transmit data using light signals. It is known for its high data transmission speeds and immunity to electromagnetic interference.
+
+<img src="images/fiber_optic.png" alt="Fiber optic cable" height="200"/></br>
 
 **Advantages**
 
