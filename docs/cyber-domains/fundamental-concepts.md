@@ -318,9 +318,18 @@
 
 #### Routing and Switching
 
+* [](distributed-switching)
+* [](improving-network-performance)
+* [](nat-pat)
+* [](properties-network-traffic)
+* [](routing-protocols)
+* [](segmentation-network-properties)
+
 #### IP addressing Schemes
 
 * [](public-vs-private-addressing)
+* [](ipv4-vs-ipv6)
+* [](ipv6-concepts)
 
 #### Network Topologies, Types and Technologies
 
@@ -357,6 +366,9 @@
 #### Advanced Networking Devices
 
 #### Virtualization and Network Storage Technologies
+
+* [](virtual-networking-devices)
+* [](network-storage-types-connection-types)
 
 #### WAN technologies
 
@@ -424,6 +436,7 @@
 
 #### Network Service Issues
 
+* [](troubleshooting-network-service-issues)
 
 
 ## Cybersecurity
