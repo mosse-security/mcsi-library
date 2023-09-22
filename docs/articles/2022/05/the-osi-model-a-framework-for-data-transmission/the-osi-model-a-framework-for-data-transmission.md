@@ -21,6 +21,9 @@ As described above, the OSI model is used to break down network communication in
 
 Let's take a closer look at each of the OSI model's seven layers now that we've covered the basics. We will review these layers using the top-down approach.
 
+
+<img src="images/osi_model.png" alt="OSI Model" height="400"/></br>
+
 ### Application Layer:
 
 The application layer is the 7th layer of the OSI model and is closest to the end-user. The application layer is the interface between the application and the network. This layer is used by the end-user application/software for functions including message exchange, file transmission, and much more.
