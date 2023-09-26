@@ -314,6 +314,8 @@
 
 #### Ports and Protocols
 
+* [](connectionless-vs-connection-oriented-protocols)
+
 #### The OSI Model
 
 #### Routing and Switching
@@ -330,6 +332,7 @@
 * [](public-vs-private-addressing)
 * [](ipv4-vs-ipv6)
 * [](ipv6-concepts)
+* [](virtual-ip-subnets)
 
 #### Network Topologies, Types and Technologies
 
@@ -360,6 +363,8 @@
 * [](ethernet-deployment-standards)
 * [](network-connector-types)
 * [](network-media-types)
+* [](copper-cable-termination-standards)
+* [](transceivers-termination-points)
 
 #### Networking Devices
 
@@ -388,14 +393,20 @@
 #### Scanning, Monitoring and Patching Processes and their Outputs
 
 * [](network-performance-metrics)
+* [](network-event-management)
+* [](network-process-monitoring)
 
 #### Remote Access Methods
 
 #### Policies and Best Practices
 
+* [](major-types-network-policies-best-practices)
+
 ### Network Security
 
 #### Physical Security Devices
+
+* [](physical-security-network-devices)
 
 #### Authorization and Access Controls
 
@@ -554,6 +565,7 @@
 * [](syslog-siem-tools)
 * [](vulnerability-scans)
 * [](what-is-threat-hunting)
+* [](security-assessments)
 
 #### Penetration Testing Techniques
 
