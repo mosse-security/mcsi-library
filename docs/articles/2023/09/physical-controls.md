@@ -147,9 +147,7 @@ Ensuring the physical security of staff members is not only a legal and ethical 
 
 Many industries and jurisdictions have specific regulations and standards related to physical security and staff safety. Non-compliance can result in legal consequences, fines, and damage to an organization's reputation.
 
-### 4. Risk
-
- Mitigation
+### 4. Risk Mitigation
 
 By implementing physical security controls and staff security measures, organizations can reduce the risk of security breaches, workplace violence, and other incidents that can disrupt operations and lead to financial losses.
 
