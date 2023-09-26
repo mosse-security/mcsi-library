@@ -737,6 +737,9 @@
 
 #### Mitigation Techniques to Secure Enterprise Environment
 
+* [](configuration-changes-mitigating-security-incidents)
+* [](reconfiguring-endpoint-security-solutions)
+
 #### Digital Forensics
 
 * [](preparing-documentation-and-evidence)
