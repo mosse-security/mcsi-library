@@ -740,6 +740,8 @@
 
 #### Policies, Processes, and Procedures for Incident Response
 
+* [](business-continuity-through-high-availability)
+
 #### Data Sources for Incident Investigation
 
 * [](siem-dashboards)
