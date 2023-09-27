@@ -8,6 +8,7 @@
 #### Installing and Configuring Laptop Hardware
 
 * [](types-of-hardware-components)
+* [](physical-security-components)
 
 #### Display Components of Mobile Devices
 
@@ -614,6 +615,7 @@
 
 * [](mfa)
 * [](auth-methods)
+* [](authentication-authorisation-cloud-vs-on-premises)
 
 #### Implementing Cybersecurity Resilience
 
@@ -631,6 +633,8 @@
 * [](system-on-chip)
 * [](hvac)
 * [](multifunctional-printers)
+* [](communications-technologies-security-considerations)
+* [](specialised-systems-security-constraints)
 
 #### Physical Security Controls
 
@@ -652,6 +656,7 @@
 * [](secure-data-destruction)
 * [](fencing)
 * [](lighting)
+* [](sensors)
 
 #### Cryptography
 
@@ -740,6 +745,7 @@
 * [](network-tools)
 * [](file-manipulation-tools)
 * [](exploitation-frameworks)
+* [](data-sanitization)
 
 #### Policies, Processes, and Procedures for Incident Response
 
@@ -751,6 +757,7 @@
 * [](vulnerability-scan-output)
 * [](log-files-critical-data-sources-for-incident-investigations)
 * [](log-management-tools-and-protocols)
+* [](protocol-analyzer-output)
 
 #### Mitigation Techniques to Secure Enterprise Environment
 
