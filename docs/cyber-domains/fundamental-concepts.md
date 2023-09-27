@@ -751,6 +751,8 @@
 
 * [](configuration-changes-mitigating-security-incidents)
 * [](reconfiguring-endpoint-security-solutions)
+* [](configuring-soar-tools)
+* [](isolation-containment-and-segmentation-after-an-incident)
 
 #### Digital Forensics
 
