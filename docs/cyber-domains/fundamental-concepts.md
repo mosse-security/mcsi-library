@@ -721,8 +721,11 @@
 
 * [](identity-solutions)
 * [](managing-different-account-types)
+* [](account-policies)
 
 #### Implementing Authentication and Authorization Controls
+
+* [](authentication-management)
 
 #### Implementing Public Key Infrastructure
 
