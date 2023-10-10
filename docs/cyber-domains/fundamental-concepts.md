@@ -753,6 +753,7 @@
 * [](business-continuity-through-high-availability)
 * [](exercises-for-incident-response-testing)
 * [](attack-frameworks)
+* [](stakeholders-communication)
 
 #### Data Sources for Incident Investigation
 
