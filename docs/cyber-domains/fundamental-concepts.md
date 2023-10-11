@@ -754,6 +754,8 @@
 * [](exercises-for-incident-response-testing)
 * [](attack-frameworks)
 * [](stakeholders-communication)
+* [](coop)
+* [](incident-response-team)
 
 #### Data Sources for Incident Investigation
 
