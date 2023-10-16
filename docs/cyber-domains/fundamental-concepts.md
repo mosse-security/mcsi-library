@@ -764,6 +764,7 @@
 * [](log-files-critical-data-sources-for-incident-investigations)
 * [](log-management-tools-and-protocols)
 * [](protocol-analyzer-output)
+* [](bandwidth-monitors)
 
 #### Mitigation Techniques to Secure Enterprise Environment
 
