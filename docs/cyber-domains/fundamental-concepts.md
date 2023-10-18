@@ -766,6 +766,8 @@
 * [](log-management-tools-and-protocols)
 * [](protocol-analyzer-output)
 * [](bandwidth-monitors)
+* [](examining-metadata)
+* [](network-monitoring-protocols)
 
 #### Mitigation Techniques to Secure Enterprise Environment
 
