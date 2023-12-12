@@ -5,20 +5,6 @@
 
 Printers are essential devices that play a crucial role in our daily lives, whether at home or in the office. However, like any technology, printers can encounter issues that disrupt their functionality. In this article, we will explore common printer problems, their potential causes, and effective solutions to help you troubleshoot and resolve these issues.
 
-## Contents
-- [Troubleshooting Common Printer Issues](#troubleshooting-common-printer-issues)
-  - [Contents](#contents)
-  - [Common Printer Problems](#common-printer-problems)
-    - [Paper Jams](#paper-jams)
-    - [Slow Printing](#slow-printing)
-    - [Print Quality Issues](#print-quality-issues)
-    - [Connection Problems](#connection-problems)
-    - [Driver Problems](#driver-problems)
-    - [Spooler Errors](#spooler-errors)
-    - [Ink/Toner Smudging](#inktoner-smudging)
-    - [Wireless Printing Issues](#wireless-printing-issues)
-  - [Final Words](#final-words)
-
 ## Common Printer Problems
 
 ### Paper Jams

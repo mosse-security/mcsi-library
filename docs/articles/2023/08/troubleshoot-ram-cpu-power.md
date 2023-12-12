@@ -5,28 +5,6 @@
 
 In the realm of computer hardware, troubleshooting problems related to motherboards, RAM, CPU, and power is a fundamental skill for anyone working with computers or even just a regular user. These components are integral to the functioning of a computer system, and when issues arise, they can lead to a range of performance problems and errors. This article aims to provide an informative guide to common problems, their potential causes, and possible solutions related to motherboards, RAM, CPU, and power-related issues.
 
-## Contents
-
-- [Troubleshooting Problems Related to Motherboards, RAM, CPU, and Power](#troubleshooting-problems-related-to-motherboards-ram-cpu-and-power)
-  - [Contents](#contents)
-  - [Motherboard Problems](#motherboard-problems)
-    - [**No Power**](#no-power)
-    - [**Boot Failures**](#boot-failures)
-    - [**Peripheral Malfunction**](#peripheral-malfunction)
-  - [RAM Problems](#ram-problems)
-    - [**Memory Errors**](#memory-errors)
-    - [**System Crashes**](#system-crashes)
-    - [**Inadequate Performance**](#inadequate-performance)
-  - [CPU Problems](#cpu-problems)
-    - [**Overheating**](#overheating)
-    - [**System Freezes**](#system-freezes)
-    - [**Blue Screen of Death (BSoD)**](#blue-screen-of-death-bsod)
-  - [Power Problems](#power-problems)
-    - [**Computer Not Turning On**](#computer-not-turning-on)
-    - [**Intermittent Shutdowns**](#intermittent-shutdowns)
-    - [**Unstable System**](#unstable-system)
-  - [Final Words](#final-words)
-
 ## Motherboard Problems
 
 ### **No Power**

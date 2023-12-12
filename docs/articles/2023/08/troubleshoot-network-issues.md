@@ -5,20 +5,6 @@
 
 Troubleshooting network issues, whether they are wired or wireless, is a crucial skill for anyone working with computers and technology. In this article, we will discuss 8 common network problems, their potential causes, and the corresponding solutions. By understanding these issues and how to resolve them, you can ensure smoother and more reliable network connectivity.
 
-## Contents
-- [Troubleshooting Common Wired/Wireless Network Issues](#troubleshooting-common-wiredwireless-network-issues)
-  - [Contents](#contents)
-  - [Common Network Problems](#common-network-problems)
-    - [No Internet Connection](#no-internet-connection)
-    - [Slow Internet Speed](#slow-internet-speed)
-    - [Intermittent Connectivity](#intermittent-connectivity)
-    - [Limited or No Network Access](#limited-or-no-network-access)
-    - [DNS Resolution Issues](#dns-resolution-issues)
-    - [Cannot Connect to Local Network Resources](#cannot-connect-to-local-network-resources)
-    - [IP Address Renewal Issues](#ip-address-renewal-issues)
-    - [Security and Privacy Concerns](#security-and-privacy-concerns)
-  - [Final Words](#final-words)
-
 ## Common Network Problems
 
 ### No Internet Connection
