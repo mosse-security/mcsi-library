@@ -1,5 +1,5 @@
 (fundamental-cybersecurity-concepts)=
-# Articles
+# Fundamental Concepts
 
 ## I.T Fundamentals
 

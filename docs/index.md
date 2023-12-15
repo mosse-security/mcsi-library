@@ -194,6 +194,7 @@ it-domains/programming-and-scripting
 :caption: "Cyber Domains:"
 :hidden:
 
+cyber-domains/fundamental-concepts
 cyber-domains/career-pathways
 cyber-domains/cloud-security
 cyber-domains/cyber-defense
