@@ -68,7 +68,7 @@ Starbursting involves visualizing a star with the central idea or topic in the m
 
 1. **Identify the Central Topic:** Place the main focus of your report at the center of the star. This could be a specific cybersecurity incident, a policy review, or a system assessment.
 
-2. **Generate the Six W's:** Begin by framing questions around the six basic W's: Who, What, When, Where, Why, and How. For instance:
+2. **Generate Questions:** Begin by framing questions around the five basic W's: Who, What, When, Where, Why, and also How! For instance:
 
     - Who was impacted by the security breach?
     - What methods were used in the attack?
