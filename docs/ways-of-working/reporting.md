@@ -282,6 +282,35 @@ Embarking on the writing journey of your cybersecurity report can be akin to set
 
 ## TL;DR
 
+### Before you write
+
+- What is the primary objective of my report?
+- Which key topics and points are essential to include?
+- Who is my intended audience, and what are their informational needs?
+- How can I best organize and present the information to meet these needs?
+
+**To Do:**
+
+- Compile a comprehensive list of key stakeholders involved or impacted by the report
+- For each listed stakeholder, develop a detailed inventory of their specific needs and expectations
+- Create an exhaustive checklist of elements required in the report to address and satisfy the identified needs and wants of all stakeholders
+- Generate a list of critical questions that the report must address, ensuring comprehensive coverage of the topic
+- Outline a list of necessary diagrams, images, tables, and figures that will effectively convey the report's data and insights
+- Construct a preliminary Table of Contents that logically organizes the report's content, facilitating ease of navigation and comprehension
+
+### Once your report is written
+
+- Does my report exhibit a logical and clear structure?
+- Are all crucial topics adequately covered in the document?
+- Does the report provide all necessary information for the intended audience, supported by relevant evidence?
+- Have I identified and acknowledged any gaps in information?
+- Does the report culminate in a well-defined conclusion?
+- Is there any superfluous information that needs to be removed, or is there detailed content in the main text that would be more appropriate in an annex?
+- Is the document's layout clear, and does it adhere to prescribed style guidelines?
+- Has the report undergone thorough proofreading for accuracy and clarity?
+
+### Complete Summary
+
 1. Craft cybersecurity reports that effectively communicate vital information for decision-making and strategy development
 2. Apply universally applicable foundational principles and guidelines, regardless of the report's specific context
     - Conduct thorough research on various cybersecurity report examples from reputable sources online.
@@ -308,3 +337,12 @@ Embarking on the writing journey of your cybersecurity report can be akin to set
     - Workflow Diagrams
     - Process Maps
     - Gantt Charts
+8. Use this tone of language:
+    - Concise
+    - Factual
+    - Clear
+    - Substantiated
+    - Unbiased
+    - Professional
+      - Proof read for errors
+      - Only use jargon in technical sections of the report
