@@ -1,3 +1,5 @@
+(rca-method)=
+
 # Root Cause Analysis
 
 Root cause analysis (RCA) is a process used in IT to identify the underlying cause of a problem. By identifying the root cause, IT professionals can develop a solution that addresses the problem at its source, rather than simply treating the symptoms. Root cause analysis typically involves breaking down a problem into smaller pieces and then systematically investigating each piece to identify the root cause. This process can be used to identify problems with hardware, software, processes, or any other aspect of IT.
