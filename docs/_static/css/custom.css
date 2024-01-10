@@ -16,6 +16,11 @@ h3 {
   font-size: 1.5rem !important;
 }
 
+h4 {
+  color: #553939 !important;
+  font-size: 1.2rem !important;
+}
+
 .block {
   display: block;
 }
