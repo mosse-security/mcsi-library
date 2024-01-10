@@ -45,6 +45,14 @@ h3 {
   margin-bottom: 40px;
 }
 
+.max-width-200 {
+  max-width: 200px !important;
+}
+
+.max-width-300 {
+  max-width: 300px !important;
+}
+
 .max-width-400 {
   max-width: 400px !important;
 }

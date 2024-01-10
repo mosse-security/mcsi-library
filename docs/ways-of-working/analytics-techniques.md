@@ -1,6 +1,32 @@
 # Analytics Techniques
 
-Structured analytic techniques (SATs) are a set of tools used by analysts to improve the quality of their analysis and reduce the impact of cognitive biases and errors. SATs are based on the premise that humans are fallible and that our cognitive limitations can lead to errors in analysis. The goal of SATs is to provide a framework for analysis that minimizes the impact of these cognitive biases and errors. 
+Structured analytic techniques (SATs) are a set of tools used by analysts to improve the quality of their analysis and reduce the impact of cognitive biases and errors. SATs are based on the premise that humans are fallible and that our cognitive limitations can lead to errors in analysis. The goal of SATs is to provide a framework for analysis that minimizes the impact of these cognitive biases and errors.
+
+## Why are SATs important in cybersecurity?
+
+In the field of cybersecurity, Structured Analytic Techniques (SATs) serve as a critical set of tools to enhance the quality and reliability of analysis. These techniques are designed to counteract cognitive limitations and biases.
+
+SATs assist analysts in systematically breaking down cybersecurity problems, ensuring that assumptions, biases, and established cognitive patterns are thoroughly scrutinized. This methodical approach to analysis helps in identifying subtle patterns and anomalies in data, situations or events.
+
+By employing structured techniques, cybersecurity analysts can rigorously evaluate their hypotheses and conclusions, providing a more transparent and robust analysis. Moreover, SATs offer a balance between intuitive and methodical problem-solving, adding rigor to the analysis and making it easier to communicate and justify conclusions to stakeholders.
+
+In an era where cybersecurity challenges are becoming increasingly intricate, the application of SATs is vital for ensuring that the underlying analysis driving cybersecurity strategies is as sound, comprehensive, and unbiased as possible.
+
+## How you should choose a technique?
+
+Choosing the right technique in structured analytics is crucial to the success of any analysis. This decision can significantly influence the accuracy, relevance, and impact of your findings. Here are key factors to consider when selecting an analytical technique:
+
+1. **Understand the Objective:** Begin by clearly defining the goal of your analysis. Are you trying to identify trends, predict future events, understand complex relationships, or solve a specific problem? The objective will guide you in choosing the most appropriate technique.
+
+2. **Know Your Audience:** Tailor your technique to the needs and comprehension level of your audience. If your findings will be presented to non-technical stakeholders, choose methods that can be easily explained and visualized.
+
+3. **Evaluate Resources and Constraints:** Be realistic about the resources available, including time, expertise, and computational power. Some techniques might require more advanced skills or computing resources than others.
+
+4. **Check for Relevance and Applicability:** Ensure the technique aligns with the current industry standards and best practices. It should also be relevant to the specific field or sector of your analysis.
+
+5. **Flexibility and Scalability:** Consider how adaptable the technique is to changes and how well it can scale with increased data or evolving requirements.
+
+6. **Iterative Testing and Validation:** Finally, remember that selecting a technique is not always a one-time decision. Be prepared to iteratively test different methods and validate their effectiveness in addressing your analysis objectives.
 
 ## Decompose and Visualize
 
@@ -9,6 +35,12 @@ The "Decompose and Visualize" approach in Structured Analytics Techniques is a m
 ### AIMS (Audience, Issue, Message and Storyline)
 
 The goal of the AIMS framework is to create a structured approach to presenting data that is audience-centric, issue-focused, message-driven, and story-oriented. By following this framework, analysts can ensure that their data presentations are not only informative but also compelling and impactful.
+
+```{thumbnail} ../images/ways-of-working/AIMS.png
+:align: right
+:height: 200
+:width: 200
+```
 
 1. **Audience:** The first step is to identify and understand the audience. This involves considering who will be receiving the information and tailoring the analysis to their needs and comprehension level. Knowing the audience helps in determining the complexity of the data, the type of visualizations to use, and the depth of analysis required.
 
@@ -42,9 +74,18 @@ The goal of the AIMS framework is to create a structured approach to presenting 
     - Are there any gaps or jumps in logic in my storyline?
     - Does the storyline reinforce and support the key message?
 
+
 ### Issue Redefinition
 
-The goal of Issue Redefinition in structured analytics is to explore various reinterpretations of the central issue to understand how these alterations can impact the direction of research. Here is a proposed methodology to effectively experiment with different ways of redefining the issue:
+The goal of Issue Redefinition in structured analytics is to explore various reinterpretations of the central issue to understand how these alterations can impact the direction of research.
+
+```{thumbnail} ../images/ways-of-working/issue-redefinition.png
+:align: right
+:height: 200
+:width: 200
+```
+
+Here is a proposed methodology to effectively experiment with different ways of redefining the issue:
 
 1. **Initial Question:** Start with the original issue or question as it is currently defined. This serves as the baseline for comparison.
 
@@ -77,9 +118,91 @@ The goal of Issue Redefinition in structured analytics is to explore various rei
     - Does this viewpoint challenge existing assumptions or reveal new possibilities?
 
 ### Four Ways of Seeing
+
+"Four Ways of Seeing" is an analytical tool that enhances the understanding of multiple stakeholders' perceptions, motivations, and potential misunderstandings in a given scenario. This method is particularly valuable in situations involving multiple parties, providing insights into their interrelationships and viewpoints.
+
+```{thumbnail} ../images/ways-of-working/four-ways-of-seeing.png
+:align: right
+:height: 200
+:width: 200
+```
+
+#### Application
+
+1. **Identification of Stakeholders:** Initially, identify the key stakeholders involved in the scenario. Label them for ease of analysis (e.g., Stakeholder X and Stakeholder Y).
+
+2. **Creating the Matrix:** Construct a 2-by-2 matrix. Label the matrix with the stakeholders' names to represent how each stakeholder views themselves (X sees X, Y sees Y) and how they view each other (X sees Y, Y sees X).
+
+3. **Gathering and Analyzing Perspectives:** For each cell in the matrix, gather inputs using methods like brainstorming. Analyze how each stakeholder perceives the operational environment, cultural and ideological influences, and their stance on various issues.
+
+4. **Identifying Relationships and Misunderstandings:** After filling out the matrix, identify areas of commonality, opposition, and potential misunderstandings between the stakeholders. This step helps to recognize opportunities for collaboration and areas of conflict that may need resolution.
+
+#### Considerations for Effective Use
+
+1. **Complex Interconnections:** Recognize that real-world scenarios often involve more than two stakeholders. Multiple iterations of the tool might be necessary to cover all relevant parties.
+
+2. **Contextual Analysis:** Ensure that the analysis includes a comprehensive view of the stakeholders’ relationships, including their perceptions of the operational environment and legitimate actions.
+
+3. **Values and Beliefs:** Acknowledge that each stakeholder has their own set of values, beliefs, and rational perspectives, which influence their decisions and actions.
+
+The "Four Ways of Seeing" offers a structured approach to understanding complex stakeholder dynamics in diverse scenarios. By systematically examining how different entities perceive each other and their environment, this tool aids in crafting more informed and effective strategies in complex situations.
+
 ### Chronologies and Timelines
-### Sorting
-### Ranking, Scoring and Prioritizing
+
+Chronologies and Timelines are pivotal tools in structured analytics, allowing analysts to map out events, trends, and developments over time. These tools provide a clear and organized way to visualize the sequence and duration of events, aiding in understanding complex histories and forecasting future trends.
+
+```{thumbnail} ../images/ways-of-working/timelines.png
+:align: right
+:height: 200
+:width: 200
+```
+
+#### The Power of Sequencing
+
+1. **Historical Context:** Timelines offer a linear representation of events, which is essential for understanding the historical context of any issue. They illustrate how past events have progressed and interlinked to shape the current situation.
+
+2. **Identifying Patterns:** By laying out events in a chronological order, analysts can more easily spot patterns, anomalies, and recurring themes. This can be particularly useful in fields like market analysis, political studies, and social research.
+
+3. **Cause and Effect:** Chronologies help in identifying cause-and-effect relationships. Understanding the temporal sequence of events can highlight how certain actions led to specific outcomes.
+
+4. **Predictive Analysis:** Timelines are not just about the past; they also aid in forecasting. By analyzing the trajectory of past events, analysts can make educated guesses about future trends and prepare for potential scenarios.
+
+#### Building Effective Timelines
+
+1. **Select Relevant Data:** Determine what events, milestones, or data points are most relevant to the analysis. Overloading a timeline with too much information can obscure important insights.
+
+2. **Consider Different Scales:** Timelines can be created for various durations – from days to decades. The scale should be chosen based on the scope of the analysis and the level of detail required.
+
+3. **Use Visual Aids:** Employing visual elements like color coding, icons, or varying line weights can help in differentiating between types of events or highlighting key moments.
+
+4. **Dynamic Timelines:** In the digital age, timelines can be interactive and dynamic, allowing users to explore different layers of information and view events from various perspectives.
+
+Chronologies and Timelines are more than just a record of events; they are a lens through which we can view the past, understand the present, and anticipate the future. In structured analytics, these tools are indispensable for bringing clarity to complex data sets and illuminating the path ahead.
+
+### Sorting, Ranking, Scoring and Prioritizing
+
+Sorting, ranking, scoring, and prioritizing are integral techniques in structured analytics, each playing a unique role in transforming raw data into actionable intelligence. These methods help analysts to organize, evaluate, and interpret data more effectively, leading to informed decision-making.
+
+```{thumbnail} ../images/ways-of-working/sorting.png
+:align: right
+:height: 200
+:width: 200
+```
+
+1. **Sorting:** Sorting is the process of arranging data in a specific order or sequence. This could be chronological, alphabetical, or numerical, depending on the data type and analysis objective. Sorting provides a structured view of data, making it easier to identify patterns or anomalies.
+
+2. **Ranking:** Ranking involves assigning a relative position or level to items within a dataset based on specific criteria. Unlike sorting, which organizes data, ranking explicitly compares data points to each other, establishing a hierarchy or order of importance or relevance.
+
+3. **Scoring:** Scoring assigns quantitative values to data based on predefined metrics or criteria. This technique is essential in quantifying qualitative data, facilitating comparison across different data sets. Scoring is often used in risk assessment, customer segmentation, and performance evaluation.
+
+4. **Prioritizing:** Prioritization goes beyond ranking and scoring by adding an element of strategic decision-making. It involves determining the order of importance or urgency among various tasks or data points. This technique is crucial in resource allocation, project management, and strategic planning.
+
+#### Implementation and Tools
+
+- **Algorithmic Approach:** Many of these techniques can be implemented through algorithms, especially when dealing with large or complex datasets. Algorithms ensure consistency, accuracy, and efficiency in processing data.
+
+- **Visualization:** Visual tools like charts, graphs, and heat maps often accompany these techniques to provide a more intuitive understanding of the sorted, ranked, scored, or prioritized data.
+
 ### Matrices
 ### Mind Maps
 
