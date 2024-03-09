@@ -60,3 +60,11 @@ More than any form of confirmation for his knowledge, Filip likes to tinker with
 expanding his knowledge above the certificates he gained in almost every cybersecurity area. Filip has
 signed up for [MRE - Certified Reverse Engineer](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html) in order to become an excellent reverse engineer and has decided not to settle with
 the first level of certification, but try to reach the highest one.
+
+### [Ifeanyichukwu Ukadike](ifeanyichukwu_ukadike)
+
+Ifeanyichukwu's professional journey began in IT support, but his passion for cybersecurity led him to make a career transition. Committed to continuous learning, he invests significant time in mastering relevant frameworks and tools in the field. Additionally, he possesses programming skills, primarily utilizing Python and its frameworks for software development.
+
+As a relatively new cybersecurity professional, Ifeanyichukwu has demonstrated his dedication to professional growth by obtaining certifications such as eJPT, ICCA, and CC.
+
+To complement the theoretical knowledge gained through academics, Ifeanyichukwu has enrolled in [MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html), which offers practical knowledge and hands-on experience. He also plans to explore additional MCSI certifications in the future.
