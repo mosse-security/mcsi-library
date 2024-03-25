@@ -16,7 +16,7 @@ All of our exercises contain a "Quick Question" section:
 
 - Ask short questions (no more than 200 characters)
 - Only ask clarification questions
-- For troubleshooting questions, use the [forums](https://mosse-cyber-security-institute.tribe.so/)
+- For troubleshooting questions, use the forums on Discord
 - Expect a response within 1 business day
 ```
 

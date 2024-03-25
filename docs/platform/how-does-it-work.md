@@ -26,7 +26,7 @@ Here's a short video that will give you some important tips about using the MCSI
 :class: tip
 
 - Create an account or login into the MCSI Online Learning platform [here](https://platform.mosse-institute.com/)
-- You can access the MCSI forums [here](https://mosse-cyber-security-institute.tribe.so/)
+- You can access the MCSI forums on Discord
 - Read the guidelines for asking great questions below
 - Our [YouTube channel](https://www.youtube.com/channel/UC_8_I5Ebq2haZxaLmpXM2TQ) offers hundreds of instructional videos
 ```

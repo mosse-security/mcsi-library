@@ -79,4 +79,4 @@ We have found that RCA always succeeds. When it doesn't, it's because the practi
 
 - [Stackoverflow](https://stackoverflow.com/) A public platform to ask coding questions
 - [Serverfault](https://serverfault.com/) A question and answer site for system and network administrators
-- [MCSI Forums](https://mosse-cyber-security-institute.tribe.so/) MCSI's support forums
+- MCSI Forums on Discord
