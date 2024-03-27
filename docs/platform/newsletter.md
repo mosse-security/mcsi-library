@@ -22,6 +22,17 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](how-can-you-build-helpful-and-rewarding-relationships-with-people-in-the-field)
 - [](stakeholder-analysis-a-powerful-method-to-understand-what-people-want-and-need)
 - [](learn-how-to-create-trust-and-collaboration-in-cyber-security-with-active-listening)
+- [](learn-a-new-language-that-connects-with-people-and-resolves-issues)
+- [](learn-how-to-lead-and-inspire-cyber-teams)
+- [](master-the-most-important-life-skill-nobody-taught-you-dependability)
+- [](how-to-prosper-and-win-in-the-upcoming-a-economic-downturn)
+
+## 2024
+
+- [](the-state-of-cyber-skills-in-2024)
+- [](turn-cybersecurity-skills-into-big-money)
+- [](so-you-want-to-become-a-ciso)
+
 
 ## Subscribe
 
