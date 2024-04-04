@@ -32,6 +32,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](the-state-of-cyber-skills-in-2024)
 - [](turn-cybersecurity-skills-into-big-money)
 - [](so-you-want-to-become-a-ciso)
+- [](the-science-of-career-development-and-job-task-analysis)
 
 
 ## Subscribe
