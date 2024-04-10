@@ -33,6 +33,7 @@ Welcome to the MCSI Newsletter! This newsletter is dedicated to helping students
 - [](turn-cybersecurity-skills-into-big-money)
 - [](so-you-want-to-become-a-ciso)
 - [](the-science-of-career-development-and-job-task-analysis)
+- [](three-powerful-ideas-to-become-a-cybersecurity-powerhouse)
 
 
 ## Subscribe
