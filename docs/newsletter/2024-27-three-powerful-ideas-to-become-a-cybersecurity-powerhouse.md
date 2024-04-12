@@ -43,7 +43,7 @@ So, in practice, a cybersecurity leader should foster an environment where strat
 
 1. Pick an idea of your choice (could be anything)
 2. Identify what problem the idea is trying to solve (it’s goal)
-3. Produce a refutation for the idea by explaining why the idea doesn’t achieve the goal
+3. Produce a refutation for the idea by explaining why the idea doesn’t achieve the goal (source: Elliot Temple)
 
 If you're interested in learning more about this idea, we recommend "Yes or No Philosophy" by Elliot Temple.
 
