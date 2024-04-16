@@ -1,4 +1,4 @@
-# Welcome to MSCI's Library
+# Welcome to MCSI's Library
 
 
 Mossé Cyber Security Institute (MCSI) offers an in-demand education for cyber security professionals. With a focus on hands-on experience, MCSI provides students with the skills they need to protect their organizations from cyber threats.
