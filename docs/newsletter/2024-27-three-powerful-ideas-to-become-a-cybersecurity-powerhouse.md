@@ -33,7 +33,7 @@ In simpler terms, think of it as putting together a complete map of an attack or
 
 ## Idea #3 - How Refutations Drive Progress in Cybersecurity
 
-> “Knowledge comes from solving problems. Never act on a refuted idea.” - Benjamin Mossé
+> “Never act on a refuted idea.” - Elliot Temple
 
 Karl Popper, a philosopher of science, argued that knowledge progresses through a cycle of conjectures and refutations. According to Popper, we gain knowledge by proposing theories (conjectures) and then testing these theories against evidence, trying to refute them. This process of critical testing and attempting to falsify ideas helps us eliminate those that don’t hold up to scrutiny, thereby moving closer to the truth.
 
@@ -43,7 +43,9 @@ So, in practice, a cybersecurity leader should foster an environment where strat
 
 1. Pick an idea of your choice (could be anything)
 2. Identify what problem the idea is trying to solve (it’s goal)
-3. Produce a refutation for the idea by explaining why the idea doesn’t achieve the goal
+3. Produce a refutation for the idea by explaining why the idea doesn’t achieve the goal (source: Elliot Temple)
+
+If you're interested in learning more about this idea, we recommend "Yes or No Philosophy" by Elliot Temple.
 
 ## Final Word
 

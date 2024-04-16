@@ -118,7 +118,7 @@ Another always true or always false condition that may be used to test a little 
 
 Once an injection site has been identified, it is time to determine whether it can actually be exploited. 
 
-You will see many methods to exploit SQL injection flaws in the MSCI courses that.
+You will see many methods to exploit SQL injection flaws in the MCSI courses that.
 
 You will learn how to recognize SQL injection vectors in the next video. 
 
