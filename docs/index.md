@@ -173,6 +173,8 @@ platform/quality-expectations
 platform/asking-for-help
 platform/newsletter
 platform/cognitive-science
+platform/path-forward-policy
+
 ```
 
 ```{toctree}
