@@ -110,7 +110,7 @@ Collect criticisms that others have made about the author you've decided to read
 
 ## Phase 2: Read & Analyze
 
-> "Analyze text like you would reverse engineering malware: systematically and without compromise." - Benjamin Mossé
+> "Analyze text like you would reverse engineer malware: systematically and without compromise." - Benjamin Mossé
 
 ### Note Taking Software
 
@@ -164,7 +164,7 @@ When reading a book, extract all of the thinker's refutations of ideas that he o
 
 ### Technique 2.4: Library of Ideas
 
-When reading a book, extract all of the thinker's ideas. The following images shows some of the ideas that Dr. Carl Rogers developes in his essay Empathic: An Unappreciated Way of Being.
+When reading a book, extract all of the thinker's ideas. The following images shows some of the ideas that Dr. Carl Rogers develops in his essay Empathic: An Unappreciated Way of Being.
 
 ```{thumbnail} ../images/ways-of-working/library-of-ideas-1.png
 :alt: Annotating PDF Files
@@ -252,6 +252,8 @@ You can also develop and maintain a library of common criticisms that refute lot
 
 ### Technique 3.4: Debate
 
+> "Don't quarrel, justify, attack, or try to prove; instead: understand, refute, fix and innovate." - Benjamin Mossé
+
 #### Debate Effectively
 
 Elliot Temple's approach to debating effectively centers around creating a structured, critical environment where ideas can be rigorously tested and refined. His recommendations, derived from the philosophy of Critical Fallibilism, provide a clear path for engaging in meaningful and productive debates. Here’s how you can use his recommendations:
@@ -280,7 +282,7 @@ You must take your ideas beyond the confines of your own mind and expose them to
 4. [Learning Critical Fallibilism](https://criticalfallibilism.com/learning-critical-fallibilism/), Elliot Temple
 5. [Overreach Summary](https://criticalfallibilism.com/overreach-summary/), Elliot Temple
 6. [Positively Presenting Ideas and Negatively Arguing about Ideas](https://criticalfallibilism.com/positively-presenting-ideas-and-negatively-arguing-about-ideas/), Elliot Temple
-7. [Ignoring Criticism and Peer Review](https://criticalfallibilism.com/ignoring-criticism-and-peer-review/)
+7. [Ignoring Criticism and Peer Review](https://criticalfallibilism.com/ignoring-criticism-and-peer-review/), Elliot Temple
 
 ### Courses Recommendation
 
