@@ -185,7 +185,7 @@ Click [here](../_static/resources/ayn-rand-how-to-read-not-write.pdf) to downloa
 
 ### Critical Fallibilism
 
-Critical Fallibilism (CF) is a rational philosophy created by Elliot Temple which explains how to evaluate ideas using decisive, critical arguments and accept only ideas with zero refutations (no known errors). An error is a reason an idea fails at a goal (in a context). CF explains why it's a mistake to judge how good ideas are, how weighty evidence is or how strong arguments are, or to use credences or degrees of belief. We learn by an evolutionary process focused on error correction, not by induction or justification. CF offers an approach to thinking and decision making focused on qualitative differences not quantitative factors. [1]
+According to its website: "Critical Fallibilism (CF) is a rational philosophy created by Elliot Temple which explains how to evaluate ideas using decisive, critical arguments and accept only ideas with zero refutations (no known errors). An error is a reason an idea fails at a goal (in a context). CF explains why it's a mistake to judge how good ideas are, how weighty evidence is or how strong arguments are, or to use credences or degrees of belief. We learn by an evolutionary process focused on error correction, not by induction or justification. CF offers an approach to thinking and decision making focused on qualitative differences not quantitative factors." [1]
 
 Here are some key characteristics of CF relevant to critical reading:
 
@@ -207,7 +207,7 @@ Here are some key characteristics of CF relevant to critical reading:
 
 ### Technique 3.1: Yes or No Evaluations
 
-In the previous phase, we collected all of the author's ideas. Now, we process them one by one in accordance with CF's Yes or No Philosophy:
+In the previous phase, we collected all of the author's ideas. Now, we process them one by one in accordance with CF's Yes or No Evaluation:
 
 ```{thumbnail} ../images/ways-of-working/yes-or-no-evaluations.svg
 :alt: Yes or No Evaluations
@@ -216,9 +216,9 @@ In the previous phase, we collected all of the author's ideas. Now, we process t
 
 At the end of this process, you should have:
 
-1. Refuted some ideas
-2. Accepted some ideas
-3. Improved some ideas
+1. Refuted some ideas that were not achieving their intended goal
+2. Accepted the ideas that have merit
+3. Improved some ideas that had problems
 
 From the perspective of critical thinking and creativity, this exercise ought to have been invaluable. You were required to engage deeply with new ideas, to rigorously analyze and assess their merit. The process of challenging, refuting, accepting, and refining ideas should have sharpened your intellectual faculties. This is not merely an academic task; it is a fundamental practice of a rational mind striving to achieve clarity and certainty in its convictions.
 
