@@ -220,6 +220,7 @@ cyber-domains/vulnerability-research
 :hidden:
 
 ways-of-working/reporting
+ways-of-working/critical-reading
 ways-of-working/analytics-techniques
 ways-of-working/charts-and-graphics
 ways-of-working/operational-planning
