@@ -152,6 +152,32 @@ There's no right or wrong way to read a paragraph. But if you've never been taug
 :class: block grey-border max-width-400 mb-2 mx-auto
 ```
 
+### How to Deobfuscate Text
+
+> "Like malware code, text and meaning is frequently obfuscated too. You need tradecraft to recover the truth." - Benjamin Mossé
+
+Some writers deliberately obfuscate the meaning of their text, employing a malicious technique designed to evade the scrutiny of critical thinking. This is an assault on reason, a deliberate muddying of clear waters with the intention of disarming the reader's capacity to judge and evaluate. As a critical reader, it is imperative to cut through this fog with precision and assertiveness. Decipher the jargon that serves as a smokescreen for emptiness; cross-reference claims to expose falsehoods; rewrite complex sentences to unveil their true, often simplistic nature; and question the motivations behind the author’s words. Such vigilance is your duty in the battle against intellectual deceit, ensuring that clarity and truth prevail.
+
+Click [here](../_static/resources/ayn-rand-how-to-read-not-write.pdf) to download and read the essay "How to Read (and Not to Write)" by Ayn Rand where she demonstrates how to read closely and deobfuscate text.
+
+- **Identify Ambiguity:** Look for words or phrases that are vague or whose meaning is not clear. Ambiguity can be a deliberate tactic to obscure the truth or to make statements less directly accountable.
+
+- **Detect Euphemisms:** Notice when softer, more palatable words are used to disguise harsh realities or unpopular actions. Euphemisms may be used to manipulate sentiment or soften criticism.
+
+- **Analyze Modality:** Pay attention to the use of modal verbs (could, should, would, might) which can suggest possibilities rather than certainties, often used to make assertions less direct or definitive.
+
+- **Evaluate Quantifiers:** Pay attention to the use of quantifiers such as "all," "every," "none," which can exaggerate or oversimplify claims and create misleading impressions.
+
+- **Look for Loaded Language:** Identify emotionally charged words designed to elicit strong feelings. These can be used to sway opinions or distract from factual information.
+
+- **Check for Overgeneralizations:** Be wary of statements that make sweeping claims or generalizations without specific evidence. These can be a means to influence by overstating or oversimplifying the truth.
+
+- **Spot False Dichotomies:** Recognize when language is used to present only two extreme options, suggesting no possible alternatives. This technique forces an either/or decision, ignoring other viable options.
+
+- **Unpack Assumptions:** Dig into the assumptions that underlie certain statements. Often, manipulative language rests on unspoken premises that, if examined, may not hold up.
+
+- **Cross-Verify Facts:** Always check the factual basis of any statement. Manipulative language may distort or omit key facts, so verifying information through multiple reliable sources is crucial.
+
 ### How to Think Critically
 
 Here are critical questions to ask yourself whilst reading text:
@@ -220,32 +246,6 @@ When reading a book, extract all of the thinker's ideas. The following images sh
 ```
 
 Note how every idea is tied to a goal and a context. More on that below in the section Critical Fallibilism.
-
-### Deobfuscating Text
-
-> "Like malware code, text and meaning is frequently obfuscated too. You need tradecraft to recover the truth." - Benjamin Mossé
-
-Some writers deliberately obfuscate the meaning of their text, employing a malicious technique designed to evade the scrutiny of critical thinking. This is an assault on reason, a deliberate muddying of clear waters with the intention of disarming the reader's capacity to judge and evaluate. As a critical reader, it is imperative to cut through this fog with precision and assertiveness. Decipher the jargon that serves as a smokescreen for emptiness; cross-reference claims to expose falsehoods; rewrite complex sentences to unveil their true, often simplistic nature; and question the motivations behind the author’s words. Such vigilance is your duty in the battle against intellectual deceit, ensuring that clarity and truth prevail.
-
-Click [here](../_static/resources/ayn-rand-how-to-read-not-write.pdf) to download and read the essay "How to Read (and Not to Write)" by Ayn Rand where she demonstrates how to read closely and deobfuscate text.
-
-- **Identify Ambiguity:** Look for words or phrases that are vague or whose meaning is not clear. Ambiguity can be a deliberate tactic to obscure the truth or to make statements less directly accountable.
-
-- **Detect Euphemisms:** Notice when softer, more palatable words are used to disguise harsh realities or unpopular actions. Euphemisms may be used to manipulate sentiment or soften criticism.
-
-- **Analyze Modality:** Pay attention to the use of modal verbs (could, should, would, might) which can suggest possibilities rather than certainties, often used to make assertions less direct or definitive.
-
-- **Evaluate Quantifiers:** Pay attention to the use of quantifiers such as "all," "every," "none," which can exaggerate or oversimplify claims and create misleading impressions.
-
-- **Look for Loaded Language:** Identify emotionally charged words designed to elicit strong feelings. These can be used to sway opinions or distract from factual information.
-
-- **Check for Overgeneralizations:** Be wary of statements that make sweeping claims or generalizations without specific evidence. These can be a means to influence by overstating or oversimplifying the truth.
-
-- **Spot False Dichotomies:** Recognize when language is used to present only two extreme options, suggesting no possible alternatives. This technique forces an either/or decision, ignoring other viable options.
-
-- **Unpack Assumptions:** Dig into the assumptions that underlie certain statements. Often, manipulative language rests on unspoken premises that, if examined, may not hold up.
-
-- **Cross-Verify Facts:** Always check the factual basis of any statement. Manipulative language may distort or omit key facts, so verifying information through multiple reliable sources is crucial.
 
 ## Phase 3: Critique Ideas
 
