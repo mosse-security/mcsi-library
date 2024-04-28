@@ -229,6 +229,24 @@ Some writers deliberately obfuscate the meaning of their text, employing a malic
 
 Click [here](../_static/resources/ayn-rand-how-to-read-not-write.pdf) to download and read the essay "How to Read (and Not to Write)" by Ayn Rand where she demonstrates how to read closely and deobfuscate text.
 
+- **Identify Ambiguity:** Look for words or phrases that are vague or whose meaning is not clear. Ambiguity can be a deliberate tactic to obscure the truth or to make statements less directly accountable.
+
+- **Detect Euphemisms:** Notice when softer, more palatable words are used to disguise harsh realities or unpopular actions. Euphemisms may be used to manipulate sentiment or soften criticism.
+
+- **Analyze Modality:** Pay attention to the use of modal verbs (could, should, would, might) which can suggest possibilities rather than certainties, often used to make assertions less direct or definitive.
+
+- **Evaluate Quantifiers:** Pay attention to the use of quantifiers such as "all," "every," "none," which can exaggerate or oversimplify claims and create misleading impressions.
+
+- **Look for Loaded Language:** Identify emotionally charged words designed to elicit strong feelings. These can be used to sway opinions or distract from factual information.
+
+- **Check for Overgeneralizations:** Be wary of statements that make sweeping claims or generalizations without specific evidence. These can be a means to influence by overstating or oversimplifying the truth.
+
+- **Spot False Dichotomies:** Recognize when language is used to present only two extreme options, suggesting no possible alternatives. This technique forces an either/or decision, ignoring other viable options.
+
+- **Unpack Assumptions:** Dig into the assumptions that underlie certain statements. Often, manipulative language rests on unspoken premises that, if examined, may not hold up.
+
+- **Cross-Verify Facts:** Always check the factual basis of any statement. Manipulative language may distort or omit key facts, so verifying information through multiple reliable sources is crucial.
+
 ## Phase 3: Critique Ideas
 
 ### Critical Fallibilism
