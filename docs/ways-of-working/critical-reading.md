@@ -288,6 +288,8 @@ At the end of this process, you should have:
 
 From the perspective of critical thinking and creativity, this exercise ought to have been invaluable. You were required to engage deeply with new ideas, to rigorously analyze and assess their merit. The process of challenging, refuting, accepting, and refining ideas should have sharpened your intellectual faculties. This is not merely an academic task; it is a fundamental practice of a rational mind striving to achieve clarity and certainty in its convictions.
 
+Important clarification by Elliot Temple: "For inventing a new idea to solve a problem, after a refutation, a common issue people have is they don't realize that variants or versions (small changes to existing ideas) count as new. They may only look for something brand new or very different.". Hence, attempt to improve an idea even if it has been refuted because an adjustment could work.
+
 ### Technique 3.2: Template
 
 You write a refutation by explaining why an idea doesn't achieve its intended goal. Here's a basic argument template for you to use:
