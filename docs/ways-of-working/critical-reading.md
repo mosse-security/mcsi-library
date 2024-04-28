@@ -134,6 +134,54 @@ The following image is a screenshot of book opened in PDF format in Obsidian wit
 
 On the left, near (1), you see text that has been highlighted because it seemed like the most important ideas of the paragraph. On the right, near (2), you see a summary of the ideas.
 
+### How to Read a Line
+
+There's no right or wrong way to read a line. But if you've never been taught a method before, give this one a try:
+
+```{thumbnail} ../images/ways-of-working/reading-a-line.svg
+:alt: How to Read a Line
+:class: block grey-border mb-2
+```
+
+### How to Read a Paragraph
+
+There's no right or wrong way to read a paragraph. But if you've never been taught a method before, give this one a try:
+
+```{thumbnail} ../images/ways-of-working/reading-a-paragraph.svg
+:alt: How to Read a Paragraph
+:class: block grey-border max-width-400 mb-2 mx-auto
+```
+
+### How to Think Critically
+
+Here are critical questions to ask yourself whilst reading text:
+
+- **What is the main argument or thesis of the text?** Identify the core message or claim the author is trying to convey.
+
+- **What evidence does the author use to support their argument?** Consider the type and quality of evidence presented. Is it factual, anecdotal, statistical, or theoretical?
+
+- **What assumptions does the author make?** Identify any underlying assumptions in the arguments. Are these assumptions reasonable or do they weaken the argument?
+
+- **How does the author address counterarguments?** Evaluate whether the author acknowledges and effectively counters opposing viewpoints, or if they ignore or dismiss significant alternative perspectives.
+
+- **Is the argument logically coherent?** Analyze the logical flow of the argument. Look for any fallacies or gaps in reasoning that might undermine the argument’s validity.
+
+- **What is left unsaid in the text?** Think about what the author has omitted. Are there relevant facts or viewpoints that are not included that might change the interpretation of the argument?
+
+- **How does the author use language to influence the reader?** Analyze the use of rhetorical devices such as metaphors, similes, and analogies, or language techniques like emotive language, technical jargon, or formal/informal tone.
+
+- **What are the implications of the author's conclusions?** Think about the potential impact or consequences of the author's arguments. What could happen if the author's recommendations or conclusions are followed?
+
+- **Does the text consider all relevant perspectives?** Assess whether the text acknowledges all significant viewpoints regarding the issue it discusses. If not, what perspectives are missing, and how might this affect the argument?
+
+- **What kind of reasoning does the author employ?** Analyze whether the author uses deductive or inductive reasoning, and the effectiveness of these methods in supporting the text's arguments.
+
+- **What emotional response does the text evoke?** Reflect on your own emotional response to the text. Does the text seem designed to elicit a specific emotion? How might this influence the reader's reception of the message?
+
+- **What is the author's purpose in writing the text?** Try to discern why the author wrote the text. Was it to inform, persuade, entertain, or provoke thought? How successfully does the text achieve this purpose?
+
+- **Does the text acknowledge its own limitations or potential biases?** Consider whether the text self-reflects on its potential biases or the limitations of its arguments or perspectives, and how this affects its credibility or reliability.
+
 ### Technique 2.1: Grammar Trees
 
 Grammar trees are precise visual representations of sentence structure, breaking down language into its grammatical components. Each node and branch defines the function and relationship of words, offering a clear, hierarchical blueprint of linguistic architecture. This method exposes the logical construction of language, demanding intellectual rigor in its analysis.
