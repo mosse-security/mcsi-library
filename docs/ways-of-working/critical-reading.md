@@ -108,6 +108,20 @@ Collect criticisms that others have made about the author you've decided to read
 
 ### Technique 1.3: Context Recovery
 
+To fully engage with a text, one must approach it not merely as an assortment of words, but as a concrete expression of values and ideas emanating from a specific mind. A text is an intellectual artifact borne out of distinct contexts—historical, cultural, philosophical, biographical, and technological—which are integral to its creation and must be understood to grasp its full meaning and intent.
+
+- **Historical context** anchors a text in time, linking it to the specific events and conditions that prevailed when it was created. It provides insight into the challenges and realities faced by the author, which invariably influence the themes and ideas explored in their work.
+
+- **Cultural context** embodies the prevailing norms, beliefs, and values of the society from which the text emerged. It shapes the way characters think, act, and interact, and colors the narrative with the societal expectations and taboos of that time.
+
+- **Philosophical context** reveals the underlying ideas that drive the narrative. It is the framework within which the author’s thoughts are organized, presenting a particular view of man, society, and the universe. It influences how characters reason, the choices they make, and the consequences they face.
+
+- **Biographical context** provides insight into the author’s life and experiences, shedding light on their motivations and influences. It often reveals personal philosophies that permeate their work, offering a deeper understanding of their literary pursuits.
+
+- **Technological context** reflects the state of technology at the time of the text’s creation, which can fundamentally affect the setting and plot mechanisms. Understanding this helps in appreciating the limitations and possibilities faced by the characters and the author themselves.
+
+Thus, to neglect these contexts is to view a text in a vacuum — an egregious error for any serious thinker. A true understanding comes from integrating these aspects, thereby appreciating the work as a complete, rational product of a particular mind and era.
+
 ## Phase 2: Read & Analyze
 
 > "Analyze text like you would reverse engineer malware: systematically and without compromise." - Benjamin Mossé
@@ -341,6 +355,17 @@ Elliot Temple's approach to debating effectively centers around creating a struc
 > "You took a chance. You did something great. You were wrong, but it was still great. You should feel great that it was great. You should feel like crap that it was wrong. [...] I think that what you do and what I do matters." - Dr. Gregory House
 
 You must take your ideas beyond the confines of your own mind and expose them to the harsh light of reality. Test them, challenge them, let them clash with the ideas of others. This is the crucible in which true knowledge is forged. Do not shrink from criticism or fear contradiction; embrace these as opportunities to refine your thoughts and strengthen your convictions. Reality is the ultimate arbiter of truth. If you find that your ideas withstand the rigorous tests of practical application and objective scrutiny, then you have earned the right to call them truths. Act on your ideas, for in action, they are either proven or dispelled. Stand firm in your pursuit of knowledge and never cower before the unknown; the world awaits the imprint of your reasoned, tested convictions.
+
+## TL;DR
+
+This article presents a systematic procedure for reading critically. You can be confident you've properly applied the procedure if your answer to all the questions below is "Yes":
+
+1. **Did you understand the author's main thesis and all of the arguments?** Yes or No.
+2. **Did you deobfuscate the text and cross-examine all of the claims?** Yes or No.
+3. **Did you build Libraries of Ideas, Criticisms and Refutations?** Yes or No.
+4. **Did you decisively refute some of the author's ideas?** Yes or No.
+5. **Did you accept the merit of some of ideas put forth by the author?** Yes or No.
+6. **Did you fix problems and/or improve some of the author's ideas?** Yes or No.
 
 ## References
 
