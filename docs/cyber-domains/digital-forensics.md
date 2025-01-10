@@ -118,6 +118,7 @@ Digital forensics is a rapidly growing field, as more and more crimes are commit
 
 - [](a-day-in-the-life-of-a-digital-forensic-investigator)
 - [](build-your-own-digital-forensics-lab-at-home)
+- [](structured-investigation-process)
 
 ### Windows Forensics
 
