@@ -10,4 +10,4 @@ This section contains instructions to set up commonly used cybersecurity tools i
 
 ## Digital Forensics
 
-* [Pylingual Python Decompiler]()
+* [](pylingual)
