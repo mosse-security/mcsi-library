@@ -68,3 +68,9 @@ Ifeanyichukwu's professional journey began in IT support, but his passion for cy
 As a relatively new cybersecurity professional, Ifeanyichukwu has demonstrated his dedication to professional growth by obtaining certifications such as eJPT, ICCA, and CC.
 
 To complement the theoretical knowledge gained through academics, Ifeanyichukwu has enrolled in [MRCI - Remote Cybersecurity Internship](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html), which offers practical knowledge and hands-on experience. He also plans to explore additional MCSI certifications in the future.
+
+### [Eldon Gabriel](review-and-testimonial-eldon)
+
+Eldon began his journey with MCSI when he decided to pivot into cybersecurity. He completed our beginner course [MICS - Introduction to Cyber Security](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html), and is now enrolled in [MSAF - System Administration Fundamentals](https://www.mosse-institute.com/certifications/msaf-system-administration-fundamentals.html) and [MOIS - Certified OSINT Expert](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html).
+
+In just a few months, he has developed strong, practical cybersecurity skills that are helping him advance his career to the next level.
