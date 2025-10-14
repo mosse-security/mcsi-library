@@ -1,6 +1,6 @@
 :orphan:
 (review-and-testimonial-allan-hedegaard)=
-# Review and Testimonial Allan Hedegaard
+# Review and Testimonial: Allan Hedegaard
  
 Allan Hedegaard is the IT Operations Manager at GPV. He manages a large team of IT professionals that operate around the globe. His cybersecurity duties include managing the Security Operations Centre and ensuring that GPV meets all of its compliance requirements.
 

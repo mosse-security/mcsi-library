@@ -1,6 +1,6 @@
 :orphan:
 (review-and-testimonial-lukasz-wierzbicki)=
-# Review and Testimonial Lukasz Wierzbicki
+# Review and Testimonial: Lukasz Wierzbicki
  
 Łukasz is an application security engineer, penetration tester and vulnerability researcher. His main responsibility is to find vulnerabilities and software bugs. He took the course [MVRE - Certified Vulnerability Researcher and Exploitation Specialist](https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html).
 
