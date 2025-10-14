@@ -1,6 +1,6 @@
 :orphan:
 (review-and-testimonial-jeremy-gardas)=
-# Review and Testimonial Jeremy Gardas
+# Review and Testimonial: Jeremy Gardas
  
 Jeremy Gardas is a skilled individual. At only 18, he is able to solve technical problems that few industry professionals can. In his opinion, MCSI is the best training method available. He believes that we the best platform to become an expert in cybersecurity. 
 

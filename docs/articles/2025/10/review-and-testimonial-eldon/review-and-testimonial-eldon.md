@@ -1,7 +1,7 @@
 :orphan:
 (review-and-testimonial-eldon)=
 
-# Review and Testimonial Eldon Gabriel
+# Review and Testimonial: Eldon Gabriel
 
 Eldon began his journey with MCSI when he decided to pivot into cybersecurity. He completed our beginner course [MICS - Introduction to Cyber Security](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html), and is now enrolled in [MSAF - System Administration Fundamentals](https://www.mosse-institute.com/certifications/msaf-system-administration-fundamentals.html) and [MOIS - Certified OSINT Expert](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html). 
 
