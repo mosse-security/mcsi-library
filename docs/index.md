@@ -189,6 +189,7 @@ it-domains/networking
 it-domains/windows
 it-domains/programming-and-scripting
 it-domains/lab-setup
+it-domains/tool-cheatsheets
 
 ```
 

@@ -6,7 +6,6 @@ This section contains instructions to set up commonly used cybersecurity tools i
 ## Security Tools
 
 * [](openvas-labsetup)
-* [ELK Stack]()
 
 ## Digital Forensics
 
