@@ -3,6 +3,12 @@
 
 This section lists tool names and their usage syntax.
 
+## Security Tools
+
+* [](powerup)
+* [](psexec)
+* [](mimikatz)
+
 ## Windows Forensics
 
 * [](windows-forensics)
