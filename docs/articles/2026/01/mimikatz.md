@@ -8,6 +8,7 @@
 1. Two virtual machines on the same subnet, Machine-A and Machine-B.
 2. Admin privileges on Machine-A is required.
 3. The same credentials (username and password combination) are used for the local administrator account on both machines.
+4. It is possible to login remotely from one machine to another. Tools like [psexec](https://library.mosse-institute.com/articles/2026/01/psexec.html#psexec) can be used.
 
 ## Preliminary Steps
 
