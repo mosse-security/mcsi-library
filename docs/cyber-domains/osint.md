@@ -121,6 +121,7 @@ Welcome to MCSI's library of articles on OSINT! Our library of articles covers a
 * [](osint-performing-mindset)
 * [](the-advantages-of-performing-osint-for-threat-intelligence)
 * [](examples-of-open-source-and-closed-source-data)
+* [](tips-for-creating-covert-accounts)
 
 ### Geospatial
 
