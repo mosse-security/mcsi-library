@@ -12,60 +12,36 @@ This article outlines the steps to set up the Pylingual python decompiler on a K
 
 ## Steps to install Pylingual Decompiler on Kali
 
-Begin by updating the existing package repository, using the following command:
+The `uv` package manager handles the installation of Pylingual. Begin by downloading and installing the `uv` package manager using the following command:
 
-`sudo apt update`
+`curl -LsSf https://astral.sh/uv/install.sh | sh`
 
 ![alt text](images/pylingual-1.png)
 
-Next, install the required packages using the following command:
+Comfirm that `uv` is installed using the following command:
 
-`sudo apt install python3 python3-venv python3-pip git curl`
+`uv --version`
 
 ![alt text](images/pylingual-2.png)
 
-Another package *pyenv* is required, that can be installed using the package manager:
+Then, retrieve the files for Pylingual from the official GitHub repository using the `git clone` command as shown below:
 
-`sudo apt install pyenv --fix-missing`
+`git clone https://github.com/syssec-utd/pylingual`
 
 ![alt text](images/pylingual-3.png)
 
-During the installation process, if the retrieval of a package fails, you can instruct the package manager to fetch the requirements at a later stage using *--fix-missing*.
+Then, install Pylingual using the following command:
 
-Then, clone the *pylingual* repository hosted on Github to your Kali VM:
-
-`git clone https://github.com/syssec-utd/pylingual.git`
+`uv tool install ./pylingual`
 
 ![alt text](images/pylingual-4.png)
 
-Navigate into the *pylingual* directory:
-
-`cd pylingual`
-
-Then, create the python virtual environment:
-`python -m venv venv`
-
-Then, activate the python virtual environment:
-`source venv/bin/activate`
-
-Notice how the terminal prompt changes. Then, install poetry to manage packages in the virtual environment:
-
-`pip install poetry`
+Once the installation is complete, the last line of output will indicate that Pylingual is installed successfully:
 
 ![alt text](images/pylingual-5.png)
 
-The next step is to install the other required packages using the `poetry install` command. If there are errors, use the `poetry lock` command as shown below:
+You can view Pylingual's the help menu using the `-h` switch:
 
 ![alt text](images/pylingual-6.png)
 
-Then, install the other required packages:
-
-![alt text](images/pylingual-7.png)
-
-Once this process is complete, *pylingual* will be installed in the python virtual environment and you will be able to view its help menu:
-
-`pylingual -h`
-
-![alt text](images/pylingual-8.png)
-
-Everytime you intend to use *pylingual*, you must navigate into the directory where its code is present using `cd pylingual` and activate the python virtual environment using `source venv/bin/activate`. Then you will be able to use *pylingual* to decompile code written using python.
+Pylingual can now be used to decompile Python bytecode files.

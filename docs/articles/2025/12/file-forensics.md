@@ -42,7 +42,7 @@
 - Tool name: Pylingual
 - Tool type: CLI tool
 - Tool requirements: Requires python
-- Example: `pylingual main.pyc`
+- Example: `pylingual --trust-lnotab main.pyc`
 
 ## To analyse PDF files
 
